@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "fact": "The Sun accounts for about 99.86% of all the mass in our solar system."
+  },
+  {
+    "id": 2,
+    "fact": "There are more stars in the universe than grains of sand on all of Earth's beaches."
+  },
+  {
+    "id": 3,
+    "fact": "A year on Mercury lasts only 88 Earth days."
+  },
+  {
+    "id": 4,
+    "fact": "The footprints left by astronauts on the Moon will remain for millions of years because there is no wind to erode them."
+  },
+  {
+    "id": 5,
+    "fact": "Jupiter's Great Red Spot is a storm that has been raging for at least 350 years."
+  },
+  {
+    "id": 6,
+    "fact": "The International Space Station orbits Earth approximately every 90 minutes, meaning astronauts see 16 sunrises a day."
+  },
+  {
+    "id": 7,
+    "fact": "Neutron stars are so dense that a teaspoon of their material would weigh about 6 billion tons on Earth."
+  },
+  {
+    "id": 8,
+    "fact": "The Milky Way galaxy contains an estimated 100 to 400 billion stars."
+  },
+  {
+    "id": 9,
+    "fact": "Space is completely silent because there is no medium for sound waves to travel through."
+  },
+  {
+    "id": 10,
+    "fact": "The largest known star, UY Scuti, has a radius about 1,700 times that of the Sun."
+  },
+  {
+    "id": 11,
+    "fact": "If two pieces of the same metal touch in space, they will permanently bond together through a process called cold welding."
+  },
+  {
+    "id": 12,
+    "fact": "The observable universe is about 93 billion light-years in diameter."
+  },
+  {
+    "id": 13,
+    "fact": "Venus is the hottest planet in our solar system, with surface temperatures reaching 470°C, even though Mercury is closer to the Sun."
+  },
+  {
+    "id": 14,
+    "fact": "Saturn's rings are made mostly of ice and rock and extend up to 282,000 kilometers from the planet."
+  },
+  {
+    "id": 15,
+    "fact": "One day on Venus lasts longer than one year on Venus — it takes 243 Earth days to rotate once."
+  },
+  {
+    "id": 16,
+    "fact": "The first living creature sent into orbit was Laika, a dog, aboard the Soviet Sputnik 2 in 1957."
+  },
+  {
+    "id": 17,
+    "fact": "The Sun's mass is about 333,000 times that of Earth."
+  },
+  {
+    "id": 18,
+    "fact": "There is a planet made largely of diamond called 55 Cancri e, located about 40 light-years away."
+  },
+  {
+    "id": 19,
+    "fact": "Mars has the tallest volcano in the solar system — Olympus Mons stands about 21.9 kilometers high."
+  },
+  {
+    "id": 20,
+    "fact": "Light from the Sun takes about 5.5 hours to reach Pluto."
+  },
+  {
+    "id": 21,
+    "fact": "A black hole the mass of our Sun would be only about 6 kilometers in diameter."
+  },
+  {
+    "id": 22,
+    "fact": "The Voyager 1 spacecraft is the most distant human-made object from Earth, now over 24 billion kilometers away."
+  },
+  {
+    "id": 23,
+    "fact": "Astronauts grow about 5 centimeters taller in space because the lack of gravity allows the spine to expand."
+  },
+  {
+    "id": 24,
+    "fact": "There are rogue planets that drift through space without orbiting any star."
+  },
+  {
+    "id": 25,
+    "fact": "The Apollo 11 computer that landed humans on the Moon had less processing power than a modern smartphone."
+  },
+  {
+    "id": 26,
+    "fact": "A day on Jupiter lasts only about 10 hours, making it the fastest spinning planet in our solar system."
+  },
+  {
+    "id": 27,
+    "fact": "The nearest star to Earth, Proxima Centauri, is about 4.24 light-years away."
+  },
+  {
+    "id": 28,
+    "fact": "The Moon is slowly drifting away from Earth at a rate of about 3.8 centimeters per year."
+  },
+  {
+    "id": 29,
+    "fact": "There is a cloud of alcohol in space called Sagittarius B2 that contains enough ethyl alcohol to fill 400 trillion trillion pints."
+  },
+  {
+    "id": 30,
+    "fact": "Neptune's winds are the fastest in the solar system, reaching speeds of up to 2,100 kilometers per hour."
+  },
+  {
+    "id": 31,
+    "fact": "The Hubble Space Telescope can see galaxies that are over 13 billion light-years away."
+  },
+  {
+    "id": 32,
+    "fact": "The surface gravity on Mars is about 38% of Earth's — a 100 kg person would weigh only 38 kg there."
+  },
+  {
+    "id": 33,
+    "fact": "Enceladus, a moon of Saturn, has geysers that shoot water ice into space."
+  },
+  {
+    "id": 34,
+    "fact": "The cosmic microwave background radiation is the afterglow of the Big Bang and fills the entire universe."
+  },
+  {
+    "id": 35,
+    "fact": "If you could drive a car straight up at 100 km/h, you would reach space in about 1 hour."
+  },
+  {
+    "id": 36,
+    "fact": "The largest volcano in the solar system, Olympus Mons on Mars, is roughly the size of France."
+  },
+  {
+    "id": 37,
+    "fact": "There may be a giant planet, sometimes called Planet Nine, lurking in the outer reaches of our solar system."
+  },
+  {
+    "id": 38,
+    "fact": "The Sun converts about 600 million tons of hydrogen into helium every second."
+  },
+  {
+    "id": 39,
+    "fact": "Astronaut Buzz Aldrin's mother's maiden name was Moon."
+  },
+  {
+    "id": 40,
+    "fact": "The Andromeda Galaxy, the nearest large galaxy to the Milky Way, contains about one trillion stars."
+  },
+  {
+    "id": 41,
+    "fact": "Titan, Saturn's largest moon, has lakes and seas of liquid methane and ethane on its surface."
+  },
+  {
+    "id": 42,
+    "fact": "The speed of light in a vacuum is exactly 299,792,458 meters per second."
+  },
+  {
+    "id": 43,
+    "fact": "A full NASA spacesuit costs approximately 12 million dollars."
+  },
+  {
+    "id": 44,
+    "fact": "Europa, one of Jupiter's moons, likely has a liquid ocean beneath its icy surface."
+  },
+  {
+    "id": 45,
+    "fact": "The Milky Way and Andromeda galaxies are expected to collide in about 4.5 billion years."
+  },
+  {
+    "id": 46,
+    "fact": "The average temperature in space is about 2.7 Kelvin, or -270.45°C."
+  },
+  {
+    "id": 47,
+    "fact": "Mars has seasons just like Earth because its axis is tilted at a similar angle."
+  },
+  {
+    "id": 48,
+    "fact": "The total number of galaxies in the observable universe is estimated to be around 2 trillion."
+  },
+  {
+    "id": 49,
+    "fact": "The Sun makes up about 99.86% of the total mass of the entire solar system."
+  },
+  {
+    "id": 50,
+    "fact": "A pulsar is a rapidly rotating neutron star that emits beams of electromagnetic radiation."
+  },
+  {
+    "id": 51,
+    "fact": "It rains diamonds on Jupiter and Saturn due to the extreme pressure turning carbon into diamond crystals."
+  },
+  {
+    "id": 52,
+    "fact": "The farthest humans have ever traveled from Earth was during the Apollo 13 mission — about 400,171 kilometers."
+  },
+  {
+    "id": 53,
+    "fact": "The first human-made object to enter space was a German V-2 rocket in 1944."
+  },
+  {
+    "id": 54,
+    "fact": "Io, one of Jupiter's moons, is the most volcanically active body in the solar system."
+  },
+  {
+    "id": 55,
+    "fact": "The Sun's energy output is about 3.8 × 10²⁶ watts — enough to power Earth for billions of years."
+  },
+  {
+    "id": 56,
+    "fact": "Halley's Comet is visible from Earth approximately every 75 to 79 years — it will next appear in 2061."
+  },
+  {
+    "id": 57,
+    "fact": "There is a massive water vapor cloud in space called APM 08279+5255 that holds 140 trillion times the water on Earth."
+  },
+  {
+    "id": 58,
+    "fact": "The magnetic field of a magnetar is so strong it could erase a credit card from half the distance to the Moon."
+  },
+  {
+    "id": 59,
+    "fact": "The first photograph of a black hole was captured by the Event Horizon Telescope in 2019."
+  },
+  {
+    "id": 60,
+    "fact": "A solar eclipse can only occur during a new moon, when the Moon passes between Earth and the Sun."
+  },
+  {
+    "id": 61,
+    "fact": "Pluto is smaller than Earth's Moon — its diameter is about 2,377 kilometers."
+  },
+  {
+    "id": 62,
+    "fact": "The Kuiper Belt extends from beyond Neptune's orbit to approximately 50 AU from the Sun."
+  },
+  {
+    "id": 63,
+    "fact": "Galaxies can cannibalize each other — the Milky Way is currently absorbing smaller dwarf galaxies."
+  },
+  {
+    "id": 64,
+    "fact": "The Oort Cloud, a theoretical shell of icy objects, may extend up to 2 light-years from the Sun."
+  },
+  {
+    "id": 65,
+    "fact": "Mars's atmosphere is about 95% carbon dioxide with traces of nitrogen and argon."
+  },
+  {
+    "id": 66,
+    "fact": "The first woman in space was Valentina Tereshkova, who orbited Earth in 1963."
+  },
+  {
+    "id": 67,
+    "fact": "Jupiter has at least 95 known moons, more than any other planet in our solar system."
+  },
+  {
+    "id": 68,
+    "fact": "A supernova can briefly outshine an entire galaxy of billions of stars."
+  },
+  {
+    "id": 69,
+    "fact": "The first successful Mars rover, Sojourner, landed on Mars in 1997 as part of NASA's Pathfinder mission."
+  },
+  {
+    "id": 70,
+    "fact": "The largest known structure in the universe is the Hercules-Corona Borealis Great Wall, spanning about 10 billion light-years."
+  },
+  {
+    "id": 71,
+    "fact": "Earth is the only planet not named after a Greek or Roman deity."
+  },
+  {
+    "id": 72,
+    "fact": "The Sun will eventually become a red giant and engulf Mercury, Venus, and possibly Earth in about 5 billion years."
+  },
+  {
+    "id": 73,
+    "fact": "Uranus rotates on its side, with its axis tilted at about 98 degrees."
+  },
+  {
+    "id": 74,
+    "fact": "The Great Attractor is a gravitational anomaly pulling galaxies toward it at about 600 km/s."
+  },
+  {
+    "id": 75,
+    "fact": "One teaspoon of a black hole's matter would weigh more than Mount Everest."
+  },
+  {
+    "id": 76,
+    "fact": "The Boötes Void is a region of space nearly 330 million light-years across that contains almost no galaxies."
+  },
+  {
+    "id": 77,
+    "fact": "Light from the most distant observed galaxy traveled 13.4 billion years to reach us."
+  },
+  {
+    "id": 78,
+    "fact": "Ganymede, Jupiter's largest moon, is bigger than the planet Mercury."
+  },
+  {
+    "id": 79,
+    "fact": "The Perseverance rover successfully produced oxygen from Mars's carbon dioxide atmosphere in 2021."
+  },
+  {
+    "id": 80,
+    "fact": "Saturn is so light it could float in a bathtub of water — its density is about 0.687 g/cm³."
+  },
+  {
+    "id": 81,
+    "fact": "The largest canyon in the solar system is Valles Marineris on Mars, stretching over 4,000 kilometers."
+  },
+  {
+    "id": 82,
+    "fact": "Dark matter makes up about 27% of the universe, while dark energy makes up about 68%."
+  },
+  {
+    "id": 83,
+    "fact": "The first spacewalk was performed by Soviet cosmonaut Alexei Leonov in 1965 and lasted about 12 minutes."
+  },
+  {
+    "id": 84,
+    "fact": "The Sun's diameter is about 1.4 million kilometers — roughly 109 times that of Earth."
+  },
+  {
+    "id": 85,
+    "fact": "The universe is approximately 13.8 billion years old."
+  },
+  {
+    "id": 86,
+    "fact": "A quasar can emit more energy than 100 normal galaxies combined."
+  },
+  {
+    "id": 87,
+    "fact": "The fastest spacecraft ever launched is NASA's Parker Solar Probe, reaching speeds over 700,000 km/h."
+  },
+  {
+    "id": 88,
+    "fact": "Mars has two small moons, Phobos and Deimos, which are likely captured asteroids."
+  },
+  {
+    "id": 89,
+    "fact": "The coldest known place in the universe is the Boomerang Nebula at about 1 Kelvin."
+  },
+  {
+    "id": 90,
+    "fact": "In space, astronauts cannot cry properly because tears don't fall — they form floating blobs."
+  },
+  {
+    "id": 91,
+    "fact": "The total mass of the asteroid belt is less than 4% of the Moon's mass."
+  },
+  {
+    "id": 92,
+    "fact": "The first satellite ever launched was Sputnik 1 by the Soviet Union on October 4, 1957."
+  },
+  {
+    "id": 93,
+    "fact": "A magnetar's magnetic field is about a quadrillion times stronger than Earth's."
+  },
+  {
+    "id": 94,
+    "fact": "White dwarfs are so dense that a matchbox-sized amount would weigh several tons."
+  },
+  {
+    "id": 95,
+    "fact": "The Pillars of Creation in the Eagle Nebula are about 5 light-years tall."
+  },
+  {
+    "id": 96,
+    "fact": "If the Sun were the size of a front door, Earth would be the size of a nickel."
+  },
+  {
+    "id": 97,
+    "fact": "The rings of Saturn are only about 10 meters thick on average despite stretching 282,000 kilometers wide."
+  },
+  {
+    "id": 98,
+    "fact": "There are more than 500,000 pieces of space debris currently tracked orbiting Earth."
+  },
+  {
+    "id": 99,
+    "fact": "Triton, Neptune's largest moon, orbits the planet in the opposite direction of Neptune's rotation."
+  },
+  {
+    "id": 100,
+    "fact": "The heliopause, where the Sun's influence ends and interstellar space begins, is about 18 billion kilometers from the Sun."
+  },
+  {
+    "id": 101,
+    "fact": "The footprints left by astronauts on the Moon will likely remain visible for millions of years because there is no wind or water to erode them."
+  },
+  {
+    "id": 102,
+    "fact": "Neutron stars are so dense that a single teaspoon of their material would weigh about a billion tons on Earth."
+  },
+  {
+    "id": 103,
+    "fact": "Venus is the only planet in our solar system that rotates in the opposite direction to most other planets."
+  },
+  {
+    "id": 104,
+    "fact": "The largest volcano in the solar system is Olympus Mons on Mars, which is nearly three times the height of Mount Everest."
+  },
+  {
+    "id": 105,
+    "fact": "Space is completely silent because there is no atmosphere to transmit sound waves."
+  },
+  {
+    "id": 106,
+    "fact": "The Sun contains 99.86 percent of the total mass of our entire solar system."
+  },
+  {
+    "id": 107,
+    "fact": "A day on Mercury lasts longer than a year on Mercury, taking about 59 Earth days to rotate once on its axis."
+  },
+  {
+    "id": 108,
+    "fact": "Jupiter has a powerful magnetic field that is about 20,000 times stronger than Earth's magnetic field."
+  },
+  {
+    "id": 109,
+    "fact": "The Andromeda Galaxy is on a collision course with our Milky Way Galaxy and they are expected to merge in about 4.5 billion years."
+  },
+  {
+    "id": 110,
+    "fact": "Saturn’s moon Enceladus reflects nearly 100 percent of the sunlight that hits its icy surface."
+  },
+  {
+    "id": 111,
+    "fact": "The hottest planet in our solar system is Venus, despite Mercury being closer to the Sun, due to a thick, heat-trapping atmosphere."
+  },
+  {
+    "id": 112,
+    "fact": "If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together, a process known as cold welding."
+  },
+  {
+    "id": 113,
+    "fact": "The distance to the nearest star, Proxima Centauri, is about 4.24 light-years away."
+  },
+  {
+    "id": 114,
+    "fact": "There is a massive cloud of alcohol in the constellation Aquila that contains enough ethanol to fill 400 trillion trillion pints of beer."
+  },
+  {
+    "id": 115,
+    "fact": "Neptune was the first planet to be located through mathematical predictions rather than through regular observations."
+  },
+  {
+    "id": 116,
+    "fact": "The 'diamond rain' phenomenon is hypothesized to occur on Neptune and Uranus due to extreme pressure turning carbon atoms into diamonds."
+  },
+  {
+    "id": 117,
+    "fact": "The Kuiper Belt is a region beyond Neptune populated by hundreds of thousands of icy bodies and dwarf planets."
+  },
+  {
+    "id": 118,
+    "fact": "The Apollo 11 mission carried a piece of wood from the Wright brothers' first airplane to the Moon."
+  },
+  {
+    "id": 119,
+    "fact": "Gamma-ray bursts are the most powerful explosions in the universe, releasing more energy in seconds than our Sun will in its entire lifetime."
+  },
+  {
+    "id": 120,
+    "fact": "The International Space Station orbits the Earth at a speed of approximately 17,500 miles per hour."
+  },
+  {
+    "id": 121,
+    "fact": "Uranus rotates on its side, with an axial tilt of about 98 degrees relative to its orbital plane."
+  },
+  {
+    "id": 122,
+    "fact": "A light-year is a unit of distance, not time, representing the distance light travels in one vacuum year."
+  },
+  {
+    "id": 123,
+    "fact": "There are more stars in the observable universe than there are grains of sand on all of Earth's beaches."
+  },
+  {
+    "id": 124,
+    "fact": "The Moon is slowly moving away from Earth at a rate of approximately 3.8 centimeters per year."
+  },
+  {
+    "id": 125,
+    "fact": "The Great Red Spot on Jupiter is a massive storm that has been raging for at least 300 years."
+  },
+  {
+    "id": 126,
+    "fact": "Pluto is smaller than the United States in terms of its total surface area."
+  },
+  {
+    "id": 127,
+    "fact": "Dark energy makes up roughly 68 percent of the universe, while dark matter accounts for about 27 percent."
+  },
+  {
+    "id": 128,
+    "fact": "The center of the Milky Way galaxy contains a supermassive black hole named Sagittarius A*."
+  },
+  {
+    "id": 129,
+    "fact": "Space suits worn by astronauts are essentially miniature, pressurized spacecraft designed to keep them alive in the vacuum of space."
+  },
+  {
+    "id": 130,
+    "fact": "Halley's Comet will next be visible from Earth in the year 2061."
+  },
+  {
+    "id": 131,
+    "fact": "The atmosphere of Mars is composed primarily of carbon dioxide, making it extremely thin compared to Earth."
+  },
+  {
+    "id": 132,
+    "fact": "Galaxies are often classified into four main shapes: spiral, barred spiral, elliptical, and irregular."
+  },
+  {
+    "id": 133,
+    "fact": "Titan, a moon of Saturn, is the only moon known to have a dense atmosphere and stable liquid rivers and lakes on its surface."
+  },
+  {
+    "id": 134,
+    "fact": "The Pillars of Creation, a famous nebula image, are actually giant clouds of interstellar gas and dust where stars are being born."
+  },
+  {
+    "id": 135,
+    "fact": "Sunspots appear dark because they are cooler than the surrounding areas of the Sun's surface."
+  },
+  {
+    "id": 136,
+    "fact": "The Oort Cloud is a theoretical shell of icy objects that surrounds our solar system and is the source of many long-period comets."
+  },
+  {
+    "id": 137,
+    "fact": "Cosmic microwave background radiation is the faint afterglow left over from the Big Bang."
+  },
+  {
+    "id": 138,
+    "fact": "The total number of stars in the observable universe is estimated to be in the septillions."
+  },
+  {
+    "id": 139,
+    "fact": "A pulsar is a highly magnetized, rotating neutron star that emits beams of electromagnetic radiation out of its magnetic poles."
+  },
+  {
+    "id": 140,
+    "fact": "The asteroid belt is located between the orbits of Mars and Jupiter."
+  },
+  {
+    "id": 141,
+    "fact": "Voyager 1 is the most distant human-made object in space, currently traveling through interstellar space."
+  },
+  {
+    "id": 142,
+    "fact": "The temperature of the corona, the Sun's outer atmosphere, is much hotter than the surface of the Sun itself."
+  },
+  {
+    "id": 143,
+    "fact": "Supernovas are the brilliant explosions of massive stars reaching the end of their life cycles."
+  },
+  {
+    "id": 144,
+    "fact": "The Hubble Space Telescope has been orbiting Earth since 1990, providing incredible images of deep space."
+  },
+  {
+    "id": 145,
+    "fact": "Our Sun is classified as a G-type main-sequence star, often called a yellow dwarf."
+  },
+  {
+    "id": 146,
+    "fact": "The magnetosphere of Earth protects us from harmful solar radiation by deflecting solar wind particles."
+  },
+  {
+    "id": 147,
+    "fact": "The term 'planet' comes from the Greek word meaning 'wanderer' because ancient astronomers saw them moving against the background stars."
+  },
+  {
+    "id": 148,
+    "fact": "A blue moon is defined as the second full moon occurring within a single calendar month."
+  },
+  {
+    "id": 149,
+    "fact": "The Moon does not produce its own light; it reflects light from the Sun."
+  },
+  {
+    "id": 150,
+    "fact": "Io, a moon of Jupiter, is the most volcanically active body in our solar system."
+  },
+  {
+    "id": 151,
+    "fact": "The rings of Saturn are composed primarily of billions of particles of water ice mixed with small amounts of rocky material."
+  },
+  {
+    "id": 152,
+    "fact": "The Big Bang theory suggests that the universe began as a tiny, infinitely hot, and dense point about 13.8 billion years ago."
+  },
+  {
+    "id": 153,
+    "fact": "The Earth is tilted on its axis at an angle of 23.5 degrees, which is responsible for our changing seasons."
+  },
+  {
+    "id": 154,
+    "fact": "A parsec is a unit of astronomical distance equal to about 3.26 light-years."
+  },
+  {
+    "id": 155,
+    "fact": "The solar wind is a continuous stream of charged particles flowing outwards from the Sun through the solar system."
+  },
+  {
+    "id": 156,
+    "fact": "Many of the elements found in human bodies, like calcium and iron, were forged inside the cores of dying stars."
+  },
+  {
+    "id": 157,
+    "fact": "Quasars are extremely luminous active galactic nuclei powered by supermassive black holes feeding on surrounding matter."
+  },
+  {
+    "id": 158,
+    "fact": "The first human-made satellite to orbit Earth was Sputnik 1, launched by the Soviet Union in 1957."
+  },
+  {
+    "id": 159,
+    "fact": "Exoplanets are planets that orbit stars outside of our own solar system."
+  },
+  {
+    "id": 160,
+    "fact": "The observable universe is estimated to have a diameter of about 93 billion light-years."
+  },
+  {
+    "id": 161,
+    "fact": "The dwarf planet Ceres is the largest object in the asteroid belt and accounts for one-third of its total mass."
+  },
+  {
+    "id": 162,
+    "fact": "The atmosphere of Jupiter is made mostly of hydrogen and helium, similar to the composition of the Sun."
+  },
+  {
+    "id": 163,
+    "fact": "A black hole's event horizon is the boundary from which nothing, not even light, can escape the gravitational pull."
+  },
+  {
+    "id": 164,
+    "fact": "The James Webb Space Telescope is designed to look at the universe in infrared light to see through cosmic dust clouds."
+  },
+  {
+    "id": 165,
+    "fact": "The Martian surface is covered in iron oxide, which gives the planet its distinct reddish appearance."
+  },
+  {
+    "id": 166,
+    "fact": "A lunar eclipse occurs when the Earth passes directly between the Sun and the Moon, casting a shadow on the Moon."
+  },
+  {
+    "id": 167,
+    "fact": "There are more possible iterations of a game of chess than there are atoms in the observable universe."
+  },
+  {
+    "id": 168,
+    "fact": "The zodiac constellations are a set of twelve constellations that lie along the Sun's annual path across the sky."
+  },
+  {
+    "id": 169,
+    "fact": "The Milky Way galaxy is estimated to contain between 100 and 400 billion stars."
+  },
+  {
+    "id": 170,
+    "fact": "The gravity of the Moon is the primary driver of the tidal cycles on Earth's oceans."
+  },
+  {
+    "id": 171,
+    "fact": "Solar flares are sudden, intense explosions on the surface of the Sun that release huge amounts of energy and particles."
+  },
+  {
+    "id": 172,
+    "fact": "The Kuiper Belt object Arrokoth is the farthest object ever visited by a spacecraft, the New Horizons probe."
+  },
+  {
+    "id": 173,
+    "fact": "Planetary nebulae are shells of gas and dust ejected from low-to-medium mass stars as they evolve into white dwarfs."
+  },
+  {
+    "id": 174,
+    "fact": "The temperature of space near the Earth is surprisingly varied depending on whether you are in sunlight or shadow."
+  },
+  {
+    "id": 175,
+    "fact": "Venus rotates so slowly that one day on the planet is longer than one orbit around the Sun."
+  },
+  {
+    "id": 176,
+    "fact": "The ISS travels at an altitude of approximately 250 miles above the Earth's surface."
+  },
+  {
+    "id": 177,
+    "fact": "Red dwarfs are the most common type of star in the universe and can live for trillions of years."
+  },
+  {
+    "id": 178,
+    "fact": "The term 'astronomy' comes from the Greek words for 'star' and 'arranging' or 'naming'."
+  },
+  {
+    "id": 179,
+    "fact": "Spacewalks, formally known as Extravehicular Activity, are required for maintenance and repair of space equipment."
+  },
+  {
+    "id": 180,
+    "fact": "The zodiacal light is a faint glow visible in the night sky caused by sunlight reflecting off interplanetary dust particles."
+  },
+  {
+    "id": 181,
+    "fact": "A solar prominence is a large, bright feature extending outward from the Sun's surface, consisting of cool, dense gas."
+  },
+  {
+    "id": 182,
+    "fact": "The Local Group is a collection of more than 50 galaxies that includes the Milky Way, Andromeda, and the Triangulum galaxies."
+  },
+  {
+    "id": 183,
+    "fact": "The first human to travel into space was Yuri Gagarin, who completed one orbit of Earth in 1961."
+  },
+  {
+    "id": 184,
+    "fact": "A white dwarf is the dense, remaining core of a medium-sized star after it has shed its outer layers."
+  },
+  {
+    "id": 185,
+    "fact": "The atmosphere of Pluto is extremely thin and composed of nitrogen, methane, and carbon monoxide."
+  },
+  {
+    "id": 186,
+    "fact": "Dark matter cannot be seen directly with telescopes because it does not emit, absorb, or reflect light."
+  },
+  {
+    "id": 187,
+    "fact": "Stars are held together by the balance between the outward pressure of nuclear fusion and the inward force of gravity."
+  },
+  {
+    "id": 188,
+    "fact": "The Moon has no magnetic field of its own to protect its surface from solar particles."
+  },
+  {
+    "id": 189,
+    "fact": "Interstellar space is not completely empty, but contains gas and dust particles in extremely low densities."
+  },
+  {
+    "id": 190,
+    "fact": "The most common molecule in the universe is molecular hydrogen."
+  },
+  {
+    "id": 191,
+    "fact": "The rings of Uranus are thin, dark, and composed of large boulders and fine dust."
+  },
+  {
+    "id": 192,
+    "fact": "A light echo is a phenomenon where light from an explosive event, such as a supernova, reflects off nearby dust and appears to travel outward."
+  },
+  {
+    "id": 193,
+    "fact": "The 'Goldilocks zone' is the region around a star where conditions might be just right for liquid water to exist on a planet's surface."
+  },
+  {
+    "id": 194,
+    "fact": "Most galaxies are moving away from each other because the universe is constantly expanding."
+  },
+  {
+    "id": 195,
+    "fact": "The sun's diameter is about 109 times that of Earth."
+  },
+  {
+    "id": 196,
+    "fact": "Brown dwarfs are often called 'failed stars' because they do not have enough mass to sustain hydrogen fusion in their cores."
+  },
+  {
+    "id": 197,
+    "fact": "The total mass of the asteroid belt is less than the mass of the Moon."
+  },
+  {
+    "id": 198,
+    "fact": "The term 'gravity assist' describes the use of a planet's gravitational pull to alter the speed and trajectory of a spacecraft."
+  },
+  {
+    "id": 199,
+    "fact": "Some exoplanets are classified as 'hot Jupiters' because they are massive gas giants that orbit very close to their parent stars."
+  },
+  {
+    "id": 200,
+    "fact": "The universe is estimated to be approximately 13.8 billion years old."
+  },
+  {
+    "id": 201,
+    "fact": "The Oort Cloud is estimated to contain trillions of icy bodies located up to a light-year away from the Sun."
+  },
+  {
+    "id": 202,
+    "fact": "A magnetar is a type of neutron star with an extremely powerful magnetic field, roughly a thousand trillion times stronger than Earth's."
+  },
+  {
+    "id": 203,
+    "fact": "The Sun loses about 4 million tons of mass every second due to the conversion of matter into energy during nuclear fusion."
+  },
+  {
+    "id": 204,
+    "fact": "Triton, the largest moon of Neptune, orbits its planet in the opposite direction of Neptune's rotation, suggesting it was captured by gravity."
+  },
+  {
+    "id": 205,
+    "fact": "The 'Great Attractor' is a gravitational anomaly in intergalactic space that is pulling the Milky Way and thousands of other galaxies toward it."
+  },
+  {
+    "id": 206,
+    "fact": "Sunlight takes approximately 8 minutes and 20 seconds to travel from the surface of the Sun to Earth."
+  },
+  {
+    "id": 207,
+    "fact": "A day on Venus is longer than its orbital period, meaning the planet rotates slower than it revolves around the Sun."
+  },
+  {
+    "id": 208,
+    "fact": "The cosmic web is a large-scale structure of the universe consisting of long filaments of dark matter and galaxies separated by vast voids."
+  },
+  {
+    "id": 209,
+    "fact": "The Moon's surface is covered in regolith, a fine, powdery dust created by billions of years of meteorite impacts."
+  },
+  {
+    "id": 210,
+    "fact": "The first photograph of a black hole was captured in 2019, showing the silhouette of the supermassive black hole at the center of the galaxy M87."
+  },
+  {
+    "id": 211,
+    "fact": "Jupiter's moon Europa is believed to harbor a subsurface ocean of liquid water beneath a thick crust of ice."
+  },
+  {
+    "id": 212,
+    "fact": "The Kuiper Belt was officially discovered in 1992, decades after the discovery of Pluto."
+  },
+  {
+    "id": 213,
+    "fact": "A lunar crater named Shackleton at the Moon's south pole contains regions that are in permanent shadow, potentially hiding water ice."
+  },
+  {
+    "id": 214,
+    "fact": "The temperature at the core of the Sun reaches about 15 million degrees Celsius."
+  },
+  {
+    "id": 215,
+    "fact": "There are no stars in the 'voids' of the cosmic web, as these regions are nearly empty of matter."
+  },
+  {
+    "id": 216,
+    "fact": "The rings of Saturn were first observed by Galileo Galilei in 1610, though he did not fully understand what he was seeing."
+  },
+  {
+    "id": 217,
+    "fact": "Neutron stars can spin hundreds of times per second, and those that emit radio beams are known as pulsars."
+  },
+  {
+    "id": 218,
+    "fact": "The escape velocity required to leave Earth's surface is approximately 11.2 kilometers per second."
+  },
+  {
+    "id": 219,
+    "fact": "The 'Goldilocks' planet Kepler-186f is the first Earth-size planet found orbiting in the habitable zone of another star."
+  },
+  {
+    "id": 220,
+    "fact": "The solar corona becomes visible to the naked eye during a total solar eclipse, appearing as a pearly white glow around the Sun."
+  },
+  {
+    "id": 221,
+    "fact": "Saturn is the least dense planet in the solar system; if you had a bathtub big enough, it would float in water."
+  },
+  {
+    "id": 222,
+    "fact": "The Crab Nebula is the remnant of a supernova explosion observed by Chinese astronomers in the year 1054 AD."
+  },
+  {
+    "id": 223,
+    "fact": "Space weather, caused by solar activity, can disrupt satellite communications, GPS signals, and power grids on Earth."
+  },
+  {
+    "id": 224,
+    "fact": "The 'surface' of a gas giant like Jupiter is not a solid ground but rather the depth at which the atmospheric pressure equals one Earth atmosphere."
+  },
+  {
+    "id": 225,
+    "fact": "The Earth's atmosphere becomes thinner the higher you go, eventually blending into the vacuum of outer space."
+  },
+  {
+    "id": 226,
+    "fact": "A star's color is directly related to its surface temperature, with blue stars being the hottest and red stars being the coolest."
+  },
+  {
+    "id": 227,
+    "fact": "The distance between the Earth and the Moon varies throughout the month because the Moon's orbit is elliptical rather than circular."
+  },
+  {
+    "id": 228,
+    "fact": "There are over 5,000 confirmed exoplanets discovered by astronomers as of the mid-2020s."
+  },
+  {
+    "id": 229,
+    "fact": "The 'terminator' line on a planet is the dividing line between the day side and the night side."
+  },
+  {
+    "id": 230,
+    "fact": "Black holes are not cosmic vacuum cleaners; they exert gravity just like any other mass, and objects can safely orbit them at a distance."
+  },
+  {
+    "id": 231,
+    "fact": "The solar system's heliopause is the boundary where the Sun's solar wind is stopped by the interstellar medium."
+  },
+  {
+    "id": 232,
+    "fact": "The International Space Station completes about 16 orbits around the Earth every single day."
+  },
+  {
+    "id": 233,
+    "fact": "The Moon is tidally locked to Earth, which is why we always see the same face of the Moon from our planet."
+  },
+  {
+    "id": 234,
+    "fact": "A light-year is approximately 9.46 trillion kilometers long."
+  },
+  {
+    "id": 235,
+    "fact": "Mars has two small, irregularly shaped moons named Phobos and Deimos."
+  },
+  {
+    "id": 236,
+    "fact": "The Big Bang did not occur at a single point in space, but rather represented the expansion of space itself everywhere at once."
+  },
+  {
+    "id": 237,
+    "fact": "The Hubble Constant is the unit of measurement used to describe the rate at which the universe is expanding."
+  },
+  {
+    "id": 238,
+    "fact": "The 'habitable zone' of a star system shifts further out as a star ages and becomes brighter and hotter."
+  },
+  {
+    "id": 239,
+    "fact": "Comets develop their characteristic tails when they approach the Sun and the heat causes their ice to sublimate into gas and dust."
+  },
+  {
+    "id": 240,
+    "fact": "The asteroid Vesta is so large that it is classified as a protoplanet, having a partially differentiated internal structure."
+  },
+  {
+    "id": 241,
+    "fact": "Titan's atmosphere is composed mostly of nitrogen, much like Earth, but it is much denser and colder."
+  },
+  {
+    "id": 242,
+    "fact": "Galactic collisions can trigger intense bursts of star formation, sometimes called starburst events."
+  },
+  {
+    "id": 243,
+    "fact": "The 'surface' of the Sun is called the photosphere."
+  },
+  {
+    "id": 244,
+    "fact": "There are billions of galaxies in the observable universe, each containing billions of stars."
+  },
+  {
+    "id": 245,
+    "fact": "The first human-made object to reach interstellar space was Voyager 1 in 2012."
+  },
+  {
+    "id": 246,
+    "fact": "Venus has an atmospheric pressure at its surface that is about 90 times that of Earth's, equivalent to being nearly a kilometer underwater."
+  },
+  {
+    "id": 247,
+    "fact": "A red giant is a dying star in the late stages of its stellar evolution that has expanded significantly in size."
+  },
+  {
+    "id": 248,
+    "fact": "The moon Rhea, orbiting Saturn, is the only moon known to potentially have its own ring system."
+  },
+  {
+    "id": 249,
+    "fact": "Most of the space in an atom is empty, and the same can be said for much of the structure of the universe."
+  },
+  {
+    "id": 250,
+    "fact": "Astronomers use parallax to measure the distance to nearby stars by observing their apparent shift against background stars as Earth orbits the Sun."
+  },
+  {
+    "id": 251,
+    "fact": "A planetary nebula has nothing to do with planets; the name was coined by early astronomers because they looked like fuzzy disks in small telescopes."
+  },
+  {
+    "id": 252,
+    "fact": "The gravity on Mars is about 38 percent of the gravity on Earth."
+  },
+  {
+    "id": 253,
+    "fact": "The 'Great Dark Spot' on Neptune is a storm system similar in appearance to Jupiter's Great Red Spot."
+  },
+  {
+    "id": 254,
+    "fact": "The Perseid meteor shower occurs every year in August when Earth passes through debris left by the comet Swift-Tuttle."
+  },
+  {
+    "id": 255,
+    "fact": "The Sun's magnetic field reverses its polarity approximately every 11 years."
+  },
+  {
+    "id": 256,
+    "fact": "A light-microsecond is the distance light travels in one millionth of a second, which is about 300 meters."
+  },
+  {
+    "id": 257,
+    "fact": "There are frozen water deposits found in permanently shadowed craters at the poles of Mercury."
+  },
+  {
+    "id": 258,
+    "fact": "The asteroid belt is not crowded; the average distance between asteroids is millions of kilometers."
+  },
+  {
+    "id": 259,
+    "fact": "The 'local bubble' is a cavity of hot, low-density gas in the interstellar medium that contains our solar system."
+  },
+  {
+    "id": 260,
+    "fact": "The color of a sunset on Mars appears blue because the dust in the thin atmosphere scatters light differently than on Earth."
+  },
+  {
+    "id": 261,
+    "fact": "A white dwarf star is roughly the size of Earth but contains as much mass as the Sun."
+  },
+  {
+    "id": 262,
+    "fact": "The concept of a 'year' is based on the time it takes for a planet to complete one full orbit around its host star."
+  },
+  {
+    "id": 263,
+    "fact": "Dark matter acts as 'gravitational glue,' holding galaxies together and preventing them from flying apart due to their high rotation speeds."
+  },
+  {
+    "id": 264,
+    "fact": "The moon Ganymede of Jupiter is the largest moon in the solar system, even larger than the planet Mercury."
+  },
+  {
+    "id": 265,
+    "fact": "Stellar parallax was first successfully measured in 1838, proving that Earth moves around the Sun."
+  },
+  {
+    "id": 266,
+    "fact": "There is a supermassive black hole at the center of almost every large galaxy observed."
+  },
+  {
+    "id": 267,
+    "fact": "The rings of Neptune are made of dark, reddish material, likely organic compounds processed by radiation."
+  },
+  {
+    "id": 268,
+    "fact": "The 'Goldilocks' principle in astronomy refers to conditions being 'just right' for life as we know it."
+  },
+  {
+    "id": 269,
+    "fact": "Our Sun is roughly 4.6 billion years old, about halfway through its main-sequence life cycle."
+  },
+  {
+    "id": 270,
+    "fact": "A supernova explosion can temporarily outshine an entire galaxy of hundreds of billions of stars."
+  },
+  {
+    "id": 271,
+    "fact": "The asteroid Psyche is thought to be the exposed metallic core of a failed planet, composed primarily of nickel and iron."
+  },
+  {
+    "id": 272,
+    "fact": "The 'twinkling' of stars, known as stellar scintillation, is caused by Earth's atmosphere refracting the light."
+  },
+  {
+    "id": 273,
+    "fact": "The moon Callisto of Jupiter is one of the most heavily cratered surfaces in the entire solar system."
+  },
+  {
+    "id": 274,
+    "fact": "The term 'astrophysics' combines astronomy and physics to explain the nature of stars, galaxies, and the universe."
+  },
+  {
+    "id": 275,
+    "fact": "Galaxies often exist in clusters, which can contain hundreds or thousands of individual galaxies."
+  },
+  {
+    "id": 276,
+    "fact": "A dwarf planet must orbit the Sun and have enough mass for its gravity to pull it into a round shape, but it hasn't cleared its orbit of other debris."
+  },
+  {
+    "id": 277,
+    "fact": "The first confirmed exoplanet orbiting a sun-like star was discovered in 1995, named 51 Pegasi b."
+  },
+  {
+    "id": 278,
+    "fact": "There are different types of solar eclipses: total, partial, annular, and hybrid."
+  },
+  {
+    "id": 279,
+    "fact": "The 'Great Attractor' is estimated to have a mass equivalent to tens of thousands of Milky Way-sized galaxies."
+  },
+  {
+    "id": 280,
+    "fact": "Space debris, or 'space junk,' consists of inactive satellites, spent rocket stages, and fragments from past collisions."
+  },
+  {
+    "id": 281,
+    "fact": "The 'surface' temperature of a neutron star can reach over 1 million degrees Celsius."
+  },
+  {
+    "id": 282,
+    "fact": "The solar system's planets are divided into inner rocky terrestrial planets and outer gas and ice giants."
+  },
+  {
+    "id": 283,
+    "fact": "The moon Io is constantly stretched and squeezed by the immense gravity of Jupiter, causing intense internal heat and volcanic eruptions."
+  },
+  {
+    "id": 284,
+    "fact": "A total solar eclipse can only be seen from a narrow path on Earth, known as the path of totality."
+  },
+  {
+    "id": 285,
+    "fact": "The universe appears to be 'flat' on large scales, which provides clues about its total mass and energy density."
+  },
+  {
+    "id": 286,
+    "fact": "Astronomers use radio telescopes to observe the cold, invisible parts of the universe, like clouds of gas and dust."
+  },
+  {
+    "id": 287,
+    "fact": "The first woman to travel in space was Valentina Tereshkova, who flew a solo mission in 1963."
+  },
+  {
+    "id": 288,
+    "fact": "Gravity is the dominant force shaping the large-scale structure of the universe."
+  },
+  {
+    "id": 289,
+    "fact": "The Sun’s rotation is not uniform; the equator rotates faster than the poles."
+  },
+  {
+    "id": 290,
+    "fact": "A 'day' on Jupiter is only about 9 hours and 55 minutes long due to its rapid rotation."
+  },
+  {
+    "id": 291,
+    "fact": "Asteroids are rocky, metallic bodies that orbit the Sun, while comets are icy bodies that originate from the outer solar system."
+  },
+  {
+    "id": 292,
+    "fact": "The cosmic microwave background radiation is nearly uniform in every direction, proving the early universe was very hot and dense."
+  },
+  {
+    "id": 293,
+    "fact": "The moon Europa's surface is one of the smoothest in the solar system, with very few impact craters."
+  },
+  {
+    "id": 294,
+    "fact": "The term 'nova' comes from the Latin word for 'new,' as ancient observers thought a new star had appeared in the sky."
+  },
+  {
+    "id": 295,
+    "fact": "The Earth's core generates its magnetic field through a process called the geodynamo, involving moving liquid iron."
+  },
+  {
+    "id": 296,
+    "fact": "The Andromeda Galaxy is home to roughly 1 trillion stars, about twice as many as the Milky Way."
+  },
+  {
+    "id": 297,
+    "fact": "The 'Goldilocks' zone is also frequently referred to as the habitable zone."
+  },
+  {
+    "id": 298,
+    "fact": "Space telescopes are located above the atmosphere, allowing them to capture clearer images without distortion from the air."
+  },
+  {
+    "id": 299,
+    "fact": "The Moon has an extremely thin atmosphere called an exosphere, consisting of trace gases like helium and neon."
+  },
+  {
+    "id": 300,
+    "fact": "A light-year is the distance a beam of light travels in vacuum in one Julian year (365.25 days)."
+  },
+  {
+    "id": 301,
+    "fact": "The moon Enceladus has geysers at its south pole that spray water vapor and ice particles into space."
+  },
+  {
+    "id": 302,
+    "fact": "The temperature of the cosmic microwave background is only about 2.7 Kelvin, or -270.45 degrees Celsius."
+  },
+  {
+    "id": 303,
+    "fact": "The asteroid belt contains millions of objects, but their combined mass is less than 5 percent of the mass of the Moon."
+  },
+  {
+    "id": 304,
+    "fact": "The term 'zenith' refers to the point in the sky directly above an observer's head."
+  },
+  {
+    "id": 305,
+    "fact": "The planet Mercury has the most extreme temperature fluctuations of any planet in our solar system."
+  },
+  {
+    "id": 306,
+    "fact": "The first multi-stage rocket, capable of reaching space, was the V-2 rocket developed in the 1940s."
+  },
+  {
+    "id": 307,
+    "fact": "A star's 'lifespan' is determined by its mass; the more massive the star, the faster it burns its fuel and the shorter its life."
+  },
+  {
+    "id": 308,
+    "fact": "The rings of Saturn are not solid, but rather a collection of billions of individual ice and rock particles, each orbiting independently."
+  },
+  {
+    "id": 309,
+    "fact": "The term 'galactic year' refers to the time it takes for the Sun to complete one orbit around the center of the Milky Way, about 230 million years."
+  },
+  {
+    "id": 310,
+    "fact": "The moon Titan has a thick atmosphere that is 1.5 times denser than Earth's at the surface."
+  },
+  {
+    "id": 311,
+    "fact": "Planets in our solar system that have no moons are Mercury and Venus."
+  },
+  {
+    "id": 312,
+    "fact": "The first successful Mars rover landing was the Pathfinder mission in 1997."
+  },
+  {
+    "id": 313,
+    "fact": "The 'Great Attractor' is located roughly 150 to 250 million light-years away from the Milky Way."
+  },
+  {
+    "id": 314,
+    "fact": "The Sun's atmosphere consists of the photosphere, the chromosphere, and the corona."
+  },
+  {
+    "id": 315,
+    "fact": "A light-year is a standard unit of measure used by astronomers to describe the vast distances in space."
+  },
+  {
+    "id": 316,
+    "fact": "The moon Io is so volcanically active that its surface is constantly being reshaped, covering any impact craters."
+  },
+  {
+    "id": 317,
+    "fact": "Space shuttle missions were designed to carry crews into low Earth orbit and then return to Earth for reuse."
+  },
+  {
+    "id": 318,
+    "fact": "The term 'nebula' means 'cloud' or 'fog' in Latin, reflecting the appearance of these objects in early telescopes."
+  },
+  {
+    "id": 319,
+    "fact": "The orbit of Earth around the Sun is slightly elliptical, meaning our distance from the Sun changes throughout the year."
+  },
+  {
+    "id": 320,
+    "fact": "The moon Europa's icy surface is marked by long, linear cracks called 'lineae.'"
+  },
+  {
+    "id": 321,
+    "fact": "A pulsar is often described as a 'cosmic lighthouse' because it emits a beam of radiation that sweeps across our line of sight."
+  },
+  {
+    "id": 322,
+    "fact": "The term 'asteroid' comes from the Greek word meaning 'star-like.'"
+  },
+  {
+    "id": 323,
+    "fact": "The planet Uranus is famously known as an 'ice giant' because it contains a higher proportion of ices like water, ammonia, and methane."
+  },
+  {
+    "id": 324,
+    "fact": "The first person to perform a spacewalk was Alexei Leonov in 1965."
+  },
+  {
+    "id": 325,
+    "fact": "The Sun’s energy is produced by the nuclear fusion of hydrogen into helium in its core."
+  },
+  {
+    "id": 326,
+    "fact": "A total lunar eclipse occurs only during a full moon, when the Earth casts its shadow on the moon."
+  },
+  {
+    "id": 327,
+    "fact": "The moon Triton is slowly spiraling inward toward Neptune and will eventually be torn apart by tidal forces to form a ring."
+  },
+  {
+    "id": 328,
+    "fact": "There is a massive, long-lived storm on Neptune known as the 'Dark Vortex' that appears and disappears over time."
+  },
+  {
+    "id": 329,
+    "fact": "The 'habitable zone' is sometimes called the 'Goldilocks zone' because the temperature there is just right for liquid water."
+  },
+  {
+    "id": 330,
+    "fact": "The first telescope was invented by Hans Lippershey, although Galileo was the first to use one to study the heavens."
+  },
+  {
+    "id": 331,
+    "fact": "Space is defined as the region beyond the Karman line, which is approximately 100 kilometers above sea level."
+  },
+  {
+    "id": 332,
+    "fact": "The moon Enceladus is highly reflective because it is covered in clean, fresh ice."
+  },
+  {
+    "id": 333,
+    "fact": "The 'local group' of galaxies is gravitationally bound and moving toward one another."
+  },
+  {
+    "id": 334,
+    "fact": "The core of a red giant star is composed of helium, while hydrogen fusion occurs in a shell around the core."
+  },
+  {
+    "id": 335,
+    "fact": "The term 'quasar' is short for 'quasi-stellar radio source.'"
+  },
+  {
+    "id": 336,
+    "fact": "Saturn's moon Titan is larger than the planet Mercury, though less massive."
+  },
+  {
+    "id": 337,
+    "fact": "The first mission to land a probe on a comet was the Rosetta mission, which landed the Philae probe on 67P/Churyumov-Gerasimenko."
+  },
+  {
+    "id": 338,
+    "fact": "The Sun is classified as a population I star, which means it contains a higher amount of heavy elements than older population II stars."
+  },
+  {
+    "id": 339,
+    "fact": "A light-year distance is too large to use for measuring distances within our solar system; for that, we use astronomical units (AU)."
+  },
+  {
+    "id": 340,
+    "fact": "The Moon's average density is about 3.34 grams per cubic centimeter, which is much lower than Earth's 5.51 grams per cubic centimeter."
+  },
+  {
+    "id": 341,
+    "fact": "The term 'magnitude' refers to a star's brightness; lower magnitude numbers indicate brighter stars."
+  },
+  {
+    "id": 342,
+    "fact": "The first humans to walk on the Moon were Neil Armstrong and Buzz Aldrin during the Apollo 11 mission."
+  },
+  {
+    "id": 343,
+    "fact": "The Kuiper Belt is named after astronomer Gerard Kuiper, who hypothesized the existence of such a belt in the 1950s."
+  },
+  {
+    "id": 344,
+    "fact": "The planet Venus was often called Earth's 'sister planet' due to similarities in size and density, despite being very different in surface conditions."
+  },
+  {
+    "id": 345,
+    "fact": "Solar eclipses occur when the Moon passes between the Sun and the Earth, blocking the Sun's light."
+  },
+  {
+    "id": 346,
+    "fact": "The term 'binary star' refers to a system of two stars that orbit a common center of mass."
+  },
+  {
+    "id": 347,
+    "fact": "Jupiter is so large that its gravity influences the orbits of many asteroids in the solar system."
+  },
+  {
+    "id": 348,
+    "fact": "The moon Phobos on Mars will eventually crash into the planet or be broken apart, becoming a ring, in about 50 million years."
+  },
+  {
+    "id": 349,
+    "fact": "The 'Great Red Spot' of Jupiter is an anticyclonic storm, meaning it rotates in the opposite direction of the planet's rotation."
+  },
+  {
+    "id": 350,
+    "fact": "The first successful flyby of Mars was by the Mariner 4 spacecraft in 1965."
+  },
+  {
+    "id": 351,
+    "fact": "A star cluster is a group of stars held together by gravity, often originating from the same molecular cloud."
+  },
+  {
+    "id": 352,
+    "fact": "The temperature of the Moon's surface swings from over 120 degrees Celsius during the day to -170 degrees Celsius at night."
+  },
+  {
+    "id": 353,
+    "fact": "The term 'parallax' is used to measure the distance to objects by viewing them from two different positions."
+  },
+  {
+    "id": 354,
+    "fact": "The planet Saturn has the most extensive and visible ring system in the solar system."
+  },
+  {
+    "id": 355,
+    "fact": "There are different classes of spectral stars, denoted by the letters O, B, A, F, G, K, M, from hottest to coolest."
+  },
+  {
+    "id": 356,
+    "fact": "The 'local void' is a vast, nearly empty region of space adjacent to our local group of galaxies."
+  },
+  {
+    "id": 357,
+    "fact": "The term 'supercluster' refers to a massive grouping of galaxy clusters, forming some of the largest structures in the universe."
+  },
+  {
+    "id": 358,
+    "fact": "The first living creature to orbit the Earth was a dog named Laika, aboard Sputnik 2 in 1957."
+  },
+  {
+    "id": 359,
+    "fact": "The 'surface' of a black hole is not physical; it's a mathematical boundary known as the event horizon."
+  },
+  {
+    "id": 360,
+    "fact": "The planet Uranus was the first planet to be discovered using a telescope, by William Herschel in 1781."
+  },
+  {
+    "id": 361,
+    "fact": "The term 'zodiac' refers to the belt of constellations that the Sun appears to pass through during the year."
+  },
+  {
+    "id": 362,
+    "fact": "A meteor is the streak of light we see when a meteoroid enters Earth's atmosphere and burns up."
+  },
+  {
+    "id": 363,
+    "fact": "The first successful landing on an asteroid was by the NEAR Shoemaker probe on Eros in 2001."
+  },
+  {
+    "id": 364,
+    "fact": "The term 'cosmology' is the scientific study of the origin, evolution, and eventual fate of the universe."
+  },
+  {
+    "id": 365,
+    "fact": "The planet Neptune has the strongest winds in the solar system, reaching speeds of over 2,000 kilometers per hour."
+  },
+  {
+    "id": 366,
+    "fact": "The Moon does not have tectonic plates like Earth, so it does not have the same kind of geological recycling."
+  },
+  {
+    "id": 367,
+    "fact": "A light-minute is the distance light travels in one minute, which is approximately 18 million kilometers."
+  },
+  {
+    "id": 368,
+    "fact": "The Sun's diameter is roughly 1.4 million kilometers."
+  },
+  {
+    "id": 369,
+    "fact": "The term 'constellation' refers to a group of stars that form a recognizable pattern when viewed from Earth."
+  },
+  {
+    "id": 370,
+    "fact": "The first mission to return samples from an asteroid was Japan's Hayabusa mission."
+  },
+  {
+    "id": 371,
+    "fact": "The moon Ganymede is the only moon known to have its own internally generated magnetic field."
+  },
+  {
+    "id": 372,
+    "fact": "The term 'planetary transit' occurs when a planet passes in front of its host star from our perspective."
+  },
+  {
+    "id": 373,
+    "fact": "The planet Mercury's orbit is the most elliptical of all the major planets."
+  },
+  {
+    "id": 374,
+    "fact": "The term 'galactic nucleus' refers to the dense, central region of a galaxy, which usually houses a supermassive black hole."
+  },
+  {
+    "id": 375,
+    "fact": "A light-year can also be defined as about 63,241 astronomical units."
+  },
+  {
+    "id": 376,
+    "fact": "The Moon's craters are largely the result of intense bombardment by meteorites during the early history of the solar system."
+  },
+  {
+    "id": 377,
+    "fact": "The term 'light pollution' refers to the excessive artificial light that obscures the view of the night sky."
+  },
+  {
+    "id": 378,
+    "fact": "The first space probe to visit the outer planets was Pioneer 10, which launched in 1972."
+  },
+  {
+    "id": 379,
+    "fact": "The planet Venus has no moons and no magnetic field."
+  },
+  {
+    "id": 380,
+    "fact": "The term 'interstellar' refers to the space between stars within a galaxy."
+  },
+  {
+    "id": 381,
+    "fact": "The moon Europa is considered one of the most promising places to search for life beyond Earth because of its liquid water ocean."
+  },
+  {
+    "id": 382,
+    "fact": "The term 'ecliptic' is the path the Sun appears to take across the sky as seen from Earth."
+  },
+  {
+    "id": 383,
+    "fact": "The first human to fly in space twice was James McDivitt, who was a pilot on Gemini 4 and Apollo 9."
+  },
+  {
+    "id": 384,
+    "fact": "The planet Saturn's density is so low that it would float in a sufficiently large ocean of water."
+  },
+  {
+    "id": 385,
+    "fact": "The term 'radio astronomy' is the study of celestial objects that emit radio waves."
+  },
+  {
+    "id": 386,
+    "fact": "A lunar month, or synodic month, is the time it takes for the Moon to go from one new moon to the next, about 29.5 days."
+  },
+  {
+    "id": 387,
+    "fact": "The first person to reach space multiple times was a record held by several astronauts as space travel became more frequent."
+  },
+  {
+    "id": 388,
+    "fact": "The planet Uranus is tilted so much that its poles point toward and away from the Sun at different times during its orbit."
+  },
+  {
+    "id": 389,
+    "fact": "The term 'supermassive black hole' describes a black hole with a mass millions or billions of times that of the Sun."
+  },
+  {
+    "id": 390,
+    "fact": "The moon Titan is the only moon with a thick atmosphere and substantial surface liquid, though it is methane and ethane, not water."
+  },
+  {
+    "id": 391,
+    "fact": "The term 'main-sequence star' describes the period of a star's life when it is actively fusing hydrogen into helium."
+  },
+  {
+    "id": 392,
+    "fact": "The Sun's corona is millions of degrees hot, but it is very thin, so it doesn't contain much heat energy in total."
+  },
+  {
+    "id": 393,
+    "fact": "The term 'deep sky object' refers to astronomical objects outside our solar system, such as nebulae, star clusters, and galaxies."
+  },
+  {
+    "id": 394,
+    "fact": "The planet Mars has the largest dust storms in the solar system, which can sometimes cover the entire planet."
+  },
+  {
+    "id": 395,
+    "fact": "The first reusable spacecraft was the Space Shuttle, which had its maiden flight in 1981."
+  },
+  {
+    "id": 396,
+    "fact": "The term 'galactic disk' refers to the flat, rotating region of a spiral galaxy that contains most of its stars and interstellar matter."
+  },
+  {
+    "id": 397,
+    "fact": "The Moon's gravity is about one-sixth of the gravity found on Earth."
+  },
+  {
+    "id": 398,
+    "fact": "The term 'redshift' refers to the phenomenon where light from an object moving away from us shifts toward the red end of the spectrum."
+  },
+  {
+    "id": 399,
+    "fact": "The planet Neptune was discovered by Johann Gottfried Galle in 1846, after predictions by Urbain Le Verrier."
+  },
+  {
+    "id": 400,
+    "fact": "The term 'astrometry' is the branch of astronomy that involves measuring the precise positions and movements of stars and other celestial bodies."
+  },
+  {
+    "id": 401,
+    "fact": "The Moon has no atmosphere to hold in heat, which causes its extreme temperature variations between day and night."
+  },
+  {
+    "id": 402,
+    "fact": "The term 'light-year' is a measure of distance, not time, representing the distance light travels in one year."
+  },
+  {
+    "id": 403,
+    "fact": "The first mission to orbit Mercury was MESSENGER, which arrived in 2011."
+  },
+  {
+    "id": 404,
+    "fact": "The planet Jupiter has a ring system, although it is much fainter and smaller than the rings of Saturn."
+  },
+  {
+    "id": 405,
+    "fact": "The term 'circumpolar star' refers to a star that, as viewed from a given latitude on Earth, never sets below the horizon."
+  },
+  {
+    "id": 406,
+    "fact": "The Moon is the fifth largest moon in the entire solar system."
+  },
+  {
+    "id": 407,
+    "fact": "The term 'solar cycle' refers to the 11-year period of fluctuations in the Sun's magnetic activity and output."
+  },
+  {
+    "id": 408,
+    "fact": "The first successful landing on a gas giant's moon was by the Huygens probe, which landed on Titan in 2005."
+  },
+  {
+    "id": 409,
+    "fact": "The planet Venus has clouds made of sulfuric acid that reflect most of the sunlight reaching the planet."
+  },
+  {
+    "id": 410,
+    "fact": "The term 'galactic halo' is the extended, spherical component of a galaxy that contains old stars and globular clusters."
+  },
+  {
+    "id": 411,
+    "fact": "The Moon has been explored by humans during the Apollo missions, but no humans have returned to the Moon since 1972."
+  },
+  {
+    "id": 412,
+    "fact": "The term 'blueshift' refers to the light from an object moving toward us, shifting toward the blue end of the spectrum."
+  },
+  {
+    "id": 413,
+    "fact": "The first space telescope was the Orbiting Astronomical Observatory, launched in 1968."
+  },
+  {
+    "id": 414,
+    "fact": "The planet Saturn has over 100 known moons, with many more being discovered as our observations improve."
+  },
+  {
+    "id": 415,
+    "fact": "The term 'equinox' is when the Sun is positioned directly above the Earth's equator, resulting in equal day and night."
+  },
+  {
+    "id": 416,
+    "fact": "The Moon does not have a global magnetic field, although it has localized magnetic anomalies in its crust."
+  },
+  {
+    "id": 417,
+    "fact": "The term 'solar flare' is a sudden, intense explosion of radiation from the Sun's atmosphere."
+  },
+  {
+    "id": 418,
+    "fact": "The first person to spend a year in space was Valeri Polyakov, who spent 437 days on the Mir space station."
+  },
+  {
+    "id": 419,
+    "fact": "The planet Uranus has a system of at least 27 known moons, all of which are relatively small."
+  },
+  {
+    "id": 420,
+    "fact": "The term 'galactic bulge' is the dense, central, spherical collection of stars found in the center of spiral galaxies."
+  },
+  {
+    "id": 421,
+    "fact": "The Moon’s surface is thought to be about 4.5 billion years old, similar to the Earth and the rest of the solar system."
+  },
+  {
+    "id": 422,
+    "fact": "The term 'astronomical unit' (AU) is the average distance between the Earth and the Sun, approximately 150 million kilometers."
+  },
+  {
+    "id": 423,
+    "fact": "The first successful landing on a comet was achieved by the Philae probe, which touched down on Comet 67P in 2014."
+  },
+  {
+    "id": 424,
+    "fact": "The planet Mars has the tallest mountain in the solar system, Olympus Mons, which is 25 kilometers high."
+  },
+  {
+    "id": 425,
+    "fact": "The term 'stellar nursery' is a region of space where dense clouds of gas and dust collapse to form new stars."
+  },
+  {
+    "id": 426,
+    "fact": "The Moon orbits the Earth at an average distance of about 384,400 kilometers."
+  },
+  {
+    "id": 427,
+    "fact": "The term 'solstice' is when the Sun reaches its highest or lowest point in the sky at noon, marking the longest and shortest days of the year."
+  },
+  {
+    "id": 428,
+    "fact": "The first mission to take a photograph of the Earth from the Moon's surface was the Lunar Orbiter 1 in 1966."
+  },
+  {
+    "id": 429,
+    "fact": "The planet Neptune has an orbital period of about 165 Earth years."
+  },
+  {
+    "id": 430,
+    "fact": "The term 'galactic plane' is the flat, disk-like region where most of the matter in a spiral galaxy is concentrated."
+  },
+  {
+    "id": 431,
+    "fact": "The Moon has phases because of the changing positions of the Earth, the Moon, and the Sun as the Moon orbits the Earth."
+  },
+  {
+    "id": 432,
+    "fact": "The term 'parallax' is a crucial method for measuring the distance to nearby stars, but it is limited to stars relatively close to Earth."
+  },
+  {
+    "id": 433,
+    "fact": "The first human-made object to land on another planet was the Soviet Venera 7, which landed on Venus in 1970."
+  },
+  {
+    "id": 434,
+    "fact": "The planet Jupiter has a mass more than twice that of all other planets in the solar system combined."
+  },
+  {
+    "id": 435,
+    "fact": "The term 'supernova' is the brilliant explosion that occurs at the end of the life of a massive star."
+  },
+  {
+    "id": 436,
+    "fact": "The Moon's orbit around the Earth is tilted by about 5 degrees relative to the Earth's orbit around the Sun."
+  },
+  {
+    "id": 437,
+    "fact": "The term 'photon' is a particle of light, which carries energy from stars across the vast distances of space."
+  },
+  {
+    "id": 438,
+    "fact": "The first probe to reach the outer solar system and leave was Pioneer 10, which launched in 1972."
+  },
+  {
+    "id": 439,
+    "fact": "The planet Uranus is about 19 times farther from the Sun than the Earth is."
+  },
+  {
+    "id": 440,
+    "fact": "The term 'galactic coordinate system' is used to define the positions of objects within our Milky Way galaxy."
+  },
+  {
+    "id": 441,
+    "fact": "The Moon’s surface temperature is extremely cold during its two-week-long night."
+  },
+  {
+    "id": 442,
+    "fact": "The term 'light-travel time' is the time it takes for light to travel between two points in space."
+  },
+  {
+    "id": 443,
+    "fact": "The first probe to visit all four gas giants was the Voyager 2 spacecraft, which was launched in 1977."
+  },
+  {
+    "id": 444,
+    "fact": "The planet Mars has a thin atmosphere that is primarily carbon dioxide."
+  },
+  {
+    "id": 445,
+    "fact": "The term 'dark energy' is the mysterious force that appears to be causing the expansion of the universe to accelerate."
+  },
+  {
+    "id": 446,
+    "fact": "The Moon has no liquid water on its surface, but ice has been discovered in its permanently shadowed craters at the poles."
+  },
+  {
+    "id": 447,
+    "fact": "The term 'absolute magnitude' is a measure of the true brightness of a star, regardless of its distance from Earth."
+  },
+  {
+    "id": 448,
+    "fact": "The first mission to return to the Moon since the Apollo program was the Chang'e 4 mission, which landed on the far side in 2019."
+  },
+  {
+    "id": 449,
+    "fact": "The planet Saturn's rings are made of billions of ice particles, ranging in size from tiny grains to large boulders."
+  },
+  {
+    "id": 450,
+    "fact": "The term 'local supercluster' is a large-scale collection of galaxy clusters that includes our own Virgo Supercluster."
+  },
+  {
+    "id": 451,
+    "fact": "The Moon’s gravity causes the tidal forces on Earth, which are responsible for the daily rising and falling of the ocean levels."
+  },
+  {
+    "id": 452,
+    "fact": "The term 'light scattering' is what makes the sky appear blue on Earth, as the atmosphere scatters sunlight in all directions."
+  },
+  {
+    "id": 453,
+    "fact": "The first satellite to orbit the Moon was the Luna 10 mission, launched by the Soviet Union in 1966."
+  },
+  {
+    "id": 454,
+    "fact": "The planet Neptune has a magnetic field that is tilted and offset from its center of rotation."
+  },
+  {
+    "id": 455,
+    "fact": "The term 'event horizon' is the point of no return for anything, including light, falling into a black hole."
+  },
+  {
+    "id": 456,
+    "fact": "The Moon is 400 times smaller than the Sun, but it is also 400 times closer to the Earth, making them appear to be the same size in the sky."
+  },
+  {
+    "id": 457,
+    "fact": "The term 'radio telescope' is an instrument designed to detect radio waves from celestial objects."
+  },
+  {
+    "id": 458,
+    "fact": "The first probe to perform a flyby of Pluto was the New Horizons spacecraft, which flew past it in 2015."
+  },
+  {
+    "id": 459,
+    "fact": "The planet Uranus takes about 84 Earth years to complete one orbit around the Sun."
+  },
+  {
+    "id": 460,
+    "fact": "The term 'galactic rotation' refers to the speed at which stars and gas clouds orbit the center of their host galaxy."
+  },
+  {
+    "id": 461,
+    "fact": "The Moon’s craters are named after famous scientists, philosophers, and explorers from human history."
+  },
+  {
+    "id": 462,
+    "fact": "The term 'luminosity' refers to the total amount of energy emitted by a star, galaxy, or other astronomical object per unit of time."
+  },
+  {
+    "id": 463,
+    "fact": "The first mission to launch a satellite from a space shuttle was the Syncom IV-3 in 1985."
+  },
+  {
+    "id": 464,
+    "fact": "The planet Jupiter has over 90 known moons, including the four large Galilean moons: Io, Europa, Ganymede, and Callisto."
+  },
+  {
+    "id": 465,
+    "fact": "The term 'main-sequence' is a stage in the life of a star, representing a stable period of hydrogen fusion."
+  },
+  {
+    "id": 466,
+    "fact": "The Moon's far side was first photographed by the Soviet Luna 3 probe in 1959."
+  },
+  {
+    "id": 467,
+    "fact": "The term 'red giant' is a late stage in the evolution of a star like the Sun, where it expands significantly in size."
+  },
+  {
+    "id": 468,
+    "fact": "The first space agency to successfully land a rover on Mars was NASA, with the Sojourner rover in 1997."
+  },
+  {
+    "id": 469,
+    "fact": "The planet Venus has the most circular orbit of all the planets in the solar system."
+  },
+  {
+    "id": 470,
+    "fact": "The term 'galactic disk' is where the vast majority of star formation occurs in spiral galaxies."
+  },
+  {
+    "id": 471,
+    "fact": "The Moon's surface is constantly being hit by tiny micrometeorites, which over time break down rock into fine regolith dust."
+  },
+  {
+    "id": 472,
+    "fact": "The term 'apparent magnitude' is a measure of how bright a star appears to an observer on Earth."
+  },
+  {
+    "id": 473,
+    "fact": "The first probe to enter the orbit of a comet was the Rosetta mission, which orbited Comet 67P from 2014 to 2016."
+  },
+  {
+    "id": 474,
+    "fact": "The planet Mars has seasons, just like Earth, because it is also tilted on its axis."
+  },
+  {
+    "id": 475,
+    "fact": "The term 'supercluster' describes the largest structures in the universe, consisting of groups and clusters of galaxies."
+  },
+  {
+    "id": 476,
+    "fact": "The Moon's surface features include vast, dark, smooth plains called 'maria,' which were formed by ancient volcanic lava flows."
+  },
+  {
+    "id": 477,
+    "fact": "The term 'light-year' is a unit of length used to express astronomical distances."
+  },
+  {
+    "id": 478,
+    "fact": "The first mission to land humans on the Moon was Apollo 11, which touched down in the Sea of Tranquility."
+  },
+  {
+    "id": 479,
+    "fact": "The planet Saturn is the second-largest planet in the solar system, only behind Jupiter."
+  },
+  {
+    "id": 480,
+    "fact": "The term 'galaxy' refers to a massive collection of stars, gas, dust, and dark matter held together by gravity."
+  },
+  {
+    "id": 481,
+    "fact": "The Moon does not produce its own magnetic field, meaning it has no protective shield against the solar wind."
+  },
+  {
+    "id": 482,
+    "fact": "The term 'stellar evolution' is the process by which a star changes over the course of its life."
+  },
+  {
+    "id": 483,
+    "fact": "The first space station launched into orbit was the Salyut 1, launched by the Soviet Union in 1971."
+  },
+  {
+    "id": 484,
+    "fact": "The planet Uranus is the third-largest planet in the solar system by diameter."
+  },
+  {
+    "id": 485,
+    "fact": "The term 'void' in cosmology refers to the vast, empty regions of space that lie between the filaments of the cosmic web."
+  },
+  {
+    "id": 486,
+    "fact": "The Moon's rotation is perfectly synchronized with its orbit around Earth, which is why we always see the same face."
+  },
+  {
+    "id": 487,
+    "fact": "The term 'light curve' is a graph showing the brightness of an object over time, used to study variable stars and transiting planets."
+  },
+  {
+    "id": 488,
+    "fact": "The first space probe to land on another moon was the Huygens probe, which landed on Saturn's moon Titan in 2005."
+  },
+  {
+    "id": 489,
+    "fact": "The planet Neptune is the most distant major planet from the Sun in our solar system."
+  },
+  {
+    "id": 490,
+    "fact": "The term 'cosmic ray' refers to high-energy protons and atomic nuclei that travel through space at near-light speeds."
+  },
+  {
+    "id": 491,
+    "fact": "The Moon’s surface has been mapped in great detail by various lunar orbiters, revealing its topography and mineral composition."
+  },
+  {
+    "id": 492,
+    "fact": "The term 'parallax' is used to measure distances to stars by observing their apparent shift from different points in Earth's orbit."
+  },
+  {
+    "id": 493,
+    "fact": "The first mission to return a sample of lunar soil to Earth was the Soviet Luna 16 mission in 1970."
+  },
+  {
+    "id": 494,
+    "fact": "The planet Mercury has no atmosphere to trap heat, which causes its temperatures to plummet during its long nights."
+  },
+  {
+    "id": 495,
+    "fact": "The term 'dark matter' is an invisible form of matter that makes up most of the mass in galaxies."
+  },
+  {
+    "id": 496,
+    "fact": "The Moon’s impact craters are evidence of the violent history of the early solar system, when asteroids and comets were much more common."
+  },
+  {
+    "id": 497,
+    "fact": "The term 'spectroscopy' is the study of how light interacts with matter, allowing us to determine the composition of stars and planets."
+  },
+  {
+    "id": 498,
+    "fact": "The first humans to visit the far side of the Moon were the crew of Apollo 8, who orbited the Moon in 1968."
+  },
+  {
+    "id": 499,
+    "fact": "The planet Venus has the hottest surface of any planet in the solar system, due to a runaway greenhouse effect."
+  },
+  {
+    "id": 500,
+    "fact": "The term 'Big Bang' refers to the theory of the origin of the universe, suggesting it started from an incredibly hot and dense state."
+  },
+  {
+    "id": 501,
+    "fact": "The term 'magnetosphere' refers to the region around a planet dominated by its magnetic field, protecting it from solar wind."
+  },
+  {
+    "id": 502,
+    "fact": "Globular clusters are tight, spherical groups of old stars that orbit the centers of galaxies."
+  },
+  {
+    "id": 503,
+    "fact": "The 'Great Attractor' is a gravity anomaly in intergalactic space that exerts a pull on the Milky Way and neighboring galaxies."
+  },
+  {
+    "id": 504,
+    "fact": "Type Ia supernovae are essential in cosmology because they always explode with a similar brightness, acting as 'standard candles' to measure distance."
+  },
+  {
+    "id": 505,
+    "fact": "The heliosphere is the vast bubble-like region of space created by the Sun, containing its solar wind and magnetic field."
+  },
+  {
+    "id": 506,
+    "fact": "A 'parsec' is approximately 3.26 light-years and is derived from the word 'parallax-second'."
+  },
+  {
+    "id": 507,
+    "fact": "The 'Coma Cluster' is one of the most studied galaxy clusters, containing thousands of galaxies."
+  },
+  {
+    "id": 508,
+    "fact": "Stars in a 'binary system' orbit a common center of mass, which helps astronomers calculate their individual masses."
+  },
+  {
+    "id": 509,
+    "fact": "The 'Zodiacal light' is caused by sunlight scattering off interplanetary dust within the plane of the solar system."
+  },
+  {
+    "id": 510,
+    "fact": "A 'white hole' is a theoretical region of spacetime that can only be exited and cannot be entered, essentially the reverse of a black hole."
+  },
+  {
+    "id": 511,
+    "fact": "The 'Trojan asteroids' are groups of asteroids that share an orbit with a planet, located at stable gravitational points called Lagrange points."
+  },
+  {
+    "id": 512,
+    "fact": "The 'Interstellar Medium' (ISM) consists of gas and dust that permeates the space between stars within a galaxy."
+  },
+  {
+    "id": 513,
+    "fact": "The 'Chandrasekhar limit' is the maximum mass a stable white dwarf star can reach, approximately 1.4 times the mass of the Sun."
+  },
+  {
+    "id": 514,
+    "fact": "A 'circumstellar disk' is a ring-shaped accumulation of matter, such as gas and dust, orbiting a newly formed star."
+  },
+  {
+    "id": 515,
+    "fact": "The 'Great Annihilator' is a microquasar in the Milky Way that produces intense gamma-ray emissions."
+  },
+  {
+    "id": 516,
+    "fact": "Variable stars are stars whose brightness changes over time, either periodically or irregularly."
+  },
+  {
+    "id": 517,
+    "fact": "The 'Oort Cloud' is hypothesized to be the origin point for long-period comets that visit our inner solar system."
+  },
+  {
+    "id": 518,
+    "fact": "Spaghettification is the vertical stretching and horizontal compression of objects caused by extreme tidal forces near a black hole."
+  },
+  {
+    "id": 519,
+    "fact": "The 'Goldilocks Zone' is formally known as the Circumstellar Habitable Zone (CHZ) where liquid water can exist."
+  },
+  {
+    "id": 520,
+    "fact": "The 'Local Group' includes the Milky Way, the Andromeda Galaxy, and the Triangulum Galaxy, along with many smaller dwarf galaxies."
+  },
+  {
+    "id": 521,
+    "fact": "A 'magnetar' is a specific type of neutron star with a magnetic field so intense it can distort the shape of atoms."
+  },
+  {
+    "id": 522,
+    "fact": "The 'Cosmic Web' structure is composed of galaxy filaments separated by massive, empty voids."
+  },
+  {
+    "id": 523,
+    "fact": "Tidal locking occurs when an orbiting body's rotational period matches its orbital period around a larger body."
+  },
+  {
+    "id": 524,
+    "fact": "A 'brown dwarf' is an object more massive than a gas giant planet but less massive than a star, failing to ignite hydrogen fusion."
+  },
+  {
+    "id": 525,
+    "fact": "The 'Kármán line' is the internationally accepted boundary between the Earth's atmosphere and outer space, set at 100 kilometers altitude."
+  },
+  {
+    "id": 526,
+    "fact": "The 'Great Dark Spot' on Neptune is a large, storm-like feature that was observed by Voyager 2."
+  },
+  {
+    "id": 527,
+    "fact": "An 'exoplanet' is any planet that orbits a star located outside of our solar system."
+  },
+  {
+    "id": 528,
+    "fact": "The 'Hubble Deep Field' image was the result of pointing the Hubble telescope at a tiny, seemingly empty patch of sky for ten days."
+  },
+  {
+    "id": 529,
+    "fact": "A 'pulsar' is a highly magnetized, rapidly rotating neutron star that emits a beam of electromagnetic radiation."
+  },
+  {
+    "id": 530,
+    "fact": "The 'Solar wind' consists mostly of electrons, protons, and alpha particles released from the upper atmosphere of the Sun."
+  },
+  {
+    "id": 531,
+    "fact": "The 'Kuiper Belt' contains three officially recognized dwarf planets: Pluto, Haumea, and Makemake."
+  },
+  {
+    "id": 532,
+    "fact": "Stellar nucleosynthesis is the process by which stars create heavier elements from lighter ones through nuclear fusion."
+  },
+  {
+    "id": 533,
+    "fact": "A 'quiescent galaxy' is one that has stopped forming new stars and is often dominated by older, redder stars."
+  },
+  {
+    "id": 534,
+    "fact": "The 'Galactic Center' is the rotational center of the Milky Way, home to the supermassive black hole Sagittarius A*."
+  },
+  {
+    "id": 535,
+    "fact": "A 'light echo' occurs when a sudden burst of light from an object, like a supernova, reflects off surrounding clouds of gas."
+  },
+  {
+    "id": 536,
+    "fact": "The 'Roche limit' is the minimum distance to which a celestial body can approach a larger body without being torn apart by tidal forces."
+  },
+  {
+    "id": 537,
+    "fact": "The 'Virgo Cluster' is a massive cluster of galaxies that serves as the heart of the Virgo Supercluster."
+  },
+  {
+    "id": 538,
+    "fact": "The 'Hertzsprung-Russell diagram' plots stars based on their luminosity versus their surface temperature, revealing stages of stellar evolution."
+  },
+  {
+    "id": 539,
+    "fact": "A 'planetary nebula' is the final stage of a star with the mass of the Sun, resulting in a core remnant surrounded by ejected outer layers."
+  },
+  {
+    "id": 540,
+    "fact": "The 'Great Red Spot' on Jupiter has been shrinking over the last century, according to historical astronomical records."
+  },
+  {
+    "id": 541,
+    "fact": "The 'Cosmic Microwave Background' (CMB) is the thermal radiation left over from the time of recombination in the early universe."
+  },
+  {
+    "id": 542,
+    "fact": "A 'protostar' is a very young star that is still gathering mass from its parent molecular cloud."
+  },
+  {
+    "id": 543,
+    "fact": "The 'CNO cycle' is a catalytic fusion process by which stars more massive than the Sun convert hydrogen into helium."
+  },
+  {
+    "id": 544,
+    "fact": "The 'Lagrange point' L1 is a position between two large bodies where a smaller object can stay in a fixed position relative to them."
+  },
+  {
+    "id": 545,
+    "fact": "A 'nebula' is an interstellar cloud of dust, hydrogen, helium, and other ionized gases."
+  },
+  {
+    "id": 546,
+    "fact": "The 'Sun's corona' is much hotter than the surface of the Sun, a temperature paradox that astronomers are still studying."
+  },
+  {
+    "id": 547,
+    "fact": "The 'Great Attractor' is located roughly 150 to 250 million light-years away from Earth."
+  },
+  {
+    "id": 548,
+    "fact": "A 'Type II supernova' occurs when a massive star exhausts its nuclear fuel and its core collapses under gravity."
+  },
+  {
+    "id": 549,
+    "fact": "The 'Galactic Year' is the duration of one orbit of the Sun around the Milky Way, taking approximately 230 million years."
+  },
+  {
+    "id": 550,
+    "fact": "A 'geosynchronous orbit' allows a satellite to stay over the same point on the Earth's surface as it orbits."
+  },
+  {
+    "id": 551,
+    "fact": "The 'Oort cloud' is essentially a giant spherical shell surrounding the entire solar system."
+  },
+  {
+    "id": 552,
+    "fact": "A 'light-second' is the distance light travels in one second, approximately 300,000 kilometers."
+  },
+  {
+    "id": 553,
+    "fact": "The 'Pillars of Creation' are found within the Eagle Nebula, a massive region of active star formation."
+  },
+  {
+    "id": 554,
+    "fact": "A 'supermassive black hole' can have a mass equivalent to millions or billions of suns."
+  },
+  {
+    "id": 555,
+    "fact": "The 'Dwarf planet' Eris is nearly as massive as Pluto but is located much further out in the scattered disk."
+  },
+  {
+    "id": 556,
+    "fact": "The 'Interplanetary Magnetic Field' (IMF) is the part of the Sun's magnetic field carried by the solar wind throughout the solar system."
+  },
+  {
+    "id": 557,
+    "fact": "The 'Andromeda Galaxy' is currently moving toward the Milky Way at about 110 kilometers per second."
+  },
+  {
+    "id": 558,
+    "fact": "A 'solar flare' is caused by the sudden release of magnetic energy stored in the Sun's atmosphere."
+  },
+  {
+    "id": 559,
+    "fact": "The 'Hubble tension' refers to the discrepancy between different methods of measuring the expansion rate of the universe."
+  },
+  {
+    "id": 560,
+    "fact": "A 'white dwarf' is the final evolutionary state of all low and medium-mass stars."
+  },
+  {
+    "id": 561,
+    "fact": "The 'Heliosphere' acts as a shield, deflecting a large portion of high-energy cosmic rays from entering the inner solar system."
+  },
+  {
+    "id": 562,
+    "fact": "The 'Zodiac' is defined by the ecliptic, the plane of Earth's orbit around the Sun extended into the sky."
+  },
+  {
+    "id": 563,
+    "fact": "A 'black dwarf' is a hypothetical cooling white dwarf that has ceased to emit significant heat or light."
+  },
+  {
+    "id": 564,
+    "fact": "The 'Local Void' is a massive, nearly empty space bordering our Local Group of galaxies."
+  },
+  {
+    "id": 565,
+    "fact": "The 'Big Freeze' is a potential final state of the universe where expansion continues until all heat is lost."
+  },
+  {
+    "id": 566,
+    "fact": "The 'Rayleigh-Taylor instability' plays a significant role in how supernova explosions distribute heavy elements into space."
+  },
+  {
+    "id": 567,
+    "fact": "The 'Tidal heating' generated by gravity is what keeps the internal oceans of moons like Europa and Enceladus in a liquid state."
+  },
+  {
+    "id": 568,
+    "fact": "A 'magnetosphere' is present not only on planets like Earth, but also on planets like Jupiter and Saturn."
+  },
+  {
+    "id": 569,
+    "fact": "The 'Great Red Spot' on Jupiter is wide enough to fit more than one Earth inside it."
+  },
+  {
+    "id": 570,
+    "fact": "A 'binary pulsar' is a system where two pulsars, or a pulsar and another star, orbit each other."
+  },
+  {
+    "id": 571,
+    "fact": "The 'Oort cloud' is theorized to be the gravitational limit of our Sun's influence."
+  },
+  {
+    "id": 572,
+    "fact": "A 'galaxy' typically contains hundreds of billions of stars, along with dark matter and interstellar gas."
+  },
+  {
+    "id": 573,
+    "fact": "The 'Cosmic Web' filaments are connected by massive galaxy clusters at their intersections."
+  },
+  {
+    "id": 574,
+    "fact": "A 'neutron star' has an atmosphere that is only about a few centimeters thick."
+  },
+  {
+    "id": 575,
+    "fact": "The 'Solar System's' mass is dominated by the Sun, followed by Jupiter."
+  },
+  {
+    "id": 576,
+    "fact": "A 'quasistellar object' (quasar) is powered by a supermassive black hole accreting matter at its center."
+  },
+  {
+    "id": 577,
+    "fact": "The 'Great Attractor' is a center of mass for a large supercluster, pulling nearby structures toward it."
+  },
+  {
+    "id": 578,
+    "fact": "A 'molecular cloud' is a dense type of nebula where star formation is likely to occur due to high gas density."
+  },
+  {
+    "id": 579,
+    "fact": "The 'Galactic halo' contains many of the oldest stars in our galaxy."
+  },
+  {
+    "id": 580,
+    "fact": "A 'lensing effect' occurs when gravity bends light from a distant object, creating multiple images or rings."
+  },
+  {
+    "id": 581,
+    "fact": "The 'Kuiper Belt' objects are often referred to as Trans-Neptunian Objects (TNOs)."
+  },
+  {
+    "id": 582,
+    "fact": "A 'brown dwarf' is unable to sustain the nuclear fusion required to remain on the main sequence."
+  },
+  {
+    "id": 583,
+    "fact": "The 'Cosmic Microwave Background' shows tiny fluctuations that eventually grew into the structures of the universe we see today."
+  },
+  {
+    "id": 584,
+    "fact": "A 'nova' is a sudden brightening of a star in a binary system caused by the accumulation and explosion of material on a white dwarf's surface."
+  },
+  {
+    "id": 585,
+    "fact": "The 'Heliopause' is the theoretical boundary where the interstellar medium becomes stronger than the solar wind."
+  },
+  {
+    "id": 586,
+    "fact": "A 'super-Earth' is an exoplanet with a mass higher than Earth's but substantially lower than the ice giants like Uranus or Neptune."
+  },
+  {
+    "id": 587,
+    "fact": "The 'Local Group' of galaxies is approximately 10 million light-years in diameter."
+  },
+  {
+    "id": 588,
+    "fact": "A 'pulsar's' rotation period can be as short as a few milliseconds."
+  },
+  {
+    "id": 589,
+    "fact": "The 'Dark Matter' in the universe is essential to explain why galaxies rotate as fast as they do without flying apart."
+  },
+  {
+    "id": 590,
+    "fact": "A 'supermassive black hole' is not directly visible, but its presence is inferred from the motion of nearby stars."
+  },
+  {
+    "id": 591,
+    "fact": "The 'Sun's' photosphere is about 500 kilometers thick and is the surface we see."
+  },
+  {
+    "id": 592,
+    "fact": "A 'planetary nebula' does not contain any planets; the name is a legacy from early, low-resolution telescope observations."
+  },
+  {
+    "id": 593,
+    "fact": "The 'Great Attractor' is obscured from our view by the 'Zone of Avoidance,' where the dust of our own Milky Way blocks the sky."
+  },
+  {
+    "id": 594,
+    "fact": "A 'Type Ia supernova' involves the thermonuclear explosion of a white dwarf after it accretes too much material from a companion star."
+  },
+  {
+    "id": 595,
+    "fact": "The 'Galactic Plane' is where the majority of the gas and dust in the Milky Way are concentrated, creating new stars."
+  },
+  {
+    "id": 596,
+    "fact": "A 'geostationary orbit' is a specific type of circular geosynchronous orbit directly above the equator."
+  },
+  {
+    "id": 597,
+    "fact": "The 'Oort cloud' is so far away that it takes light about a year to cross from one side to the other."
+  },
+  {
+    "id": 598,
+    "fact": "A 'light-minute' is used to measure distances within the solar system, with Earth-Sun distance being about 8 light-minutes."
+  },
+  {
+    "id": 599,
+    "fact": "The 'Pillars of Creation' are slowly being destroyed by the radiation from nearby young, hot stars."
+  },
+  {
+    "id": 600,
+    "fact": "A 'supermassive black hole' occupies the center of nearly all major galaxies, including our own."
+  },
+  {
+    "id": 601,
+    "fact": "Dwarf planet Ceres contains about a third of all the mass in the asteroid belt."
+  },
+  {
+    "id": 602,
+    "fact": "The 'International Space Station' orbits at an average altitude of about 400 kilometers."
+  },
+  {
+    "id": 603,
+    "fact": "Jupiter's moon Io has over 400 active volcanoes due to intense tidal heating."
+  },
+  {
+    "id": 604,
+    "fact": "Saturn’s rings are primarily composed of water ice particles."
+  },
+  {
+    "id": 605,
+    "fact": "The 'Sun' is a G2V type main-sequence star."
+  },
+  {
+    "id": 606,
+    "fact": "Venus has an atmospheric pressure 92 times that of Earth at its surface."
+  },
+  {
+    "id": 607,
+    "fact": "Mars has the largest dust storms in the solar system, sometimes engulfing the entire planet."
+  },
+  {
+    "id": 608,
+    "fact": "Neptune is the windiest planet, with gusts reaching 2,100 kilometers per hour."
+  },
+  {
+    "id": 609,
+    "fact": "Uranus rotates nearly on its side, with an axial tilt of 98 degrees."
+  },
+  {
+    "id": 610,
+    "fact": "Mercury has no known moons."
+  },
+  {
+    "id": 611,
+    "fact": "Titan is the only moon with a substantial, dense atmosphere."
+  },
+  {
+    "id": 612,
+    "fact": "The 'Andromeda Galaxy' is the nearest major galaxy to the Milky Way."
+  },
+  {
+    "id": 613,
+    "fact": "Black holes do not 'suck' in material, they have a gravitational pull just like any other object of similar mass."
+  },
+  {
+    "id": 614,
+    "fact": "The 'Milky Way' is a barred spiral galaxy."
+  },
+  {
+    "id": 615,
+    "fact": "Our solar system orbits the center of the Milky Way once every 230 million years."
+  },
+  {
+    "id": 616,
+    "fact": "The 'Big Bang' theory states the universe began 13.8 billion years ago."
+  },
+  {
+    "id": 617,
+    "fact": "The 'Hubble Space Telescope' has helped determine the age of the universe."
+  },
+  {
+    "id": 618,
+    "fact": "The 'James Webb Space Telescope' detects infrared light, enabling it to see through cosmic dust."
+  },
+  {
+    "id": 619,
+    "fact": "A light-year is the distance light travels in one vacuum year, roughly 9.46 trillion kilometers."
+  },
+  {
+    "id": 620,
+    "fact": "The 'Sun' accounts for 99.8% of the total mass of the solar system."
+  },
+  {
+    "id": 621,
+    "fact": "The 'Moon's' phases are caused by its changing position relative to the Sun and Earth."
+  },
+  {
+    "id": 622,
+    "fact": "Solar eclipses occur when the Moon passes between the Sun and Earth."
+  },
+  {
+    "id": 623,
+    "fact": "Lunar eclipses occur when Earth passes between the Sun and the Moon."
+  },
+  {
+    "id": 624,
+    "fact": "Comets are often described as 'dirty snowballs' made of ice and dust."
+  },
+  {
+    "id": 625,
+    "fact": "Asteroids are rocky remnants from the formation of the solar system."
+  },
+  {
+    "id": 626,
+    "fact": "The 'Oort Cloud' is a theoretical shell of icy objects surrounding the solar system."
+  },
+  {
+    "id": 627,
+    "fact": "The 'Kuiper Belt' is a region beyond Neptune containing icy bodies."
+  },
+  {
+    "id": 628,
+    "fact": "A 'supernova' is the explosive death of a massive star."
+  },
+  {
+    "id": 629,
+    "fact": "A 'neutron star' is the extremely dense core remaining after a supernova."
+  },
+  {
+    "id": 630,
+    "fact": "A 'white dwarf' is the cooling core of a star like our Sun."
+  },
+  {
+    "id": 631,
+    "fact": "A 'black hole' is a region where gravity is so strong that not even light can escape."
+  },
+  {
+    "id": 632,
+    "fact": "The 'Event Horizon' is the boundary around a black hole from which no light can return."
+  },
+  {
+    "id": 633,
+    "fact": "Stars are formed in massive clouds of gas and dust called nebulae."
+  },
+  {
+    "id": 634,
+    "fact": "The 'Pillars of Creation' are part of the Eagle Nebula."
+  },
+  {
+    "id": 635,
+    "fact": "Galaxies are grouped into clusters and superclusters."
+  },
+  {
+    "id": 636,
+    "fact": "The 'Local Group' includes our Milky Way and Andromeda."
+  },
+  {
+    "id": 637,
+    "fact": "The 'Virgo Cluster' is a large galaxy cluster containing over 1,000 galaxies."
+  },
+  {
+    "id": 638,
+    "fact": "Dark matter is invisible matter that makes up about 27% of the universe."
+  },
+  {
+    "id": 639,
+    "fact": "Dark energy is a mysterious force accelerating the expansion of the universe."
+  },
+  {
+    "id": 640,
+    "fact": "The universe is composed of 5% ordinary matter, 27% dark matter, and 68% dark energy."
+  },
+  {
+    "id": 641,
+    "fact": "Redshift is the observation that light from distant galaxies shifts toward the red end of the spectrum as they move away."
+  },
+  {
+    "id": 642,
+    "fact": "The 'Cosmic Microwave Background' is the oldest light in the universe, dating back to 380,000 years after the Big Bang."
+  },
+  {
+    "id": 643,
+    "fact": "Space is not a perfect vacuum; it contains low-density particles, gas, and dust."
+  },
+  {
+    "id": 644,
+    "fact": "The 'Sun' rotates, but not as a solid body; its equator rotates faster than its poles."
+  },
+  {
+    "id": 645,
+    "fact": "Sunspots are cooler regions on the Sun's photosphere, caused by intense magnetic activity."
+  },
+  {
+    "id": 646,
+    "fact": "Solar flares are intense bursts of radiation associated with active sunspot regions."
+  },
+  {
+    "id": 647,
+    "fact": "The 'heliosphere' creates a protective bubble around our solar system."
+  },
+  {
+    "id": 648,
+    "fact": "Voyager 1 is currently in interstellar space."
+  },
+  {
+    "id": 649,
+    "fact": "Voyager 2 is also in interstellar space, having visited all four gas giant planets."
+  },
+  {
+    "id": 650,
+    "fact": "Gravity assists are used by spacecraft to gain speed by using a planet's gravity."
+  },
+  {
+    "id": 651,
+    "fact": "The first human to orbit Earth was Yuri Gagarin in 1961."
+  },
+  {
+    "id": 652,
+    "fact": "Neil Armstrong was the first person to walk on the Moon in 1969."
+  },
+  {
+    "id": 653,
+    "fact": "The Apollo program resulted in 12 humans walking on the Moon."
+  },
+  {
+    "id": 654,
+    "fact": "Space suits provide oxygen, pressure, and protection from radiation and extreme temperatures."
+  },
+  {
+    "id": 655,
+    "fact": "Astronauts on the ISS experience weightlessness because they are in a constant state of freefall."
+  },
+  {
+    "id": 656,
+    "fact": "Low Earth orbit (LEO) ranges from about 160 to 2,000 kilometers above Earth."
+  },
+  {
+    "id": 657,
+    "fact": "The 'Great Attractor' pulls the galaxies within the Laniakea Supercluster toward it."
+  },
+  {
+    "id": 658,
+    "fact": "A 'parsec' is equal to 3.26 light-years, which is the distance at which one astronomical unit subtends an angle of one arcsecond."
+  },
+  {
+    "id": 659,
+    "fact": "Stars on the main sequence are fusing hydrogen into helium in their cores."
+  },
+  {
+    "id": 660,
+    "fact": "The Hertzsprung-Russell diagram shows the relationship between a star's brightness and its color/temperature."
+  },
+  {
+    "id": 661,
+    "fact": "Red giants are stars that have run out of hydrogen in their core and have expanded."
+  },
+  {
+    "id": 662,
+    "fact": "Planetary nebulae have no relation to planets; they were named due to their resemblance to planets in small telescopes."
+  },
+  {
+    "id": 663,
+    "fact": "A pulsar's beam acts like a lighthouse, sweeping across space as the star rotates."
+  },
+  {
+    "id": 664,
+    "fact": "The 'Magnetar' has the strongest known magnetic fields in the universe."
+  },
+  {
+    "id": 665,
+    "fact": "Quasars were originally thought to be 'quasi-stellar' radio sources because they appeared like stars in telescopes."
+  },
+  {
+    "id": 666,
+    "fact": "Black holes have a radius known as the Schwarzschild radius."
+  },
+  {
+    "id": 667,
+    "fact": "Spaghettification happens when the tidal force difference between the feet and head is extreme near a black hole."
+  },
+  {
+    "id": 668,
+    "fact": "The 'Great Red Spot' on Jupiter is an anticyclonic storm."
+  },
+  {
+    "id": 669,
+    "fact": "Titan has rivers and lakes of liquid methane and ethane."
+  },
+  {
+    "id": 670,
+    "fact": "Europa is covered in a thick shell of water ice that is likely cracked from the gravity of Jupiter."
+  },
+  {
+    "id": 671,
+    "fact": "The 'Sun' has a lifespan of about 10 billion years, and it is currently about 4.6 billion years old."
+  },
+  {
+    "id": 672,
+    "fact": "The 'Moon' is spiraling away from Earth at about 3.8 centimeters per year."
+  },
+  {
+    "id": 673,
+    "fact": "Tidal locking is common for moons orbiting gas giants."
+  },
+  {
+    "id": 674,
+    "fact": "Venus is the hottest planet in the solar system, even hotter than Mercury, due to its greenhouse effect."
+  },
+  {
+    "id": 675,
+    "fact": "Mars has thin ice caps made of both water ice and dry ice (frozen carbon dioxide)."
+  },
+  {
+    "id": 676,
+    "fact": "The rings of Saturn are very thin, often less than 100 meters thick in some places."
+  },
+  {
+    "id": 677,
+    "fact": "Uranus's moons are named after characters in the works of William Shakespeare and Alexander Pope."
+  },
+  {
+    "id": 678,
+    "fact": "Neptune's moon Triton is one of the coldest objects in the solar system."
+  },
+  {
+    "id": 679,
+    "fact": "Pluto's moon Charon is so large relative to Pluto that they orbit a point in space between them."
+  },
+  {
+    "id": 680,
+    "fact": "Ceres is both an asteroid and a dwarf planet."
+  },
+  {
+    "id": 681,
+    "fact": "The 'asteroid belt' contains millions of asteroids, but their combined mass is very small."
+  },
+  {
+    "id": 682,
+    "fact": "The 'Kirkwood gaps' are regions in the asteroid belt with very few asteroids due to gravitational resonance with Jupiter."
+  },
+  {
+    "id": 683,
+    "fact": "Comets have two tails: one of ionized gas and one of dust, both pointing away from the Sun due to solar wind and pressure."
+  },
+  {
+    "id": 684,
+    "fact": "Meteor showers occur when Earth passes through the trail of debris left by a comet."
+  },
+  {
+    "id": 685,
+    "fact": "The 'Perseids' is a popular meteor shower occurring annually in August."
+  },
+  {
+    "id": 686,
+    "fact": "The 'Leonids' meteor shower is famous for its occasional spectacular meteor storms."
+  },
+  {
+    "id": 687,
+    "fact": "A 'meteor' is the flash of light; a 'meteoroid' is the particle in space; a 'meteorite' is the object that reaches Earth's surface."
+  },
+  {
+    "id": 688,
+    "fact": "Impact craters on Earth are often eroded over time, but they remain clearly visible on the Moon."
+  },
+  {
+    "id": 689,
+    "fact": "The 'Barringer Crater' in Arizona is one of the best-preserved impact craters on Earth."
+  },
+  {
+    "id": 690,
+    "fact": "The 'Chicxulub' crater is believed to be the impact site of the asteroid that caused the extinction of the dinosaurs."
+  },
+  {
+    "id": 691,
+    "fact": "The 'Sun' emits energy through nuclear fusion of hydrogen into helium."
+  },
+  {
+    "id": 692,
+    "fact": "The 'Sun's' core temperature is about 15 million degrees Celsius."
+  },
+  {
+    "id": 693,
+    "fact": "The 'photosphere' is the visible surface of the Sun."
+  },
+  {
+    "id": 694,
+    "fact": "The 'chromosphere' is a layer above the photosphere."
+  },
+  {
+    "id": 695,
+    "fact": "The 'corona' is the outer atmosphere of the Sun, visible during a total solar eclipse."
+  },
+  {
+    "id": 696,
+    "fact": "Solar flares can cause geomagnetic storms that affect Earth's satellites and power grids."
+  },
+  {
+    "id": 697,
+    "fact": "The 'Aurora Borealis' and 'Aurora Australis' are caused by charged solar particles interacting with Earth's magnetic field."
+  },
+  {
+    "id": 698,
+    "fact": "The 'magnetic poles' of Earth are not stationary and drift over time."
+  },
+  {
+    "id": 699,
+    "fact": "The 'Van Allen radiation belts' are regions of high-energy particles trapped by Earth's magnetic field."
+  },
+  {
+    "id": 700,
+    "fact": "The 'International Space Station' is a collaborative effort between space agencies from the US, Russia, Europe, Japan, and Canada."
+  },
+  {
+    "id": 701,
+    "fact": "A 'parsec' (pc) is equivalent to approximately 3.086 times 10 to the power of 16 meters."
+  },
+  {
+    "id": 702,
+    "fact": "The 'Laniakea Supercluster' is our galactic home supercluster, spanning 500 million light-years."
+  },
+  {
+    "id": 703,
+    "fact": "The 'Great Attractor' is a gravity anomaly in the Laniakea Supercluster that affects the motion of galaxies."
+  },
+  {
+    "id": 704,
+    "fact": "A 'type Ia supernova' is used as a 'standard candle' because it always reaches the same maximum luminosity."
+  },
+  {
+    "id": 705,
+    "fact": "The 'heliosphere' extends to approximately 100 astronomical units from the Sun."
+  },
+  {
+    "id": 706,
+    "fact": "A 'zodiacal light' is most visible in the west after sunset or in the east before sunrise."
+  },
+  {
+    "id": 707,
+    "fact": "A 'white hole' is a mathematical solution to general relativity that has not been physically observed."
+  },
+  {
+    "id": 708,
+    "fact": "The 'Trojan asteroids' of Jupiter reside at the L4 and L5 Lagrangian points."
+  },
+  {
+    "id": 709,
+    "fact": "The 'Interstellar Medium' (ISM) accounts for about 10-15% of the visible mass of the Milky Way."
+  },
+  {
+    "id": 710,
+    "fact": "The 'Chandrasekhar limit' is crucial for understanding why some stars explode as supernovae and others don't."
+  },
+  {
+    "id": 711,
+    "fact": "A 'circumstellar disk' provides the raw material from which planets are formed."
+  },
+  {
+    "id": 712,
+    "fact": "The 'Great Annihilator' is located in the galactic bulge of the Milky Way."
+  },
+  {
+    "id": 713,
+    "fact": "Variable stars can be used to determine distances to distant galaxies."
+  },
+  {
+    "id": 714,
+    "fact": "The 'Oort Cloud' is thought to be where long-period comets spend most of their time."
+  },
+  {
+    "id": 715,
+    "fact": "Spaghettification is a consequence of the extreme gradient of a black hole's gravitational field."
+  },
+  {
+    "id": 716,
+    "fact": "The 'Habitable Zone' (or Goldilocks Zone) is where the stellar flux allows water to remain in liquid form."
+  },
+  {
+    "id": 717,
+    "fact": "The 'Local Group' galaxies are held together by gravity but are moving toward each other."
+  },
+  {
+    "id": 718,
+    "fact": "A 'magnetar's' magnetic field can be 1,000 trillion times stronger than Earth's."
+  },
+  {
+    "id": 719,
+    "fact": "The 'Cosmic Web' is the largest scale structure found in the universe."
+  },
+  {
+    "id": 720,
+    "fact": "Tidal locking explains why the Moon shows only one side to the Earth."
+  },
+  {
+    "id": 721,
+    "fact": "A 'brown dwarf' occupies the gap between the largest planets and the smallest stars."
+  },
+  {
+    "id": 722,
+    "fact": "The 'Kármán line' is technically at 100 kilometers, but the atmosphere continues to fade for hundreds of kilometers more."
+  },
+  {
+    "id": 723,
+    "fact": "The 'Great Dark Spot' on Neptune was once the size of Earth but disappeared in the 1990s."
+  },
+  {
+    "id": 724,
+    "fact": "An 'exoplanet' was first confirmed orbiting a sun-like star in 1995 (51 Pegasi b)."
+  },
+  {
+    "id": 725,
+    "fact": "The 'Hubble Deep Field' showed that even the emptiest patches of sky are filled with thousands of galaxies."
+  },
+  {
+    "id": 726,
+    "fact": "A 'pulsar's' rotation period remains incredibly stable over millions of years."
+  },
+  {
+    "id": 727,
+    "fact": "The 'Solar wind' can strip away the atmospheres of planets that lack a strong magnetic field."
+  },
+  {
+    "id": 728,
+    "fact": "The 'Kuiper Belt' contains objects made mostly of frozen water, methane, and ammonia."
+  },
+  {
+    "id": 729,
+    "fact": "Stellar nucleosynthesis is the reason why the universe contains elements heavier than lithium."
+  },
+  {
+    "id": 730,
+    "fact": "A 'quiescent galaxy' is often called a 'dead' or 'red and dead' galaxy."
+  },
+  {
+    "id": 731,
+    "fact": "The 'Galactic Center' is where the density of stars is highest in the Milky Way."
+  },
+  {
+    "id": 732,
+    "fact": "A 'light echo' shows how light travels from a distant event and is scattered back to us by cosmic material."
+  },
+  {
+    "id": 733,
+    "fact": "The 'Roche limit' is why Saturn's rings are located exactly where they are; if they were closer, they would be pulled into the planet."
+  },
+  {
+    "id": 734,
+    "fact": "The 'Virgo Cluster' contains over 1,300 known galaxies."
+  },
+  {
+    "id": 735,
+    "fact": "The 'Hertzsprung-Russell diagram' was independently developed by Ejnar Hertzsprung and Henry Norris Russell."
+  },
+  {
+    "id": 736,
+    "fact": "A 'planetary nebula' will dissipate into space in about 10,000 to 20,000 years."
+  },
+  {
+    "id": 737,
+    "fact": "The 'Great Red Spot' on Jupiter rotates once every 6 Earth days."
+  },
+  {
+    "id": 738,
+    "fact": "The 'Cosmic Microwave Background' radiation is incredibly uniform, with variations of only one part in 100,000."
+  },
+  {
+    "id": 739,
+    "fact": "A 'protostar' is often shrouded in a thick cocoon of dust and gas."
+  },
+  {
+    "id": 740,
+    "fact": "The 'CNO cycle' (carbon-nitrogen-oxygen) is the dominant source of energy for stars more massive than 1.3 times the Sun."
+  },
+  {
+    "id": 741,
+    "fact": "The 'Lagrange point' L2 is where the James Webb Space Telescope is positioned, allowing it to stay in the shadow of Earth."
+  },
+  {
+    "id": 742,
+    "fact": "A 'nebula' can be an emission, reflection, or dark nebula depending on its interaction with light."
+  },
+  {
+    "id": 743,
+    "fact": "The 'Sun's corona' has a temperature of 1 to 3 million degrees Celsius."
+  },
+  {
+    "id": 744,
+    "fact": "The 'Great Attractor' is likely the gravitational focal point of the Laniakea Supercluster."
+  },
+  {
+    "id": 745,
+    "fact": "A 'Type II supernova' is also called a core-collapse supernova."
+  },
+  {
+    "id": 746,
+    "fact": "The 'Galactic Year' is also known as a 'Cosmic Year.'"
+  },
+  {
+    "id": 747,
+    "fact": "A 'geosynchronous orbit' is often used for communication satellites."
+  },
+  {
+    "id": 748,
+    "fact": "The 'Oort Cloud' has never been directly observed, but its existence is strongly supported by the orbits of comets."
+  },
+  {
+    "id": 749,
+    "fact": "A 'light-second' is a useful distance unit for high-speed celestial events."
+  },
+  {
+    "id": 750,
+    "fact": "The 'Pillars of Creation' were famously imaged by the Hubble Space Telescope in 1995."
+  },
+  {
+    "id": 751,
+    "fact": "A 'supermassive black hole' is believed to govern the growth of its host galaxy."
+  },
+  {
+    "id": 752,
+    "fact": "The 'Dwarf planet' Eris is more massive than Pluto, leading to the reclassification of Pluto in 2006."
+  },
+  {
+    "id": 753,
+    "fact": "The 'Interplanetary Magnetic Field' is dragged along by the solar wind, creating a spiral shape called the Parker Spiral."
+  },
+  {
+    "id": 754,
+    "fact": "The 'Andromeda Galaxy' is roughly 2.5 million light-years away from Earth."
+  },
+  {
+    "id": 755,
+    "fact": "A 'solar flare' can disrupt radio communications on Earth."
+  },
+  {
+    "id": 756,
+    "fact": "The 'Hubble tension' is one of the most significant problems in modern cosmology."
+  },
+  {
+    "id": 757,
+    "fact": "A 'white dwarf' will eventually cool and fade into a black dwarf over trillions of years."
+  },
+  {
+    "id": 758,
+    "fact": "The 'Heliosphere' effectively defines the 'boundary' of our solar system's environment."
+  },
+  {
+    "id": 759,
+    "fact": "The 'Zodiac' constellations are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces."
+  },
+  {
+    "id": 760,
+    "fact": "A 'black dwarf' is a purely theoretical object since the universe is not old enough for any to exist yet."
+  },
+  {
+    "id": 761,
+    "fact": "The 'Local Void' is about 150 million light-years in diameter."
+  },
+  {
+    "id": 762,
+    "fact": "The 'Big Freeze' is also known as 'Heat Death' of the universe."
+  },
+  {
+    "id": 763,
+    "fact": "The 'Rayleigh-Taylor instability' occurs when a lighter fluid is pushed into a heavier fluid."
+  },
+  {
+    "id": 764,
+    "fact": "The 'Tidal heating' on Europa is strong enough to keep a sub-surface ocean liquid for billions of years."
+  },
+  {
+    "id": 765,
+    "fact": "The 'Magnetosphere' of Earth is what makes our planet habitable by protecting us from the solar wind."
+  },
+  {
+    "id": 766,
+    "fact": "The 'Great Red Spot' on Jupiter has been monitored by scientists for hundreds of years."
+  },
+  {
+    "id": 767,
+    "fact": "A 'binary pulsar' system was the first experimental proof of the existence of gravitational waves."
+  },
+  {
+    "id": 768,
+    "fact": "The 'Oort Cloud' may extend up to 100,000 astronomical units from the Sun."
+  },
+  {
+    "id": 769,
+    "fact": "A 'galaxy' is essentially a city of stars, gas, and dark matter."
+  },
+  {
+    "id": 770,
+    "fact": "The 'Cosmic Web' filaments act as 'highways' for matter to flow into galaxy clusters."
+  },
+  {
+    "id": 771,
+    "fact": "A 'neutron star's' crust is made of iron nuclei and electrons."
+  },
+  {
+    "id": 772,
+    "fact": "The 'Solar System' is located in the Orion Arm of the Milky Way galaxy."
+  },
+  {
+    "id": 773,
+    "fact": "A 'quasar' emits more energy than hundreds of galaxies combined."
+  },
+  {
+    "id": 774,
+    "fact": "The 'Great Attractor' is a massive gravitational basin for galaxies in our region of the universe."
+  },
+  {
+    "id": 775,
+    "fact": "A 'molecular cloud' is cold enough for molecules to form, which is essential for stars to eventually birth."
+  },
+  {
+    "id": 776,
+    "fact": "The 'Galactic halo' contains the globular clusters that orbit the Milky Way."
+  },
+  {
+    "id": 777,
+    "fact": "A 'lensing effect' can reveal distant, faint galaxies that would otherwise be invisible to even the most powerful telescopes."
+  },
+  {
+    "id": 778,
+    "fact": "The 'Kuiper Belt' is where many short-period comets originate."
+  },
+  {
+    "id": 779,
+    "fact": "A 'brown dwarf' emits mostly infrared light because it does not fuse hydrogen."
+  },
+  {
+    "id": 780,
+    "fact": "The 'Cosmic Microwave Background' radiation is basically the 'afterglow' of the Big Bang."
+  },
+  {
+    "id": 781,
+    "fact": "A 'nova' is not the same as a 'supernova'; a supernova destroys the star, while a nova just involves an explosion on the surface."
+  },
+  {
+    "id": 782,
+    "fact": "The 'Heliopause' is where the solar wind's pressure equals the interstellar pressure."
+  },
+  {
+    "id": 783,
+    "fact": "A 'super-Earth' is sometimes called a 'gas dwarf' if its atmosphere is particularly thick."
+  },
+  {
+    "id": 784,
+    "fact": "The 'Local Group' consists of two main subgroups: the Milky Way subgroup and the Andromeda subgroup."
+  },
+  {
+    "id": 785,
+    "fact": "A 'pulsar' is a rotating neutron star with an incredibly precise rotation rate."
+  },
+  {
+    "id": 786,
+    "fact": "The 'Dark Matter' is non-baryonic, meaning it is not made of protons, neutrons, or electrons."
+  },
+  {
+    "id": 787,
+    "fact": "A 'supermassive black hole' at the center of a galaxy can be millions of times the mass of the Sun."
+  },
+  {
+    "id": 788,
+    "fact": "The 'Sun's' photosphere is the layer where the temperature drops to about 5,500 degrees Celsius."
+  },
+  {
+    "id": 789,
+    "fact": "A 'planetary nebula' is one of the most visually stunning objects in space."
+  },
+  {
+    "id": 790,
+    "fact": "The 'Great Attractor' is moving the Milky Way at a velocity of 600 kilometers per second."
+  },
+  {
+    "id": 791,
+    "fact": "A 'Type Ia supernova' can be detected in galaxies billions of light-years away."
+  },
+  {
+    "id": 792,
+    "fact": "The 'Galactic Plane' is a very thin disk compared to the total size of the galaxy."
+  },
+  {
+    "id": 793,
+    "fact": "A 'geostationary orbit' is only possible above the Earth's equator."
+  },
+  {
+    "id": 794,
+    "fact": "The 'Oort Cloud' is thought to be where comets are held in a long-period stable orbit."
+  },
+  {
+    "id": 795,
+    "fact": "A 'light-second' is approximately 299,792 kilometers."
+  },
+  {
+    "id": 796,
+    "fact": "The 'Pillars of Creation' are part of a larger nebula called M16."
+  },
+  {
+    "id": 797,
+    "fact": "A 'supermassive black hole' can cause stars orbiting it to move at relativistic speeds."
+  },
+  {
+    "id": 798,
+    "fact": "The 'Dwarf planet' Eris was nicknamed 'Xena' by its discovery team before its official name."
+  },
+  {
+    "id": 799,
+    "fact": "The 'Interplanetary Magnetic Field' protects the inner planets from high-energy interstellar cosmic rays."
+  },
+  {
+    "id": 800,
+    "fact": "The 'Andromeda Galaxy' is expected to merge with the Milky Way to form a giant elliptical galaxy called 'Milkomeda'."
+  },
+  {
+    "id": 801,
+    "fact": "The 'Moon's' rotation rate is identical to its orbital period, leading to tidal locking."
+  },
+  {
+    "id": 802,
+    "fact": "The 'Moon's' crust is primarily composed of silicate rocks like anorthosite."
+  },
+  {
+    "id": 803,
+    "fact": "The 'Moon's' surface is bombarded by solar wind, which implants helium-3 into its regolith."
+  },
+  {
+    "id": 804,
+    "fact": "The 'Moon's' maria are vast basins formed by lava flooding ancient impact craters."
+  },
+  {
+    "id": 805,
+    "fact": "The 'Moon's' lack of an atmosphere means it cannot redistribute heat, causing extreme temperature differences."
+  },
+  {
+    "id": 806,
+    "fact": "The 'Moon's' southern pole features the South Pole-Aitken basin, one of the largest impact structures in the solar system."
+  },
+  {
+    "id": 807,
+    "fact": "The 'Moon's' gravity is strong enough to influence the Earth's tides and even slow its rotation over time."
+  },
+  {
+    "id": 808,
+    "fact": "The 'Sun' produces energy through the proton-proton chain in its core."
+  },
+  {
+    "id": 809,
+    "fact": "The 'Sun''s magnetic field switches polarity every 11 years, marking the peak of the solar cycle."
+  },
+  {
+    "id": 810,
+    "fact": "The 'Sun's' photosphere exhibits granulation, which are small-scale convection cells."
+  },
+  {
+    "id": 811,
+    "fact": "The 'Sun' loses mass via the solar wind at a rate of 1.3 million tons per second."
+  },
+  {
+    "id": 812,
+    "fact": "The 'Sun' will eventually expand into a red giant and swallow Mercury, Venus, and possibly Earth."
+  },
+  {
+    "id": 813,
+    "fact": "The 'Sun's' energy takes thousands of years to travel from the core to the surface through the radiative zone."
+  },
+  {
+    "id": 814,
+    "fact": "The 'Sun' is a spectral class G2V star, making it a yellow dwarf."
+  },
+  {
+    "id": 815,
+    "fact": "The 'Sun' is situated roughly 26,000 light-years from the center of the Milky Way."
+  },
+  {
+    "id": 816,
+    "fact": "The 'Milky Way' galaxy is roughly 100,000 light-years across."
+  },
+  {
+    "id": 817,
+    "fact": "The 'Milky Way' has a thick central bulge of older stars."
+  },
+  {
+    "id": 818,
+    "fact": "The 'Milky Way' is constantly consuming smaller, satellite galaxies."
+  },
+  {
+    "id": 819,
+    "fact": "The 'Milky Way' contains several billion stars, but we can only see a small fraction of them without a telescope."
+  },
+  {
+    "id": 820,
+    "fact": "The 'Andromeda Galaxy' is moving toward the Milky Way at 110 kilometers per second."
+  },
+  {
+    "id": 821,
+    "fact": "The 'Andromeda Galaxy' contains approximately 1 trillion stars."
+  },
+  {
+    "id": 822,
+    "fact": "The 'Andromeda Galaxy' has its own system of satellite galaxies."
+  },
+  {
+    "id": 823,
+    "fact": "The 'Andromeda Galaxy' was once thought to be a nebula within our own galaxy until Edwin Hubble proved it was a separate system."
+  },
+  {
+    "id": 824,
+    "fact": "The 'Big Bang' theory is supported by the discovery of the Cosmic Microwave Background radiation."
+  },
+  {
+    "id": 825,
+    "fact": "The 'Big Bang' suggests the universe began as a singularity."
+  },
+  {
+    "id": 826,
+    "fact": "The 'Big Bang' expansion is not moving through space; space itself is expanding."
+  },
+  {
+    "id": 827,
+    "fact": "The 'Big Bang' produced mostly hydrogen and helium in the early universe."
+  },
+  {
+    "id": 828,
+    "fact": "The 'Big Bang' was followed by an inflationary period of rapid expansion."
+  },
+  {
+    "id": 829,
+    "fact": "The 'Hubble Space Telescope' orbits at an altitude of about 540 kilometers."
+  },
+  {
+    "id": 830,
+    "fact": "The 'Hubble Space Telescope' has taken over 1.5 million observations."
+  },
+  {
+    "id": 831,
+    "fact": "The 'Hubble Space Telescope' had five servicing missions by the Space Shuttle to upgrade its instruments."
+  },
+  {
+    "id": 832,
+    "fact": "The 'James Webb Space Telescope' has a primary mirror 6.5 meters in diameter."
+  },
+  {
+    "id": 833,
+    "fact": "The 'James Webb Space Telescope' is located at the L2 Lagrange point, 1.5 million kilometers from Earth."
+  },
+  {
+    "id": 834,
+    "fact": "The 'James Webb Space Telescope' is designed to see the very first stars and galaxies formed after the Big Bang."
+  },
+  {
+    "id": 835,
+    "fact": "A 'light-year' is a unit of length, not time."
+  },
+  {
+    "id": 836,
+    "fact": "A 'light-year' is the distance light travels in 365.25 days."
+  },
+  {
+    "id": 837,
+    "fact": "Light travels at approximately 299,792 kilometers per second in a vacuum."
+  },
+  {
+    "id": 838,
+    "fact": "The 'Moon' is about 1.28 light-seconds away from Earth."
+  },
+  {
+    "id": 839,
+    "fact": "The 'Sun' is about 8 light-minutes and 20 seconds away from Earth."
+  },
+  {
+    "id": 840,
+    "fact": "The 'Andromeda Galaxy' is 2.5 million light-years away from Earth."
+  },
+  {
+    "id": 841,
+    "fact": "A 'solar eclipse' occurs when the Moon's shadow falls on Earth."
+  },
+  {
+    "id": 842,
+    "fact": "A 'total solar eclipse' can only occur because the Sun is 400 times larger than the Moon and 400 times farther away."
+  },
+  {
+    "id": 843,
+    "fact": "A 'lunar eclipse' happens only during a full moon."
+  },
+  {
+    "id": 844,
+    "fact": "A 'lunar eclipse' turns the Moon a dark red color, often called a 'blood moon.'"
+  },
+  {
+    "id": 845,
+    "fact": "The 'Oort Cloud' is hypothesized to contain billions of comets."
+  },
+  {
+    "id": 846,
+    "fact": "Comets have tails that always point away from the Sun due to the solar wind."
+  },
+  {
+    "id": 847,
+    "fact": "The 'Halley's Comet' visits the inner solar system every 75 to 76 years."
+  },
+  {
+    "id": 848,
+    "fact": "An 'asteroid' is a rocky object that orbits the Sun but is too small to be a planet."
+  },
+  {
+    "id": 849,
+    "fact": "The 'Asteroid Belt' is between Mars and Jupiter."
+  },
+  {
+    "id": 850,
+    "fact": "A 'supernova' is one of the most energetic events in the universe."
+  },
+  {
+    "id": 851,
+    "fact": "A 'Type Ia supernova' occurs in binary systems."
+  },
+  {
+    "id": 852,
+    "fact": "A 'neutron star' is created after a massive star's supernova."
+  },
+  {
+    "id": 853,
+    "fact": "A 'neutron star' is about 20 kilometers in diameter but contains more mass than the Sun."
+  },
+  {
+    "id": 854,
+    "fact": "A 'white dwarf' has the density of a ton per teaspoonful."
+  },
+  {
+    "id": 855,
+    "fact": "A 'white dwarf' is about the size of Earth."
+  },
+  {
+    "id": 856,
+    "fact": "A 'black hole' has an event horizon from which no information can escape."
+  },
+  {
+    "id": 857,
+    "fact": "The 'Milky Way' is a spiral galaxy."
+  },
+  {
+    "id": 858,
+    "fact": "The 'Milky Way' has several spiral arms."
+  },
+  {
+    "id": 859,
+    "fact": "The 'Dark Matter' in a galaxy provides the mass needed to explain why stars at the edge move as fast as stars near the center."
+  },
+  {
+    "id": 860,
+    "fact": "The 'Dark Energy' is accelerating the expansion of the universe."
+  },
+  {
+    "id": 861,
+    "fact": "The 'Big Freeze' implies the universe will eventually run out of usable energy."
+  },
+  {
+    "id": 862,
+    "fact": "The 'Sun's' photosphere is about 5,500 degrees Celsius."
+  },
+  {
+    "id": 863,
+    "fact": "Sunspots appear dark because they are cooler than the surrounding area."
+  },
+  {
+    "id": 864,
+    "fact": "The 'heliosphere' is a cavity formed by the solar wind."
+  },
+  {
+    "id": 865,
+    "fact": "Voyager 1 was launched in 1977 and is currently the farthest man-made object."
+  },
+  {
+    "id": 866,
+    "fact": "Gravity assist is a technique used to reach the outer planets efficiently."
+  },
+  {
+    "id": 867,
+    "fact": "The first human to orbit Earth, Yuri Gagarin, spent 108 minutes in space."
+  },
+  {
+    "id": 868,
+    "fact": "Apollo 11 landed on the Moon in July 1969."
+  },
+  {
+    "id": 869,
+    "fact": "The Moon's gravity is 16.5% of Earth's gravity."
+  },
+  {
+    "id": 870,
+    "fact": "The 'ISS' orbits at 27,600 kilometers per hour."
+  },
+  {
+    "id": 871,
+    "fact": "LEO is the orbit where most satellites are located."
+  },
+  {
+    "id": 872,
+    "fact": "A 'parsec' is approximately 3.0857 times 10 to the 16th meters."
+  },
+  {
+    "id": 873,
+    "fact": "The 'Laniakea Supercluster' contains 100,000 galaxies."
+  },
+  {
+    "id": 874,
+    "fact": "Type Ia supernovae occur when a white dwarf exceeds the Chandrasekhar limit."
+  },
+  {
+    "id": 875,
+    "fact": "The 'Zodiacal light' is visible from very dark skies."
+  },
+  {
+    "id": 876,
+    "fact": "A 'white hole' is a hypothetical region of space-time."
+  },
+  {
+    "id": 877,
+    "fact": "The 'Trojan asteroids' are held in place by the gravity of Jupiter and the Sun."
+  },
+  {
+    "id": 878,
+    "fact": "The 'ISM' consists of 99% gas and 1% dust."
+  },
+  {
+    "id": 879,
+    "fact": "The 'Chandrasekhar limit' is 1.4 solar masses."
+  },
+  {
+    "id": 880,
+    "fact": "A 'circumstellar disk' is a planetary nursery."
+  },
+  {
+    "id": 881,
+    "fact": "The 'Great Annihilator' is 10,000 light-years away."
+  },
+  {
+    "id": 882,
+    "fact": "Variable stars help map the universe."
+  },
+  {
+    "id": 883,
+    "fact": "The 'Oort Cloud' is 2,000 to 100,000 AU from the Sun."
+  },
+  {
+    "id": 884,
+    "fact": "Spaghettification is caused by tidal forces near black holes."
+  },
+  {
+    "id": 885,
+    "fact": "The 'Habitable Zone' depends on the star's luminosity."
+  },
+  {
+    "id": 886,
+    "fact": "The 'Local Group' is a gravitationally bound collection of galaxies."
+  },
+  {
+    "id": 887,
+    "fact": "A 'magnetar' can release huge bursts of gamma rays."
+  },
+  {
+    "id": 888,
+    "fact": "The 'Cosmic Web' is held together by dark matter."
+  },
+  {
+    "id": 889,
+    "fact": "Tidal locking results in one side of a moon always facing its planet."
+  },
+  {
+    "id": 890,
+    "fact": "A 'brown dwarf' is often called a 'failed star.'"
+  },
+  {
+    "id": 891,
+    "fact": "The 'Kármán line' is 100 km above sea level."
+  },
+  {
+    "id": 892,
+    "fact": "The 'Great Dark Spot' on Neptune was a high-pressure storm."
+  },
+  {
+    "id": 893,
+    "fact": "An 'exoplanet' is detected using the transit method."
+  },
+  {
+    "id": 894,
+    "fact": "The 'Hubble Deep Field' showed galaxies from billions of years ago."
+  },
+  {
+    "id": 895,
+    "fact": "A 'pulsar' rotates extremely rapidly."
+  },
+  {
+    "id": 896,
+    "fact": "The 'Solar wind' causes the aurora on planets with magnetic fields."
+  },
+  {
+    "id": 897,
+    "fact": "The 'Kuiper Belt' contains small icy bodies."
+  },
+  {
+    "id": 898,
+    "fact": "Stellar nucleosynthesis makes all elements heavier than lithium."
+  },
+  {
+    "id": 899,
+    "fact": "A 'quiescent galaxy' has little star formation."
+  },
+  {
+    "id": 900,
+    "fact": "The 'Galactic Center' is where the density of stars is highest."
+  },
+  {
+    "id": 901,
+    "fact": "The 'Moon' has a mantle and core, similar to Earth."
+  },
+  {
+    "id": 902,
+    "fact": "The 'Sun' consists of 73% hydrogen and 25% helium."
+  },
+  {
+    "id": 903,
+    "fact": "The 'Sun' is a star in the middle of its life."
+  },
+  {
+    "id": 904,
+    "fact": "The 'Milky Way' contains at least 100 billion stars."
+  },
+  {
+    "id": 905,
+    "fact": "The 'Andromeda Galaxy' is the largest member of the Local Group."
+  },
+  {
+    "id": 906,
+    "fact": "The 'Big Bang' describes the origin of space and time."
+  },
+  {
+    "id": 907,
+    "fact": "The 'Hubble Space Telescope' has helped prove dark energy exists."
+  },
+  {
+    "id": 908,
+    "fact": "The 'James Webb Space Telescope' orbits the Sun."
+  },
+  {
+    "id": 909,
+    "fact": "A 'light-year' is roughly 9.46 trillion km."
+  },
+  {
+    "id": 910,
+    "fact": "A 'total solar eclipse' lasts only a few minutes at any specific spot."
+  },
+  {
+    "id": 911,
+    "fact": "The 'Oort Cloud' contains long-period comets."
+  },
+  {
+    "id": 912,
+    "fact": "The 'Asteroid Belt' is home to dwarf planet Ceres."
+  },
+  {
+    "id": 913,
+    "fact": "A 'Type Ia supernova' has a specific brightness profile."
+  },
+  {
+    "id": 914,
+    "fact": "A 'neutron star' is incredibly compact."
+  },
+  {
+    "id": 915,
+    "fact": "A 'white dwarf' is very stable."
+  },
+  {
+    "id": 916,
+    "fact": "A 'black hole' has immense density."
+  },
+  {
+    "id": 917,
+    "fact": "The 'Milky Way' rotates once every 230 million years."
+  },
+  {
+    "id": 918,
+    "fact": "The 'Dark Matter' is essential for galaxy formation."
+  },
+  {
+    "id": 919,
+    "fact": "The 'Dark Energy' makes up the majority of the universe."
+  },
+  {
+    "id": 920,
+    "fact": "The 'Big Freeze' is a cold end to the universe."
+  },
+  {
+    "id": 921,
+    "fact": "The 'Sun's' core is where fusion happens."
+  },
+  {
+    "id": 922,
+    "fact": "Sunspots appear in cycles."
+  },
+  {
+    "id": 923,
+    "fact": "The 'heliosphere' protects the solar system."
+  },
+  {
+    "id": 924,
+    "fact": "Voyager 1's instruments were shut down to save power."
+  },
+  {
+    "id": 925,
+    "fact": "Gravity assists are key to space exploration."
+  },
+  {
+    "id": 926,
+    "fact": "The first human in space was Russian."
+  },
+  {
+    "id": 927,
+    "fact": "Apollo 11 left a lunar module on the Moon."
+  },
+  {
+    "id": 928,
+    "fact": "The Moon has no atmosphere."
+  },
+  {
+    "id": 929,
+    "fact": "The 'ISS' rotates its crew every six months."
+  },
+  {
+    "id": 930,
+    "fact": "LEO is home to thousands of satellites."
+  },
+  {
+    "id": 931,
+    "fact": "A 'parsec' is used in galactic distance measurements."
+  },
+  {
+    "id": 932,
+    "fact": "The 'Laniakea Supercluster' means 'immense heaven'."
+  },
+  {
+    "id": 933,
+    "fact": "Supernovae occur in different types."
+  },
+  {
+    "id": 934,
+    "fact": "The 'Zodiacal light' is dust in the plane of the ecliptic."
+  },
+  {
+    "id": 935,
+    "fact": "White holes remain speculative."
+  },
+  {
+    "id": 936,
+    "fact": "Trojan asteroids share a planet's orbit."
+  },
+  {
+    "id": 937,
+    "fact": "The 'ISM' is very cold."
+  },
+  {
+    "id": 938,
+    "fact": "The 'Chandrasekhar limit' defines supernova thresholds."
+  },
+  {
+    "id": 939,
+    "fact": "Circumstellar disks form planets."
+  },
+  {
+    "id": 940,
+    "fact": "The 'Great Annihilator' is a high-energy source."
+  },
+  {
+    "id": 941,
+    "fact": "Variable stars are important distance markers."
+  },
+  {
+    "id": 942,
+    "fact": "The 'Oort Cloud' is a comet reservoir."
+  },
+  {
+    "id": 943,
+    "fact": "Spaghettification is a tidal force effect."
+  },
+  {
+    "id": 944,
+    "fact": "Habitable zones are essential for life research."
+  },
+  {
+    "id": 945,
+    "fact": "The 'Local Group' is slowly expanding with the universe."
+  },
+  {
+    "id": 946,
+    "fact": "A 'magnetar' is a rare type of pulsar."
+  },
+  {
+    "id": 947,
+    "fact": "The 'Cosmic Web' is made of dark matter filaments."
+  },
+  {
+    "id": 948,
+    "fact": "Tidal locking keeps one moon side dark."
+  },
+  {
+    "id": 949,
+    "fact": "A 'brown dwarf' is a failed star."
+  },
+  {
+    "id": 950,
+    "fact": "The 'Kármán line' is 100 km altitude."
+  },
+  {
+    "id": 951,
+    "fact": "Neptune's winds are the fastest in the system."
+  },
+  {
+    "id": 952,
+    "fact": "Exoplanets are found with the transit method."
+  },
+  {
+    "id": 953,
+    "fact": "Hubble images show early galaxy structures."
+  },
+  {
+    "id": 954,
+    "fact": "Pulsars emit radiation beams."
+  },
+  {
+    "id": 955,
+    "fact": "The solar wind is a stream of charged particles."
+  },
+  {
+    "id": 956,
+    "fact": "The Kuiper Belt contains small icy bodies."
+  },
+  {
+    "id": 957,
+    "fact": "Stellar nucleosynthesis happens in stars."
+  },
+  {
+    "id": 958,
+    "fact": "Quiescent galaxies are 'red and dead'."
+  },
+  {
+    "id": 959,
+    "fact": "The Galactic Center has a massive black hole."
+  },
+  {
+    "id": 960,
+    "fact": "Light echoes occur after supernovas."
+  },
+  {
+    "id": 961,
+    "fact": "Saturn's rings are held by Roche limits."
+  },
+  {
+    "id": 962,
+    "fact": "Virgo Cluster contains many galaxies."
+  },
+  {
+    "id": 963,
+    "fact": "Hertzsprung-Russell diagrams map stellar evolution."
+  },
+  {
+    "id": 964,
+    "fact": "Planetary nebulae are beautiful dying stars."
+  },
+  {
+    "id": 965,
+    "fact": "Jupiter's Great Red Spot is shrinking."
+  },
+  {
+    "id": 966,
+    "fact": "CMB is the oldest light in the universe."
+  },
+  {
+    "id": 967,
+    "fact": "Protostars are stars in the making."
+  },
+  {
+    "id": 968,
+    "fact": "CNO cycle powers massive stars."
+  },
+  {
+    "id": 969,
+    "fact": "L2 Lagrange point is for telescopes."
+  },
+  {
+    "id": 970,
+    "fact": "Emission nebulae glow with ionized gas."
+  },
+  {
+    "id": 971,
+    "fact": "The Sun's corona is incredibly hot."
+  },
+  {
+    "id": 972,
+    "fact": "The Great Attractor is a gravitational center."
+  },
+  {
+    "id": 973,
+    "fact": "Type II supernovas are core-collapse events."
+  },
+  {
+    "id": 974,
+    "fact": "A cosmic year is 230 million years."
+  },
+  {
+    "id": 975,
+    "fact": "Geosynchronous orbits are used for TV."
+  },
+  {
+    "id": 976,
+    "fact": "Oort cloud comets travel very far."
+  },
+  {
+    "id": 977,
+    "fact": "Light-seconds are small units of distance."
+  },
+  {
+    "id": 978,
+    "fact": "Pillars of Creation are a star-forming region."
+  },
+  {
+    "id": 979,
+    "fact": "Supermassive black holes reside in galaxy cores."
+  },
+  {
+    "id": 980,
+    "fact": "Eris was the dwarf planet that ended Pluto's planet status."
+  },
+  {
+    "id": 981,
+    "fact": "The Sun has a temperature of about 5,778 Kelvin at its surface."
+  },
+  {
+    "id": 982,
+    "fact": "A 'year' on Mars is about 687 Earth days."
+  },
+  {
+    "id": 983,
+    "fact": "The 'Moon' is moving about 3.8 cm further from Earth every year."
+  },
+  {
+    "id": 984,
+    "fact": "Mercury has very little atmosphere."
+  },
+  {
+    "id": 985,
+    "fact": "Venus is covered in dense clouds."
+  },
+  {
+    "id": 986,
+    "fact": "Earth is the only planet with known life."
+  },
+  {
+    "id": 987,
+    "fact": "Mars has the highest mountain in the solar system, Olympus Mons."
+  },
+  {
+    "id": 988,
+    "fact": "Jupiter has the most moons of any planet."
+  },
+  {
+    "id": 989,
+    "fact": "Saturn has the most complex ring system."
+  },
+  {
+    "id": 990,
+    "fact": "Uranus appears blue due to methane."
+  },
+  {
+    "id": 991,
+    "fact": "Neptune is the farthest planet from the Sun."
+  },
+  {
+    "id": 992,
+    "fact": "Pluto is now classified as a dwarf planet."
+  },
+  {
+    "id": 993,
+    "fact": "Asteroids are leftovers from the early solar system."
+  },
+  {
+    "id": 994,
+    "fact": "Comets have tails that glow."
+  },
+  {
+    "id": 995,
+    "fact": "The Milky Way is about 13 billion years old."
+  },
+  {
+    "id": 996,
+    "fact": "Space is mostly empty."
+  },
+  {
+    "id": 997,
+    "fact": "The speed of light is the universe's speed limit."
+  },
+  {
+    "id": 998,
+    "fact": "Gravity bends space and time."
+  },
+  {
+    "id": 999,
+    "fact": "Black holes can warp light significantly."
+  },
+  {
+    "id": 1000,
+    "fact": "The universe is continuously expanding."
+  }
+]

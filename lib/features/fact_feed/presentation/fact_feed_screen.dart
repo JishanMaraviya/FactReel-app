@@ -33,11 +33,10 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
   final PageController _pageController = PageController();
   final List<FactCardState> _items = <FactCardState>[];
   final Set<String> _seenIds = <String>{};
-  final Map<String, String> _translationCache = <String, String>{};
 
   int _currentTab = 0;
   final Set<String> _likedIds = <String>{};
-  final Set<String> _viewedIds = <String>{};
+  final Set<String> _sessionViewedIds = <String>{};
 
   String _language = 'en';
   bool _loadingMore = false;
@@ -47,12 +46,14 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
   int _dailyStreak = 0;
   int _factsReadTotal = 0;
   int _goalCompletedToday = 0;
-  static const int _dailyGoal = 100;
+  static const int _dailyGoal = 50;
   int _translationToken = 0;
+  final Map<String, String> _translationCache = <String, String>{};
   String? _toastMessage;
   Timer? _toastTimer;
   Timer? _installTimer;
   bool _showInstallBanner = false;
+  String _currentCategory = 'science';
 
   @override
   void initState() {
@@ -71,10 +72,11 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
   Future<void> _bootstrap() async {
     final prefs = await SharedPreferences.getInstance();
     _language = prefs.getString('factreel_lang') ?? 'en';
+    _currentCategory = prefs.getString('factreel_category') ?? 'science';
     final likedList = prefs.getStringList('factreel_liked') ?? <String>[];
     _likedIds.addAll(likedList);
-    _viewedIds.addAll(prefs.getStringList('factreel_viewed_ids') ?? <String>[]);
-    _factsReadTotal = _viewedIds.length;
+    _factsReadTotal = prefs.getInt('factreel_facts_read_total') ??
+        (prefs.getStringList('factreel_viewed_ids')?.length ?? 0);
 
     final today = _todayKey();
     final savedStreak = prefs.getInt('factreel_streak_days') ?? 0;
@@ -92,6 +94,9 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
     final goalDate = prefs.getString('factreel_goal_date');
     if (goalDate == today.toIso8601String()) {
       _goalCompletedToday = prefs.getInt('factreel_goal_completed_today') ?? 0;
+      if (_goalCompletedToday > _dailyGoal) {
+        _goalCompletedToday = _dailyGoal;
+      }
     } else {
       _goalCompletedToday = 0;
       await prefs.setString('factreel_goal_date', today.toIso8601String());
@@ -112,7 +117,32 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
       }
     });
 
-    await _loadBatch(startIndex: 0, count: _initialBatchSize);
+    await _factService.loadFacts(_currentCategory);
+    _loadBatch(count: _initialBatchSize);
+    if (_items.isNotEmpty && _items.first.status == FactCardStatus.loaded) {
+      await _markFactViewed(_items.first);
+    }
+  }
+
+  Future<void> _reloadForCategory(String newCategory) async {
+    if (newCategory == _currentCategory) return;
+    _currentCategory = newCategory;
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('factreel_category', newCategory);
+    await _factService.loadFacts(newCategory);
+    if (!mounted) return;
+    setState(() {
+      _items.clear();
+      _factCounter = 0;
+      _seenIds.clear();
+      _loadingMore = false;
+      _progress = 0;
+      _showScrollHint = true;
+    });
+    if (_pageController.hasClients) {
+      _pageController.jumpToPage(0);
+    }
+    _loadBatch(count: _initialBatchSize);
     if (_items.isNotEmpty && _items.first.status == FactCardStatus.loaded) {
       await _markFactViewed(_items.first);
     }
@@ -142,24 +172,30 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
 
   Future<void> _persistUsageStats() async {
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setStringList('factreel_viewed_ids', _viewedIds.toList());
+    await prefs.setInt('factreel_facts_read_total', _factsReadTotal);
     await prefs.setInt('factreel_streak_days', _dailyStreak);
     await prefs.setInt('factreel_goal_completed_today', _goalCompletedToday);
     await prefs.setString('factreel_goal_date', _todayKey().toIso8601String());
   }
 
   Future<void> _markFactViewed(FactCardState item) async {
-    if (item.status != FactCardStatus.loaded || _viewedIds.contains(item.id)) {
+    if (item.status != FactCardStatus.loaded || _sessionViewedIds.contains(item.id)) {
       return;
     }
 
+    bool goalReachedThisTime = false;
     setState(() {
-      _viewedIds.add(item.id);
-      _factsReadTotal = _viewedIds.length;
-      _goalCompletedToday = _goalCompletedToday + 1;
+      _sessionViewedIds.add(item.id);
+      _factsReadTotal = _factsReadTotal + 1;
+      if (_goalCompletedToday < _dailyGoal) {
+        _goalCompletedToday = _goalCompletedToday + 1;
+        if (_goalCompletedToday == _dailyGoal) {
+          goalReachedThisTime = true;
+        }
+      }
     });
 
-    if (_goalCompletedToday == _dailyGoal) {
+    if (goalReachedThisTime) {
       final prefs = await SharedPreferences.getInstance();
       final now = _todayKey();
       final lastStreakDateStr = prefs.getString('factreel_last_streak_date');
@@ -206,6 +242,7 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
     });
 
     if (language == 'en') {
+      // Clear translations so raw English is shown immediately
       setState(() {
         for (var index = 0; index < _items.length; index += 1) {
           final item = _items[index];
@@ -220,6 +257,7 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
       return;
     }
 
+    // Hindi selected — translate all currently loaded facts
     final token = _translationToken;
     final loadedIndexes = <int>[];
     for (var index = 0; index < _items.length; index += 1) {
@@ -241,14 +279,12 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
 
       final item = _items[index];
       final rawText = item.rawText;
-      if (rawText == null) {
-        continue;
-      }
+      if (rawText == null) continue;
 
+      final cached = _translationCache[item.id];
       final translated =
-          _translationCache[item.id] ??
-          await _factService.translateToHindi(rawText);
-      _translationCache[item.id] = translated;
+          cached ?? await _factService.translateToHindi(rawText);
+      if (cached == null) _translationCache[item.id] = translated;
 
       if (!mounted || token != _translationToken || _language != 'hi') {
         return;
@@ -263,122 +299,88 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
     }
   }
 
-  Future<void> _loadBatch({required int startIndex, required int count}) async {
-    if (_loadingMore) {
+  void _loadBatch({required int count}) {
+    if (_loadingMore || !_factService.isLoaded) {
       return;
     }
 
     _loadingMore = true;
 
-    final placeholderIndexes = <int>[];
-    setState(() {
-      for (var index = 0; index < count; index += 1) {
-        placeholderIndexes.add(_items.length);
-        _items.add(
-          FactCardState(
-            id: 'placeholder-${_items.length}-${DateTime.now().microsecondsSinceEpoch}',
-            status: FactCardStatus.loading,
-          ),
-        );
-      }
-    });
+    final newItems = <FactCardState>[];
+    for (var index = 0; index < count; index += 1) {
+      final fact = _factService.getNextFact(seenIds: _seenIds);
+      _factCounter += 1;
+      _seenIds.add(fact.id);
+      final liked = _likedIds.contains(fact.id);
+      newItems.add(
+        FactCardState(
+          id: fact.id,
+          status: FactCardStatus.loaded,
+          number: _factCounter,
+          rawText: fact.text,
+          liked: liked,
+        ),
+      );
+    }
 
-    final results = await Future.wait(
-      List<Future<_FactFetchResult>>.generate(count, (index) async {
-        try {
-          final fact = await _factService.fetchFact(seenIds: _seenIds);
-          return _FactFetchResult.success(index, fact);
-        } catch (_) {
-          return _FactFetchResult.failure(index);
-        }
-      }),
-    );
+    setState(() => _items.addAll(newItems));
+    _loadingMore = false;
 
-    for (final result in results) {
-      if (!mounted) {
-        return;
-      }
+    // Translate batch if Hindi is active
+    if (_language == 'hi') {
+      _translateItems(newItems.map((e) => _items.indexOf(e)).toList());
+    }
+  }
 
-      final itemIndex = placeholderIndexes[result.position];
-      if (result.fact case final fact?) {
-        _factCounter += 1;
-        final translated = _language == 'hi'
-            ? await _factService.translateToHindi(fact.text)
-            : null;
-        if (!mounted) {
-          return;
-        }
+  /// Translates items at the given indexes to Hindi, using cache where possible.
+  Future<void> _translateItems(List<int> indexes) async {
+    final token = _translationToken;
+    for (final index in indexes) {
+      if (!mounted || token != _translationToken || _language != 'hi') return;
+      if (index < 0 || index >= _items.length) continue;
+      final item = _items[index];
+      if (item.status != FactCardStatus.loaded || item.rawText == null) continue;
 
-        setState(() {
-          _items[itemIndex] = FactCardState(
-            id: fact.id,
-            status: FactCardStatus.loaded,
-            number: _factCounter,
-            rawText: fact.text,
+      // Mark as translating
+      setState(() {
+        _items[index] = item.copyWith(translating: true);
+      });
+
+      final cached = _translationCache[item.id];
+      final translated =
+          cached ?? await _factService.translateToHindi(item.rawText!);
+      if (cached == null) _translationCache[item.id] = translated;
+
+      if (!mounted || token != _translationToken || _language != 'hi') return;
+
+      setState(() {
+        if (index < _items.length) {
+          _items[index] = _items[index].copyWith(
             translatedText: translated,
             translating: false,
           );
-        });
-        if (itemIndex == 0 && _currentTab == 0) {
-          unawaited(_markFactViewed(_items[itemIndex]));
         }
-        continue;
-      }
-
-      setState(() {
-        _items[itemIndex] = FactCardState(
-          id: _items[itemIndex].id,
-          status: FactCardStatus.error,
-          errorMessage: 'Check your internet connection and try again.',
-        );
       });
     }
-
-    _loadingMore = false;
   }
 
   void _retryCard(int index) {
-    final placeholder = FactCardState(
-      id: 'retry-$index-${DateTime.now().microsecondsSinceEpoch}',
-      status: FactCardStatus.loading,
-    );
-
+    if (!_factService.isLoaded) return;
+    final fact = _factService.getNextFact(seenIds: _seenIds);
+    _factCounter += 1;
+    _seenIds.add(fact.id);
     setState(() {
-      _items[index] = placeholder;
+      _items[index] = FactCardState(
+        id: fact.id,
+        status: FactCardStatus.loaded,
+        number: _factCounter,
+        rawText: fact.text,
+      );
     });
-
-    () async {
-      try {
-        final fact = await _factService.fetchFact(seenIds: _seenIds);
-        final translated = _language == 'hi'
-            ? await _factService.translateToHindi(fact.text)
-            : null;
-        if (!mounted) {
-          return;
-        }
-        _factCounter += 1;
-        setState(() {
-          _items[index] = FactCardState(
-            id: fact.id,
-            status: FactCardStatus.loaded,
-            number: _factCounter,
-            rawText: fact.text,
-            translatedText: translated,
-          );
-        });
-      } catch (_) {
-        if (!mounted) {
-          return;
-        }
-        setState(() {
-          _items[index] = FactCardState(
-            id: placeholder.id,
-            status: FactCardStatus.error,
-            errorMessage: 'Check your internet connection and try again.',
-          );
-        });
-      }
-    }();
+    // Translate if Hindi is active
+    if (_language == 'hi') {
+      _translateItems([index]);
+    }
   }
 
   void _showToast(String message) {
@@ -411,7 +413,7 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
 
     final currentPage = (_pageController.page ?? 0).round();
     if (currentPage >= _items.length - 2) {
-      _loadBatch(startIndex: _items.length, count: _nextBatchSize);
+      _loadBatch(count: _nextBatchSize);
     }
   }
 
@@ -492,6 +494,8 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
       tabContent = SettingsScreen(
         darkModeEnabled: isDark,
         onToggleDarkMode: (enabled) => ThemeController.instance.setDark(enabled),
+        currentCategory: _currentCategory,
+        onCategoryChanged: _reloadForCategory,
       );
     }
 
@@ -576,21 +580,6 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
       ),
     );
   }
-}
-
-class _FactFetchResult {
-  const _FactFetchResult._({required this.position, this.fact});
-
-  factory _FactFetchResult.success(int position, FactData fact) {
-    return _FactFetchResult._(position: position, fact: fact);
-  }
-
-  factory _FactFetchResult.failure(int position) {
-    return _FactFetchResult._(position: position);
-  }
-
-  final int position;
-  final FactData? fact;
 }
 
 class _FeedPage extends StatelessWidget {

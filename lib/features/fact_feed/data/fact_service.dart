@@ -1,5 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
+import 'dart:math';
+
+import 'package:flutter/services.dart' show rootBundle;
 
 class FactData {
   const FactData({required this.id, required this.text});
@@ -9,66 +12,63 @@ class FactData {
 }
 
 class FactService {
-  FactService({HttpClient? client}) : _client = client ?? HttpClient() {
+  FactService() : _client = HttpClient() {
     _client.connectionTimeout = const Duration(seconds: 12);
   }
 
   final HttpClient _client;
-  static const String _apiUrl =
-      'https://uselessfacts.jsph.pl/api/v2/facts/random?language=en';
+  final Random _random = Random();
+  List<FactData> _facts = <FactData>[];
+  String _loadedCategory = '';
 
-  Future<FactData> fetchFact({required Set<String> seenIds}) async {
-    var attempts = 0;
-    while (attempts < 10) {
-      attempts += 1;
-      try {
-        final request = await _client.getUrl(
-          Uri.parse('$_apiUrl&_=${DateTime.now().millisecondsSinceEpoch}'),
-        );
-        final response = await request.close().timeout(
-          const Duration(seconds: 12),
-        );
-        final body = await response.transform(utf8.decoder).join();
-        if (response.statusCode != HttpStatus.ok) {
-          throw HttpException('HTTP ${response.statusCode}');
-        }
+  /// Loads facts from the local JSON asset for the given [category].
+  /// The category maps to `assets/facts/{category}.json`.
+  Future<void> loadFacts(String category) async {
+    if (category == _loadedCategory && _facts.isNotEmpty) {
+      return;
+    }
 
-        final json = jsonDecode(body);
-        if (json is! Map<String, dynamic>) {
-          throw const FormatException('Unexpected fact payload');
-        }
+    final jsonString =
+        await rootBundle.loadString('assets/facts/$category.json');
+    final List<dynamic> parsed = jsonDecode(jsonString) as List<dynamic>;
 
-        final id = json['id']?.toString();
-        final text = json['text']?.toString();
-        if (id == null || text == null || id.isEmpty || text.isEmpty) {
-          throw const FormatException('Missing fact fields');
-        }
+    _facts = parsed.map((entry) {
+      final map = entry as Map<String, dynamic>;
+      return FactData(
+        id: '${category}_${map['id']}',
+        text: map['fact'] as String,
+      );
+    }).toList();
 
-        if (seenIds.contains(id)) {
-          continue;
-        }
+    _facts.shuffle(_random);
+    _loadedCategory = category;
+  }
 
-        if (seenIds.length >= 1000) {
-          seenIds.remove(seenIds.first);
-        }
-
-        seenIds.add(id);
-        return FactData(id: id, text: text);
-      } catch (_) {
-        if (attempts >= 10) {
-          rethrow;
-        }
-        await Future<void>.delayed(Duration(milliseconds: 600 * attempts));
+  /// Returns the next fact that hasn't been seen recently.
+  /// When all facts have been seen, clears the seen set and cycles.
+  FactData getNextFact({required Set<String> seenIds}) {
+    // Try to find an unseen fact
+    for (final fact in _facts) {
+      if (!seenIds.contains(fact.id)) {
+        return fact;
       }
     }
 
-    throw const HttpException('Failed after retries');
+    // All facts seen — clear category-specific seen IDs and reshuffle.
+    final prefix = '${_loadedCategory}_';
+    seenIds.removeWhere((id) => id.startsWith(prefix));
+    _facts.shuffle(_random);
+
+    return _facts.first;
   }
 
+  /// Translates English text to Hindi using Google Translate's public endpoint.
+  /// Falls back to the original text on failure.
   Future<String> translateToHindi(String text) async {
     try {
       final uri = Uri.parse(
-        'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=hi&dt=t&q=${Uri.encodeComponent(text)}',
+        'https://translate.googleapis.com/translate_a/single'
+        '?client=gtx&sl=en&tl=hi&dt=t&q=${Uri.encodeComponent(text)}',
       );
       final request = await _client.getUrl(uri);
       final response = await request.close().timeout(
@@ -76,9 +76,8 @@ class FactService {
       );
       final body = await response.transform(utf8.decoder).join();
       if (response.statusCode != HttpStatus.ok) {
-        throw HttpException('HTTP ${response.statusCode}');
+        return text;
       }
-
       final decoded = jsonDecode(body);
       if (decoded is List && decoded.isNotEmpty && decoded[0] is List) {
         final chunks = decoded[0] as List<dynamic>;
@@ -93,7 +92,12 @@ class FactService {
     } catch (_) {
       return text;
     }
-
     return text;
   }
+
+  /// Returns the total number of loaded facts (useful for progress tracking).
+  int get totalFacts => _facts.length;
+
+  /// Returns true if facts have been loaded.
+  bool get isLoaded => _facts.isNotEmpty;
 }

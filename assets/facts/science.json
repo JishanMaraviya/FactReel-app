@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "fact": "Honey never spoils — archaeologists have found 3,000-year-old honey in Egyptian tombs that was still edible."
+  },
+  {
+    "id": 2,
+    "fact": "Bananas are technically berries, while strawberries are not."
+  },
+  {
+    "id": 3,
+    "fact": "A teaspoon of neutron star material would weigh about 6 billion tons."
+  },
+  {
+    "id": 4,
+    "fact": "Water can boil and freeze at the same time — a phenomenon called the triple point."
+  },
+  {
+    "id": 5,
+    "fact": "Lightning strikes the Earth about 8 million times a day."
+  },
+  {
+    "id": 6,
+    "fact": "The human body contains enough carbon to make roughly 9,000 pencils."
+  },
+  {
+    "id": 7,
+    "fact": "Glass is not a solid or a liquid — it is an amorphous solid with properties of both."
+  },
+  {
+    "id": 8,
+    "fact": "Sound travels about 4 times faster in water than in air."
+  },
+  {
+    "id": 9,
+    "fact": "A single bolt of lightning contains enough energy to toast about 100,000 slices of bread."
+  },
+  {
+    "id": 10,
+    "fact": "Diamonds can be made from peanut butter under extreme pressure."
+  },
+  {
+    "id": 11,
+    "fact": "Humans share about 60% of their DNA with bananas."
+  },
+  {
+    "id": 12,
+    "fact": "Hot water freezes faster than cold water — a phenomenon called the Mpemba effect."
+  },
+  {
+    "id": 13,
+    "fact": "Your stomach gets a new lining every three to four days to prevent it from digesting itself."
+  },
+  {
+    "id": 14,
+    "fact": "Octopuses have three hearts and blue blood."
+  },
+  {
+    "id": 15,
+    "fact": "A day on Venus is longer than a year on Venus."
+  },
+  {
+    "id": 16,
+    "fact": "The average human body carries about 2 kilograms of bacteria."
+  },
+  {
+    "id": 17,
+    "fact": "Sunlight takes approximately 8 minutes and 20 seconds to reach Earth."
+  },
+  {
+    "id": 18,
+    "fact": "The Earth's core is about as hot as the surface of the Sun — around 5,500°C."
+  },
+  {
+    "id": 19,
+    "fact": "A photon of light takes about 40,000 years to travel from the Sun's core to its surface."
+  },
+  {
+    "id": 20,
+    "fact": "Human bones are approximately 5 times stronger than steel of the same density."
+  },
+  {
+    "id": 21,
+    "fact": "The total length of all blood vessels in the human body is about 100,000 kilometers."
+  },
+  {
+    "id": 22,
+    "fact": "An adult human body produces about 25 million new cells every second."
+  },
+  {
+    "id": 23,
+    "fact": "The Eiffel Tower can grow by up to 15 centimeters in summer due to thermal expansion of iron."
+  },
+  {
+    "id": 24,
+    "fact": "There are more trees on Earth than stars in the Milky Way — approximately 3 trillion trees."
+  },
+  {
+    "id": 25,
+    "fact": "Helium was first discovered on the Sun before it was found on Earth."
+  },
+  {
+    "id": 26,
+    "fact": "The human nose can detect over 1 trillion different scents."
+  },
+  {
+    "id": 27,
+    "fact": "If you could fold a piece of paper 42 times, it would reach the Moon."
+  },
+  {
+    "id": 28,
+    "fact": "A cloud can weigh more than 1 million pounds."
+  },
+  {
+    "id": 29,
+    "fact": "DNA can survive for over 500,000 years in the right conditions."
+  },
+  {
+    "id": 30,
+    "fact": "The temperature inside a lightning bolt is about 30,000 Kelvin — five times hotter than the Sun's surface."
+  },
+  {
+    "id": 31,
+    "fact": "Oxygen has a color — in its liquid and solid forms, it is pale blue."
+  },
+  {
+    "id": 32,
+    "fact": "The human brain uses about 20% of the body's total energy despite being only 2% of its weight."
+  },
+  {
+    "id": 33,
+    "fact": "A single human cell contains approximately 6 feet of DNA."
+  },
+  {
+    "id": 34,
+    "fact": "Saturn would float if placed in water because its average density is less than that of water."
+  },
+  {
+    "id": 35,
+    "fact": "The speed of light is approximately 299,792 kilometers per second."
+  },
+  {
+    "id": 36,
+    "fact": "The shortest war in history lasted just 38 to 45 minutes — between Britain and Zanzibar in 1896."
+  },
+  {
+    "id": 37,
+    "fact": "Stomach acid is strong enough to dissolve metal — it has a pH between 1 and 3."
+  },
+  {
+    "id": 38,
+    "fact": "There are more possible iterations of a game of chess than atoms in the known universe."
+  },
+  {
+    "id": 39,
+    "fact": "Infrared light was the first invisible form of electromagnetic radiation to be discovered, in 1800."
+  },
+  {
+    "id": 40,
+    "fact": "The human eye can distinguish about 10 million different colors."
+  },
+  {
+    "id": 41,
+    "fact": "Gravity travels at the speed of light, according to Einstein's theory of general relativity."
+  },
+  {
+    "id": 42,
+    "fact": "A cockroach can live for up to a week without its head."
+  },
+  {
+    "id": 43,
+    "fact": "Your heart beats about 100,000 times a day, pumping about 7,500 liters of blood."
+  },
+  {
+    "id": 44,
+    "fact": "The Andromeda Galaxy is on a collision course with the Milky Way — they will merge in about 4.5 billion years."
+  },
+  {
+    "id": 45,
+    "fact": "Water is the only natural substance that exists in all three physical states — solid, liquid, and gas — at normal Earth temperatures."
+  },
+  {
+    "id": 46,
+    "fact": "It would take over 1 million Earths to fill up the Sun."
+  },
+  {
+    "id": 47,
+    "fact": "The average person walks about 160,000 kilometers in their lifetime — enough to walk around the Earth 4 times."
+  },
+  {
+    "id": 48,
+    "fact": "Every atom in your body is billions of years old — forged inside ancient stars."
+  },
+  {
+    "id": 49,
+    "fact": "Laser stands for Light Amplification by Stimulated Emission of Radiation."
+  },
+  {
+    "id": 50,
+    "fact": "The largest known living organism is a honey fungus in Oregon that covers about 2,385 acres."
+  },
+  {
+    "id": 51,
+    "fact": "Your brain generates enough electrical power to light a small LED bulb — about 12 to 25 watts."
+  },
+  {
+    "id": 52,
+    "fact": "Metallic hydrogen, believed to exist inside Jupiter, could be a room-temperature superconductor."
+  },
+  {
+    "id": 53,
+    "fact": "The deepest point in the ocean, the Mariana Trench, is about 11 kilometers deep."
+  },
+  {
+    "id": 54,
+    "fact": "A single gram of DNA can store 700 terabytes of data."
+  },
+  {
+    "id": 55,
+    "fact": "The Earth rotates at about 1,670 kilometers per hour at the equator."
+  },
+  {
+    "id": 56,
+    "fact": "Antibiotics have no effect on viruses — they only work against bacteria."
+  },
+  {
+    "id": 57,
+    "fact": "About 99% of all species that have ever lived on Earth are now extinct."
+  },
+  {
+    "id": 58,
+    "fact": "The Sun loses about 4 million tons of mass every second due to nuclear fusion."
+  },
+  {
+    "id": 59,
+    "fact": "A human sneeze can travel at speeds of up to 160 kilometers per hour."
+  },
+  {
+    "id": 60,
+    "fact": "Mercury and Venus are the only two planets in our solar system that have no moons."
+  },
+  {
+    "id": 61,
+    "fact": "Humans glow in the dark, but the light is 1,000 times weaker than what the eye can detect."
+  },
+  {
+    "id": 62,
+    "fact": "The Sahara Desert was green and lush just 6,000 years ago."
+  },
+  {
+    "id": 63,
+    "fact": "A fetus develops fingerprints at three months — and they never change throughout life."
+  },
+  {
+    "id": 64,
+    "fact": "Neutron stars can spin at up to 716 times per second."
+  },
+  {
+    "id": 65,
+    "fact": "Ice is about 9% less dense than liquid water, which is why it floats."
+  },
+  {
+    "id": 66,
+    "fact": "One million seconds is about 11.5 days, while one billion seconds is about 31.7 years."
+  },
+  {
+    "id": 67,
+    "fact": "The chemical element Francium is so rare that there are only about 20 to 30 grams of it in the Earth's crust at any time."
+  },
+  {
+    "id": 68,
+    "fact": "Coral reefs support about 25% of all marine species despite covering less than 1% of the ocean floor."
+  },
+  {
+    "id": 69,
+    "fact": "Radio waves from the first TV broadcasts have already traveled past 100,000 stars."
+  },
+  {
+    "id": 70,
+    "fact": "Venus spins in the opposite direction to most planets — the Sun rises in the west and sets in the east."
+  },
+  {
+    "id": 71,
+    "fact": "A hummingbird's heart beats up to 1,260 times per minute."
+  },
+  {
+    "id": 72,
+    "fact": "Black holes are not empty space — they are extremely dense objects with gravity so strong that light cannot escape."
+  },
+  {
+    "id": 73,
+    "fact": "The world's oceans contain about 20 million tons of dissolved gold."
+  },
+  {
+    "id": 74,
+    "fact": "Every year, the Moon moves about 3.8 centimeters farther from Earth."
+  },
+  {
+    "id": 75,
+    "fact": "Galileo was the first person to observe Saturn's rings through a telescope in 1610."
+  },
+  {
+    "id": 76,
+    "fact": "A tablespoon of a white dwarf star would weigh approximately 15 tons."
+  },
+  {
+    "id": 77,
+    "fact": "The Amazon Rainforest produces about 6% of the world's oxygen."
+  },
+  {
+    "id": 78,
+    "fact": "Graphene is the strongest material ever tested — 200 times stronger than steel."
+  },
+  {
+    "id": 79,
+    "fact": "Butterflies taste with their feet."
+  },
+  {
+    "id": 80,
+    "fact": "The speed of sound increases with temperature — it travels faster in warm air."
+  },
+  {
+    "id": 81,
+    "fact": "Pluto has not yet completed a full orbit around the Sun since its discovery in 1930 — one orbit takes 248 years."
+  },
+  {
+    "id": 82,
+    "fact": "The pH scale was invented by Danish chemist Søren Sørensen in 1909."
+  },
+  {
+    "id": 83,
+    "fact": "There are more bacteria in your mouth than there are people on Earth."
+  },
+  {
+    "id": 84,
+    "fact": "Light from some stars visible today started its journey before the dinosaurs went extinct."
+  },
+  {
+    "id": 85,
+    "fact": "Absolute zero, the coldest possible temperature, is -273.15°C or 0 Kelvin."
+  },
+  {
+    "id": 86,
+    "fact": "The human skeleton is completely replaced every 10 years through a process called remodeling."
+  },
+  {
+    "id": 87,
+    "fact": "A rainbow is actually a full circle — we only see a semi-circle because the ground gets in the way."
+  },
+  {
+    "id": 88,
+    "fact": "The element mercury is the only metal that is liquid at standard room temperature and pressure."
+  },
+  {
+    "id": 89,
+    "fact": "Your body produces about 1 to 1.5 liters of saliva every day."
+  },
+  {
+    "id": 90,
+    "fact": "The Great Wall of China is not visible from space with the naked eye — this is a common myth."
+  },
+  {
+    "id": 91,
+    "fact": "Earthquakes can make the Earth ring like a bell — scientists call these free oscillations."
+  },
+  {
+    "id": 92,
+    "fact": "The average cumulus cloud weighs about 500,000 kilograms."
+  },
+  {
+    "id": 93,
+    "fact": "Your corneas are the only part of your body that receive no blood supply — they get oxygen directly from the air."
+  },
+  {
+    "id": 94,
+    "fact": "The oldest known fossils are about 3.5 billion years old — cyanobacteria found in Western Australia."
+  },
+  {
+    "id": 95,
+    "fact": "Steel wool can be set on fire with a 9-volt battery."
+  },
+  {
+    "id": 96,
+    "fact": "Sound cannot travel through a vacuum — space is completely silent."
+  },
+  {
+    "id": 97,
+    "fact": "The strongest muscle in the human body relative to its size is the masseter, or jaw muscle."
+  },
+  {
+    "id": 98,
+    "fact": "Approximately 71% of the Earth's surface is covered by water."
+  },
+  {
+    "id": 99,
+    "fact": "A single solar flare can release the energy equivalent of millions of nuclear bombs."
+  },
+  {
+    "id": 100,
+    "fact": "Penicillin, the first antibiotic, was discovered by Alexander Fleming in 1928 from a mold called Penicillium notatum."
+  },
+  {
+    "id": 101,
+    "fact": "The hottest planet in the solar system is Venus, despite Mercury being closer to the Sun, due to its dense atmosphere trapping heat."
+  },
+  {
+    "id": 102,
+    "fact": "Sound travels approximately four times faster in water than it does in air."
+  },
+  {
+    "id": 103,
+    "fact": "A single strand of spider silk is stronger than a steel strand of the same thickness."
+  },
+  {
+    "id": 104,
+    "fact": "The Earth's core is estimated to be roughly the same temperature as the surface of the Sun."
+  },
+  {
+    "id": 105,
+    "fact": "There are more atoms in a single grain of salt than there are stars in the observable universe."
+  },
+  {
+    "id": 106,
+    "fact": "The blue whale's heart is about the size of a bumper car."
+  },
+  {
+    "id": 107,
+    "fact": "Light takes approximately eight minutes and twenty seconds to travel from the Sun to Earth."
+  },
+  {
+    "id": 108,
+    "fact": "Bananas are slightly radioactive because they contain potassium-40."
+  },
+  {
+    "id": 109,
+    "fact": "Water can boil and freeze at the same time under specific conditions, known as the triple point."
+  },
+  {
+    "id": 110,
+    "fact": "The human nose can detect over one trillion different scents."
+  },
+  {
+    "id": 111,
+    "fact": "Clouds are actually heavy; a typical cumulus cloud can weigh over a million pounds."
+  },
+  {
+    "id": 112,
+    "fact": "Venus is the only planet in our solar system that rotates clockwise on its axis."
+  },
+  {
+    "id": 113,
+    "fact": "Honey never spoils; archaeologists have found pots of honey in ancient Egyptian tombs that are still edible."
+  },
+  {
+    "id": 114,
+    "fact": "Octopuses have three hearts and blue blood."
+  },
+  {
+    "id": 115,
+    "fact": "A day on Venus is longer than a year on Venus."
+  },
+  {
+    "id": 116,
+    "fact": "The largest volcano in the solar system is Olympus Mons on Mars, which is nearly three times the height of Mount Everest."
+  },
+  {
+    "id": 117,
+    "fact": "Sharks have existed on Earth for longer than trees."
+  },
+  {
+    "id": 118,
+    "fact": "The total weight of all ants on Earth is estimated to be roughly equal to the total weight of all humans."
+  },
+  {
+    "id": 119,
+    "fact": "Glass is actually a supercooled liquid, not a solid, though this is a subject of scientific debate."
+  },
+  {
+    "id": 120,
+    "fact": "The fingerprints of koalas are so similar to human fingerprints that they have occasionally been confused at crime scenes."
+  },
+  {
+    "id": 121,
+    "fact": "Oxygen gas is colorless, but in liquid and solid forms, it appears light blue."
+  },
+  {
+    "id": 122,
+    "fact": "A bolt of lightning is five times hotter than the surface of the Sun."
+  },
+  {
+    "id": 123,
+    "fact": "The Earth spins at a speed of about 1,000 miles per hour at the equator."
+  },
+  {
+    "id": 124,
+    "fact": "The moon is drifting away from Earth at a rate of approximately 3.8 centimeters per year."
+  },
+  {
+    "id": 125,
+    "fact": "There are more stars in the universe than grains of sand on all the beaches on Earth combined."
+  },
+  {
+    "id": 126,
+    "fact": "Water is the only substance on Earth that naturally exists in all three states: solid, liquid, and gas."
+  },
+  {
+    "id": 127,
+    "fact": "The human body contains enough iron to make a small metal nail."
+  },
+  {
+    "id": 128,
+    "fact": "Gold is so malleable that a single ounce can be beaten into a sheet covering 100 square feet."
+  },
+  {
+    "id": 129,
+    "fact": "The Arctic is melting, but the Antarctic ice sheet contains about 90 percent of the world's ice."
+  },
+  {
+    "id": 130,
+    "fact": "Butterflies taste with their feet."
+  },
+  {
+    "id": 131,
+    "fact": "The Eiffel Tower can be 15 centimeters taller during the summer due to thermal expansion of the iron."
+  },
+  {
+    "id": 132,
+    "fact": "A teaspoon of a neutron star would weigh about six billion tons."
+  },
+  {
+    "id": 133,
+    "fact": "The human brain generates enough electricity to power a small lightbulb."
+  },
+  {
+    "id": 134,
+    "fact": "Plants can communicate with each other through underground fungal networks."
+  },
+  {
+    "id": 135,
+    "fact": "Sound cannot travel through a vacuum because there are no particles to vibrate."
+  },
+  {
+    "id": 136,
+    "fact": "The Great Barrier Reef is the world's largest living structure and can be seen from space."
+  },
+  {
+    "id": 137,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 138,
+    "fact": "Some types of jellyfish are biologically immortal and can revert to their juvenile state."
+  },
+  {
+    "id": 139,
+    "fact": "The cornea is the only part of the human body that has no blood supply; it gets oxygen directly from the air."
+  },
+  {
+    "id": 140,
+    "fact": "Saturn would float in a bathtub if you could find one big enough, as its density is lower than water."
+  },
+  {
+    "id": 141,
+    "fact": "Diamond is the hardest natural substance on Earth, but it can be shattered with a hammer."
+  },
+  {
+    "id": 142,
+    "fact": "The deepest part of the ocean is the Mariana Trench, which is deeper than Mount Everest is tall."
+  },
+  {
+    "id": 143,
+    "fact": "There is a planet made mostly of diamond twice the size of Earth."
+  },
+  {
+    "id": 144,
+    "fact": "Humans share about 60 percent of their DNA with bananas."
+  },
+  {
+    "id": 145,
+    "fact": "A single bolt of lightning contains enough energy to toast 100,000 slices of bread."
+  },
+  {
+    "id": 146,
+    "fact": "The surface area of a human lung is roughly the size of a tennis court."
+  },
+  {
+    "id": 147,
+    "fact": "A snail can sleep for three years."
+  },
+  {
+    "id": 148,
+    "fact": "The Sun accounts for 99.86 percent of the total mass of the entire solar system."
+  },
+  {
+    "id": 149,
+    "fact": "The average person walks the equivalent of five times around the world in their lifetime."
+  },
+  {
+    "id": 150,
+    "fact": "Earth's atmosphere is composed of about 78 percent nitrogen and 21 percent oxygen."
+  },
+  {
+    "id": 151,
+    "fact": "A shrimp's heart is located in its head."
+  },
+  {
+    "id": 152,
+    "fact": "Venus's atmosphere is mostly carbon dioxide, creating a runaway greenhouse effect."
+  },
+  {
+    "id": 153,
+    "fact": "The speed of light is exactly 299,792,458 meters per second."
+  },
+  {
+    "id": 154,
+    "fact": "Most of the dust in your home is actually dead skin cells."
+  },
+  {
+    "id": 155,
+    "fact": "The tongue is the strongest muscle in the human body relative to its size."
+  },
+  {
+    "id": 156,
+    "fact": "A day on Mars is called a Sol and is about 40 minutes longer than an Earth day."
+  },
+  {
+    "id": 157,
+    "fact": "The shortest war in history lasted 38 minutes."
+  },
+  {
+    "id": 158,
+    "fact": "A cloud can contain millions of tons of water droplets."
+  },
+  {
+    "id": 159,
+    "fact": "The planet Neptune was discovered using mathematical calculations before it was seen through a telescope."
+  },
+  {
+    "id": 160,
+    "fact": "The oldest known living organism is a bristlecone pine tree over 5,000 years old."
+  },
+  {
+    "id": 161,
+    "fact": "In space, metal can cold-weld together on contact."
+  },
+  {
+    "id": 162,
+    "fact": "The liver is the only human organ capable of regenerating itself completely from as little as 25 percent of its original tissue."
+  },
+  {
+    "id": 163,
+    "fact": "Ants don't have lungs; they breathe through tiny holes in their sides called spiracles."
+  },
+  {
+    "id": 164,
+    "fact": "There are more possible iterations of a game of chess than there are atoms in the known universe."
+  },
+  {
+    "id": 165,
+    "fact": "The color of the sunset on Mars is blue."
+  },
+  {
+    "id": 166,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 167,
+    "fact": "The human body has more bacteria cells than human cells."
+  },
+  {
+    "id": 168,
+    "fact": "Copper is naturally antibacterial."
+  },
+  {
+    "id": 169,
+    "fact": "Sound travels faster through metal than through liquid."
+  },
+  {
+    "id": 170,
+    "fact": "The world's largest desert is Antarctica."
+  },
+  {
+    "id": 171,
+    "fact": "A neutron star is so dense that a teaspoon of its material would weigh billions of tons."
+  },
+  {
+    "id": 172,
+    "fact": "Sharks have a sixth sense called electroreception to detect muscle movements in prey."
+  },
+  {
+    "id": 173,
+    "fact": "Venus rotates so slowly that it takes longer to complete one rotation than to orbit the Sun."
+  },
+  {
+    "id": 174,
+    "fact": "The Earth's magnetic field is generated by the movement of molten iron in its outer core."
+  },
+  {
+    "id": 175,
+    "fact": "A whale's tongue can weigh as much as a whole elephant."
+  },
+  {
+    "id": 176,
+    "fact": "The tallest living tree species is the Coast Redwood."
+  },
+  {
+    "id": 177,
+    "fact": "Sound waves cannot travel through a vacuum."
+  },
+  {
+    "id": 178,
+    "fact": "The human body is made up of about 60 percent water."
+  },
+  {
+    "id": 179,
+    "fact": "There is enough gold in the Earth's core to coat the entire surface of the planet in 1.5 feet of gold."
+  },
+  {
+    "id": 180,
+    "fact": "Some fungi can glow in the dark, a process known as bioluminescence."
+  },
+  {
+    "id": 181,
+    "fact": "The coldest temperature ever recorded on Earth was in Antarctica at -128.6 degrees Fahrenheit."
+  },
+  {
+    "id": 182,
+    "fact": "A lightning bolt is significantly hotter than the surface of the Sun."
+  },
+  {
+    "id": 183,
+    "fact": "The moon has moonquakes caused by gravitational pull from Earth."
+  },
+  {
+    "id": 184,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 185,
+    "fact": "The average adult human skeleton consists of 206 bones."
+  },
+  {
+    "id": 186,
+    "fact": "Helium is lighter than air, which is why balloons float."
+  },
+  {
+    "id": 187,
+    "fact": "The most common element in the universe is hydrogen."
+  },
+  {
+    "id": 188,
+    "fact": "The Earth’s atmosphere extends over 600 miles above the surface."
+  },
+  {
+    "id": 189,
+    "fact": "A person can survive for weeks without food, but only a few days without water."
+  },
+  {
+    "id": 190,
+    "fact": "The speed of sound in air is approximately 343 meters per second."
+  },
+  {
+    "id": 191,
+    "fact": "Some sharks must keep swimming to stay alive, a process known as ram ventilation."
+  },
+  {
+    "id": 192,
+    "fact": "Mars has two moons named Phobos and Deimos."
+  },
+  {
+    "id": 193,
+    "fact": "The human eye can distinguish approximately 10 million different colors."
+  },
+  {
+    "id": 194,
+    "fact": "A year on Mercury is only 88 Earth days long."
+  },
+  {
+    "id": 195,
+    "fact": "The deepest point in the ocean is named the Challenger Deep."
+  },
+  {
+    "id": 196,
+    "fact": "Plants convert sunlight into chemical energy through photosynthesis."
+  },
+  {
+    "id": 197,
+    "fact": "The Earth's crust is divided into several large plates that move over the mantle."
+  },
+  {
+    "id": 198,
+    "fact": "A single drop of blood contains millions of red blood cells."
+  },
+  {
+    "id": 199,
+    "fact": "The largest mammal in the world is the blue whale."
+  },
+  {
+    "id": 200,
+    "fact": "Gravity is the force that attracts objects toward each other."
+  },
+  {
+    "id": 201,
+    "fact": "A photon takes up to 100,000 years to travel from the core of the Sun to its surface."
+  },
+  {
+    "id": 202,
+    "fact": "Neutrinos are subatomic particles that can pass through lead a light-year thick without hitting an atom."
+  },
+  {
+    "id": 203,
+    "fact": "The Earth's inner core rotates at a slightly different speed than the rest of the planet."
+  },
+  {
+    "id": 204,
+    "fact": "Liquid nitrogen is cold enough to freeze soft tissue instantly upon contact."
+  },
+  {
+    "id": 205,
+    "fact": "The blue color of the sky is caused by Rayleigh scattering of sunlight by the atmosphere."
+  },
+  {
+    "id": 206,
+    "fact": "Deep-sea hydrothermal vents release mineral-rich water that supports unique life forms independent of sunlight."
+  },
+  {
+    "id": 207,
+    "fact": "Quantum entanglement allows two particles to affect each other instantaneously regardless of distance."
+  },
+  {
+    "id": 208,
+    "fact": "The human retina has about 120 million rod cells for low-light vision and 6 million cone cells for color."
+  },
+  {
+    "id": 209,
+    "fact": "Most of the carbon in the human body was forged in the hearts of dying stars."
+  },
+  {
+    "id": 210,
+    "fact": "The Fibonacci sequence appears frequently in nature, including in the patterns of sunflower seeds and pinecones."
+  },
+  {
+    "id": 211,
+    "fact": "Water molecules are dipolar, meaning they have a positive end and a negative end, allowing them to dissolve many substances."
+  },
+  {
+    "id": 212,
+    "fact": "The atmosphere of Jupiter consists mainly of hydrogen and helium, similar to the composition of the Sun."
+  },
+  {
+    "id": 213,
+    "fact": "Tectonic plates float on the semi-fluid asthenosphere, which allows them to drift over geological time."
+  },
+  {
+    "id": 214,
+    "fact": "The human stomach acid, hydrochloric acid, is strong enough to dissolve razor blades."
+  },
+  {
+    "id": 215,
+    "fact": "Aerogels, also known as frozen smoke, are among the lightest solid materials on Earth."
+  },
+  {
+    "id": 216,
+    "fact": "The speed of light in a vacuum is constant for all observers, regardless of their motion."
+  },
+  {
+    "id": 217,
+    "fact": "DNA helices can be right-handed or left-handed, but most biological DNA is right-handed."
+  },
+  {
+    "id": 218,
+    "fact": "Supernovae produce heavy elements like gold and platinum through rapid neutron capture."
+  },
+  {
+    "id": 219,
+    "fact": "The Earth experiences tides primarily due to the gravitational pull of the Moon and the Sun."
+  },
+  {
+    "id": 220,
+    "fact": "Bioluminescence is used by various marine organisms to attract prey, find mates, or deter predators."
+  },
+  {
+    "id": 221,
+    "fact": "A gram of DNA can theoretically store hundreds of terabytes of digital data."
+  },
+  {
+    "id": 222,
+    "fact": "The total number of galaxies in the observable universe is estimated to be around two trillion."
+  },
+  {
+    "id": 223,
+    "fact": "The human body consists of roughly 30 trillion human cells and roughly 39 trillion bacterial cells."
+  },
+  {
+    "id": 224,
+    "fact": "Entropy, a measure of disorder in a system, always increases in an isolated thermodynamic system."
+  },
+  {
+    "id": 225,
+    "fact": "The greenhouse effect is essential for keeping Earth warm enough to support liquid water."
+  },
+  {
+    "id": 226,
+    "fact": "Crystals are solids whose atoms are arranged in a highly ordered, repeating microscopic structure."
+  },
+  {
+    "id": 227,
+    "fact": "The Coriolis effect causes fluids to rotate in different directions in the Northern and Southern Hemispheres."
+  },
+  {
+    "id": 228,
+    "fact": "There are more possible neural connections in a human brain than there are stars in the Milky Way."
+  },
+  {
+    "id": 229,
+    "fact": "The half-life of a radioactive isotope is the time required for half of its atoms to decay."
+  },
+  {
+    "id": 230,
+    "fact": "Mars has the longest-lasting dust storms in the solar system, which can cover the entire planet for months."
+  },
+  {
+    "id": 231,
+    "fact": "Graphite and diamond are both composed entirely of carbon but have vastly different structural properties."
+  },
+  {
+    "id": 232,
+    "fact": "The sound frequency range of typical human hearing is 20 hertz to 20,000 hertz."
+  },
+  {
+    "id": 233,
+    "fact": "Pulsars are highly magnetized, rotating neutron stars that emit beams of electromagnetic radiation."
+  },
+  {
+    "id": 234,
+    "fact": "Mitosis is the process of cell division that results in two genetically identical daughter cells."
+  },
+  {
+    "id": 235,
+    "fact": "The speed of sound varies depending on the density and temperature of the medium through which it travels."
+  },
+  {
+    "id": 236,
+    "fact": "A single lightning strike can reach temperatures of 50,000 degrees Fahrenheit."
+  },
+  {
+    "id": 237,
+    "fact": "The Earth's magnetic north pole is constantly shifting and has even flipped entirely in the past."
+  },
+  {
+    "id": 238,
+    "fact": "Osmosis is the spontaneous net movement of solvent molecules through a semi-permeable membrane."
+  },
+  {
+    "id": 239,
+    "fact": "The observable universe is expanding, and distant galaxies are moving away from us at increasing speeds."
+  },
+  {
+    "id": 240,
+    "fact": "A light-year is the distance that light travels in one year, approximately 9.46 trillion kilometers."
+  },
+  {
+    "id": 241,
+    "fact": "Plate tectonics are responsible for the formation of mountain ranges like the Himalayas."
+  },
+  {
+    "id": 242,
+    "fact": "The human heart beats approximately 100,000 times per day."
+  },
+  {
+    "id": 243,
+    "fact": "Sound is a pressure wave that requires a medium, such as air, water, or solids, to propagate."
+  },
+  {
+    "id": 244,
+    "fact": "Photosynthesis produces oxygen as a byproduct, which is essential for aerobic life on Earth."
+  },
+  {
+    "id": 245,
+    "fact": "The density of an object is defined as its mass per unit volume."
+  },
+  {
+    "id": 246,
+    "fact": "Black holes have gravitational pulls so strong that not even light can escape their event horizon."
+  },
+  {
+    "id": 247,
+    "fact": "Enzymes are biological catalysts that speed up chemical reactions within living organisms."
+  },
+  {
+    "id": 248,
+    "fact": "The absolute zero temperature is -273.15 degrees Celsius, where all molecular motion theoretically stops."
+  },
+  {
+    "id": 249,
+    "fact": "There are four fundamental forces in nature: gravity, electromagnetism, the weak nuclear force, and the strong nuclear force."
+  },
+  {
+    "id": 250,
+    "fact": "The Kuiper Belt is a region of the solar system beyond Neptune filled with icy bodies and dwarf planets."
+  },
+  {
+    "id": 251,
+    "fact": "Bacterial endospores can survive extreme heat, radiation, and desiccation for long periods."
+  },
+  {
+    "id": 252,
+    "fact": "The pH scale measures the concentration of hydrogen ions in a solution, with 7 being neutral."
+  },
+  {
+    "id": 253,
+    "fact": "Gamma-ray bursts are the most powerful explosions in the universe, lasting from milliseconds to minutes."
+  },
+  {
+    "id": 254,
+    "fact": "The human skeletal system is responsible for producing blood cells in the bone marrow."
+  },
+  {
+    "id": 255,
+    "fact": "Diffusion is the movement of particles from an area of higher concentration to lower concentration."
+  },
+  {
+    "id": 256,
+    "fact": "Superconductors are materials that can conduct electricity with zero resistance at very low temperatures."
+  },
+  {
+    "id": 257,
+    "fact": "The Oort Cloud is a theoretical cloud of icy objects that surrounds our solar system."
+  },
+  {
+    "id": 258,
+    "fact": "Chromosomes are long DNA molecules that carry part or all of the genetic material of an organism."
+  },
+  {
+    "id": 259,
+    "fact": "A molecule is a group of two or more atoms held together by chemical bonds."
+  },
+  {
+    "id": 260,
+    "fact": "Exoplanets are planets that orbit stars outside of our solar system."
+  },
+  {
+    "id": 261,
+    "fact": "The endocrine system regulates body functions through the secretion of hormones."
+  },
+  {
+    "id": 262,
+    "fact": "Refraction is the bending of light as it passes from one medium to another of different density."
+  },
+  {
+    "id": 263,
+    "fact": "The chemical symbol for tungsten is W, derived from the German word 'wolfram'."
+  },
+  {
+    "id": 264,
+    "fact": "Sublimation is the transition of a substance directly from a solid to a gas state."
+  },
+  {
+    "id": 265,
+    "fact": "Dark matter does not emit, absorb, or reflect light, but it exerts a gravitational pull on visible matter."
+  },
+  {
+    "id": 266,
+    "fact": "The human immune system uses white blood cells to identify and neutralize pathogens."
+  },
+  {
+    "id": 267,
+    "fact": "A catalyst increases the rate of a chemical reaction without being consumed in the process."
+  },
+  {
+    "id": 268,
+    "fact": "Nebulae are vast clouds of gas and dust that serve as the birthplaces of stars."
+  },
+  {
+    "id": 269,
+    "fact": "The Doppler effect is the change in frequency of a wave in relation to an observer moving relative to the source."
+  },
+  {
+    "id": 270,
+    "fact": "Neurons communicate with each other through electrochemical signals at junctions called synapses."
+  },
+  {
+    "id": 271,
+    "fact": "Plasma is an ionized gas and is the most common state of matter in the universe."
+  },
+  {
+    "id": 272,
+    "fact": "The term 'atom' comes from the Greek word 'atomos', meaning indivisible."
+  },
+  {
+    "id": 273,
+    "fact": "The troposphere is the lowest layer of Earth's atmosphere where all weather occurs."
+  },
+  {
+    "id": 274,
+    "fact": "Proteins are complex macromolecules built from sequences of amino acids."
+  },
+  {
+    "id": 275,
+    "fact": "Reflection occurs when light waves bounce off a surface at an angle equal to the incident angle."
+  },
+  {
+    "id": 276,
+    "fact": "The Sun's corona is significantly hotter than its visible surface, known as the photosphere."
+  },
+  {
+    "id": 277,
+    "fact": "A light-year is a unit of distance, not a unit of time."
+  },
+  {
+    "id": 278,
+    "fact": "The human nervous system is divided into the central and peripheral nervous systems."
+  },
+  {
+    "id": 279,
+    "fact": "Combustion is a high-temperature exothermic chemical reaction between a fuel and an oxidant."
+  },
+  {
+    "id": 280,
+    "fact": "Quasars are extremely bright, distant active galactic nuclei powered by supermassive black holes."
+  },
+  {
+    "id": 281,
+    "fact": "An isotope is a variant of a chemical element with a different number of neutrons."
+  },
+  {
+    "id": 282,
+    "fact": "Tides occur because the moon's gravity pulls harder on the side of the Earth facing it."
+  },
+  {
+    "id": 283,
+    "fact": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed."
+  },
+  {
+    "id": 284,
+    "fact": "Mitotic cell division is crucial for growth and tissue repair in multicellular organisms."
+  },
+  {
+    "id": 285,
+    "fact": "Noble gases are found in the last group of the periodic table and are notably inert."
+  },
+  {
+    "id": 286,
+    "fact": "The ozone layer protects the Earth from harmful ultraviolet radiation from the Sun."
+  },
+  {
+    "id": 287,
+    "fact": "Supernova explosions create the pressure and heat necessary to fuse elements heavier than iron."
+  },
+  {
+    "id": 288,
+    "fact": "The average temperature of the universe is about 2.7 Kelvin, the leftover heat from the Big Bang."
+  },
+  {
+    "id": 289,
+    "fact": "A chemical reaction involves the breaking and forming of chemical bonds."
+  },
+  {
+    "id": 290,
+    "fact": "The speed of light is the universal speed limit for all energy and matter."
+  },
+  {
+    "id": 291,
+    "fact": "The human circulatory system includes the heart, blood vessels, and blood."
+  },
+  {
+    "id": 292,
+    "fact": "Valence electrons are the electrons in the outermost shell of an atom involved in bonding."
+  },
+  {
+    "id": 293,
+    "fact": "Magnetic fields are produced by electric currents and magnetic moments of elementary particles."
+  },
+  {
+    "id": 294,
+    "fact": "Stars generate energy by fusing hydrogen nuclei into helium in their cores."
+  },
+  {
+    "id": 295,
+    "fact": "The process of natural selection explains how populations adapt to their environment over generations."
+  },
+  {
+    "id": 296,
+    "fact": "Entropy explains why time has an arrow, moving from a state of low disorder to high disorder."
+  },
+  {
+    "id": 297,
+    "fact": "Metabolism includes all the chemical reactions that occur within an organism to maintain life."
+  },
+  {
+    "id": 298,
+    "fact": "Pressure is defined as the force applied perpendicular to the surface of an object per unit area."
+  },
+  {
+    "id": 299,
+    "fact": "The periodic table organizes elements based on their atomic number and chemical properties."
+  },
+  {
+    "id": 300,
+    "fact": "Electrons carry a negative charge, while protons carry a positive charge."
+  },
+  {
+    "id": 301,
+    "fact": "Thermal energy is the kinetic energy of the random motion of atoms and molecules in a substance."
+  },
+  {
+    "id": 302,
+    "fact": "Refraction is used in lenses to focus light, which is fundamental to how cameras and human eyes work."
+  },
+  {
+    "id": 303,
+    "fact": "The process of meiosis produces gametes with half the number of chromosomes of the parent cell."
+  },
+  {
+    "id": 304,
+    "fact": "A light beam consists of photons, which have no mass but carry momentum and energy."
+  },
+  {
+    "id": 305,
+    "fact": "Geothermal energy is heat extracted from the Earth's interior."
+  },
+  {
+    "id": 306,
+    "fact": "Inertia is the tendency of an object to resist changes in its state of motion."
+  },
+  {
+    "id": 307,
+    "fact": "Cellular respiration occurs in the mitochondria to produce ATP, the energy currency of the cell."
+  },
+  {
+    "id": 308,
+    "fact": "Sound waves can undergo reflection, refraction, and diffraction."
+  },
+  {
+    "id": 309,
+    "fact": "A supernova can briefly outshine an entire galaxy."
+  },
+  {
+    "id": 310,
+    "fact": "The greenhouse effect works by trapping infrared radiation emitted from the planet's surface."
+  },
+  {
+    "id": 311,
+    "fact": "Atomic number is the number of protons found in the nucleus of an atom."
+  },
+  {
+    "id": 312,
+    "fact": "The human body regulates its internal environment through a process called homeostasis."
+  },
+  {
+    "id": 313,
+    "fact": "A photon is a quantum of light or other electromagnetic radiation."
+  },
+  {
+    "id": 314,
+    "fact": "The law of universal gravitation describes the attraction between two objects with mass."
+  },
+  {
+    "id": 315,
+    "fact": "DNA structure was discovered by Watson and Crick, with contributions from Rosalind Franklin."
+  },
+  {
+    "id": 316,
+    "fact": "The Earth's crust is the outermost solid layer of the planet."
+  },
+  {
+    "id": 317,
+    "fact": "Conduction is the transfer of heat through direct contact between materials."
+  },
+  {
+    "id": 318,
+    "fact": "Radiation is the transfer of energy through electromagnetic waves, requiring no medium."
+  },
+  {
+    "id": 319,
+    "fact": "Convection is the transfer of heat through the movement of fluids like liquid or gas."
+  },
+  {
+    "id": 320,
+    "fact": "Radioactive decay is a random process at the level of individual atoms."
+  },
+  {
+    "id": 321,
+    "fact": "Acceleration is the rate of change of an object's velocity over time."
+  },
+  {
+    "id": 322,
+    "fact": "Friction is a force that resists the relative motion of surfaces in contact."
+  },
+  {
+    "id": 323,
+    "fact": "Velocity is a vector quantity that specifies both speed and direction."
+  },
+  {
+    "id": 324,
+    "fact": "Work is defined as the force applied to an object multiplied by the displacement in the direction of the force."
+  },
+  {
+    "id": 325,
+    "fact": "Power is the rate at which work is performed or energy is transferred."
+  },
+  {
+    "id": 326,
+    "fact": "The Big Bang theory posits that the universe began as a hot, dense singularity about 13.8 billion years ago."
+  },
+  {
+    "id": 327,
+    "fact": "The atmosphere helps burn up most meteoroids before they reach the surface."
+  },
+  {
+    "id": 328,
+    "fact": "The moon’s tidal forces are slowing down the Earth’s rotation over time."
+  },
+  {
+    "id": 329,
+    "fact": "Light can behave as both a wave and a particle, a concept known as wave-particle duality."
+  },
+  {
+    "id": 330,
+    "fact": "The atomic weight is the average mass of an element's isotopes weighted by their natural abundance."
+  },
+  {
+    "id": 331,
+    "fact": "Hydrogen is the most abundant element in the universe, making up about 75 percent of normal matter."
+  },
+  {
+    "id": 332,
+    "fact": "A calorie is a unit of energy, specifically the energy needed to raise the temperature of one gram of water by one degree Celsius."
+  },
+  {
+    "id": 333,
+    "fact": "Earth's magnetic field protects the planet's atmosphere from being stripped away by the solar wind."
+  },
+  {
+    "id": 334,
+    "fact": "The human skeleton continues to grow until about the age of 20 to 25."
+  },
+  {
+    "id": 335,
+    "fact": "Bioluminescence in fungi typically functions to attract insects that spread their spores."
+  },
+  {
+    "id": 336,
+    "fact": "Sound waves can be amplified through resonance, the tendency of a system to oscillate at larger amplitudes at specific frequencies."
+  },
+  {
+    "id": 337,
+    "fact": "The speed of sound is faster in warmer air compared to colder air."
+  },
+  {
+    "id": 338,
+    "fact": "A supernova remnant is an expanding shell of gas and dust left behind after a star explodes."
+  },
+  {
+    "id": 339,
+    "fact": "The Milky Way galaxy is estimated to contain between 100 and 400 billion stars."
+  },
+  {
+    "id": 340,
+    "fact": "Cells are the basic structural, functional, and biological units of all known living organisms."
+  },
+  {
+    "id": 341,
+    "fact": "Cell membranes are composed of a lipid bilayer with embedded proteins."
+  },
+  {
+    "id": 342,
+    "fact": "A dominant gene will mask the expression of a recessive gene in an organism's phenotype."
+  },
+  {
+    "id": 343,
+    "fact": "Genotype refers to the genetic makeup of an organism, while phenotype refers to its observable characteristics."
+  },
+  {
+    "id": 344,
+    "fact": "Evolutionary adaptations improve an organism's ability to survive and reproduce in a specific environment."
+  },
+  {
+    "id": 345,
+    "fact": "Natural selection acts on individuals, but evolution occurs at the population level."
+  },
+  {
+    "id": 346,
+    "fact": "The human brain uses about 20 percent of the body's total energy intake."
+  },
+  {
+    "id": 347,
+    "fact": "The cerebellum is responsible for coordination, precision, and accurate timing of movements."
+  },
+  {
+    "id": 348,
+    "fact": "Antibiotics are effective against bacteria but do not work against viruses."
+  },
+  {
+    "id": 349,
+    "fact": "Vaccines train the immune system to recognize and fight specific pathogens without causing the disease."
+  },
+  {
+    "id": 350,
+    "fact": "The greenhouse gas carbon dioxide is naturally produced by respiration and volcanic activity."
+  },
+  {
+    "id": 351,
+    "fact": "Nitrogen makes up the majority of Earth's atmosphere."
+  },
+  {
+    "id": 352,
+    "fact": "The noble gases, like neon and argon, are characterized by their lack of chemical reactivity."
+  },
+  {
+    "id": 353,
+    "fact": "Electronegativity is a measure of an atom's ability to attract a bonding pair of electrons."
+  },
+  {
+    "id": 354,
+    "fact": "Ions are atoms that have lost or gained electrons, resulting in a net electric charge."
+  },
+  {
+    "id": 355,
+    "fact": "Covalent bonds involve the sharing of electron pairs between atoms."
+  },
+  {
+    "id": 356,
+    "fact": "Ionic bonds are formed through the electrostatic attraction between oppositely charged ions."
+  },
+  {
+    "id": 357,
+    "fact": "The melting point of a substance is the temperature at which it changes from solid to liquid."
+  },
+  {
+    "id": 358,
+    "fact": "The boiling point is the temperature at which the vapor pressure of a liquid equals the external pressure."
+  },
+  {
+    "id": 359,
+    "fact": "Solutions are homogeneous mixtures where the solute is uniformly distributed within the solvent."
+  },
+  {
+    "id": 360,
+    "fact": "Suspensions are heterogeneous mixtures where particles are large enough to settle over time."
+  },
+  {
+    "id": 361,
+    "fact": "Chemical kinetics is the study of the rates at which chemical reactions proceed."
+  },
+  {
+    "id": 362,
+    "fact": "Activation energy is the minimum energy required for a chemical reaction to occur."
+  },
+  {
+    "id": 363,
+    "fact": "Equilibrium occurs in a chemical reaction when the rate of the forward reaction equals the rate of the reverse reaction."
+  },
+  {
+    "id": 364,
+    "fact": "Acids increase the concentration of hydrogen ions in water, while bases decrease it."
+  },
+  {
+    "id": 365,
+    "fact": "The atomic nucleus contains protons and neutrons, which together are called nucleons."
+  },
+  {
+    "id": 366,
+    "fact": "Quantum mechanics describes the physical properties of nature at the scale of atoms and subatomic particles."
+  },
+  {
+    "id": 367,
+    "fact": "Relativity explains that time and space are linked, and gravity is the curvature of spacetime."
+  },
+  {
+    "id": 368,
+    "fact": "Superstring theory suggests that fundamental particles are actually tiny vibrating strings."
+  },
+  {
+    "id": 369,
+    "fact": "Dark energy is a mysterious force that is driving the accelerated expansion of the universe."
+  },
+  {
+    "id": 370,
+    "fact": "Cosmic microwave background radiation is the 'afterglow' of the Big Bang."
+  },
+  {
+    "id": 371,
+    "fact": "Black hole evaporation, or Hawking radiation, suggests black holes can lose mass over time."
+  },
+  {
+    "id": 372,
+    "fact": "The Schwarzschild radius is the distance from the center of a non-rotating black hole to its event horizon."
+  },
+  {
+    "id": 373,
+    "fact": "A pulsar's rotation can be so precise that it rivals the accuracy of atomic clocks."
+  },
+  {
+    "id": 374,
+    "fact": "Supermassive black holes reside at the centers of most large galaxies, including our own."
+  },
+  {
+    "id": 375,
+    "fact": "The habitable zone is the range of orbits around a star where liquid water could exist on a planet."
+  },
+  {
+    "id": 376,
+    "fact": "Planetary rings, like those of Saturn, are composed of countless particles of ice and rock."
+  },
+  {
+    "id": 377,
+    "fact": "Venus's surface is essentially a desert, characterized by rocky, volcanic plains."
+  },
+  {
+    "id": 378,
+    "fact": "Mercury's thin atmosphere, or exosphere, is constantly stripped away by the solar wind."
+  },
+  {
+    "id": 379,
+    "fact": "The asteroid belt is a region located between the orbits of Mars and Jupiter."
+  },
+  {
+    "id": 380,
+    "fact": "Comets are icy bodies that release gas and dust as they approach the Sun, creating a visible tail."
+  },
+  {
+    "id": 381,
+    "fact": "Meteorites are pieces of debris from space that survive their passage through the atmosphere to land on Earth."
+  },
+  {
+    "id": 382,
+    "fact": "Earth's core consists of a solid inner core and a liquid outer core."
+  },
+  {
+    "id": 383,
+    "fact": "Magma is molten rock found beneath the Earth's surface, while lava is molten rock on the surface."
+  },
+  {
+    "id": 384,
+    "fact": "Sedimentary rocks are formed by the accumulation of minerals and particles over time."
+  },
+  {
+    "id": 385,
+    "fact": "Metamorphic rocks are formed when existing rock is subjected to high heat and pressure."
+  },
+  {
+    "id": 386,
+    "fact": "Igneous rocks are formed from the cooling and solidification of molten rock."
+  },
+  {
+    "id": 387,
+    "fact": "The water cycle is the continuous movement of water on, above, and below the Earth's surface."
+  },
+  {
+    "id": 388,
+    "fact": "Atmospheric pressure decreases with altitude because there is less air pressing down from above."
+  },
+  {
+    "id": 389,
+    "fact": "The ozone layer is located in the stratosphere, the second layer of Earth's atmosphere."
+  },
+  {
+    "id": 390,
+    "fact": "Climate is the long-term pattern of weather in a specific area."
+  },
+  {
+    "id": 391,
+    "fact": "Greenhouse gases include carbon dioxide, methane, water vapor, and nitrous oxide."
+  },
+  {
+    "id": 392,
+    "fact": "Fossil fuels were formed from the remains of ancient organisms buried millions of years ago."
+  },
+  {
+    "id": 393,
+    "fact": "Renewable energy comes from sources that are naturally replenished, such as sunlight and wind."
+  },
+  {
+    "id": 394,
+    "fact": "Biodiversity is the variety of life on Earth, including different species, genetics, and ecosystems."
+  },
+  {
+    "id": 395,
+    "fact": "An ecosystem consists of all the living organisms in a given area interacting with their physical environment."
+  },
+  {
+    "id": 396,
+    "fact": "Trophic levels describe the position an organism occupies in a food chain."
+  },
+  {
+    "id": 397,
+    "fact": "Symbiosis is a long-term interaction between two different biological organisms."
+  },
+  {
+    "id": 398,
+    "fact": "The human genome contains about 3 billion DNA base pairs."
+  },
+  {
+    "id": 399,
+    "fact": "Stem cells have the unique ability to develop into many different cell types in the body."
+  },
+  {
+    "id": 400,
+    "fact": "An antibody is a protein used by the immune system to neutralize foreign invaders."
+  },
+  {
+    "id": 401,
+    "fact": "Neurotransmitters are chemical messengers that transmit signals across a chemical synapse between neurons."
+  },
+  {
+    "id": 402,
+    "fact": "Hormones are chemical substances produced in the body that control and regulate the activity of certain cells or organs."
+  },
+  {
+    "id": 403,
+    "fact": "The endocrine system includes glands like the pituitary, thyroid, and adrenal glands."
+  },
+  {
+    "id": 404,
+    "fact": "Digestion begins in the mouth, where enzymes in saliva start breaking down carbohydrates."
+  },
+  {
+    "id": 405,
+    "fact": "The liver filters toxins from the blood and produces bile to help digest fats."
+  },
+  {
+    "id": 406,
+    "fact": "The kidneys filter blood to remove waste products and maintain fluid balance."
+  },
+  {
+    "id": 407,
+    "fact": "The lungs are responsible for gas exchange, taking in oxygen and releasing carbon dioxide."
+  },
+  {
+    "id": 408,
+    "fact": "Muscles move the body by contracting and pulling on bones, to which they are attached by tendons."
+  },
+  {
+    "id": 409,
+    "fact": "The skin is the largest organ in the human body, acting as a protective barrier."
+  },
+  {
+    "id": 410,
+    "fact": "The human eye uses a lens to focus light onto the retina, which contains light-sensitive cells."
+  },
+  {
+    "id": 411,
+    "fact": "Sound waves enter the ear and cause the eardrum to vibrate, which is then transmitted to the inner ear."
+  },
+  {
+    "id": 412,
+    "fact": "Taste buds on the tongue detect five primary tastes: sweet, sour, salty, bitter, and umami."
+  },
+  {
+    "id": 413,
+    "fact": "The sense of smell is linked to the limbic system, which also processes emotions and memories."
+  },
+  {
+    "id": 414,
+    "fact": "The human brain is divided into two hemispheres connected by a bundle of nerve fibers called the corpus callosum."
+  },
+  {
+    "id": 415,
+    "fact": "Plasticity is the brain's ability to reorganize itself by forming new neural connections throughout life."
+  },
+  {
+    "id": 416,
+    "fact": "Sleep is essential for cognitive function, memory consolidation, and physical recovery."
+  },
+  {
+    "id": 417,
+    "fact": "A virus is a submicroscopic infectious agent that replicates only inside the living cells of an organism."
+  },
+  {
+    "id": 418,
+    "fact": "Parasitism is a type of symbiotic relationship where one organism benefits at the expense of the other."
+  },
+  {
+    "id": 419,
+    "fact": "Mutualism is a symbiotic relationship where both organisms benefit."
+  },
+  {
+    "id": 420,
+    "fact": "Commensalism is a relationship where one organism benefits while the other is neither helped nor harmed."
+  },
+  {
+    "id": 421,
+    "fact": "Evolution is supported by fossil records, genetic evidence, and anatomical similarities between species."
+  },
+  {
+    "id": 422,
+    "fact": "Extinction is the end of a species, often due to environmental changes or lack of adaptation."
+  },
+  {
+    "id": 423,
+    "fact": "The fossil record provides snapshots of past life and the changes that have occurred over millions of years."
+  },
+  {
+    "id": 424,
+    "fact": "Genetic mutations are changes in the DNA sequence that can lead to variation within a population."
+  },
+  {
+    "id": 425,
+    "fact": "Genetics is the study of genes, genetic variation, and heredity in living organisms."
+  },
+  {
+    "id": 426,
+    "fact": "Inheritance occurs through the passing of genetic information from parents to offspring."
+  },
+  {
+    "id": 427,
+    "fact": "The cell cycle consists of interphase, mitosis, and cytokinesis."
+  },
+  {
+    "id": 428,
+    "fact": "Ribosomes are the sites of protein synthesis in the cell."
+  },
+  {
+    "id": 429,
+    "fact": "The nucleus acts as the control center of the cell and contains the genetic material."
+  },
+  {
+    "id": 430,
+    "fact": "Chloroplasts are organelles found in plants that perform photosynthesis."
+  },
+  {
+    "id": 431,
+    "fact": "Mitochondria are often referred to as the powerhouse of the cell due to ATP production."
+  },
+  {
+    "id": 432,
+    "fact": "Osmosis is crucial for maintaining the water balance within cells."
+  },
+  {
+    "id": 433,
+    "fact": "Homeostasis ensures that internal conditions remain stable despite changes in the external environment."
+  },
+  {
+    "id": 434,
+    "fact": "The scientific method is a systematic process of observation, experimentation, and analysis."
+  },
+  {
+    "id": 435,
+    "fact": "A hypothesis is a testable explanation for a set of observations."
+  },
+  {
+    "id": 436,
+    "fact": "Scientific theories are well-substantiated explanations based on facts that have been repeatedly tested."
+  },
+  {
+    "id": 437,
+    "fact": "A law of nature describes a consistent and predictable observation in the natural world."
+  },
+  {
+    "id": 438,
+    "fact": "Measurement involves comparing an unknown quantity to a standard unit."
+  },
+  {
+    "id": 439,
+    "fact": "The SI system (International System of Units) provides a standardized set of measurements for science."
+  },
+  {
+    "id": 440,
+    "fact": "Significant figures represent the precision of a measurement."
+  },
+  {
+    "id": 441,
+    "fact": "An error in science can be either systematic, affecting accuracy, or random, affecting precision."
+  },
+  {
+    "id": 442,
+    "fact": "Data analysis uses statistical methods to interpret results and draw conclusions."
+  },
+  {
+    "id": 443,
+    "fact": "Peer review is a process by which scientific work is evaluated by experts before publication."
+  },
+  {
+    "id": 444,
+    "fact": "Technology is the application of scientific knowledge for practical purposes."
+  },
+  {
+    "id": 445,
+    "fact": "Engineering uses principles of science and mathematics to design and build structures and systems."
+  },
+  {
+    "id": 446,
+    "fact": "Nanotechnology involves manipulating matter at the atomic or molecular scale."
+  },
+  {
+    "id": 447,
+    "fact": "Robotics is the branch of technology that deals with the design, construction, and operation of robots."
+  },
+  {
+    "id": 448,
+    "fact": "Biotechnology uses biological systems to develop products or processes."
+  },
+  {
+    "id": 449,
+    "fact": "Artificial intelligence simulates human intelligence processes by machines and computer systems."
+  },
+  {
+    "id": 450,
+    "fact": "Information theory studies the quantification, storage, and communication of information."
+  },
+  {
+    "id": 451,
+    "fact": "Cryptography is the practice and study of techniques for secure communication in the presence of adversaries."
+  },
+  {
+    "id": 452,
+    "fact": "A computer uses binary code, consisting of 0s and 1s, to process information."
+  },
+  {
+    "id": 453,
+    "fact": "The internet is a global network of interconnected computers."
+  },
+  {
+    "id": 454,
+    "fact": "Algorithms are sets of rules or instructions followed by a computer to perform tasks."
+  },
+  {
+    "id": 455,
+    "fact": "Data science extracts knowledge and insights from structured and unstructured data."
+  },
+  {
+    "id": 456,
+    "fact": "Mathematics is the language of science, used to describe patterns, relationships, and quantities."
+  },
+  {
+    "id": 457,
+    "fact": "Geometry studies shapes, sizes, and the properties of space."
+  },
+  {
+    "id": 458,
+    "fact": "Calculus is the mathematical study of continuous change."
+  },
+  {
+    "id": 459,
+    "fact": "Statistics is the branch of mathematics that deals with the collection and analysis of data."
+  },
+  {
+    "id": 460,
+    "fact": "Prime numbers are natural numbers greater than 1 that have no positive divisors other than 1 and themselves."
+  },
+  {
+    "id": 461,
+    "fact": "Pi is the ratio of a circle's circumference to its diameter, approximately 3.14159."
+  },
+  {
+    "id": 462,
+    "fact": "Probability measures the likelihood that an event will occur."
+  },
+  {
+    "id": 463,
+    "fact": "The Golden Ratio is a mathematical ratio often found in nature and art."
+  },
+  {
+    "id": 464,
+    "fact": "Set theory is a branch of mathematical logic that studies sets, which are collections of objects."
+  },
+  {
+    "id": 465,
+    "fact": "Algebra is the branch of mathematics that uses symbols to represent numbers in equations."
+  },
+  {
+    "id": 466,
+    "fact": "Trigonometry studies the relationships between the angles and sides of triangles."
+  },
+  {
+    "id": 467,
+    "fact": "Number theory is a branch of pure mathematics devoted to the study of integers."
+  },
+  {
+    "id": 468,
+    "fact": "The fourth dimension is often represented as time in the context of spacetime."
+  },
+  {
+    "id": 469,
+    "fact": "Fractals are complex geometric shapes that exhibit self-similarity at different scales."
+  },
+  {
+    "id": 470,
+    "fact": "Topology studies the properties of space that are preserved under continuous deformations."
+  },
+  {
+    "id": 471,
+    "fact": "Linear algebra is the branch of mathematics concerning linear equations and their representations in vector spaces."
+  },
+  {
+    "id": 472,
+    "fact": "Discrete mathematics deals with countable, distinct structures."
+  },
+  {
+    "id": 473,
+    "fact": "Logic is the study of correct reasoning."
+  },
+  {
+    "id": 474,
+    "fact": "The scientific method relies on the iterative process of testing and refining hypotheses."
+  },
+  {
+    "id": 475,
+    "fact": "Observation is the act of noting and recording phenomena as they occur."
+  },
+  {
+    "id": 476,
+    "fact": "Experiments are conducted to test a specific variable while keeping others constant."
+  },
+  {
+    "id": 477,
+    "fact": "Models are simplified representations used to understand complex phenomena."
+  },
+  {
+    "id": 478,
+    "fact": "The peer review process ensures the quality and credibility of scientific research."
+  },
+  {
+    "id": 479,
+    "fact": "Scientific paradigms are the frameworks of beliefs and practices that guide a scientific field."
+  },
+  {
+    "id": 480,
+    "fact": "Science communication bridges the gap between scientific experts and the general public."
+  },
+  {
+    "id": 481,
+    "fact": "Ethical considerations are central to scientific research involving humans, animals, and the environment."
+  },
+  {
+    "id": 482,
+    "fact": "Open science promotes the sharing of research, data, and findings to accelerate discovery."
+  },
+  {
+    "id": 483,
+    "fact": "Citizens of science initiatives allow the public to contribute to scientific data collection and research."
+  },
+  {
+    "id": 484,
+    "fact": "Scientific inquiry is driven by curiosity and the desire to understand the world."
+  },
+  {
+    "id": 485,
+    "fact": "Critical thinking is an essential skill in evaluating evidence and reaching conclusions."
+  },
+  {
+    "id": 486,
+    "fact": "Skepticism is the habit of questioning claims until sufficient evidence is provided."
+  },
+  {
+    "id": 487,
+    "fact": "Bias is a potential source of error in both the collection and interpretation of scientific data."
+  },
+  {
+    "id": 488,
+    "fact": "Objectivity is the ideal of approaching scientific problems without personal prejudice."
+  },
+  {
+    "id": 489,
+    "fact": "Replication is the process of repeating experiments to confirm the validity of the results."
+  },
+  {
+    "id": 490,
+    "fact": "Scientific progress often involves building upon the work of previous generations."
+  },
+  {
+    "id": 491,
+    "fact": "Technology can sometimes create new problems, necessitating responsible and thoughtful innovation."
+  },
+  {
+    "id": 492,
+    "fact": "Sustainability aims to meet the needs of the present without compromising future generations."
+  },
+  {
+    "id": 493,
+    "fact": "Environmental science studies the impact of human activities on the natural world."
+  },
+  {
+    "id": 494,
+    "fact": "Conservation biology aims to protect and restore biodiversity and ecosystems."
+  },
+  {
+    "id": 495,
+    "fact": "Climate change is one of the most pressing challenges facing the global scientific community."
+  },
+  {
+    "id": 496,
+    "fact": "Energy efficiency is a key component of sustainable technology development."
+  },
+  {
+    "id": 497,
+    "fact": "Materials science is focused on the discovery and design of new materials for various applications."
+  },
+  {
+    "id": 498,
+    "fact": "Space exploration provides insights into the origin and evolution of the universe."
+  },
+  {
+    "id": 499,
+    "fact": "Medicine uses scientific knowledge to diagnose, treat, and prevent disease."
+  },
+  {
+    "id": 500,
+    "fact": "The future of science will likely be shaped by the convergence of diverse disciplines like AI, biotechnology, and physics."
+  },
+  {
+    "id": 501,
+    "fact": "The density of the Earth increases significantly toward the center, reaching a maximum in the inner core."
+  },
+  {
+    "id": 502,
+    "fact": "Liquid crystals, used in displays, share properties of both liquids and solid crystals."
+  },
+  {
+    "id": 503,
+    "fact": "A standard deck of 52 cards has more possible arrangements than atoms on Earth."
+  },
+  {
+    "id": 504,
+    "fact": "Photosynthesis is essentially the conversion of radiant energy into stable chemical energy."
+  },
+  {
+    "id": 505,
+    "fact": "Tectonic plate movement is primarily driven by mantle convection and slab pull."
+  },
+  {
+    "id": 506,
+    "fact": "The speed of sound in water is approximately 1,480 meters per second."
+  },
+  {
+    "id": 507,
+    "fact": "Venus is covered by thick clouds of sulfuric acid, reflecting most incoming sunlight."
+  },
+  {
+    "id": 508,
+    "fact": "The human genome is about 99.9 percent identical across all people."
+  },
+  {
+    "id": 509,
+    "fact": "Electromagnetism is one of the four fundamental forces that govern the behavior of subatomic particles."
+  },
+  {
+    "id": 510,
+    "fact": "The freezing point of water is lowered by the addition of salt, a process called freezing-point depression."
+  },
+  {
+    "id": 511,
+    "fact": "Supernovae are the primary source of heavy elements scattered throughout the cosmos."
+  },
+  {
+    "id": 512,
+    "fact": "A light-minute is approximately 18 million kilometers."
+  },
+  {
+    "id": 513,
+    "fact": "The Earth's crust is thinnest under the oceans and thickest under continental mountain ranges."
+  },
+  {
+    "id": 514,
+    "fact": "Human teeth are the only part of the body that cannot heal themselves."
+  },
+  {
+    "id": 515,
+    "fact": "Quantum superposition is the principle that a particle can exist in multiple states at once until observed."
+  },
+  {
+    "id": 516,
+    "fact": "The atmosphere of Mars is 95 percent carbon dioxide, but it is far too thin to retain much heat."
+  },
+  {
+    "id": 517,
+    "fact": "Catalysts work by providing an alternative reaction pathway with a lower activation energy."
+  },
+  {
+    "id": 518,
+    "fact": "The average depth of the ocean is about 3.7 kilometers."
+  },
+  {
+    "id": 519,
+    "fact": "Binary stars, where two stars orbit a common center of mass, are very common in the galaxy."
+  },
+  {
+    "id": 520,
+    "fact": "Neurons are the basic building blocks of the nervous system, transmitting information via electrical impulses."
+  },
+  {
+    "id": 521,
+    "fact": "The chemical element mercury is the only metal that is liquid at standard room temperature."
+  },
+  {
+    "id": 522,
+    "fact": "A light-year is roughly 63,241 astronomical units."
+  },
+  {
+    "id": 523,
+    "fact": "Tsunamis are usually caused by underwater earthquakes or volcanic eruptions displacing massive amounts of water."
+  },
+  {
+    "id": 524,
+    "fact": "Human skin replaces its entire outer layer roughly every four weeks."
+  },
+  {
+    "id": 525,
+    "fact": "Relativity implies that mass and energy are interchangeable via the famous equation $E = mc^2$."
+  },
+  {
+    "id": 526,
+    "fact": "The Great Red Spot on Jupiter is a massive, persistent storm that has been raging for centuries."
+  },
+  {
+    "id": 527,
+    "fact": "Chemical bonds are the physical processes responsible for the attractive interactions between atoms and molecules."
+  },
+  {
+    "id": 528,
+    "fact": "Sound intensity is measured in decibels, which follow a logarithmic scale."
+  },
+  {
+    "id": 529,
+    "fact": "Black holes are not actually 'holes' but objects with such immense gravity that light cannot escape."
+  },
+  {
+    "id": 530,
+    "fact": "DNA replication occurs in the cell nucleus before mitosis to ensure each new cell gets a full set of chromosomes."
+  },
+  {
+    "id": 531,
+    "fact": "The chemical symbol for iron is Fe, from the Latin 'ferrum'."
+  },
+  {
+    "id": 532,
+    "fact": "Light waves are electromagnetic waves that do not require a medium for propagation."
+  },
+  {
+    "id": 533,
+    "fact": "The Earth's magnetic field reverses polarity every few hundred thousand years on average."
+  },
+  {
+    "id": 534,
+    "fact": "There are three main types of muscles in the human body: skeletal, cardiac, and smooth."
+  },
+  {
+    "id": 535,
+    "fact": "Quantum tunneling allows particles to pass through potential barriers they classically shouldn't be able to cross."
+  },
+  {
+    "id": 536,
+    "fact": "Saturn's rings are primarily made of billions of chunks of ice and rock ranging from dust to boulders."
+  },
+  {
+    "id": 537,
+    "fact": "The atomic weight of an element is approximately the number of protons plus neutrons in the nucleus."
+  },
+  {
+    "id": 538,
+    "fact": "Erosion is the process by which surface materials are worn away and transported by natural forces."
+  },
+  {
+    "id": 539,
+    "fact": "A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter."
+  },
+  {
+    "id": 540,
+    "fact": "Synapses are the tiny gaps between neurons where chemical neurotransmitters transmit signals."
+  },
+  {
+    "id": 541,
+    "fact": "Helium was first detected in the Sun's spectrum before it was found on Earth."
+  },
+  {
+    "id": 542,
+    "fact": "The speed of light is the same for all observers, regardless of the motion of the source or the observer."
+  },
+  {
+    "id": 543,
+    "fact": "Earth's orbit around the Sun is slightly elliptical, not a perfect circle."
+  },
+  {
+    "id": 544,
+    "fact": "The human body contains about 5 liters of blood on average."
+  },
+  {
+    "id": 545,
+    "fact": "Mass and weight are different; mass is the amount of matter, while weight is the force of gravity on that mass."
+  },
+  {
+    "id": 546,
+    "fact": "The Andromeda Galaxy is on a collision course with the Milky Way, expected to merge in about 4 billion years."
+  },
+  {
+    "id": 547,
+    "fact": "Chemical compounds have properties different from the elements that compose them."
+  },
+  {
+    "id": 548,
+    "fact": "Frequency is the number of occurrences of a repeating event per unit time, measured in Hertz."
+  },
+  {
+    "id": 549,
+    "fact": "Hawking radiation is predicted to cause black holes to slowly lose mass and eventually evaporate."
+  },
+  {
+    "id": 550,
+    "fact": "Meiosis results in cells with half the number of chromosomes as the parent cell, necessary for sexual reproduction."
+  },
+  {
+    "id": 551,
+    "fact": "The chemical element gold is extremely unreactive and does not tarnish easily."
+  },
+  {
+    "id": 552,
+    "fact": "Refraction occurs because light travels at different speeds in different materials."
+  },
+  {
+    "id": 553,
+    "fact": "The Earth's mantle is solid, but flows slowly over geological time due to extreme pressure and temperature."
+  },
+  {
+    "id": 554,
+    "fact": "The human heart is a dual-pump system that sends blood to the lungs and the rest of the body."
+  },
+  {
+    "id": 555,
+    "fact": "Force is a vector quantity defined as mass times acceleration, $F = ma$."
+  },
+  {
+    "id": 556,
+    "fact": "Exoplanets are often discovered using the transit method, observing the slight dimming of a star's light."
+  },
+  {
+    "id": 557,
+    "fact": "A solution is saturated when it cannot dissolve any more solute at a given temperature."
+  },
+  {
+    "id": 558,
+    "fact": "Wavelength is the distance between consecutive peaks of a wave."
+  },
+  {
+    "id": 559,
+    "fact": "Dark matter is thought to make up about 27 percent of the universe, while dark energy makes up 68 percent."
+  },
+  {
+    "id": 560,
+    "fact": "Genetic engineering allows scientists to modify the DNA of organisms to produce desired traits."
+  },
+  {
+    "id": 561,
+    "fact": "The chemical symbol for lead is Pb, from the Latin word 'plumbum'."
+  },
+  {
+    "id": 562,
+    "fact": "Total internal reflection is the basis for fiber-optic communication technology."
+  },
+  {
+    "id": 563,
+    "fact": "The lithosphere includes the Earth's crust and the topmost part of the mantle."
+  },
+  {
+    "id": 564,
+    "fact": "White blood cells are a key part of the immune system, defending against infections and disease."
+  },
+  {
+    "id": 565,
+    "fact": "Energy can be kinetic, potential, thermal, chemical, nuclear, or electromagnetic."
+  },
+  {
+    "id": 566,
+    "fact": "The Moon is in synchronous rotation with Earth, which is why we only ever see one side of it."
+  },
+  {
+    "id": 567,
+    "fact": "Electrolytes are substances that produce an electrically conducting solution when dissolved in water."
+  },
+  {
+    "id": 568,
+    "fact": "Amplitude is the maximum displacement or distance moved by a point on a vibrating body or wave."
+  },
+  {
+    "id": 569,
+    "fact": "The Big Bang is not an explosion in space, but rather the rapid expansion of space itself."
+  },
+  {
+    "id": 570,
+    "fact": "Ribonucleic acid, or RNA, is a molecule essential for coding, decoding, regulation, and expression of genes."
+  },
+  {
+    "id": 571,
+    "fact": "Sodium metal reacts violently with water to produce hydrogen gas and sodium hydroxide."
+  },
+  {
+    "id": 572,
+    "fact": "Lenses function by changing the direction of light rays through refraction."
+  },
+  {
+    "id": 573,
+    "fact": "The Earth's inner core is solid, despite its high temperature, due to immense pressure."
+  },
+  {
+    "id": 574,
+    "fact": "Red blood cells carry oxygen throughout the body using a protein called hemoglobin."
+  },
+  {
+    "id": 575,
+    "fact": "Acceleration due to gravity on Earth is approximately $9.8 m/s^2$."
+  },
+  {
+    "id": 576,
+    "fact": "Stars in the universe are formed within massive, cold clouds of molecular gas."
+  },
+  {
+    "id": 577,
+    "fact": "Acids have a sour taste and can turn blue litmus paper red."
+  },
+  {
+    "id": 578,
+    "fact": "The electromagnetic spectrum includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays."
+  },
+  {
+    "id": 579,
+    "fact": "The Event Horizon Telescope produced the first ever image of a black hole's shadow in 2019."
+  },
+  {
+    "id": 580,
+    "fact": "Mutations can be beneficial, harmful, or neutral depending on their effect on the organism's fitness."
+  },
+  {
+    "id": 581,
+    "fact": "The element carbon is unique because it can form four covalent bonds with many different elements."
+  },
+  {
+    "id": 582,
+    "fact": "Diffraction is the bending of waves around the corners of an obstacle or through an aperture."
+  },
+  {
+    "id": 583,
+    "fact": "The biosphere includes all regions of the Earth occupied by living organisms."
+  },
+  {
+    "id": 584,
+    "fact": "Antibodies are specific to the antigens they bind to, much like a lock and key."
+  },
+  {
+    "id": 585,
+    "fact": "Momentum is the product of an object's mass and its velocity."
+  },
+  {
+    "id": 586,
+    "fact": "The Sun's energy output is so vast that it releases more energy in a second than humanity has consumed in its history."
+  },
+  {
+    "id": 587,
+    "fact": "Bases feel slippery and turn red litmus paper blue."
+  },
+  {
+    "id": 588,
+    "fact": "Radio waves have the longest wavelengths in the electromagnetic spectrum."
+  },
+  {
+    "id": 589,
+    "fact": "The universe is approximately 13.8 billion years old."
+  },
+  {
+    "id": 590,
+    "fact": "Transcription is the process of copying a segment of DNA into RNA."
+  },
+  {
+    "id": 591,
+    "fact": "Noble gases like neon are used in lighting because they produce distinct colors when electrified."
+  },
+  {
+    "id": 592,
+    "fact": "Interference occurs when two or more waves overlap, resulting in either reinforcement or cancellation."
+  },
+  {
+    "id": 593,
+    "fact": "Plate boundaries are where most geological activity, such as earthquakes and volcanoes, occurs."
+  },
+  {
+    "id": 594,
+    "fact": "The human brain is protected by the skull and bathed in cerebrospinal fluid."
+  },
+  {
+    "id": 595,
+    "fact": "Kinetic energy is the energy an object possesses due to its motion."
+  },
+  {
+    "id": 596,
+    "fact": "The lifecycle of a star is determined primarily by its initial mass."
+  },
+  {
+    "id": 597,
+    "fact": "A neutralization reaction occurs when an acid and a base react to form water and a salt."
+  },
+  {
+    "id": 598,
+    "fact": "X-rays have shorter wavelengths than ultraviolet light and can penetrate soft tissues."
+  },
+  {
+    "id": 599,
+    "fact": "The expansion of the universe is accelerating due to the influence of dark energy."
+  },
+  {
+    "id": 600,
+    "fact": "Translation is the process by which ribosomes create proteins from messenger RNA."
+  },
+  {
+    "id": 601,
+    "fact": "The reaction of hydrogen and oxygen to form water releases a large amount of energy."
+  },
+  {
+    "id": 602,
+    "fact": "Polarization is the property of light waves where their vibrations occur in a single plane."
+  },
+  {
+    "id": 603,
+    "fact": "The Earth's crust is mostly composed of silicate minerals."
+  },
+  {
+    "id": 604,
+    "fact": "The spinal cord is a major pathway for information between the brain and the rest of the body."
+  },
+  {
+    "id": 605,
+    "fact": "Potential energy is stored energy based on an object's position or state."
+  },
+  {
+    "id": 606,
+    "fact": "A red giant is a dying star that has expanded in size and cooled in temperature."
+  },
+  {
+    "id": 607,
+    "fact": "The pH of human blood is kept within a narrow range of 7.35 to 7.45."
+  },
+  {
+    "id": 608,
+    "fact": "Gamma rays have the shortest wavelengths and the highest energy in the electromagnetic spectrum."
+  },
+  {
+    "id": 609,
+    "fact": "The Hubble Space Telescope has provided invaluable data about the expansion rate of the universe."
+  },
+  {
+    "id": 610,
+    "fact": "Codons are sequences of three nucleotides that specify a particular amino acid during translation."
+  },
+  {
+    "id": 611,
+    "fact": "Silicon is the second most abundant element in the Earth's crust after oxygen."
+  },
+  {
+    "id": 612,
+    "fact": "Dispersion is the separation of white light into its component colors by a prism."
+  },
+  {
+    "id": 613,
+    "fact": "The asthenosphere is a ductile layer of the mantle that allows tectonic plates to move."
+  },
+  {
+    "id": 614,
+    "fact": "The endocrine system includes the pancreas, which regulates blood sugar levels via insulin and glucagon."
+  },
+  {
+    "id": 615,
+    "fact": "Work and energy are both measured in Joules."
+  },
+  {
+    "id": 616,
+    "fact": "White dwarfs are the dense, cooling remnants of stars like the Sun."
+  },
+  {
+    "id": 617,
+    "fact": "Indicators are substances that change color depending on the pH of the solution."
+  },
+  {
+    "id": 618,
+    "fact": "Ultraviolet light is invisible to the human eye but can cause sunburns."
+  },
+  {
+    "id": 619,
+    "fact": "The cosmic background radiation is remarkably uniform in every direction."
+  },
+  {
+    "id": 620,
+    "fact": "DNA mutations can arise from errors in replication or exposure to mutagens like radiation."
+  },
+  {
+    "id": 621,
+    "fact": "Aluminum is the most abundant metal in the Earth's crust."
+  },
+  {
+    "id": 622,
+    "fact": "Polarized sunglasses work by blocking light waves oscillating in specific orientations."
+  },
+  {
+    "id": 623,
+    "fact": "Seismic waves are vibrations that travel through the Earth, generated by earthquakes or explosions."
+  },
+  {
+    "id": 624,
+    "fact": "The autonomic nervous system controls involuntary bodily functions like heart rate and digestion."
+  },
+  {
+    "id": 625,
+    "fact": "Thermal energy is transferred from warmer to cooler objects until thermal equilibrium is reached."
+  },
+  {
+    "id": 626,
+    "fact": "Neutron stars are so dense that their gravity significantly warps the space around them."
+  },
+  {
+    "id": 627,
+    "fact": "Buffers are solutions that resist changes in pH when small amounts of acid or base are added."
+  },
+  {
+    "id": 628,
+    "fact": "Infrared radiation is often associated with heat and can be detected by thermal imaging cameras."
+  },
+  {
+    "id": 629,
+    "fact": "The early universe was filled with a hot, dense plasma that gradually cooled over time."
+  },
+  {
+    "id": 630,
+    "fact": "Genomic sequencing has revealed much about our evolutionary history and relationships to other species."
+  },
+  {
+    "id": 631,
+    "fact": "The periodic table was originally organized by Dmitri Mendeleev, who predicted the existence of undiscovered elements."
+  },
+  {
+    "id": 632,
+    "fact": "The Doppler effect can be used to measure how fast galaxies are moving toward or away from us."
+  },
+  {
+    "id": 633,
+    "fact": "The Moho is the boundary between the Earth's crust and the mantle."
+  },
+  {
+    "id": 634,
+    "fact": "The somatic nervous system is associated with voluntary control of body movements."
+  },
+  {
+    "id": 635,
+    "fact": "Conservation of momentum states that the total momentum of an isolated system remains constant."
+  },
+  {
+    "id": 636,
+    "fact": "Supernovae are the only cosmic events with enough energy to fuse elements heavier than iron."
+  },
+  {
+    "id": 637,
+    "fact": "A mole is a unit of measurement used in chemistry to represent a huge number of particles, approximately $6.022 \times 10^{23}$."
+  },
+  {
+    "id": 638,
+    "fact": "Visible light covers the range of wavelengths roughly from 400 to 700 nanometers."
+  },
+  {
+    "id": 639,
+    "fact": "The formation of the universe is described by the Big Bang theory, supported by observed cosmic background radiation."
+  },
+  {
+    "id": 640,
+    "fact": "The genetic code is nearly universal, shared by almost all living organisms on Earth."
+  },
+  {
+    "id": 641,
+    "fact": "The reactivity of an element is largely determined by its electron configuration, especially its valence electrons."
+  },
+  {
+    "id": 642,
+    "fact": "Scattering occurs when light interacts with particles, changing its direction."
+  },
+  {
+    "id": 643,
+    "fact": "P-waves are the fastest type of seismic waves and can travel through both solids and liquids."
+  },
+  {
+    "id": 644,
+    "fact": "The sympathetic nervous system prepares the body for 'fight or flight' responses."
+  },
+  {
+    "id": 645,
+    "fact": "Energy can be transformed from one form to another, but the total amount remains the same."
+  },
+  {
+    "id": 646,
+    "fact": "The Sun is currently in the middle of its main-sequence life stage, which lasts about 10 billion years."
+  },
+  {
+    "id": 647,
+    "fact": "Strong acids completely dissociate into ions in aqueous solution."
+  },
+  {
+    "id": 648,
+    "fact": "The atmosphere absorbs most high-energy radiation, shielding life on the surface."
+  },
+  {
+    "id": 649,
+    "fact": "The universe appears to be spatially flat, according to observations of cosmic background radiation."
+  },
+  {
+    "id": 650,
+    "fact": "Epigenetics is the study of changes in organisms caused by modification of gene expression rather than the genetic code itself."
+  },
+  {
+    "id": 651,
+    "fact": "Ionic solids have high melting points because of the strong electrostatic forces holding the ions together."
+  },
+  {
+    "id": 652,
+    "fact": "A prism disperses light because the speed of light varies with the wavelength in the glass."
+  },
+  {
+    "id": 653,
+    "fact": "S-waves are secondary seismic waves that only travel through solids."
+  },
+  {
+    "id": 654,
+    "fact": "The parasympathetic nervous system promotes 'rest and digest' activities."
+  },
+  {
+    "id": 655,
+    "fact": "Power is measured in watts, where one watt is one joule per second."
+  },
+  {
+    "id": 656,
+    "fact": "The Sun's solar cycle, including sunspot activity, repeats approximately every 11 years."
+  },
+  {
+    "id": 657,
+    "fact": "Weak acids only partially dissociate in solution, establishing a dynamic equilibrium."
+  },
+  {
+    "id": 658,
+    "fact": "Atmospheric pressure is essential for maintaining liquid water on Earth's surface."
+  },
+  {
+    "id": 659,
+    "fact": "The universe's composition is roughly 75 percent hydrogen and 25 percent helium by mass."
+  },
+  {
+    "id": 660,
+    "fact": "CRISPR-Cas9 is a revolutionary gene-editing technology derived from bacterial immune systems."
+  },
+  {
+    "id": 661,
+    "fact": "Metallic bonding involves a sea of delocalized electrons that move freely between positive metal ions."
+  },
+  {
+    "id": 662,
+    "fact": "The frequency of a wave is the inverse of its period."
+  },
+  {
+    "id": 663,
+    "fact": "Outer core convection is responsible for the Earth's magnetic field."
+  },
+  {
+    "id": 664,
+    "fact": "The cerebellum helps maintain balance, posture, and equilibrium."
+  },
+  {
+    "id": 665,
+    "fact": "Efficiency is the ratio of useful energy output to total energy input."
+  },
+  {
+    "id": 666,
+    "fact": "The Sun is classified as a G-type main-sequence star."
+  },
+  {
+    "id": 667,
+    "fact": "The strength of an acid is determined by its tendency to lose a proton."
+  },
+  {
+    "id": 668,
+    "fact": "The greenhouse effect increases the temperature of the atmosphere by trapping heat radiated from the surface."
+  },
+  {
+    "id": 669,
+    "fact": "Quarks are fundamental constituents of matter that combine to form protons and neutrons."
+  },
+  {
+    "id": 670,
+    "fact": "Mitosis produces two identical cells, while meiosis produces four cells with different genetic material."
+  },
+  {
+    "id": 671,
+    "fact": "Covalent bonds can be polar if the atoms have different electronegativities."
+  },
+  {
+    "id": 672,
+    "fact": "Resonance occurs when an external frequency matches the natural frequency of an object."
+  },
+  {
+    "id": 673,
+    "fact": "The Richter scale measures the magnitude of earthquakes based on seismic wave amplitude."
+  },
+  {
+    "id": 674,
+    "fact": "The brainstem controls basic life-sustaining functions like breathing and heart rate."
+  },
+  {
+    "id": 675,
+    "fact": "Total energy is conserved in all physical processes, even if it changes form."
+  },
+  {
+    "id": 676,
+    "fact": "Solar flares are intense bursts of radiation caused by the release of magnetic energy on the Sun."
+  },
+  {
+    "id": 677,
+    "fact": "The strength of a base is determined by its ability to accept a proton."
+  },
+  {
+    "id": 678,
+    "fact": "Climate change is significantly influenced by human-driven increases in atmospheric carbon dioxide."
+  },
+  {
+    "id": 679,
+    "fact": "Gravity is the weakest of the four fundamental forces but has an infinite range."
+  },
+  {
+    "id": 680,
+    "fact": "Recombinant DNA technology allows for the creation of new combinations of genetic material."
+  },
+  {
+    "id": 681,
+    "fact": "Valence electrons determine the bonding behavior of atoms."
+  },
+  {
+    "id": 682,
+    "fact": "Waves carry energy without the transport of matter."
+  },
+  {
+    "id": 683,
+    "fact": "Continental drift is the theory that continents move over time across the Earth's surface."
+  },
+  {
+    "id": 684,
+    "fact": "Neuroplasticity allows the brain to adapt and change its structure in response to experience."
+  },
+  {
+    "id": 685,
+    "fact": "The first law of thermodynamics is essentially the law of conservation of energy."
+  },
+  {
+    "id": 686,
+    "fact": "Coronal mass ejections are large clouds of solar plasma ejected into space."
+  },
+  {
+    "id": 687,
+    "fact": "Titration is a laboratory technique to determine the concentration of an unknown solution."
+  },
+  {
+    "id": 688,
+    "fact": "Global warming refers to the long-term increase in Earth's average temperature."
+  },
+  {
+    "id": 689,
+    "fact": "Electromagnetism mediates the interaction between charged particles."
+  },
+  {
+    "id": 690,
+    "fact": "PCR, or polymerase chain reaction, is a technique used to amplify small amounts of DNA."
+  },
+  {
+    "id": 691,
+    "fact": "The octet rule states that atoms tend to gain, lose, or share electrons to have eight in their valence shell."
+  },
+  {
+    "id": 692,
+    "fact": "Light can be polarized by reflection off non-metallic surfaces."
+  },
+  {
+    "id": 693,
+    "fact": "The mid-Atlantic ridge is an example of a divergent plate boundary."
+  },
+  {
+    "id": 694,
+    "fact": "Memory is stored through changes in the strength of connections between neurons."
+  },
+  {
+    "id": 695,
+    "fact": "Entropy increases in any spontaneous process."
+  },
+  {
+    "id": 696,
+    "fact": "The Sun's magnetic poles reverse roughly every 11 years, during solar maximum."
+  },
+  {
+    "id": 697,
+    "fact": "The reaction rate is affected by temperature, concentration, and the presence of a catalyst."
+  },
+  {
+    "id": 698,
+    "fact": "Ocean acidification is caused by the absorption of excess atmospheric carbon dioxide."
+  },
+  {
+    "id": 699,
+    "fact": "The strong nuclear force holds the atomic nucleus together."
+  },
+  {
+    "id": 700,
+    "fact": "Gel electrophoresis is a method used to separate DNA fragments by size."
+  },
+  {
+    "id": 701,
+    "fact": "Electronegativity increases across a period and decreases down a group in the periodic table."
+  },
+  {
+    "id": 702,
+    "fact": "A wave's energy is proportional to the square of its amplitude."
+  },
+  {
+    "id": 703,
+    "fact": "Subduction is the process where one tectonic plate sinks beneath another."
+  },
+  {
+    "id": 704,
+    "fact": "The endocrine system coordinates body functions via hormones released into the bloodstream."
+  },
+  {
+    "id": 705,
+    "fact": "Energy transformation often results in the loss of energy as waste heat."
+  },
+  {
+    "id": 706,
+    "fact": "The Sun's mass is over 300,000 times that of Earth."
+  },
+  {
+    "id": 707,
+    "fact": "Chemical equations must be balanced to satisfy the law of conservation of mass."
+  },
+  {
+    "id": 708,
+    "fact": "Renewable energy technologies are crucial for reducing greenhouse gas emissions."
+  },
+  {
+    "id": 709,
+    "fact": "The weak nuclear force is responsible for radioactive decay."
+  },
+  {
+    "id": 710,
+    "fact": "The human microbiome plays a vital role in health and digestion."
+  },
+  {
+    "id": 711,
+    "fact": "The shapes of molecules are determined by electron-pair repulsion, often called VSEPR theory."
+  },
+  {
+    "id": 712,
+    "fact": "Light's speed in a medium is $v = c/n$, where $n$ is the refractive index."
+  },
+  {
+    "id": 713,
+    "fact": "Transform plate boundaries are where plates slide horizontally past each other."
+  },
+  {
+    "id": 714,
+    "fact": "Hormones bind to specific receptors to trigger cellular responses."
+  },
+  {
+    "id": 715,
+    "fact": "The efficiency of an ideal engine is limited by the temperatures of the hot and cold reservoirs."
+  },
+  {
+    "id": 716,
+    "fact": "Sunspots are cooler regions on the solar surface caused by magnetic activity."
+  },
+  {
+    "id": 717,
+    "fact": "Exothermic reactions release energy, while endothermic reactions absorb it."
+  },
+  {
+    "id": 718,
+    "fact": "The ozone hole over Antarctica is caused primarily by man-made chlorofluorocarbons."
+  },
+  {
+    "id": 719,
+    "fact": "Fundamental forces are unified at extremely high energy levels in theories like the Standard Model."
+  },
+  {
+    "id": 720,
+    "fact": "DNA profiling is widely used in forensic science to identify individuals."
+  },
+  {
+    "id": 721,
+    "fact": "The periodic table's rows are called periods, and columns are called groups."
+  },
+  {
+    "id": 722,
+    "fact": "Light waves are transverse, meaning they vibrate perpendicular to the direction of propagation."
+  },
+  {
+    "id": 723,
+    "fact": "Hotspots are volcanic regions not necessarily located on plate boundaries."
+  },
+  {
+    "id": 724,
+    "fact": "The hypothalamus links the nervous system to the endocrine system."
+  },
+  {
+    "id": 725,
+    "fact": "Heat flows spontaneously from higher temperature to lower temperature."
+  },
+  {
+    "id": 726,
+    "fact": "Solar eclipses occur when the Moon passes directly between the Earth and the Sun."
+  },
+  {
+    "id": 727,
+    "fact": "Chemical reactions occur when particles collide with sufficient energy and correct orientation."
+  },
+  {
+    "id": 728,
+    "fact": "Biodiversity loss threatens the stability of ecosystems and the services they provide."
+  },
+  {
+    "id": 729,
+    "fact": "The Standard Model of particle physics classifies all known elementary particles."
+  },
+  {
+    "id": 730,
+    "fact": "Genotype determines the potential range of an organism's phenotype."
+  },
+  {
+    "id": 731,
+    "fact": "Elements in the same group have similar chemical properties due to similar valence electron configurations."
+  },
+  {
+    "id": 732,
+    "fact": "Sound waves are longitudinal, meaning they vibrate parallel to the direction of propagation."
+  },
+  {
+    "id": 733,
+    "fact": "The Earth's crust is continuously recycled through plate tectonics."
+  },
+  {
+    "id": 734,
+    "fact": "The pituitary gland is often called the 'master gland' of the endocrine system."
+  },
+  {
+    "id": 735,
+    "fact": "The second law of thermodynamics states that entropy of an isolated system always increases over time."
+  },
+  {
+    "id": 736,
+    "fact": "Lunar eclipses occur when the Earth's shadow falls on the Moon."
+  },
+  {
+    "id": 737,
+    "fact": "Stoichiometry is the calculation of reactants and products in chemical reactions."
+  },
+  {
+    "id": 738,
+    "fact": "Deforestation significantly contributes to increased atmospheric carbon dioxide levels."
+  },
+  {
+    "id": 739,
+    "fact": "The Higgs boson is the particle associated with the mechanism that gives particles mass."
+  },
+  {
+    "id": 740,
+    "fact": "Genetic diversity is crucial for a population's ability to adapt to changing environments."
+  },
+  {
+    "id": 741,
+    "fact": "The transition metals have partially filled d-orbitals, allowing for multiple oxidation states."
+  },
+  {
+    "id": 742,
+    "fact": "Interference patterns are a classic demonstration of the wave nature of light."
+  },
+  {
+    "id": 743,
+    "fact": "Rifting occurs where tectonic plates are moving apart, such as in East Africa."
+  },
+  {
+    "id": 744,
+    "fact": "Adrenaline is a hormone that increases heart rate and blood sugar during stress."
+  },
+  {
+    "id": 745,
+    "fact": "The third law of thermodynamics states that the entropy of a perfect crystal at absolute zero is zero."
+  },
+  {
+    "id": 746,
+    "fact": "The Sun's core temperature is about 15 million degrees Celsius."
+  },
+  {
+    "id": 747,
+    "fact": "Reversible reactions can proceed in both forward and backward directions."
+  },
+  {
+    "id": 748,
+    "fact": "Sustainable development aims to balance economic, environmental, and social needs."
+  },
+  {
+    "id": 749,
+    "fact": "The search for a 'Theory of Everything' aims to unite quantum mechanics and general relativity."
+  },
+  {
+    "id": 750,
+    "fact": "Stem cell research has the potential to treat a wide range of diseases and injuries."
+  },
+  {
+    "id": 751,
+    "fact": "Alkali metals are highly reactive and are found in group 1 of the periodic table."
+  },
+  {
+    "id": 752,
+    "fact": "Light can be modeled as a stream of particles called photons in some contexts."
+  },
+  {
+    "id": 753,
+    "fact": "Earth's magnetic poles have flipped many times throughout geological history."
+  },
+  {
+    "id": 754,
+    "fact": "Insulin is produced by the pancreas to help lower blood glucose levels."
+  },
+  {
+    "id": 755,
+    "fact": "Work is the transfer of energy by a force acting through a distance."
+  },
+  {
+    "id": 756,
+    "fact": "The Sun's corona is visible during a total solar eclipse."
+  },
+  {
+    "id": 757,
+    "fact": "Chemical equilibrium is reached when the concentrations of reactants and products become constant."
+  },
+  {
+    "id": 758,
+    "fact": "Conservation of forests is essential for maintaining biodiversity and capturing carbon."
+  },
+  {
+    "id": 759,
+    "fact": "Antimatter consists of particles with the same mass but opposite charge to their matter counterparts."
+  },
+  {
+    "id": 760,
+    "fact": "Natural selection is the differential survival and reproduction of individuals based on traits."
+  },
+  {
+    "id": 761,
+    "fact": "Halogens are highly reactive nonmetals in group 17 of the periodic table."
+  },
+  {
+    "id": 762,
+    "fact": "The photoelectric effect demonstrates the particle nature of light, where photons eject electrons from a material."
+  },
+  {
+    "id": 763,
+    "fact": "Convection currents in the mantle are a driving force for tectonic plate motion."
+  },
+  {
+    "id": 764,
+    "fact": "Glucagon is a hormone that raises blood sugar levels by triggering glucose release."
+  },
+  {
+    "id": 765,
+    "fact": "Energy cannot be created or destroyed, it only changes form."
+  },
+  {
+    "id": 766,
+    "fact": "The Sun's surface features include sunspots, flares, and prominences."
+  },
+  {
+    "id": 767,
+    "fact": "Le Chatelier's principle states that a system at equilibrium will shift to counteract any changes."
+  },
+  {
+    "id": 768,
+    "fact": "Carbon sequestration is a technology that captures carbon dioxide from the atmosphere."
+  },
+  {
+    "id": 769,
+    "fact": "The gravitational force depends on the mass of the objects and the distance between them."
+  },
+  {
+    "id": 770,
+    "fact": "Genetic drift refers to random fluctuations in allele frequencies within a population."
+  },
+  {
+    "id": 771,
+    "fact": "Noble gases are inert because they have a stable, full electron shell."
+  },
+  {
+    "id": 772,
+    "fact": "The speed of light is the maximum speed at which information can travel."
+  },
+  {
+    "id": 773,
+    "fact": "The Earth's inner core is solid because of high pressure, despite being above the melting point."
+  },
+  {
+    "id": 774,
+    "fact": "Thyroid hormones regulate the body's metabolism."
+  },
+  {
+    "id": 775,
+    "fact": "Potential energy can be gravitational, elastic, or chemical."
+  },
+  {
+    "id": 776,
+    "fact": "The Sun's photosphere is the visible 'surface' of the Sun."
+  },
+  {
+    "id": 777,
+    "fact": "Catalysts do not change the equilibrium constant of a chemical reaction."
+  },
+  {
+    "id": 778,
+    "fact": "Renewable resources include solar, wind, hydro, and geothermal energy."
+  },
+  {
+    "id": 779,
+    "fact": "Quantum mechanics describes the probabilistic nature of subatomic particles."
+  },
+  {
+    "id": 780,
+    "fact": "Gene expression is the process by which information from a gene is used to synthesize a functional gene product."
+  },
+  {
+    "id": 781,
+    "fact": "The periodic table is arranged by increasing atomic number."
+  },
+  {
+    "id": 782,
+    "fact": "Wave-particle duality is a central concept in quantum physics."
+  },
+  {
+    "id": 783,
+    "fact": "Continental crust is less dense than oceanic crust, which is why it 'floats' higher."
+  },
+  {
+    "id": 784,
+    "fact": "The adrenal glands produce hormones that help the body respond to stress."
+  },
+  {
+    "id": 785,
+    "fact": "Energy is the capacity to do work."
+  },
+  {
+    "id": 786,
+    "fact": "Solar winds consist of charged particles ejected from the Sun's upper atmosphere."
+  },
+  {
+    "id": 787,
+    "fact": "Activation energy is the barrier that must be overcome for a reaction to proceed."
+  },
+  {
+    "id": 788,
+    "fact": "Environmental impact assessments are used to evaluate the potential consequences of projects."
+  },
+  {
+    "id": 789,
+    "fact": "The force of gravity is proportional to the product of two masses and inversely proportional to the square of the distance."
+  },
+  {
+    "id": 790,
+    "fact": "Mutation is the primary source of new genetic variation in a population."
+  },
+  {
+    "id": 791,
+    "fact": "Atomic radius generally decreases across a period and increases down a group."
+  },
+  {
+    "id": 792,
+    "fact": "Light travels at different speeds through different media, causing bending."
+  },
+  {
+    "id": 793,
+    "fact": "The Earth's mantle is the largest layer by volume."
+  },
+  {
+    "id": 794,
+    "fact": "Estrogen and testosterone are key sex hormones in humans."
+  },
+  {
+    "id": 795,
+    "fact": "Conservation of energy is a fundamental principle in physics."
+  },
+  {
+    "id": 796,
+    "fact": "The Sun's energy production is based on nuclear fusion of hydrogen into helium."
+  },
+  {
+    "id": 797,
+    "fact": "Chemical reactions can be driven by changes in enthalpy or entropy."
+  },
+  {
+    "id": 798,
+    "fact": "Sustainable practices aim to reduce the ecological footprint of human society."
+  },
+  {
+    "id": 799,
+    "fact": "Space-time curvature is the description of gravity in general relativity."
+  },
+  {
+    "id": 800,
+    "fact": "DNA structure is a double helix held together by base-pairing."
+  },
+  {
+    "id": 801,
+    "fact": "Ionization energy is the energy required to remove an electron from an atom."
+  },
+  {
+    "id": 802,
+    "fact": "Light waves exhibit interference, proving their wave nature."
+  },
+  {
+    "id": 803,
+    "fact": "The outer core is liquid, and its motion generates Earth's magnetic field."
+  },
+  {
+    "id": 804,
+    "fact": "Hormones are released into the blood by endocrine glands."
+  },
+  {
+    "id": 805,
+    "fact": "Work done is zero if there is no movement in the direction of the force."
+  },
+  {
+    "id": 806,
+    "fact": "The Sun’s energy is transmitted to Earth primarily as electromagnetic radiation."
+  },
+  {
+    "id": 807,
+    "fact": "Chemical kinetics studies the speed of chemical reactions."
+  },
+  {
+    "id": 808,
+    "fact": "Climate modeling predicts future changes based on current greenhouse gas trends."
+  },
+  {
+    "id": 809,
+    "fact": "Gravity is the dominant force on large cosmic scales."
+  },
+  {
+    "id": 810,
+    "fact": "Genetic recombination occurs during meiosis, increasing diversity."
+  },
+  {
+    "id": 811,
+    "fact": "Electron affinity is the energy released when an atom gains an electron."
+  },
+  {
+    "id": 812,
+    "fact": "Diffraction explains how sound waves can be heard around corners."
+  },
+  {
+    "id": 813,
+    "fact": "Tectonic plates move at speeds comparable to the rate of human fingernail growth."
+  },
+  {
+    "id": 814,
+    "fact": "The thyroid hormone regulates growth and metabolic rate."
+  },
+  {
+    "id": 815,
+    "fact": "Kinetic energy is $1/2 mv^2$ for a moving object."
+  },
+  {
+    "id": 816,
+    "fact": "Sunspots appear darker because they are cooler than the surrounding surface."
+  },
+  {
+    "id": 817,
+    "fact": "Equilibrium constant $K$ relates reactant and product concentrations at equilibrium."
+  },
+  {
+    "id": 818,
+    "fact": "Carbon capture is an important tool for mitigating industrial emissions."
+  },
+  {
+    "id": 819,
+    "fact": "General relativity explains gravity as the curvature of space-time by mass and energy."
+  },
+  {
+    "id": 820,
+    "fact": "Transcription factors are proteins that regulate the rate of gene transcription."
+  },
+  {
+    "id": 821,
+    "fact": "The periodic table organizes elements based on properties that repeat periodically."
+  },
+  {
+    "id": 822,
+    "fact": "Refraction is the basis for vision correction in eyeglasses."
+  },
+  {
+    "id": 823,
+    "fact": "The lithosphere is broken into plates that move over the asthenosphere."
+  },
+  {
+    "id": 824,
+    "fact": "The pancreas acts as both an endocrine and an exocrine gland."
+  },
+  {
+    "id": 825,
+    "fact": "Energy is conserved, but it often becomes less 'useful' (increases entropy)."
+  },
+  {
+    "id": 826,
+    "fact": "The Sun's mass is constantly decreasing due to energy conversion in fusion."
+  },
+  {
+    "id": 827,
+    "fact": "Rate laws define the relationship between reaction rate and reactant concentrations."
+  },
+  {
+    "id": 828,
+    "fact": "Renewable energy includes wind power, which captures kinetic energy from air currents."
+  },
+  {
+    "id": 829,
+    "fact": "Quantum entanglement suggests particles can be linked, sharing information instantly."
+  },
+  {
+    "id": 830,
+    "fact": "Meiosis generates gametes that are genetically unique."
+  },
+  {
+    "id": 831,
+    "fact": "Metallic elements tend to lose electrons to form positive ions."
+  },
+  {
+    "id": 832,
+    "fact": "Superposition is key to quantum computing, using qubits to perform many calculations at once."
+  },
+  {
+    "id": 833,
+    "fact": "Seafloor spreading creates new oceanic crust at mid-ocean ridges."
+  },
+  {
+    "id": 834,
+    "fact": "Adrenaline is a key component of the human stress response."
+  },
+  {
+    "id": 835,
+    "fact": "Potential energy can be converted to kinetic energy in free fall."
+  },
+  {
+    "id": 836,
+    "fact": "Solar flares can disrupt radio communications on Earth."
+  },
+  {
+    "id": 837,
+    "fact": "The reaction quotient $Q$ can be compared to $K$ to determine the direction of a reaction."
+  },
+  {
+    "id": 838,
+    "fact": "Ocean levels are rising partly due to the thermal expansion of seawater."
+  },
+  {
+    "id": 839,
+    "fact": "The Standard Model explains three of the four fundamental forces."
+  },
+  {
+    "id": 840,
+    "fact": "Genetic mapping identifies the location of genes on chromosomes."
+  },
+  {
+    "id": 841,
+    "fact": "Nonmetals tend to gain electrons to form negative ions."
+  },
+  {
+    "id": 842,
+    "fact": "Interference of light is used in high-precision measurement devices."
+  },
+  {
+    "id": 843,
+    "fact": "Earthquakes are common near tectonic plate boundaries."
+  },
+  {
+    "id": 844,
+    "fact": "The pituitary gland responds to signals from the hypothalamus."
+  },
+  {
+    "id": 845,
+    "fact": "Efficiency is always less than 100 percent in real-world energy conversion."
+  },
+  {
+    "id": 846,
+    "fact": "Sunspots are strong magnetic regions on the Sun."
+  },
+  {
+    "id": 847,
+    "fact": "Catalysts lower the energy barrier for a reaction to occur."
+  },
+  {
+    "id": 848,
+    "fact": "Geothermal energy taps into heat from the Earth's interior."
+  },
+  {
+    "id": 849,
+    "fact": "Quantum theory challenges our classical understanding of reality."
+  },
+  {
+    "id": 850,
+    "fact": "DNA contains the instructions for the development and function of living things."
+  },
+  {
+    "id": 851,
+    "fact": "Metalloids have properties intermediate between metals and nonmetals."
+  },
+  {
+    "id": 852,
+    "fact": "Light waves can travel through a vacuum, unlike sound waves."
+  },
+  {
+    "id": 853,
+    "fact": "Subduction zones are often marked by deep-sea trenches."
+  },
+  {
+    "id": 854,
+    "fact": "Hormones travel through the blood to reach target organs."
+  },
+  {
+    "id": 855,
+    "fact": "Work is energy in transit between a system and its environment."
+  },
+  {
+    "id": 856,
+    "fact": "The Sun's magnetic activity affects Earth's upper atmosphere."
+  },
+  {
+    "id": 857,
+    "fact": "Chemical reactions are often limited by the 'limiting reactant'."
+  },
+  {
+    "id": 858,
+    "fact": "Hydropower generates electricity from flowing water."
+  },
+  {
+    "id": 859,
+    "fact": "Gravity is modeled as space-time geometry in general relativity."
+  },
+  {
+    "id": 860,
+    "fact": "Mutations are the raw material for evolution."
+  },
+  {
+    "id": 861,
+    "fact": "The reactivity of metals increases down a group."
+  },
+  {
+    "id": 862,
+    "fact": "Polarization allows for 3D movie technology."
+  },
+  {
+    "id": 863,
+    "fact": "The Earth's core's heat is partly from radioactive decay."
+  },
+  {
+    "id": 864,
+    "fact": "The endocrine system responds slowly compared to the nervous system."
+  },
+  {
+    "id": 865,
+    "fact": "Total energy of a closed system is constant."
+  },
+  {
+    "id": 866,
+    "fact": "The Sun's interior structure consists of the core, radiative zone, and convective zone."
+  },
+  {
+    "id": 867,
+    "fact": "Concentration changes can shift a reaction toward equilibrium."
+  },
+  {
+    "id": 868,
+    "fact": "Energy storage is a key challenge for renewable energy adoption."
+  },
+  {
+    "id": 869,
+    "fact": "The gravitational field strength decreases with altitude."
+  },
+  {
+    "id": 870,
+    "fact": "Alleles are different versions of the same gene."
+  },
+  {
+    "id": 871,
+    "fact": "Electronegativity is crucial for predicting bond polarity."
+  },
+  {
+    "id": 872,
+    "fact": "Light interference is essential for holography."
+  },
+  {
+    "id": 873,
+    "fact": "Tectonic plate movement explains the distribution of fossils across continents."
+  },
+  {
+    "id": 874,
+    "fact": "Feedback loops regulate many hormonal responses."
+  },
+  {
+    "id": 875,
+    "fact": "Gravitational potential energy depends on height above a reference point."
+  },
+  {
+    "id": 876,
+    "fact": "Sunspots appear in groups and vary in size and duration."
+  },
+  {
+    "id": 877,
+    "fact": "Rate of reaction is defined as the change in concentration per unit time."
+  },
+  {
+    "id": 878,
+    "fact": "Energy conservation includes reducing waste in industrial processes."
+  },
+  {
+    "id": 879,
+    "fact": "Mass and energy are equivalent, as proven by relativity."
+  },
+  {
+    "id": 880,
+    "fact": "Gene regulation ensures proteins are made when needed."
+  },
+  {
+    "id": 881,
+    "fact": "Transition metals form colorful compounds in solution."
+  },
+  {
+    "id": 882,
+    "fact": "Light can be refracted by gravitational fields."
+  },
+  {
+    "id": 883,
+    "fact": "Plate tectonics can explain the formation of volcanoes."
+  },
+  {
+    "id": 884,
+    "fact": "The pituitary gland releases hormones that regulate growth."
+  },
+  {
+    "id": 885,
+    "fact": "Energy is measured in Joules in the SI system."
+  },
+  {
+    "id": 886,
+    "fact": "The Sun's radiative zone transports energy via photons."
+  },
+  {
+    "id": 887,
+    "fact": "Temperature increases the rate of reaction by increasing molecular collisions."
+  },
+  {
+    "id": 888,
+    "fact": "Wind energy is essentially converted solar energy."
+  },
+  {
+    "id": 889,
+    "fact": "Gravity influences the passage of time."
+  },
+  {
+    "id": 890,
+    "fact": "Genotype plus environment determines phenotype."
+  },
+  {
+    "id": 891,
+    "fact": "Noble gases are group 18 elements."
+  },
+  {
+    "id": 892,
+    "fact": "Light diffraction is used to study crystal structures."
+  },
+  {
+    "id": 893,
+    "fact": "The Earth's inner core is primarily iron and nickel."
+  },
+  {
+    "id": 894,
+    "fact": "The adrenal gland releases cortisol in response to stress."
+  },
+  {
+    "id": 895,
+    "fact": "Energy is transferred during collisions between objects."
+  },
+  {
+    "id": 896,
+    "fact": "The Sun's convective zone carries heat to the surface."
+  },
+  {
+    "id": 897,
+    "fact": "Catalysts increase reaction rate without being consumed."
+  },
+  {
+    "id": 898,
+    "fact": "Sustainable energy is essential for a clean future."
+  },
+  {
+    "id": 899,
+    "fact": "General relativity has been tested and confirmed by experiments."
+  },
+  {
+    "id": 900,
+    "fact": "DNA sequences are unique to individuals."
+  },
+  {
+    "id": 901,
+    "fact": "The periodic table reflects the electron shell structure of atoms."
+  },
+  {
+    "id": 902,
+    "fact": "Light dispersion is observed in rainbows."
+  },
+  {
+    "id": 903,
+    "fact": "Plate tectonics helps explain the global pattern of mountain ranges."
+  },
+  {
+    "id": 904,
+    "fact": "The pancreas secretes insulin into the bloodstream."
+  },
+  {
+    "id": 905,
+    "fact": "Energy is required to do work against friction."
+  },
+  {
+    "id": 906,
+    "fact": "Sunspots are locations of intense magnetic field lines."
+  },
+  {
+    "id": 907,
+    "fact": "Reaction rate depends on the frequency of successful collisions."
+  },
+  {
+    "id": 908,
+    "fact": "Solar cells convert sunlight directly into electricity."
+  },
+  {
+    "id": 909,
+    "fact": "Gravity causes the formation of large-scale structures in the universe."
+  },
+  {
+    "id": 910,
+    "fact": "Mutations provide the variety needed for natural selection."
+  },
+  {
+    "id": 911,
+    "fact": "Alkali metals react vigorously with halogens."
+  },
+  {
+    "id": 912,
+    "fact": "Light can behave as a wave in interference experiments."
+  },
+  {
+    "id": 913,
+    "fact": "The lithosphere is divided into tectonic plates."
+  },
+  {
+    "id": 914,
+    "fact": "The endocrine system helps maintain body temperature."
+  },
+  {
+    "id": 915,
+    "fact": "Potential energy is maximized at the top of a climb."
+  },
+  {
+    "id": 916,
+    "fact": "The Sun's magnetic field changes over its cycle."
+  },
+  {
+    "id": 917,
+    "fact": "Equilibrium constant K depends on temperature."
+  },
+  {
+    "id": 918,
+    "fact": "Efficient appliances reduce total energy consumption."
+  },
+  {
+    "id": 919,
+    "fact": "Relativity explains the orbit of Mercury accurately."
+  },
+  {
+    "id": 920,
+    "fact": "Gene expression is tightly controlled by cells."
+  },
+  {
+    "id": 921,
+    "fact": "Elements in group 18 are called noble gases."
+  },
+  {
+    "id": 922,
+    "fact": "Light can be focused by a converging lens."
+  },
+  {
+    "id": 923,
+    "fact": "The Earth's crust is mostly oxygen and silicon."
+  },
+  {
+    "id": 924,
+    "fact": "Hormonal signals can have widespread effects."
+  },
+  {
+    "id": 925,
+    "fact": "Work is equal to the change in kinetic energy."
+  },
+  {
+    "id": 926,
+    "fact": "The Sun's atmosphere includes the corona, chromosphere, and photosphere."
+  },
+  {
+    "id": 927,
+    "fact": "Reaction rates decrease as reactants are consumed."
+  },
+  {
+    "id": 928,
+    "fact": "Solar power is a significant renewable energy source."
+  },
+  {
+    "id": 929,
+    "fact": "Gravity is described by the curvature of space-time."
+  },
+  {
+    "id": 930,
+    "fact": "DNA repair mechanisms correct errors in genetic code."
+  },
+  {
+    "id": 931,
+    "fact": "Metals are generally good conductors of heat and electricity."
+  },
+  {
+    "id": 932,
+    "fact": "Light can be used to measure distances with precision."
+  },
+  {
+    "id": 933,
+    "fact": "Tectonic plates move due to mantle convection."
+  },
+  {
+    "id": 934,
+    "fact": "Hormones coordinate complex body functions."
+  },
+  {
+    "id": 935,
+    "fact": "Energy is conserved in all physical interactions."
+  },
+  {
+    "id": 936,
+    "fact": "The Sun's life is powered by nuclear fusion."
+  },
+  {
+    "id": 937,
+    "fact": "Rate of reaction is affected by reactant surface area."
+  },
+  {
+    "id": 938,
+    "fact": "Reducing energy waste helps the environment."
+  },
+  {
+    "id": 939,
+    "fact": "Gravity is the weakest of the four forces."
+  },
+  {
+    "id": 940,
+    "fact": "Genotype is the genetic blueprint of an organism."
+  },
+  {
+    "id": 941,
+    "fact": "Atomic mass is the weighted average mass of isotopes."
+  },
+  {
+    "id": 942,
+    "fact": "Light waves can be polarized by reflection."
+  },
+  {
+    "id": 943,
+    "fact": "Plate tectonics drives the rock cycle."
+  },
+  {
+    "id": 944,
+    "fact": "The endocrine system is essential for growth."
+  },
+  {
+    "id": 945,
+    "fact": "Energy is a scalar quantity."
+  },
+  {
+    "id": 946,
+    "fact": "The Sun's prominence is a large, bright feature extending outward."
+  },
+  {
+    "id": 947,
+    "fact": "Catalysts are not used up in reactions."
+  },
+  {
+    "id": 948,
+    "fact": "Energy-efficient buildings use less electricity."
+  },
+  {
+    "id": 949,
+    "fact": "General relativity explains the motion of planets."
+  },
+  {
+    "id": 950,
+    "fact": "DNA replication is semi-conservative."
+  },
+  {
+    "id": 951,
+    "fact": "Nonmetals have high electronegativity."
+  },
+  {
+    "id": 952,
+    "fact": "Interference is a wave-specific phenomenon."
+  },
+  {
+    "id": 953,
+    "fact": "The mantle's viscosity allows plate motion."
+  },
+  {
+    "id": 954,
+    "fact": "Hormones provide long-range communication in the body."
+  },
+  {
+    "id": 955,
+    "fact": "Work and force are related by displacement."
+  },
+  {
+    "id": 956,
+    "fact": "The Sun is an average main-sequence star."
+  },
+  {
+    "id": 957,
+    "fact": "Reaction kinetics are crucial for industrial chemistry."
+  },
+  {
+    "id": 958,
+    "fact": "Renewable energy technologies are becoming cheaper."
+  },
+  {
+    "id": 959,
+    "fact": "Gravity acts across the entire universe."
+  },
+  {
+    "id": 960,
+    "fact": "Genetic variation is essential for adaptation."
+  },
+  {
+    "id": 961,
+    "fact": "Valence electrons determine element reactivity."
+  },
+  {
+    "id": 962,
+    "fact": "Light exhibits wave-like properties."
+  },
+  {
+    "id": 963,
+    "fact": "Tectonic plates interact at boundaries."
+  },
+  {
+    "id": 964,
+    "fact": "The pituitary gland regulates other glands."
+  },
+  {
+    "id": 965,
+    "fact": "Energy can be stored in chemical bonds."
+  },
+  {
+    "id": 966,
+    "fact": "The Sun rotates faster at its equator."
+  },
+  {
+    "id": 967,
+    "fact": "Surface area affects reaction speed."
+  },
+  {
+    "id": 968,
+    "fact": "Sustainability considers long-term environmental health."
+  },
+  {
+    "id": 969,
+    "fact": "Gravity curves space and time."
+  },
+  {
+    "id": 970,
+    "fact": "Mutations can lead to new traits."
+  },
+  {
+    "id": 971,
+    "fact": "Chemical bonds involve sharing or transferring electrons."
+  },
+  {
+    "id": 972,
+    "fact": "Reflection of light follows a specific law."
+  },
+  {
+    "id": 973,
+    "fact": "The Earth's core is cooling over time."
+  },
+  {
+    "id": 974,
+    "fact": "Endocrine hormones are vital for balance."
+  },
+  {
+    "id": 975,
+    "fact": "Energy is transformed, never lost."
+  },
+  {
+    "id": 976,
+    "fact": "The Sun's activity varies over time."
+  },
+  {
+    "id": 977,
+    "fact": "Reaction rates can be controlled by temperature."
+  },
+  {
+    "id": 978,
+    "fact": "Clean energy is vital for the future."
+  },
+  {
+    "id": 979,
+    "fact": "Gravity is explained by relativity."
+  },
+  {
+    "id": 980,
+    "fact": "Genetic information is stored in DNA."
+  },
+  {
+    "id": 981,
+    "fact": "Periodic table trends are useful tools."
+  },
+  {
+    "id": 982,
+    "fact": "Light can be diffracted by small apertures."
+  },
+  {
+    "id": 983,
+    "fact": "Plate tectonics shapes the landscape."
+  },
+  {
+    "id": 984,
+    "fact": "Hormones regulate various life stages."
+  },
+  {
+    "id": 985,
+    "fact": "Energy is a fundamental concept."
+  },
+  {
+    "id": 986,
+    "fact": "The Sun is composed of plasma."
+  },
+  {
+    "id": 987,
+    "fact": "Collisions are essential for reactions."
+  },
+  {
+    "id": 988,
+    "fact": "Renewable energy reduces pollution."
+  },
+  {
+    "id": 989,
+    "fact": "Gravity influences all celestial objects."
+  },
+  {
+    "id": 990,
+    "fact": "DNA mutations drive genetic change."
+  },
+  {
+    "id": 991,
+    "fact": "Chemical properties depend on electron structure."
+  },
+  {
+    "id": 992,
+    "fact": "Light is an electromagnetic wave."
+  },
+  {
+    "id": 993,
+    "fact": "Geologic time is measured in billions of years."
+  },
+  {
+    "id": 994,
+    "fact": "Endocrine glands regulate internal processes."
+  },
+  {
+    "id": 995,
+    "fact": "Energy forms are interconvertible."
+  },
+  {
+    "id": 996,
+    "fact": "The Sun's mass is enormous."
+  },
+  {
+    "id": 997,
+    "fact": "Reaction rates are essential to understand."
+  },
+  {
+    "id": 998,
+    "fact": "Green energy helps mitigate climate change."
+  },
+  {
+    "id": 999,
+    "fact": "Gravity explains the orbits of planets."
+  },
+  {
+    "id": 1000,
+    "fact": "DNA is the fundamental molecule of heredity."
+  }
+]

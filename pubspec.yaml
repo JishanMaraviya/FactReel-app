@@ -14,7 +14,6 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_svg: ^2.1.0
   google_fonts: ^6.3.0
-  http: ^1.4.0
   share_plus: ^11.0.0
   shared_preferences: ^2.5.3
 
@@ -34,3 +33,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/app_icon.png
+    - assets/facts/

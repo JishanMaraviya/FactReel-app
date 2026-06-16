@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "fact": "Octopuses have three hearts — two pump blood to the gills, and one pumps it to the rest of the body."
+  },
+  {
+    "id": 2,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 3,
+    "fact": "Elephants are the only animals that cannot jump."
+  },
+  {
+    "id": 4,
+    "fact": "A snail can sleep for up to three years."
+  },
+  {
+    "id": 5,
+    "fact": "The heart of a blue whale is so large that a small child could swim through its arteries."
+  },
+  {
+    "id": 6,
+    "fact": "Dolphins sleep with one eye open and one half of their brain awake."
+  },
+  {
+    "id": 7,
+    "fact": "A hummingbird weighs less than a nickel."
+  },
+  {
+    "id": 8,
+    "fact": "Cows have best friends and get stressed when they are separated from them."
+  },
+  {
+    "id": 9,
+    "fact": "A woodpecker's tongue wraps around the back of its skull to cushion its brain during pecking."
+  },
+  {
+    "id": 10,
+    "fact": "Mantis shrimp can punch with the force of a bullet and see 16 types of color receptors."
+  },
+  {
+    "id": 11,
+    "fact": "Sloths can hold their breath longer than dolphins — up to 40 minutes underwater."
+  },
+  {
+    "id": 12,
+    "fact": "Honeybees can recognize human faces."
+  },
+  {
+    "id": 13,
+    "fact": "A starfish can regenerate an entire new body from a single arm if a portion of the central disc is intact."
+  },
+  {
+    "id": 14,
+    "fact": "Cats have over 20 different vocalizations, including purring, chirping, and chattering."
+  },
+  {
+    "id": 15,
+    "fact": "The electric eel can produce a shock of up to 860 volts — enough to stun a horse."
+  },
+  {
+    "id": 16,
+    "fact": "Axolotls can regenerate lost limbs, heart tissue, and even parts of their brain."
+  },
+  {
+    "id": 17,
+    "fact": "Penguins propose to their mates with a pebble, and they often mate for life."
+  },
+  {
+    "id": 18,
+    "fact": "A chameleon's tongue can be twice the length of its body."
+  },
+  {
+    "id": 19,
+    "fact": "Dogs have a sense of time and can tell when their owners are coming home based on scent decay."
+  },
+  {
+    "id": 20,
+    "fact": "Sea otters hold hands while sleeping so they don't drift apart."
+  },
+  {
+    "id": 21,
+    "fact": "The pistol shrimp can create a sound louder than a jet engine by snapping its claw."
+  },
+  {
+    "id": 22,
+    "fact": "A flea can jump up to 150 times its own body length."
+  },
+  {
+    "id": 23,
+    "fact": "Parrots can learn to use tools and solve complex puzzles."
+  },
+  {
+    "id": 24,
+    "fact": "The mimic octopus can impersonate over 15 different species."
+  },
+  {
+    "id": 25,
+    "fact": "Elephants mourn their dead and have been observed returning to visit the bones of deceased relatives."
+  },
+  {
+    "id": 26,
+    "fact": "A tiger's skin is striped just like its fur."
+  },
+  {
+    "id": 27,
+    "fact": "The Arctic tern migrates from the Arctic to Antarctica and back every year — about 71,000 kilometers."
+  },
+  {
+    "id": 28,
+    "fact": "Pufferfish contain tetrodotoxin, a poison 1,200 times more lethal than cyanide."
+  },
+  {
+    "id": 29,
+    "fact": "Crows can remember and recognize individual human faces for years."
+  },
+  {
+    "id": 30,
+    "fact": "A blue whale's heart beats only about 8 to 10 times per minute."
+  },
+  {
+    "id": 31,
+    "fact": "Koalas sleep up to 22 hours a day because their eucalyptus diet provides very little energy."
+  },
+  {
+    "id": 32,
+    "fact": "The bombardier beetle can spray boiling chemicals at predators from its abdomen."
+  },
+  {
+    "id": 33,
+    "fact": "Dolphins have names for each other and respond when called by their specific whistle."
+  },
+  {
+    "id": 34,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 35,
+    "fact": "The immortal jellyfish can revert back to its juvenile form after reaching adulthood, potentially living forever."
+  },
+  {
+    "id": 36,
+    "fact": "Gorillas can catch human colds and other infectious diseases."
+  },
+  {
+    "id": 37,
+    "fact": "Butterflies taste with their feet."
+  },
+  {
+    "id": 38,
+    "fact": "The lyrebird can mimic almost any sound it hears, including chainsaws and camera shutters."
+  },
+  {
+    "id": 39,
+    "fact": "A newborn kangaroo is about the size of a lima bean."
+  },
+  {
+    "id": 40,
+    "fact": "Elephants can hear through their feet by detecting vibrations in the ground."
+  },
+  {
+    "id": 41,
+    "fact": "The giant Pacific octopus has nine brains — one central brain and eight smaller ones in each arm."
+  },
+  {
+    "id": 42,
+    "fact": "A giraffe's tongue is about 50 centimeters long and is dark purple to protect it from sunburn."
+  },
+  {
+    "id": 43,
+    "fact": "Sharks have been on Earth for over 400 million years — longer than trees have existed."
+  },
+  {
+    "id": 44,
+    "fact": "Ants can carry objects 50 times their own body weight."
+  },
+  {
+    "id": 45,
+    "fact": "Albatrosses can fly for thousands of miles without flapping their wings by using dynamic soaring."
+  },
+  {
+    "id": 46,
+    "fact": "The sperm whale has the largest brain of any animal — weighing about 8 kilograms."
+  },
+  {
+    "id": 47,
+    "fact": "Male seahorses are the ones that carry and give birth to their young."
+  },
+  {
+    "id": 48,
+    "fact": "A rhinoceros's horn is made of keratin, the same protein that makes up human hair and nails."
+  },
+  {
+    "id": 49,
+    "fact": "Bees must visit about 2 million flowers to make one pound of honey."
+  },
+  {
+    "id": 50,
+    "fact": "The peregrine falcon is the fastest animal on Earth, reaching speeds over 390 kilometers per hour in a dive."
+  },
+  {
+    "id": 51,
+    "fact": "Platypuses are one of only five species of egg-laying mammals called monotremes."
+  },
+  {
+    "id": 52,
+    "fact": "A cheetah can accelerate from 0 to 100 km/h in just 3 seconds."
+  },
+  {
+    "id": 53,
+    "fact": "Wombats produce cube-shaped droppings to prevent them from rolling away."
+  },
+  {
+    "id": 54,
+    "fact": "The basilisk lizard can run on water for short distances to escape predators."
+  },
+  {
+    "id": 55,
+    "fact": "A garden snail has about 14,000 teeth arranged in rows on its tongue."
+  },
+  {
+    "id": 56,
+    "fact": "Ravens can plan for the future, a cognitive ability once thought to be uniquely human."
+  },
+  {
+    "id": 57,
+    "fact": "The blue-ringed octopus is one of the most venomous marine animals, yet it is only the size of a golf ball."
+  },
+  {
+    "id": 58,
+    "fact": "Polar bears have black skin underneath their white fur."
+  },
+  {
+    "id": 59,
+    "fact": "Capuchin monkeys wash their hands and feet with urine to improve their grip on branches."
+  },
+  {
+    "id": 60,
+    "fact": "The archerfish catches prey by shooting a precise stream of water to knock insects off branches."
+  },
+  {
+    "id": 61,
+    "fact": "Tardigrades, or water bears, can survive in the vacuum of space."
+  },
+  {
+    "id": 62,
+    "fact": "A hippo's sweat is red and acts as a natural sunscreen and antibiotic."
+  },
+  {
+    "id": 63,
+    "fact": "The male anglerfish fuses to the female's body and eventually shares her bloodstream."
+  },
+  {
+    "id": 64,
+    "fact": "Elephants are pregnant for about 22 months — the longest gestation period of any land animal."
+  },
+  {
+    "id": 65,
+    "fact": "Some species of jellyfish are bioluminescent and can produce their own light."
+  },
+  {
+    "id": 66,
+    "fact": "The gecko can climb smooth surfaces because of millions of tiny hair-like structures on its feet."
+  },
+  {
+    "id": 67,
+    "fact": "A herd of horses will not all lie down to sleep at the same time — at least one will stay standing as a lookout."
+  },
+  {
+    "id": 68,
+    "fact": "The sea cucumber can eject its internal organs to confuse predators and regenerate them later."
+  },
+  {
+    "id": 69,
+    "fact": "Honey badgers are known to be fearless and have been documented fighting lions and venomous snakes."
+  },
+  {
+    "id": 70,
+    "fact": "A flamingo can only eat when its head is upside down."
+  },
+  {
+    "id": 71,
+    "fact": "The largest animal ever known to have existed is the blue whale, which can grow up to 30 meters long."
+  },
+  {
+    "id": 72,
+    "fact": "Pigeons can do math — they can learn abstract numerical rules and order numbers by size."
+  },
+  {
+    "id": 73,
+    "fact": "The narwhal's tusk is actually a long tooth that can grow up to 3 meters long."
+  },
+  {
+    "id": 74,
+    "fact": "Frogs absorb water through their skin rather than drinking it through their mouths."
+  },
+  {
+    "id": 75,
+    "fact": "African grey parrots have been shown to have the intelligence of a 5-year-old human child."
+  },
+  {
+    "id": 76,
+    "fact": "The box jellyfish has 24 eyes, including some that can form images."
+  },
+  {
+    "id": 77,
+    "fact": "Bats are the only mammals capable of true sustained flight."
+  },
+  {
+    "id": 78,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 79,
+    "fact": "The dung beetle can pull 1,141 times its own body weight — making it the strongest insect relative to its size."
+  },
+  {
+    "id": 80,
+    "fact": "Dolphins can stay awake for 15 days straight by alternating which half of their brain sleeps."
+  },
+  {
+    "id": 81,
+    "fact": "Cuttlefish have W-shaped pupils and can see polarized light, which most animals cannot detect."
+  },
+  {
+    "id": 82,
+    "fact": "A cockroach can live for up to a week without its head before dying of dehydration."
+  },
+  {
+    "id": 83,
+    "fact": "Snow leopards can leap up to 15 meters in a single bound."
+  },
+  {
+    "id": 84,
+    "fact": "The heart of a shrimp is located in its head."
+  },
+  {
+    "id": 85,
+    "fact": "Some turtles can breathe through their rear end, a process called cloacal respiration."
+  },
+  {
+    "id": 86,
+    "fact": "The sailfish is the fastest fish in the ocean, capable of speeds up to 110 kilometers per hour."
+  },
+  {
+    "id": 87,
+    "fact": "Cats spend about 70% of their lives sleeping."
+  },
+  {
+    "id": 88,
+    "fact": "A dragonfly has a 95% success rate when hunting prey — the highest of any predator."
+  },
+  {
+    "id": 89,
+    "fact": "The tongue of a blue whale can weigh as much as an elephant."
+  },
+  {
+    "id": 90,
+    "fact": "Lobsters have blue blood because their blood uses copper-based hemocyanin instead of iron-based hemoglobin."
+  },
+  {
+    "id": 91,
+    "fact": "The male emperor penguin incubates the egg for about two months without eating."
+  },
+  {
+    "id": 92,
+    "fact": "Chimpanzees have been observed using medicinal plants to treat their own illnesses."
+  },
+  {
+    "id": 93,
+    "fact": "A hippo can open its mouth wide enough to fit a 4-foot-tall child inside."
+  },
+  {
+    "id": 94,
+    "fact": "The common swift can fly for up to 10 months without landing."
+  },
+  {
+    "id": 95,
+    "fact": "Clownfish can change their sex — all are born male, and the dominant one becomes female."
+  },
+  {
+    "id": 96,
+    "fact": "The venom of a king cobra is potent enough to kill an elephant with a single bite."
+  },
+  {
+    "id": 97,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 98,
+    "fact": "The giant squid has the largest eyes in the animal kingdom — about 27 centimeters in diameter."
+  },
+  {
+    "id": 99,
+    "fact": "Elephants can communicate using infrasound at frequencies too low for humans to hear."
+  },
+  {
+    "id": 100,
+    "fact": "The honeybee visits between 50 to 1,000 flowers in a single foraging trip."
+  },
+  {
+    "id": 101,
+    "fact": "Honeybees can recognize human faces through a process called configural processing."
+  },
+  {
+    "id": 102,
+    "fact": "Sea otters hold hands when sleeping to prevent drifting apart in the current."
+  },
+  {
+    "id": 103,
+    "fact": "A group of flamingos is officially called a flamboyance."
+  },
+  {
+    "id": 104,
+    "fact": "Male seahorses are the ones who carry and give birth to their young."
+  },
+  {
+    "id": 105,
+    "fact": "Wombat scat is cube-shaped, which prevents it from rolling away from their territory markers."
+  },
+  {
+    "id": 106,
+    "fact": "Pistol shrimp can snap their claws shut so fast that it creates a cavitation bubble, producing heat nearly as hot as the surface of the sun."
+  },
+  {
+    "id": 107,
+    "fact": "Cows have best friends and experience stress when they are separated from them."
+  },
+  {
+    "id": 108,
+    "fact": "Greenland sharks are the longest-living vertebrates, capable of living for over 400 years."
+  },
+  {
+    "id": 109,
+    "fact": "Octopuses have three hearts and blue-colored blood due to copper-based hemocyanin."
+  },
+  {
+    "id": 110,
+    "fact": "Ants do not have lungs; they breathe through tiny holes in their sides called spiracles."
+  },
+  {
+    "id": 111,
+    "fact": "A shrimp's heart is located in its head."
+  },
+  {
+    "id": 112,
+    "fact": "Elephants are capable of communicating through infrasonic rumbles that can travel through the ground for miles."
+  },
+  {
+    "id": 113,
+    "fact": "The tongue of a blue whale can weigh as much as an entire elephant."
+  },
+  {
+    "id": 114,
+    "fact": "Geckos have specialized microscopic hairs on their feet that allow them to climb smooth surfaces using van der Waals forces."
+  },
+  {
+    "id": 115,
+    "fact": "A giraffe's tongue is dark blue or purple, which helps protect it from sunburn while they eat."
+  },
+  {
+    "id": 116,
+    "fact": "Sloths are so slow that algae can grow on their fur, providing them with camouflage."
+  },
+  {
+    "id": 117,
+    "fact": "Peregrine falcons can reach speeds over 240 mph during their characteristic hunting dive."
+  },
+  {
+    "id": 118,
+    "fact": "Capuchin monkeys wash their hands and feet in their own urine to help disinfect them and stay cool."
+  },
+  {
+    "id": 119,
+    "fact": "The heart of a hummingbird can beat up to 1,260 times per minute."
+  },
+  {
+    "id": 120,
+    "fact": "Red pandas use their long, bushy tails as blankets to keep warm in cold mountain environments."
+  },
+  {
+    "id": 121,
+    "fact": "Oysters can change their gender depending on which is best for mating at the time."
+  },
+  {
+    "id": 122,
+    "fact": "A duck’s quack does not echo, though scientists are still debating the exact acoustic reasons why."
+  },
+  {
+    "id": 123,
+    "fact": "Platypuses do not have stomachs; their esophagus connects directly to their intestines."
+  },
+  {
+    "id": 124,
+    "fact": "Bats are the only mammals capable of true, sustained flight."
+  },
+  {
+    "id": 125,
+    "fact": "Alligator teeth are constantly replaced throughout their lifetime, with some individuals growing thousands of teeth."
+  },
+  {
+    "id": 126,
+    "fact": "The Golden Poison Frog is one of the most toxic animals on Earth, using its bright color as a warning to predators."
+  },
+  {
+    "id": 127,
+    "fact": "Crows can remember specific human faces for years and teach their young which humans to avoid."
+  },
+  {
+    "id": 128,
+    "fact": "The narwhal’s characteristic 'tusk' is actually an elongated canine tooth that can grow up to 10 feet long."
+  },
+  {
+    "id": 129,
+    "fact": "Koalas have unique fingerprints that are so similar to human ones that they can be confused at crime scenes."
+  },
+  {
+    "id": 130,
+    "fact": "Rats will laugh if you tickle them, though the sound is too high-pitched for humans to hear without equipment."
+  },
+  {
+    "id": 131,
+    "fact": "Axolotls have the remarkable ability to regenerate entire limbs, their heart, and parts of their brain."
+  },
+  {
+    "id": 132,
+    "fact": "Mantis shrimp have the most complex eyes in the animal kingdom, capable of seeing polarized light and colors humans cannot perceive."
+  },
+  {
+    "id": 133,
+    "fact": "Reindeer eyes change color from gold in the summer to blue in the winter to help them see better in extreme light conditions."
+  },
+  {
+    "id": 134,
+    "fact": "Chameleons change color primarily to regulate body temperature or communicate mood rather than for camouflage."
+  },
+  {
+    "id": 135,
+    "fact": "A group of crows is called a murder, while a group of ravens is called an unkindness."
+  },
+  {
+    "id": 136,
+    "fact": "Woodpeckers have specialized spongy bone tissue in their skulls that acts as a shock absorber while they hammer."
+  },
+  {
+    "id": 137,
+    "fact": "The tongue of a woodpecker is so long that it wraps around the back of its skull to cushion the brain."
+  },
+  {
+    "id": 138,
+    "fact": "Polar bear skin is black, which helps them absorb heat from the sun."
+  },
+  {
+    "id": 139,
+    "fact": "Penguins have special glands above their eyes that filter salt out of the seawater they drink."
+  },
+  {
+    "id": 140,
+    "fact": "Emperor penguins huddle in large groups to share body heat, constantly rotating positions so no individual gets too cold."
+  },
+  {
+    "id": 141,
+    "fact": "The giant squid has eyes the size of dinner plates to help it see in the deep, dark ocean."
+  },
+  {
+    "id": 142,
+    "fact": "Squirrels plant thousands of new trees every year because they forget where they buried their acorns."
+  },
+  {
+    "id": 143,
+    "fact": "Cats have a specialized organ called the Jacobson's organ in the roof of their mouth that helps them 'taste' the air for scents."
+  },
+  {
+    "id": 144,
+    "fact": "Sharks have been on Earth for over 400 million years, predating the existence of trees."
+  },
+  {
+    "id": 145,
+    "fact": "A single strand of spider silk is stronger than a steel wire of the same thickness."
+  },
+  {
+    "id": 146,
+    "fact": "The fingerprints of gorillas are unique to every individual, just like human fingerprints."
+  },
+  {
+    "id": 147,
+    "fact": "Beavers have orange teeth because the enamel contains iron, which makes them extra strong and resistant to decay."
+  },
+  {
+    "id": 148,
+    "fact": "Camels have three eyelids to help protect their eyes from blowing sand in the desert."
+  },
+  {
+    "id": 149,
+    "fact": "Jellyfish are composed of about 95% water and have no brain, heart, or bones."
+  },
+  {
+    "id": 150,
+    "fact": "A cluster of barnacles can exert enough pressure to damage ship hulls over long periods of time."
+  },
+  {
+    "id": 151,
+    "fact": "Domestic rabbits can be trained to recognize their own names and perform simple tricks."
+  },
+  {
+    "id": 152,
+    "fact": "Great white sharks can sense the electromagnetic fields produced by the heartbeats of other animals."
+  },
+  {
+    "id": 153,
+    "fact": "The blue whale is the largest animal to have ever lived on Earth, even larger than the biggest known dinosaurs."
+  },
+  {
+    "id": 154,
+    "fact": "Some species of sea cucumbers can eviscerate their own internal organs to escape a predator and then regrow them later."
+  },
+  {
+    "id": 155,
+    "fact": "Humpback whales create 'bubble nets' to trap schools of fish before swimming through them with open mouths."
+  },
+  {
+    "id": 156,
+    "fact": "The African elephant's ears are shaped roughly like the continent of Africa."
+  },
+  {
+    "id": 157,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 158,
+    "fact": "Wolves use howls to communicate their location and assemble the pack, rather than howling at the moon."
+  },
+  {
+    "id": 159,
+    "fact": "Dogs sweat primarily through their paw pads."
+  },
+  {
+    "id": 160,
+    "fact": "Male lions defend their pride's territory while female lions perform the majority of the hunting."
+  },
+  {
+    "id": 161,
+    "fact": "The tongue of a giraffe can extend up to 20 inches to reach high leaves."
+  },
+  {
+    "id": 162,
+    "fact": "Dolphins sleep with one half of their brain at a time so they can stay alert and keep breathing."
+  },
+  {
+    "id": 163,
+    "fact": "Some species of desert ants use internal 'pedometers' to track their steps and find their way back home."
+  },
+  {
+    "id": 164,
+    "fact": "Horses are unable to vomit, which is why digestive issues can be so dangerous for them."
+  },
+  {
+    "id": 165,
+    "fact": "The fingerprints of koalas are so distinct that they have occasionally been found at crime scenes, confusing investigators."
+  },
+  {
+    "id": 166,
+    "fact": "Vultures have highly acidic stomachs that allow them to eat rotting meat without getting sick from bacteria."
+  },
+  {
+    "id": 167,
+    "fact": "Cheetahs cannot roar like other big cats; instead, they make a sound similar to a high-pitched bird chirp."
+  },
+  {
+    "id": 168,
+    "fact": "The shell of a turtle is actually part of its skeleton, formed by its ribs and spine."
+  },
+  {
+    "id": 169,
+    "fact": "Sea sponges have no tissues, organs, or nervous system, yet they are multicellular animals."
+  },
+  {
+    "id": 170,
+    "fact": "Dragonflies were some of the first insects to fly, evolving their wings over 300 million years ago."
+  },
+  {
+    "id": 171,
+    "fact": "A flea can jump up to 200 times its own body length in a single leap."
+  },
+  {
+    "id": 172,
+    "fact": "The platypus produces venom in spurs located on its hind legs."
+  },
+  {
+    "id": 173,
+    "fact": "New Caledonian crows are known to manufacture their own tools from sticks to extract food."
+  },
+  {
+    "id": 174,
+    "fact": "In some bird species, males build elaborate nests or dance displays to impress potential mates."
+  },
+  {
+    "id": 175,
+    "fact": "Owls can rotate their heads up to 270 degrees due to specialized blood vessels and neck vertebrae."
+  },
+  {
+    "id": 176,
+    "fact": "Tarantulas can grow new legs if they happen to lose one during a molt."
+  },
+  {
+    "id": 177,
+    "fact": "The heart of a blue whale is roughly the size of a bumper car."
+  },
+  {
+    "id": 178,
+    "fact": "A rhinoceros horn is made of keratin, the same protein found in human hair and fingernails."
+  },
+  {
+    "id": 179,
+    "fact": "Capybaras are the world's largest rodents and are excellent swimmers."
+  },
+  {
+    "id": 180,
+    "fact": "Butterflies 'taste' with their feet to determine if a leaf is suitable to lay eggs on."
+  },
+  {
+    "id": 181,
+    "fact": "Hummingbirds are the only birds capable of flying backwards and hovering in mid-air."
+  },
+  {
+    "id": 182,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 183,
+    "fact": "African elephants have two 'fingers' at the end of their trunks, while Asian elephants have only one."
+  },
+  {
+    "id": 184,
+    "fact": "The bite of a hippo is strong enough to snap a small boat in half."
+  },
+  {
+    "id": 185,
+    "fact": "Some species of octopuses carry around coconut shells to use as portable armor for protection."
+  },
+  {
+    "id": 186,
+    "fact": "A tiger's stripes are like human fingerprints—no two tigers have the exact same pattern."
+  },
+  {
+    "id": 187,
+    "fact": "The slow loris is one of the only venomous mammals in the world, with toxic patches on their elbows."
+  },
+  {
+    "id": 188,
+    "fact": "Geese are monogamous and often stay with the same partner for many years."
+  },
+  {
+    "id": 189,
+    "fact": "Frogs do not drink water; they absorb it through their skin."
+  },
+  {
+    "id": 190,
+    "fact": "A male ostrich can roar, a sound that is often mistaken for a lion's roar by tourists in Africa."
+  },
+  {
+    "id": 191,
+    "fact": "The average house cat spends about 70% of its life sleeping."
+  },
+  {
+    "id": 192,
+    "fact": "Whale sharks can have thousands of teeth, but they are tiny and not used for eating large prey."
+  },
+  {
+    "id": 193,
+    "fact": "Sea stars can grow back lost arms and can even regenerate their entire body from a single arm under the right conditions."
+  },
+  {
+    "id": 194,
+    "fact": "Bats consume massive quantities of insects, saving the agricultural industry billions in pesticides every year."
+  },
+  {
+    "id": 195,
+    "fact": "The tongue of a dog helps cool it down through evaporation, as they do not have sweat glands like humans."
+  },
+  {
+    "id": 196,
+    "fact": "Raccoons have highly sensitive front paws that allow them to 'see' and identify objects just by touch."
+  },
+  {
+    "id": 197,
+    "fact": "Parrots can learn to imitate human speech but also use complex vocalizations to communicate with each other in the wild."
+  },
+  {
+    "id": 198,
+    "fact": "Antarctic icefish have clear blood because they lack hemoglobin, relying on oxygen dissolved directly in their plasma."
+  },
+  {
+    "id": 199,
+    "fact": "The eyes of a giant clam can contain hundreds of light-sensitive receptors that detect movement."
+  },
+  {
+    "id": 200,
+    "fact": "Fireflies are not actually flies; they are a type of beetle that uses bioluminescence to attract mates."
+  },
+  {
+    "id": 201,
+    "fact": "Starfish do not have a brain or blood, instead using a water vascular system to circulate nutrients."
+  },
+  {
+    "id": 202,
+    "fact": "A snail can sleep for up to three years if the environmental conditions are not favorable."
+  },
+  {
+    "id": 203,
+    "fact": "The heart of a shrimp is located in its thorax, which is essentially its head region."
+  },
+  {
+    "id": 204,
+    "fact": "Golden eagles can dive at speeds exceeding 150 miles per hour while hunting."
+  },
+  {
+    "id": 205,
+    "fact": "Sloths have more neck vertebrae than most other mammals, allowing them to turn their heads 270 degrees."
+  },
+  {
+    "id": 206,
+    "fact": "To escape predators, sea cucumbers can expel their internal organs, which they later regenerate."
+  },
+  {
+    "id": 207,
+    "fact": "The eyes of a giant squid can reach the diameter of a large dinner plate."
+  },
+  {
+    "id": 208,
+    "fact": "A group of jellyfish is sometimes referred to as a smack or a bloom."
+  },
+  {
+    "id": 209,
+    "fact": "Owls are physically unable to move their eyes in their sockets, so they must turn their whole head."
+  },
+  {
+    "id": 210,
+    "fact": "Some species of male spiders perform complex dances to avoid being eaten by the female during mating."
+  },
+  {
+    "id": 211,
+    "fact": "Dolphins possess unique 'signature whistles' that function like names to identify individual members of a pod."
+  },
+  {
+    "id": 212,
+    "fact": "The tongue of a woodpecker is anchored in its nostril, wrapping around the brain to provide protection from impact."
+  },
+  {
+    "id": 213,
+    "fact": "Camels store fat in their humps, not water, which they can metabolize into energy when food is scarce."
+  },
+  {
+    "id": 214,
+    "fact": "A group of rhinos is formally known as a crash."
+  },
+  {
+    "id": 215,
+    "fact": "The blue whale’s call can reach 188 decibels, making it one of the loudest sounds produced by any animal."
+  },
+  {
+    "id": 216,
+    "fact": "Sharks have multiple rows of teeth, and if one is lost, it is replaced by another from behind within days."
+  },
+  {
+    "id": 217,
+    "fact": "Emperor penguins huddle together to conserve heat, ensuring they survive temperatures as low as -60 degrees Celsius."
+  },
+  {
+    "id": 218,
+    "fact": "Bees communicate the location of flower patches to their hive mates using a specific series of movements called the waggle dance."
+  },
+  {
+    "id": 219,
+    "fact": "The platypus lacks a stomach, meaning food passes directly from the gullet to the intestines."
+  },
+  {
+    "id": 220,
+    "fact": "African elephants have the longest gestation period of any mammal, lasting about 22 months."
+  },
+  {
+    "id": 221,
+    "fact": "A group of giraffes is called a tower."
+  },
+  {
+    "id": 222,
+    "fact": "Electric eels are not true eels but are actually a type of knifefish that can generate 860 volts of electricity."
+  },
+  {
+    "id": 223,
+    "fact": "Horses have eyes on the sides of their heads, giving them nearly 360-degree vision."
+  },
+  {
+    "id": 224,
+    "fact": "The honey badger is known for its thick, loose skin that allows it to twist and fight back even when caught in a predator's mouth."
+  },
+  {
+    "id": 225,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 226,
+    "fact": "Sea otters have the densest fur of any animal, containing up to one million hairs per square inch."
+  },
+  {
+    "id": 227,
+    "fact": "Chimpanzees share approximately 98.8% of their DNA with humans."
+  },
+  {
+    "id": 228,
+    "fact": "Octopuses have a decentralized nervous system, meaning two-thirds of their neurons are in their arms rather than their heads."
+  },
+  {
+    "id": 229,
+    "fact": "A group of frogs is called an army."
+  },
+  {
+    "id": 230,
+    "fact": "Mosquitoes are the deadliest animals to humans, causing millions of deaths annually due to disease transmission."
+  },
+  {
+    "id": 231,
+    "fact": "The hummingbird is the only bird that can fly backwards."
+  },
+  {
+    "id": 232,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 233,
+    "fact": "Wombat poop is cube-shaped because of the uneven drying process in their intestines, helping it stay in place as a territorial marker."
+  },
+  {
+    "id": 234,
+    "fact": "Grizzly bears can run at speeds of up to 35 miles per hour."
+  },
+  {
+    "id": 235,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 236,
+    "fact": "The fingerprints of koalas are so distinct that they are indistinguishable from human fingerprints under a microscope."
+  },
+  {
+    "id": 237,
+    "fact": "Snakes use their tongues to collect scent particles from the air, which they then process with the Jacobson's organ in their mouths."
+  },
+  {
+    "id": 238,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 239,
+    "fact": "The tongue of a giraffe is prehensile and can be up to 20 inches long."
+  },
+  {
+    "id": 240,
+    "fact": "Bats use echolocation, emitting high-frequency sounds to navigate and hunt in total darkness."
+  },
+  {
+    "id": 241,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 242,
+    "fact": "Tigers have skin that is also striped, not just their fur."
+  },
+  {
+    "id": 243,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 244,
+    "fact": "The archerfish shoots a jet of water to knock insects off overhanging branches into the water to eat."
+  },
+  {
+    "id": 245,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 246,
+    "fact": "Ants can carry between 10 and 50 times their own body weight."
+  },
+  {
+    "id": 247,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 248,
+    "fact": "The Greenland shark can live for over 400 years, making it the longest-living vertebrate."
+  },
+  {
+    "id": 249,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 250,
+    "fact": "Ostrich eyes are larger than their brains."
+  },
+  {
+    "id": 251,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 252,
+    "fact": "The slow loris is one of the world's few venomous mammals, secreting a toxin from glands on its elbows."
+  },
+  {
+    "id": 253,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 254,
+    "fact": "Wolves communicate through complex vocalizations, including barks, whines, and howls."
+  },
+  {
+    "id": 255,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 256,
+    "fact": "Peacocks are not a specific species; the term refers to the male, while the female is a peahen."
+  },
+  {
+    "id": 257,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 258,
+    "fact": "Sea turtles can travel thousands of miles to return to the exact beach where they were hatched."
+  },
+  {
+    "id": 259,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 260,
+    "fact": "Mantis shrimp strike their prey with a speed comparable to a .22 caliber bullet."
+  },
+  {
+    "id": 261,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 262,
+    "fact": "Sloths move so slowly that they can take up to 30 days to digest a single leaf."
+  },
+  {
+    "id": 263,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 264,
+    "fact": "The tongue of a blue whale can weigh as much as an adult elephant."
+  },
+  {
+    "id": 265,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 266,
+    "fact": "Polar bears have clear fur that appears white due to light reflection, but their skin underneath is black."
+  },
+  {
+    "id": 267,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 268,
+    "fact": "The fastest land animal is the cheetah, which can accelerate from 0 to 60 miles per hour in three seconds."
+  },
+  {
+    "id": 269,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 270,
+    "fact": "Rats have a highly developed sense of smell and are often trained to detect landmines."
+  },
+  {
+    "id": 271,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 272,
+    "fact": "Sharks have a cartilaginous skeleton, which makes them lighter and more maneuverable than bony fish."
+  },
+  {
+    "id": 273,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 274,
+    "fact": "Vultures can soar for hours without flapping their wings by catching rising warm air currents."
+  },
+  {
+    "id": 275,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 276,
+    "fact": "The narwhal's tusk is actually a sensory organ used to detect salinity and temperature in ocean water."
+  },
+  {
+    "id": 277,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 278,
+    "fact": "Cows can detect magnetic fields and often align their bodies north-south while grazing."
+  },
+  {
+    "id": 279,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 280,
+    "fact": "The chameleon has eyes that can move independently of one another, allowing them to look in two directions at once."
+  },
+  {
+    "id": 281,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 282,
+    "fact": "Bees pollinate about one-third of the food we consume, playing a critical role in the global ecosystem."
+  },
+  {
+    "id": 283,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 284,
+    "fact": "Many bird species navigate during migration by sensing the Earth's magnetic field."
+  },
+  {
+    "id": 285,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 286,
+    "fact": "The giant panda spends up to 14 hours a day eating bamboo to meet its caloric needs."
+  },
+  {
+    "id": 287,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 288,
+    "fact": "Clownfish live in a symbiotic relationship with sea anemones, which provide protection while the fish cleans them."
+  },
+  {
+    "id": 289,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 290,
+    "fact": "Honeybees have five eyes—two large compound eyes and three small simple eyes on the top of their heads."
+  },
+  {
+    "id": 291,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 292,
+    "fact": "The kangaroo cannot walk backward, which is why it is often displayed on national emblems representing progress."
+  },
+  {
+    "id": 293,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 294,
+    "fact": "Some butterflies drink mud to obtain essential minerals that are missing from their nectar-based diet."
+  },
+  {
+    "id": 295,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 296,
+    "fact": "Dragonflies have an exceptional field of vision, covering nearly 360 degrees around their body."
+  },
+  {
+    "id": 297,
+    "fact": "A group of emus is called a mob."
+  },
+  {
+    "id": 298,
+    "fact": "The heart of a blue whale beats only 8 to 10 times per minute when it is diving deep."
+  },
+  {
+    "id": 299,
+    "fact": "A group of turtles is called a bale."
+  },
+  {
+    "id": 300,
+    "fact": "Seahorses are poor swimmers and often anchor themselves to seagrass with their tails to avoid being swept away."
+  },
+  {
+    "id": 301,
+    "fact": "Barn owls have asymmetrical ear openings that help them pinpoint the exact location of sounds in total darkness."
+  },
+  {
+    "id": 302,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 303,
+    "fact": "Many species of spiders use 'ballooning' to travel by releasing silk threads that catch the wind."
+  },
+  {
+    "id": 304,
+    "fact": "The tongue of a blue whale is so large that 50 people could stand on it."
+  },
+  {
+    "id": 305,
+    "fact": "A group of vultures is called a wake."
+  },
+  {
+    "id": 306,
+    "fact": "Electric rays can generate an electric shock of up to 220 volts to deter predators."
+  },
+  {
+    "id": 307,
+    "fact": "All birds possess hollow bones, which reduce weight to make flight easier."
+  },
+  {
+    "id": 308,
+    "fact": "A group of cheetahs is called a coalition."
+  },
+  {
+    "id": 309,
+    "fact": "Sea otters have a loose patch of skin under their forelimbs that they use as a pouch to store food and rocks."
+  },
+  {
+    "id": 310,
+    "fact": "The hammerhead shark's wide head improves its ability to scan for prey and sense electrical fields."
+  },
+  {
+    "id": 311,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 312,
+    "fact": "Toads often have bumpier, drier skin than frogs, which helps them retain moisture in terrestrial environments."
+  },
+  {
+    "id": 313,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 314,
+    "fact": "Pigeons have an incredible ability to navigate home from hundreds of miles away using the Earth's magnetic field."
+  },
+  {
+    "id": 315,
+    "fact": "A group of ants is called a colony."
+  },
+  {
+    "id": 316,
+    "fact": "Female lions are the primary hunters in a pride, working cooperatively to take down large prey."
+  },
+  {
+    "id": 317,
+    "fact": "A group of jellyfish is called a bloom."
+  },
+  {
+    "id": 318,
+    "fact": "The male emperor penguin incubates the egg on his feet for months while the female is at sea."
+  },
+  {
+    "id": 319,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 320,
+    "fact": "Cuttlefish can change their skin texture and color in a fraction of a second to camouflage with their surroundings."
+  },
+  {
+    "id": 321,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 322,
+    "fact": "Snails can climb over sharp edges like razor blades without cutting themselves due to a layer of thick, protective mucus."
+  },
+  {
+    "id": 323,
+    "fact": "A group of deer is called a herd."
+  },
+  {
+    "id": 324,
+    "fact": "The peregrine falcon is the fastest animal in the world, reaching speeds over 200 mph during its hunting dive."
+  },
+  {
+    "id": 325,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 326,
+    "fact": "Alligators have a specialized flap in their throats that prevents water from entering their lungs while they eat underwater."
+  },
+  {
+    "id": 327,
+    "fact": "A group of bees is called a swarm."
+  },
+  {
+    "id": 328,
+    "fact": "The kangaroo's tail acts as a third leg for balance and support when they are moving slowly."
+  },
+  {
+    "id": 329,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 330,
+    "fact": "Bats help regulate insect populations, with a single brown bat able to eat up to 1,000 mosquitoes in one hour."
+  },
+  {
+    "id": 331,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 332,
+    "fact": "The giant tortoise can live for over 150 years in the wild."
+  },
+  {
+    "id": 333,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 334,
+    "fact": "Giraffes have the same number of neck vertebrae as humans—exactly seven."
+  },
+  {
+    "id": 335,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 336,
+    "fact": "The axolotl remains in its larval stage for its entire life, keeping its external gills while becoming sexually mature."
+  },
+  {
+    "id": 337,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 338,
+    "fact": "Some species of sea snails produce a toxic venom that they use to hunt fast-moving fish."
+  },
+  {
+    "id": 339,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 340,
+    "fact": "Cheetahs use their long tails as a rudder for steering during high-speed chases."
+  },
+  {
+    "id": 341,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 342,
+    "fact": "The blue whale’s heartbeat can be heard from up to two miles away underwater."
+  },
+  {
+    "id": 343,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 344,
+    "fact": "Male mosquitoes feed on nectar; only females bite humans to get protein for egg development."
+  },
+  {
+    "id": 345,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 346,
+    "fact": "The wood frog can survive being frozen solid during the winter, with ice forming in its blood, and then thaw out in spring."
+  },
+  {
+    "id": 347,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 348,
+    "fact": "Humpback whales sing complex songs that can last for hours and travel across entire ocean basins."
+  },
+  {
+    "id": 349,
+    "fact": "A group of otters is called a raft."
+  },
+  {
+    "id": 350,
+    "fact": "Many bird species use the stars as a compass during nighttime migration."
+  },
+  {
+    "id": 351,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 352,
+    "fact": "The African elephant is the largest land mammal, with males weighing up to 6,000 kilograms."
+  },
+  {
+    "id": 353,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 354,
+    "fact": "Some species of octopuses have been observed using discarded coconut shells as portable shelters."
+  },
+  {
+    "id": 355,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 356,
+    "fact": "The cheetah is the only big cat that cannot retract its claws, which act like track spikes for traction."
+  },
+  {
+    "id": 357,
+    "fact": "A group of buffalo is called a gang."
+  },
+  {
+    "id": 358,
+    "fact": "Dolphins produce clicks and whistles to communicate and use sonar to map their environment."
+  },
+  {
+    "id": 359,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 360,
+    "fact": "Some species of ants keep 'livestock' by herding aphids and protecting them in exchange for the sugary honeydew they produce."
+  },
+  {
+    "id": 361,
+    "fact": "A group of snakes is called a nest."
+  },
+  {
+    "id": 362,
+    "fact": "The tongue of a chameleon can launch at speeds of 20 feet per second to snatch prey."
+  },
+  {
+    "id": 363,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 364,
+    "fact": "All adult sea turtles return to the same general area where they were hatched to lay their own eggs."
+  },
+  {
+    "id": 365,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 366,
+    "fact": "Honeybees communicate the quality and distance of a food source through a 'waggle dance' inside the hive."
+  },
+  {
+    "id": 367,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 368,
+    "fact": "Penguins have counter-shaded coloration, which helps them blend in with the dark ocean from below and the light sky from above."
+  },
+  {
+    "id": 369,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 370,
+    "fact": "A spider's silk is a protein-based fiber produced in glands within its abdomen."
+  },
+  {
+    "id": 371,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 372,
+    "fact": "The rhinoceros beetle can lift objects that are 850 times its own body weight."
+  },
+  {
+    "id": 373,
+    "fact": "A group of hares is called a drove."
+  },
+  {
+    "id": 374,
+    "fact": "Sharks have a lateral line system that detects minute pressure changes and vibrations in the water."
+  },
+  {
+    "id": 375,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 376,
+    "fact": "The platypus uses electrolocation to find prey in muddy water by detecting the electrical impulses of their muscles."
+  },
+  {
+    "id": 377,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 378,
+    "fact": "Some species of fish can survive in sub-zero temperatures by producing antifreeze proteins in their blood."
+  },
+  {
+    "id": 379,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 380,
+    "fact": "Elephants use their trunks for breathing, smelling, touching, grasping, and producing sound."
+  },
+  {
+    "id": 381,
+    "fact": "A group of emus is called a mob."
+  },
+  {
+    "id": 382,
+    "fact": "The eyes of an owl are fixed in their sockets, so they possess 14 neck vertebrae to achieve their wide range of motion."
+  },
+  {
+    "id": 383,
+    "fact": "A group of turtles is called a bale."
+  },
+  {
+    "id": 384,
+    "fact": "Beavers have continuously growing front teeth that are kept short by gnawing on hard wood."
+  },
+  {
+    "id": 385,
+    "fact": "A group of pigeons is called a flock."
+  },
+  {
+    "id": 386,
+    "fact": "Some species of desert ants navigate back to their nest by counting the number of steps they have taken."
+  },
+  {
+    "id": 387,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 388,
+    "fact": "The manta ray is one of the largest fish in the ocean and feeds primarily on plankton."
+  },
+  {
+    "id": 389,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 390,
+    "fact": "Fireflies use chemical reactions within their abdomens to produce 'cold light' with almost no heat loss."
+  },
+  {
+    "id": 391,
+    "fact": "A group of badgers is called a cete."
+  },
+  {
+    "id": 392,
+    "fact": "Horses can sleep both standing up and lying down, using a 'stay apparatus' in their legs to lock them in place."
+  },
+  {
+    "id": 393,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 394,
+    "fact": "The narwhal’s tusk can grow up to 10 feet long and is actually an oversized canine tooth."
+  },
+  {
+    "id": 395,
+    "fact": "A group of ladybugs is called a loveliness."
+  },
+  {
+    "id": 396,
+    "fact": "Octopuses have blue blood because it contains copper-based hemocyanin rather than iron-based hemoglobin."
+  },
+  {
+    "id": 397,
+    "fact": "A group of bears is called a sleuth."
+  },
+  {
+    "id": 398,
+    "fact": "Some species of male frogs inflate large vocal sacs to create resonating calls that attract females."
+  },
+  {
+    "id": 399,
+    "fact": "A group of crocodiles is called a bask."
+  },
+  {
+    "id": 400,
+    "fact": "The ostrich is the largest living bird, but it has lost the ability to fly due to its evolutionary adaptation for running."
+  },
+  {
+    "id": 401,
+    "fact": "The skeleton of a shark is made of cartilage, which is lighter than bone and helps them stay buoyant."
+  },
+  {
+    "id": 402,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 403,
+    "fact": "Birds do not have teeth; instead, they have a gizzard that grinds down food with swallowed stones."
+  },
+  {
+    "id": 404,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 405,
+    "fact": "In many species of spiders, the female is significantly larger than the male."
+  },
+  {
+    "id": 406,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 407,
+    "fact": "The tongue of a giraffe is dark purple to prevent it from getting sunburned while they forage for leaves."
+  },
+  {
+    "id": 408,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 409,
+    "fact": "Humpback whales produce bubbles in a circular pattern to create a wall that traps schools of fish."
+  },
+  {
+    "id": 410,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 411,
+    "fact": "The heart of a blue whale is the size of a small car."
+  },
+  {
+    "id": 412,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 413,
+    "fact": "Some species of snakes can 'glide' through the air by flattening their bodies into a wing shape."
+  },
+  {
+    "id": 414,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 415,
+    "fact": "Bees perform a 'waggle dance' to convey the precise location of nectar sources to other bees in the colony."
+  },
+  {
+    "id": 416,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 417,
+    "fact": "Ants carry food that can be 50 times their own body weight."
+  },
+  {
+    "id": 418,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 419,
+    "fact": "Penguins have specialized salt glands to excrete excess salt from the seawater they ingest."
+  },
+  {
+    "id": 420,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 421,
+    "fact": "Male seahorses undergo a pregnancy period and give birth to live young."
+  },
+  {
+    "id": 422,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 423,
+    "fact": "The cheetah's claws act like running spikes for better traction while sprinting."
+  },
+  {
+    "id": 424,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 425,
+    "fact": "Dolphins have a unique signature whistle that acts as their personal name."
+  },
+  {
+    "id": 426,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 427,
+    "fact": "The tongue of a woodpecker is so long it wraps around the back of its skull."
+  },
+  {
+    "id": 428,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 429,
+    "fact": "Camels have three eyelids and two sets of eyelashes to protect their eyes from desert sand."
+  },
+  {
+    "id": 430,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 431,
+    "fact": "The platypus is one of the few mammals that lay eggs instead of giving birth to live young."
+  },
+  {
+    "id": 432,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 433,
+    "fact": "Elephants communicate using infrasonic sounds that are too low for humans to hear."
+  },
+  {
+    "id": 434,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 435,
+    "fact": "Sloths have a slow metabolism, which allows them to survive on a diet of low-energy leaves."
+  },
+  {
+    "id": 436,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 437,
+    "fact": "Some species of octopuses have a lifespan of only about six months to a few years."
+  },
+  {
+    "id": 438,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 439,
+    "fact": "Vultures can consume rotting carrion because their stomach acid is incredibly strong."
+  },
+  {
+    "id": 440,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 441,
+    "fact": "The Greenland shark can live to be over 400 years old."
+  },
+  {
+    "id": 442,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 443,
+    "fact": "Cows often face the same direction when grazing to minimize competition for space."
+  },
+  {
+    "id": 444,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 445,
+    "fact": "Chameleons change color not just for camouflage, but for temperature regulation and communication."
+  },
+  {
+    "id": 446,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 447,
+    "fact": "The archerfish can spit a precise stream of water to knock insects off overhanging plants."
+  },
+  {
+    "id": 448,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 449,
+    "fact": "Honeybees have five eyes in total, including three simple eyes and two compound ones."
+  },
+  {
+    "id": 450,
+    "fact": "A group of emus is called a mob."
+  },
+  {
+    "id": 451,
+    "fact": "Kangaroo moms can delay the development of an embryo if conditions are not favorable for raising a joey."
+  },
+  {
+    "id": 452,
+    "fact": "A group of turtles is called a bale."
+  },
+  {
+    "id": 453,
+    "fact": "Giant squids have eyes the size of dinner plates to help them see in deep, dark waters."
+  },
+  {
+    "id": 454,
+    "fact": "A group of pigeons is called a flock."
+  },
+  {
+    "id": 455,
+    "fact": "Beavers have orange teeth due to iron-rich enamel that makes them extremely strong."
+  },
+  {
+    "id": 456,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 457,
+    "fact": "Fireflies are actually a type of beetle, not a true fly."
+  },
+  {
+    "id": 558,
+    "fact": "A group of badgers is called a cete."
+  },
+  {
+    "id": 459,
+    "fact": "Horses have a blind spot directly behind them, which is why you should never approach them from the rear."
+  },
+  {
+    "id": 460,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 461,
+    "fact": "The narwhal’s tusk is sensory and can detect changes in salinity and temperature in the ocean."
+  },
+  {
+    "id": 462,
+    "fact": "A group of ladybugs is called a loveliness."
+  },
+  {
+    "id": 463,
+    "fact": "Giant pandas spend up to 14 hours a day eating bamboo to fuel their large bodies."
+  },
+  {
+    "id": 464,
+    "fact": "A group of bears is called a sleuth."
+  },
+  {
+    "id": 465,
+    "fact": "Some species of frogs can absorb oxygen directly through their skin while underwater."
+  },
+  {
+    "id": 466,
+    "fact": "A group of crocodiles is called a bask."
+  },
+  {
+    "id": 467,
+    "fact": "Ostrich eggs are the largest of any living bird, weighing up to three pounds each."
+  },
+  {
+    "id": 468,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 469,
+    "fact": "A spider's legs move using hydraulic pressure rather than just muscle contractions."
+  },
+  {
+    "id": 470,
+    "fact": "A group of snakes is called a nest."
+  },
+  {
+    "id": 471,
+    "fact": "Some species of fish live in caves and are completely blind, relying on other senses to navigate."
+  },
+  {
+    "id": 472,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 473,
+    "fact": "Many birds molt their feathers periodically to stay aerodynamic and waterproof."
+  },
+  {
+    "id": 474,
+    "fact": "A group of hawks is called a cast."
+  },
+  {
+    "id": 475,
+    "fact": "The blue whale is the largest animal ever recorded, reaching lengths of up to 100 feet."
+  },
+  {
+    "id": 476,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 477,
+    "fact": "Hummingbirds must eat almost constantly to maintain their high metabolism and fast-beating hearts."
+  },
+  {
+    "id": 478,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 479,
+    "fact": "Raccoons have extremely sensitive paws that allow them to identify objects by touch alone."
+  },
+  {
+    "id": 480,
+    "fact": "A group of lions is called a pride."
+  },
+  {
+    "id": 481,
+    "fact": "All sea stars have the ability to regenerate lost arms, and some can regenerate a whole new body."
+  },
+  {
+    "id": 482,
+    "fact": "A group of starlings is called a murmuration."
+  },
+  {
+    "id": 483,
+    "fact": "Woodpeckers have thick skulls to protect their brains from the constant shock of drumming."
+  },
+  {
+    "id": 484,
+    "fact": "A group of vultures is called a wake."
+  },
+  {
+    "id": 485,
+    "fact": "Some species of caterpillars can camouflage themselves to look exactly like bird droppings."
+  },
+  {
+    "id": 486,
+    "fact": "A group of cheetahs is called a coalition."
+  },
+  {
+    "id": 487,
+    "fact": "Most sharks must keep moving to circulate water over their gills to breathe."
+  },
+  {
+    "id": 488,
+    "fact": "A group of ants is called a colony."
+  },
+  {
+    "id": 489,
+    "fact": "Dolphins use 'bubble rings' for play and sometimes even hunt by trapping fish in bubbles."
+  },
+  {
+    "id": 490,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 491,
+    "fact": "The African elephant's ears are uniquely shaped like the map of the continent."
+  },
+  {
+    "id": 492,
+    "fact": "A group of bears is called a sleuth."
+  },
+  {
+    "id": 493,
+    "fact": "Parrots are among the most intelligent birds and can learn to solve complex puzzles."
+  },
+  {
+    "id": 494,
+    "fact": "A group of deer is called a herd."
+  },
+  {
+    "id": 495,
+    "fact": "Sea otters use rocks to break open shellfish, a behavior that is taught from mother to pup."
+  },
+  {
+    "id": 496,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 497,
+    "fact": "The heart of a hummingbird beats around 1,200 times per minute during active flight."
+  },
+  {
+    "id": 498,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 499,
+    "fact": "Many butterflies taste with their feet, allowing them to instantly know if a plant is safe for their eggs."
+  },
+  {
+    "id": 500,
+    "fact": "A group of elephants is called a herd."
+  },
+  {
+    "id": 501,
+    "fact": "Starfish can push their stomachs outside of their bodies to digest prey before consuming it."
+  },
+  {
+    "id": 502,
+    "fact": "A group of rhinos is known as a crash."
+  },
+  {
+    "id": 503,
+    "fact": "Golden eagles have eyesight that is significantly more detailed than human vision."
+  },
+  {
+    "id": 504,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 505,
+    "fact": "Sloths descend from their trees about once a week to defecate on the ground."
+  },
+  {
+    "id": 506,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 507,
+    "fact": "The giant squid can grow up to 43 feet in length."
+  },
+  {
+    "id": 508,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 509,
+    "fact": "Owls have specialized feathers that muffle the sound of their wings, making them silent hunters."
+  },
+  {
+    "id": 510,
+    "fact": "A group of frogs is called an army."
+  },
+  {
+    "id": 511,
+    "fact": "Dolphins sometimes use pufferfish to get 'high' by chewing on them, causing a mild narcotic effect."
+  },
+  {
+    "id": 512,
+    "fact": "A group of rhinos is called a crash."
+  },
+  {
+    "id": 513,
+    "fact": "Camels can close their nostrils completely to block out sand during desert storms."
+  },
+  {
+    "id": 514,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 515,
+    "fact": "Blue whales are so large that their tongue alone weighs as much as an entire elephant."
+  },
+  {
+    "id": 516,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 517,
+    "fact": "Sharks have been roaming the ocean for over 400 million years."
+  },
+  {
+    "id": 518,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 519,
+    "fact": "Emperor penguins are the only bird species that breeds during the harsh Antarctic winter."
+  },
+  {
+    "id": 520,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 521,
+    "fact": "Honeybees communicate via the 'waggle dance' to indicate the exact direction of food sources."
+  },
+  {
+    "id": 522,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 523,
+    "fact": "The platypus is one of the very few mammals that produce venom."
+  },
+  {
+    "id": 524,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 525,
+    "fact": "African elephants are pregnant for nearly two years before giving birth."
+  },
+  {
+    "id": 526,
+    "fact": "A group of giraffes is called a tower."
+  },
+  {
+    "id": 527,
+    "fact": "Electric eels aren't actually eels; they are a type of knifefish."
+  },
+  {
+    "id": 528,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 529,
+    "fact": "Horses can see behind them without turning their heads because of their side-facing eyes."
+  },
+  {
+    "id": 530,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 531,
+    "fact": "Honey badgers are immune to most snake venom."
+  },
+  {
+    "id": 532,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 533,
+    "fact": "Chimpanzees have unique personality traits similar to humans."
+  },
+  {
+    "id": 534,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 535,
+    "fact": "Octopuses have nine brains—one central one and one in each of their eight arms."
+  },
+  {
+    "id": 536,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 537,
+    "fact": "Mosquitoes are responsible for more human deaths than any other animal."
+  },
+  {
+    "id": 538,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 539,
+    "fact": "Hummingbirds are the only birds that can fly backwards."
+  },
+  {
+    "id": 540,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 541,
+    "fact": "Wombat waste is cube-shaped to prevent it from rolling away."
+  },
+  {
+    "id": 542,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 543,
+    "fact": "Grizzly bears can reach speeds of up to 35 miles per hour."
+  },
+  {
+    "id": 544,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 545,
+    "fact": "Koalas have two thumbs on each front paw."
+  },
+  {
+    "id": 546,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 547,
+    "fact": "Snakes don't have eyelids; they have a transparent scale covering their eyes."
+  },
+  {
+    "id": 548,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 549,
+    "fact": "A giraffe’s tongue can be up to 20 inches long."
+  },
+  {
+    "id": 550,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 551,
+    "fact": "Bats make up about 20% of all mammal species."
+  },
+  {
+    "id": 552,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 553,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 554,
+    "fact": "The archerfish spits water to knock prey off branches."
+  },
+  {
+    "id": 555,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 556,
+    "fact": "Ants can live for many years in a colony."
+  },
+  {
+    "id": 557,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 558,
+    "fact": "The Greenland shark can live for over 400 years."
+  },
+  {
+    "id": 559,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 560,
+    "fact": "An ostrich's eye is larger than its brain."
+  },
+  {
+    "id": 561,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 562,
+    "fact": "The slow loris is one of the few venomous mammals."
+  },
+  {
+    "id": 563,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 564,
+    "fact": "Wolves communicate with a wide range of vocalizations."
+  },
+  {
+    "id": 565,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 566,
+    "fact": "Peacocks display their tail feathers to attract mates."
+  },
+  {
+    "id": 567,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 568,
+    "fact": "Sea turtles can navigate thousands of miles to return to their birthplace."
+  },
+  {
+    "id": 569,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 570,
+    "fact": "Mantis shrimp have the most complex eyes in the animal kingdom."
+  },
+  {
+    "id": 571,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 572,
+    "fact": "Sloths take a long time to digest their food."
+  },
+  {
+    "id": 573,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 574,
+    "fact": "A blue whale’s tongue can weigh as much as an elephant."
+  },
+  {
+    "id": 575,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 576,
+    "fact": "Polar bears have black skin under their white fur."
+  },
+  {
+    "id": 577,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 578,
+    "fact": "Cheetahs are the fastest land animals."
+  },
+  {
+    "id": 579,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 580,
+    "fact": "Rats have an incredible sense of smell."
+  },
+  {
+    "id": 581,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 582,
+    "fact": "Sharks have a skeleton made entirely of cartilage."
+  },
+  {
+    "id": 583,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 584,
+    "fact": "Vultures can soar for hours using thermal currents."
+  },
+  {
+    "id": 585,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 586,
+    "fact": "A narwhal's tusk is actually a tooth."
+  },
+  {
+    "id": 587,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 588,
+    "fact": "Cows can sense magnetic fields while grazing."
+  },
+  {
+    "id": 589,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 590,
+    "fact": "Chameleons can move their eyes independently."
+  },
+  {
+    "id": 591,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 592,
+    "fact": "Bees pollinate a huge portion of our food crops."
+  },
+  {
+    "id": 593,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 594,
+    "fact": "Birds use the Earth's magnetic field to navigate during migration."
+  },
+  {
+    "id": 595,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 596,
+    "fact": "Giant pandas eat mostly bamboo every day."
+  },
+  {
+    "id": 597,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 598,
+    "fact": "Clownfish live in anemones for protection."
+  },
+  {
+    "id": 599,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 600,
+    "fact": "Honeybees have five eyes in total."
+  },
+  {
+    "id": 601,
+    "fact": "Barn owls hunt silently at night."
+  },
+  {
+    "id": 602,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 603,
+    "fact": "Spiders can travel by ballooning on silk threads."
+  },
+  {
+    "id": 604,
+    "fact": "Blue whale tongues can fit 50 people on them."
+  },
+  {
+    "id": 605,
+    "fact": "A group of vultures is called a wake."
+  },
+  {
+    "id": 606,
+    "fact": "Electric rays can shock their prey with up to 220 volts."
+  },
+  {
+    "id": 607,
+    "fact": "Birds have hollow bones to help them fly."
+  },
+  {
+    "id": 608,
+    "fact": "A group of cheetahs is called a coalition."
+  },
+  {
+    "id": 609,
+    "fact": "Sea otters use a skin flap as a natural pocket."
+  },
+  {
+    "id": 610,
+    "fact": "Hammerhead shark heads improve their sensory scanning."
+  },
+  {
+    "id": 611,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 612,
+    "fact": "Toads typically have drier, bumpier skin than frogs."
+  },
+  {
+    "id": 613,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 614,
+    "fact": "Pigeons navigate home using magnetic fields."
+  },
+  {
+    "id": 615,
+    "fact": "A group of ants is called a colony."
+  },
+  {
+    "id": 616,
+    "fact": "Female lions are the primary hunters in a pride."
+  },
+  {
+    "id": 617,
+    "fact": "A group of jellyfish is called a bloom."
+  },
+  {
+    "id": 618,
+    "fact": "Emperor penguins huddle to survive Antarctic winters."
+  },
+  {
+    "id": 619,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 620,
+    "fact": "Cuttlefish can change their skin color instantly."
+  },
+  {
+    "id": 621,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 622,
+    "fact": "Snails can crawl over sharp blades safely."
+  },
+  {
+    "id": 623,
+    "fact": "A group of deer is called a herd."
+  },
+  {
+    "id": 624,
+    "fact": "Peregrine falcons reach over 200 mph in a dive."
+  },
+  {
+    "id": 625,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 626,
+    "fact": "Alligators have throat flaps to keep water out."
+  },
+  {
+    "id": 627,
+    "fact": "A group of bees is called a swarm."
+  },
+  {
+    "id": 628,
+    "fact": "A kangaroo's tail helps it balance while hopping."
+  },
+  {
+    "id": 629,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 630,
+    "fact": "Bats eat thousands of mosquitoes in an hour."
+  },
+  {
+    "id": 631,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 632,
+    "fact": "Giant tortoises can live over 150 years."
+  },
+  {
+    "id": 633,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 634,
+    "fact": "Giraffes have the same number of neck bones as humans."
+  },
+  {
+    "id": 635,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 636,
+    "fact": "Axolotls keep their external gills for their whole lives."
+  },
+  {
+    "id": 637,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 638,
+    "fact": "Some sea snails produce toxic venom to hunt fish."
+  },
+  {
+    "id": 639,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 640,
+    "fact": "Cheetahs use their tails as rudders while turning."
+  },
+  {
+    "id": 641,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 642,
+    "fact": "A blue whale’s heartbeat is audible from miles away."
+  },
+  {
+    "id": 643,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 644,
+    "fact": "Male mosquitoes do not bite humans."
+  },
+  {
+    "id": 645,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 646,
+    "fact": "Wood frogs survive being frozen solid in winter."
+  },
+  {
+    "id": 647,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 648,
+    "fact": "Humpback whale songs can last for several hours."
+  },
+  {
+    "id": 649,
+    "fact": "A group of otters is called a raft."
+  },
+  {
+    "id": 650,
+    "fact": "Birds use constellations for navigation."
+  },
+  {
+    "id": 651,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 652,
+    "fact": "African elephants are the largest land mammals."
+  },
+  {
+    "id": 653,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 654,
+    "fact": "Octopuses sometimes use coconut shells as shelters."
+  },
+  {
+    "id": 655,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 656,
+    "fact": "Cheetahs cannot retract their claws."
+  },
+  {
+    "id": 657,
+    "fact": "A group of buffalo is called a gang."
+  },
+  {
+    "id": 658,
+    "fact": "Dolphins use sonar to map their underwater world."
+  },
+  {
+    "id": 659,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 660,
+    "fact": "Ants protect aphids for their sweet honeydew."
+  },
+  {
+    "id": 661,
+    "fact": "A group of snakes is called a nest."
+  },
+  {
+    "id": 662,
+    "fact": "Chameleon tongues launch at incredible speeds."
+  },
+  {
+    "id": 663,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 664,
+    "fact": "Sea turtles return to their original hatching beaches."
+  },
+  {
+    "id": 665,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 666,
+    "fact": "Honeybees dance to show where food is found."
+  },
+  {
+    "id": 667,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 668,
+    "fact": "Penguins are colored to camouflage from above and below."
+  },
+  {
+    "id": 669,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 670,
+    "fact": "Spider silk is made of proteins from the abdomen."
+  },
+  {
+    "id": 671,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 672,
+    "fact": "Rhinoceros beetles can lift huge amounts of weight."
+  },
+  {
+    "id": 673,
+    "fact": "A group of hares is called a drove."
+  },
+  {
+    "id": 674,
+    "fact": "Sharks detect vibrations with their lateral lines."
+  },
+  {
+    "id": 675,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 676,
+    "fact": "Platypuses find prey using electrical sensors."
+  },
+  {
+    "id": 677,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 678,
+    "fact": "Some fish produce antifreeze to survive in icy waters."
+  },
+  {
+    "id": 679,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 680,
+    "fact": "An elephant’s trunk is used for many complex tasks."
+  },
+  {
+    "id": 681,
+    "fact": "A group of emus is called a mob."
+  },
+  {
+    "id": 682,
+    "fact": "Owls have extra neck vertebrae for head rotation."
+  },
+  {
+    "id": 683,
+    "fact": "A group of turtles is called a bale."
+  },
+  {
+    "id": 684,
+    "fact": "Beavers have teeth that never stop growing."
+  },
+  {
+    "id": 685,
+    "fact": "A group of pigeons is called a flock."
+  },
+  {
+    "id": 686,
+    "fact": "Desert ants count their steps to find home."
+  },
+  {
+    "id": 687,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 688,
+    "fact": "Manta rays are large filter-feeding fish."
+  },
+  {
+    "id": 689,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 690,
+    "fact": "Fireflies produce light with almost no heat."
+  },
+  {
+    "id": 691,
+    "fact": "A group of badgers is called a cete."
+  },
+  {
+    "id": 692,
+    "fact": "Horses can sleep while standing upright."
+  },
+  {
+    "id": 693,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 694,
+    "fact": "Narwhal tusks are actually elongated teeth."
+  },
+  {
+    "id": 695,
+    "fact": "A group of ladybugs is called a loveliness."
+  },
+  {
+    "id": 696,
+    "fact": "Octopuses have blue-colored copper-based blood."
+  },
+  {
+    "id": 697,
+    "fact": "A group of bears is called a sleuth."
+  },
+  {
+    "id": 698,
+    "fact": "Some frogs use vocal sacs to call for mates."
+  },
+  {
+    "id": 699,
+    "fact": "A group of crocodiles is called a bask."
+  },
+  {
+    "id": 700,
+    "fact": "Ostriches are the largest birds alive today."
+  },
+  {
+    "id": 701,
+    "fact": "Sharks move to pass water over their gills."
+  },
+  {
+    "id": 702,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 703,
+    "fact": "Birds use a gizzard to grind their food."
+  },
+  {
+    "id": 704,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 705,
+    "fact": "Female spiders are often much larger than males."
+  },
+  {
+    "id": 706,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 707,
+    "fact": "Giraffe tongues are dark to resist sun damage."
+  },
+  {
+    "id": 708,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 709,
+    "fact": "Humpback whales use bubbles to trap their prey."
+  },
+  {
+    "id": 710,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 711,
+    "fact": "Blue whale hearts are the size of cars."
+  },
+  {
+    "id": 712,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 713,
+    "fact": "Gliding snakes can flatten their bodies to soar."
+  },
+  {
+    "id": 714,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 715,
+    "fact": "Bees communicate via dance for nectar sources."
+  },
+  {
+    "id": 716,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 717,
+    "fact": "Ants can lift fifty times their body weight."
+  },
+  {
+    "id": 718,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 719,
+    "fact": "Penguins excrete excess salt via special glands."
+  },
+  {
+    "id": 720,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 721,
+    "fact": "Male seahorses carry eggs in their pouches."
+  },
+  {
+    "id": 722,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 723,
+    "fact": "Cheetah claws act like running spikes."
+  },
+  {
+    "id": 724,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 725,
+    "fact": "Dolphins have unique signature whistles for names."
+  },
+  {
+    "id": 726,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 727,
+    "fact": "Woodpecker tongues wrap around their skulls."
+  },
+  {
+    "id": 728,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 729,
+    "fact": "Camels have protective eyelids for sandstorms."
+  },
+  {
+    "id": 730,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 731,
+    "fact": "Platypuses lay eggs instead of giving birth."
+  },
+  {
+    "id": 732,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 733,
+    "fact": "Elephants use low sounds to communicate over distances."
+  },
+  {
+    "id": 734,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 735,
+    "fact": "Sloths survive on a low-energy leaf diet."
+  },
+  {
+    "id": 736,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 737,
+    "fact": "Octopuses have short, specific lifespans."
+  },
+  {
+    "id": 738,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 739,
+    "fact": "Vultures have highly acidic stomach contents."
+  },
+  {
+    "id": 740,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 741,
+    "fact": "Greenland sharks are extremely long-lived."
+  },
+  {
+    "id": 742,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 743,
+    "fact": "Cows prefer grazing in certain directions."
+  },
+  {
+    "id": 744,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 745,
+    "fact": "Chameleons change color for many reasons."
+  },
+  {
+    "id": 746,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 747,
+    "fact": "Archerfish shoot water to hunt for insects."
+  },
+  {
+    "id": 748,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 749,
+    "fact": "Honeybees have five eyes in total."
+  },
+  {
+    "id": 750,
+    "fact": "Emus move around in large mob groups."
+  },
+  {
+    "id": 751,
+    "fact": "Starfish can regenerate lost limbs over a period of months."
+  },
+  {
+    "id": 752,
+    "fact": "A group of rhinos is formally known as a crash."
+  },
+  {
+    "id": 753,
+    "fact": "Golden eagles build massive nests on high cliffs."
+  },
+  {
+    "id": 754,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 755,
+    "fact": "Sloths have a very slow rate of digestion."
+  },
+  {
+    "id": 756,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 757,
+    "fact": "The giant squid resides in deep ocean waters."
+  },
+  {
+    "id": 758,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 759,
+    "fact": "Owls possess feathers that allow for near-silent flight."
+  },
+  {
+    "id": 760,
+    "fact": "A group of frogs is called an army."
+  },
+  {
+    "id": 761,
+    "fact": "Dolphins are known to use tools in the wild."
+  },
+  {
+    "id": 762,
+    "fact": "A group of rhinos is called a crash."
+  },
+  {
+    "id": 763,
+    "fact": "Camels are well-adapted to extreme desert heat."
+  },
+  {
+    "id": 764,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 765,
+    "fact": "Blue whales feed mainly on tiny krill."
+  },
+  {
+    "id": 766,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 767,
+    "fact": "Sharks have multiple rows of replaceable teeth."
+  },
+  {
+    "id": 768,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 769,
+    "fact": "Emperor penguins huddle against extreme cold."
+  },
+  {
+    "id": 770,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 771,
+    "fact": "Honeybees use waggle dances to share information."
+  },
+  {
+    "id": 772,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 773,
+    "fact": "Platypuses have a bill that detects electrical signals."
+  },
+  {
+    "id": 774,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 775,
+    "fact": "African elephants exhibit complex social structures."
+  },
+  {
+    "id": 776,
+    "fact": "A group of giraffes is called a tower."
+  },
+  {
+    "id": 777,
+    "fact": "Electric eels stun prey with high-voltage shocks."
+  },
+  {
+    "id": 778,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 779,
+    "fact": "Horses have wide-angle vision due to side-facing eyes."
+  },
+  {
+    "id": 780,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 781,
+    "fact": "Honey badgers are known for their fierce defense."
+  },
+  {
+    "id": 782,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 783,
+    "fact": "Chimpanzees use leaves as sponges to gather water."
+  },
+  {
+    "id": 784,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 785,
+    "fact": "Octopuses have sophisticated problem-solving abilities."
+  },
+  {
+    "id": 786,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 787,
+    "fact": "Mosquitoes thrive in warm, humid climates."
+  },
+  {
+    "id": 788,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 789,
+    "fact": "Hummingbirds have incredibly high metabolic rates."
+  },
+  {
+    "id": 790,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 791,
+    "fact": "Wombats are nocturnal marsupials."
+  },
+  {
+    "id": 792,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 793,
+    "fact": "Grizzly bears are excellent at climbing trees."
+  },
+  {
+    "id": 794,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 795,
+    "fact": "Koalas spend most of their day sleeping."
+  },
+  {
+    "id": 796,
+    "fact": "A group of ferrets is called a business."
+  },
+  {
+    "id": 797,
+    "fact": "Snakes taste the air using their forked tongues."
+  },
+  {
+    "id": 798,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 799,
+    "fact": "Giraffes have huge hearts to pump blood to their heads."
+  },
+  {
+    "id": 800,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 801,
+    "fact": "Bats help in seed dispersal for many plants."
+  },
+  {
+    "id": 802,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 803,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 804,
+    "fact": "Archerfish can be found in mangrove forests."
+  },
+  {
+    "id": 805,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 806,
+    "fact": "Ants form complex tunnel systems underground."
+  },
+  {
+    "id": 807,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 808,
+    "fact": "Greenland sharks inhabit cold northern waters."
+  },
+  {
+    "id": 809,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 810,
+    "fact": "Ostriches run fast to escape predators."
+  },
+  {
+    "id": 811,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 812,
+    "fact": "Slow lorises protect themselves with toxic secretions."
+  },
+  {
+    "id": 813,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 814,
+    "fact": "Wolves live in tight-knit family units."
+  },
+  {
+    "id": 815,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 816,
+    "fact": "Peacocks display elaborate patterns to attract mates."
+  },
+  {
+    "id": 817,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 818,
+    "fact": "Sea turtles live long lives in the ocean."
+  },
+  {
+    "id": 819,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 820,
+    "fact": "Mantis shrimp have powerful striking claws."
+  },
+  {
+    "id": 821,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 822,
+    "fact": "Sloths live almost entirely in tropical trees."
+  },
+  {
+    "id": 823,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 824,
+    "fact": "Blue whales are baleen feeders."
+  },
+  {
+    "id": 825,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 826,
+    "fact": "Polar bears hunt seals on Arctic ice."
+  },
+  {
+    "id": 827,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 828,
+    "fact": "Cheetahs utilize bursts of speed to catch prey."
+  },
+  {
+    "id": 829,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 830,
+    "fact": "Rats are social and highly intelligent animals."
+  },
+  {
+    "id": 831,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 832,
+    "fact": "Sharks play a vital role in marine ecosystems."
+  },
+  {
+    "id": 833,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 834,
+    "fact": "Vultures clean up environments by consuming carrion."
+  },
+  {
+    "id": 835,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 836,
+    "fact": "Narwhals live in Arctic ocean waters."
+  },
+  {
+    "id": 837,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 838,
+    "fact": "Cows produce milk to nourish their calves."
+  },
+  {
+    "id": 839,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 840,
+    "fact": "Chameleons use their tongues to catch insects."
+  },
+  {
+    "id": 841,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 842,
+    "fact": "Bees are essential for pollinating various crops."
+  },
+  {
+    "id": 843,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 844,
+    "fact": "Migratory birds travel long distances every year."
+  },
+  {
+    "id": 845,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 846,
+    "fact": "Giant pandas are native to central China."
+  },
+  {
+    "id": 847,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 848,
+    "fact": "Clownfish maintain relationships with anemones."
+  },
+  {
+    "id": 849,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 850,
+    "fact": "Honeybees build honeycombs from wax."
+  },
+  {
+    "id": 851,
+    "fact": "Barn owls provide natural rodent control."
+  },
+  {
+    "id": 852,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 853,
+    "fact": "Spiders build intricate webs to trap prey."
+  },
+  {
+    "id": 854,
+    "fact": "Blue whales grow to immense sizes."
+  },
+  {
+    "id": 855,
+    "fact": "A group of vultures is called a wake."
+  },
+  {
+    "id": 856,
+    "fact": "Electric rays hunt in shallow waters."
+  },
+  {
+    "id": 857,
+    "fact": "Birds are the only animals with feathers."
+  },
+  {
+    "id": 858,
+    "fact": "A group of cheetahs is called a coalition."
+  },
+  {
+    "id": 859,
+    "fact": "Sea otters groom their fur to stay warm."
+  },
+  {
+    "id": 860,
+    "fact": "Hammerhead sharks are famous for their head shape."
+  },
+  {
+    "id": 861,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 862,
+    "fact": "Toads often live in damp garden environments."
+  },
+  {
+    "id": 863,
+    "fact": "A group of kittens is called a kindle."
+  },
+  {
+    "id": 864,
+    "fact": "Pigeons are found in cities worldwide."
+  },
+  {
+    "id": 865,
+    "fact": "A group of ants is called a colony."
+  },
+  {
+    "id": 866,
+    "fact": "Lions roar to communicate over long distances."
+  },
+  {
+    "id": 867,
+    "fact": "A group of jellyfish is called a bloom."
+  },
+  {
+    "id": 868,
+    "fact": "Emperor penguins are expert divers."
+  },
+  {
+    "id": 869,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 870,
+    "fact": "Cuttlefish are masters of disguise."
+  },
+  {
+    "id": 871,
+    "fact": "A group of lemurs is called a conspiracy."
+  },
+  {
+    "id": 872,
+    "fact": "Snails move slowly on their muscular feet."
+  },
+  {
+    "id": 873,
+    "fact": "A group of deer is called a herd."
+  },
+  {
+    "id": 874,
+    "fact": "Peregrine falcons are distributed globally."
+  },
+  {
+    "id": 875,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 876,
+    "fact": "Alligators reside in freshwater habitats."
+  },
+  {
+    "id": 877,
+    "fact": "A group of bees is called a swarm."
+  },
+  {
+    "id": 878,
+    "fact": "Kangaroos are native to Australia."
+  },
+  {
+    "id": 879,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 880,
+    "fact": "Bats navigate using sound reflections."
+  },
+  {
+    "id": 881,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 882,
+    "fact": "Tortoises have hard shells for defense."
+  },
+  {
+    "id": 883,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 884,
+    "fact": "Giraffes browse trees for food."
+  },
+  {
+    "id": 885,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 886,
+    "fact": "Axolotls spend their entire lives underwater."
+  },
+  {
+    "id": 887,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 888,
+    "fact": "Sea snails live in various marine depths."
+  },
+  {
+    "id": 889,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 890,
+    "fact": "Cheetahs are solitary cats mostly."
+  },
+  {
+    "id": 891,
+    "fact": "A group of tigers is called an ambush."
+  },
+  {
+    "id": 892,
+    "fact": "Blue whales migrate between feeding and breeding grounds."
+  },
+  {
+    "id": 893,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 894,
+    "fact": "Male mosquitoes feed only on plant nectar."
+  },
+  {
+    "id": 895,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 896,
+    "fact": "Wood frogs are found in cold forest regions."
+  },
+  {
+    "id": 897,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 898,
+    "fact": "Humpback whales are known for breaching."
+  },
+  {
+    "id": 899,
+    "fact": "A group of otters is called a raft."
+  },
+  {
+    "id": 900,
+    "fact": "Birds navigate using magnetic fields."
+  },
+  {
+    "id": 901,
+    "fact": "Flamingos filter feed with their specialized beaks."
+  },
+  {
+    "id": 902,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 903,
+    "fact": "African elephants are highly intelligent animals."
+  },
+  {
+    "id": 904,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 905,
+    "fact": "Octopuses have highly developed camouflage skills."
+  },
+  {
+    "id": 906,
+    "fact": "A group of parrots is called a pandemonium."
+  },
+  {
+    "id": 907,
+    "fact": "Cheetahs lack retractable claws for better grip."
+  },
+  {
+    "id": 908,
+    "fact": "A group of buffalo is called a gang."
+  },
+  {
+    "id": 909,
+    "fact": "Dolphins produce various sounds to socialize."
+  },
+  {
+    "id": 910,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 911,
+    "fact": "Ants communicate by using pheromone trails."
+  },
+  {
+    "id": 912,
+    "fact": "A group of snakes is called a nest."
+  },
+  {
+    "id": 913,
+    "fact": "Chameleon eyes move independently to scan areas."
+  },
+  {
+    "id": 914,
+    "fact": "A group of larks is called an exaltation."
+  },
+  {
+    "id": 915,
+    "fact": "Sea turtles lay their eggs on sandy beaches."
+  },
+  {
+    "id": 916,
+    "fact": "A group of squirrels is called a scurry."
+  },
+  {
+    "id": 917,
+    "fact": "Honeybees work in organized, complex colonies."
+  },
+  {
+    "id": 918,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 919,
+    "fact": "Penguins are found throughout the Southern Hemisphere."
+  },
+  {
+    "id": 920,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 921,
+    "fact": "Spider silk is incredibly durable and strong."
+  },
+  {
+    "id": 922,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 923,
+    "fact": "Rhinoceros beetles are among the strongest insects."
+  },
+  {
+    "id": 924,
+    "fact": "A group of hares is called a drove."
+  },
+  {
+    "id": 925,
+    "fact": "Sharks use their gills to extract oxygen."
+  },
+  {
+    "id": 926,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 927,
+    "fact": "Platypuses inhabit streams and rivers."
+  },
+  {
+    "id": 928,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 929,
+    "fact": "Fish can be found in almost all water bodies."
+  },
+  {
+    "id": 930,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 931,
+    "fact": "Elephants display deep bonds with family members."
+  },
+  {
+    "id": 932,
+    "fact": "A group of emus is called a mob."
+  },
+  {
+    "id": 933,
+    "fact": "Owls are primarily active at night."
+  },
+  {
+    "id": 934,
+    "fact": "A group of turtles is called a bale."
+  },
+  {
+    "id": 935,
+    "fact": "Beavers construct dams for protection."
+  },
+  {
+    "id": 936,
+    "fact": "A group of pigeons is called a flock."
+  },
+  {
+    "id": 937,
+    "fact": "Desert ants return home using internal path counting."
+  },
+  {
+    "id": 938,
+    "fact": "A group of elk is called a gang."
+  },
+  {
+    "id": 939,
+    "fact": "Manta rays glide through open ocean waters."
+  },
+  {
+    "id": 940,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 941,
+    "fact": "Fireflies are iconic for their glowing lights."
+  },
+  {
+    "id": 942,
+    "fact": "A group of badgers is called a cete."
+  },
+  {
+    "id": 943,
+    "fact": "Horses are social creatures by nature."
+  },
+  {
+    "id": 944,
+    "fact": "A group of jellyfish is called a smack."
+  },
+  {
+    "id": 945,
+    "fact": "Narwhals are sometimes called ocean unicorns."
+  },
+  {
+    "id": 946,
+    "fact": "A group of ladybugs is called a loveliness."
+  },
+  {
+    "id": 947,
+    "fact": "Giant pandas are known for their distinctive markings."
+  },
+  {
+    "id": 948,
+    "fact": "A group of bears is called a sleuth."
+  },
+  {
+    "id": 949,
+    "fact": "Frogs have moist skin and undergo metamorphosis."
+  },
+  {
+    "id": 950,
+    "fact": "A group of crocodiles is called a bask."
+  },
+  {
+    "id": 951,
+    "fact": "Ostriches live in dry, open habitats."
+  },
+  {
+    "id": 952,
+    "fact": "A group of sharks is called a shiver."
+  },
+  {
+    "id": 953,
+    "fact": "Birds build various nests for breeding."
+  },
+  {
+    "id": 954,
+    "fact": "A group of crows is called a murder."
+  },
+  {
+    "id": 955,
+    "fact": "Spiders are important predators of insects."
+  },
+  {
+    "id": 956,
+    "fact": "A group of flamingos is called a flamboyance."
+  },
+  {
+    "id": 957,
+    "fact": "Giraffes have specialized blood vessels for head lowering."
+  },
+  {
+    "id": 958,
+    "fact": "A group of eagles is called a convocation."
+  },
+  {
+    "id": 959,
+    "fact": "Humpback whales are known for long-distance migrations."
+  },
+  {
+    "id": 960,
+    "fact": "A group of zebras is called a zeal."
+  },
+  {
+    "id": 961,
+    "fact": "Blue whales need massive amounts of food daily."
+  },
+  {
+    "id": 962,
+    "fact": "A group of hippos is called a bloat."
+  },
+  {
+    "id": 963,
+    "fact": "Gliding snakes can navigate between tree canopies."
+  },
+  {
+    "id": 964,
+    "fact": "A group of gorillas is called a troop."
+  },
+  {
+    "id": 965,
+    "fact": "Bees are active during the day for pollination."
+  },
+  {
+    "id": 966,
+    "fact": "A group of owls is called a parliament."
+  },
+  {
+    "id": 967,
+    "fact": "Ants work together to build their nests."
+  },
+  {
+    "id": 968,
+    "fact": "A group of stingrays is called a fever."
+  },
+  {
+    "id": 969,
+    "fact": "Penguins have waterproof feathers for swimming."
+  },
+  {
+    "id": 970,
+    "fact": "A group of butterflies is called a kaleidoscope."
+  },
+  {
+    "id": 971,
+    "fact": "Male seahorses remain devoted to their offspring."
+  },
+  {
+    "id": 972,
+    "fact": "A group of baboons is called a congress."
+  },
+  {
+    "id": 973,
+    "fact": "Cheetahs are highly adapted for terrestrial speed."
+  },
+  {
+    "id": 974,
+    "fact": "A group of pandas is called an embarrassment."
+  },
+  {
+    "id": 975,
+    "fact": "Dolphins navigate through sound echolocation."
+  },
+  {
+    "id": 976,
+    "fact": "A group of whales is called a pod."
+  },
+  {
+    "id": 977,
+    "fact": "Woodpeckers use their beaks to find wood-boring insects."
+  },
+  {
+    "id": 978,
+    "fact": "A group of foxes is called a skulk."
+  },
+  {
+    "id": 979,
+    "fact": "Camels provide transport across harsh landscapes."
+  },
+  {
+    "id": 980,
+    "fact": "A group of wolves is called a pack."
+  },
+  {
+    "id": 981,
+    "fact": "Platypuses represent unique evolutionary history."
+  },
+  {
+    "id": 982,
+    "fact": "A group of peacocks is called an ostentation."
+  },
+  {
+    "id": 983,
+    "fact": "Elephants maintain clear trails in savannas."
+  },
+  {
+    "id": 984,
+    "fact": "A group of swans is called a bevy."
+  },
+  {
+    "id": 985,
+    "fact": "Sloths move efficiently within their environment."
+  },
+  {
+    "id": 986,
+    "fact": "A group of geese is called a gaggle."
+  },
+  {
+    "id": 987,
+    "fact": "Octopuses live primarily in marine environments."
+  },
+  {
+    "id": 988,
+    "fact": "A group of ravens is called an unkindness."
+  },
+  {
+    "id": 989,
+    "fact": "Vultures have strong beaks for tearing meat."
+  },
+  {
+    "id": 990,
+    "fact": "A group of finches is called a charm."
+  },
+  {
+    "id": 991,
+    "fact": "Greenland sharks inhabit the deepest ocean waters."
+  },
+  {
+    "id": 992,
+    "fact": "A group of rabbits is called a herd."
+  },
+  {
+    "id": 993,
+    "fact": "Cows recognize different members of their herd."
+  },
+  {
+    "id": 994,
+    "fact": "A group of porcupines is called a prickle."
+  },
+  {
+    "id": 995,
+    "fact": "Chameleons use their tails for additional balance."
+  },
+  {
+    "id": 996,
+    "fact": "A group of toads is called a knot."
+  },
+  {
+    "id": 997,
+    "fact": "Archerfish can judge distance accurately while hunting."
+  },
+  {
+    "id": 998,
+    "fact": "A group of moles is called a labor."
+  },
+  {
+    "id": 999,
+    "fact": "Honeybees demonstrate highly developed social behavior."
+  },
+  {
+    "id": 1000,
+    "fact": "Emus are iconic birds of the Australian landscape."
+  }
+]

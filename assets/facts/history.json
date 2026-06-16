@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "fact": "The Great Wall of China took over 2,000 years to build, with construction starting in the 7th century BC."
+  },
+  {
+    "id": 2,
+    "fact": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid."
+  },
+  {
+    "id": 3,
+    "fact": "The shortest war in history lasted 38 to 45 minutes between Britain and Zanzibar on August 27, 1896."
+  },
+  {
+    "id": 4,
+    "fact": "Ancient Romans used urine as mouthwash and for whitening their teeth."
+  },
+  {
+    "id": 5,
+    "fact": "The oldest known musical instrument is a flute made from bird bone, dating back about 40,000 years."
+  },
+  {
+    "id": 6,
+    "fact": "Oxford University is older than the Aztec Empire — teaching began at Oxford in 1096, while the Aztec Empire was founded in 1428."
+  },
+  {
+    "id": 7,
+    "fact": "Napoleon Bonaparte was not short — he was about 170 cm tall, which was average for his era."
+  },
+  {
+    "id": 8,
+    "fact": "The Library of Alexandria, one of the greatest libraries of the ancient world, may have held up to 400,000 scrolls."
+  },
+  {
+    "id": 9,
+    "fact": "The Rosetta Stone, discovered in 1799, was the key to deciphering Egyptian hieroglyphics."
+  },
+  {
+    "id": 10,
+    "fact": "Genghis Khan's empire was the largest contiguous land empire in history, spanning about 24 million square kilometers."
+  },
+  {
+    "id": 11,
+    "fact": "Ancient Egyptians used moldy bread as an antibiotic treatment for infections thousands of years before penicillin."
+  },
+  {
+    "id": 12,
+    "fact": "The first known written laws were the Code of Ur-Nammu, created around 2100 BC in ancient Sumer."
+  },
+  {
+    "id": 13,
+    "fact": "Vikings reached North America about 500 years before Christopher Columbus."
+  },
+  {
+    "id": 14,
+    "fact": "The Roman Colosseum could seat between 50,000 and 80,000 spectators."
+  },
+  {
+    "id": 15,
+    "fact": "The invention of the printing press by Gutenberg around 1440 revolutionized the spread of knowledge."
+  },
+  {
+    "id": 16,
+    "fact": "Ancient Greeks invented the first known analog computer, the Antikythera mechanism, around 100 BC."
+  },
+  {
+    "id": 17,
+    "fact": "The Mongol Empire once stretched from Eastern Europe to the Sea of Japan."
+  },
+  {
+    "id": 18,
+    "fact": "The first known use of paper money was in China during the Tang Dynasty, around the 7th century."
+  },
+  {
+    "id": 19,
+    "fact": "The Titanic's construction required about 3 million rivets."
+  },
+  {
+    "id": 20,
+    "fact": "Abraham Lincoln was a champion wrestler before becoming president — he lost only 1 of about 300 matches."
+  },
+  {
+    "id": 21,
+    "fact": "The ancient city of Pompeii was preserved almost perfectly under volcanic ash after Mount Vesuvius erupted in 79 AD."
+  },
+  {
+    "id": 22,
+    "fact": "The Ottoman Empire lasted for over 600 years, from about 1299 to 1922."
+  },
+  {
+    "id": 23,
+    "fact": "The first Olympic Games were held in Olympia, Greece, in 776 BC."
+  },
+  {
+    "id": 24,
+    "fact": "Woolly mammoths were still alive when the Great Pyramid of Giza was being built around 2560 BC."
+  },
+  {
+    "id": 25,
+    "fact": "Albert Einstein was offered the presidency of Israel in 1952, but he declined."
+  },
+  {
+    "id": 26,
+    "fact": "The Silk Road was an ancient network of trade routes connecting China to the Mediterranean, spanning about 6,400 kilometers."
+  },
+  {
+    "id": 27,
+    "fact": "The Black Death killed an estimated 75 to 200 million people in the 14th century — about 30 to 60% of Europe's population."
+  },
+  {
+    "id": 28,
+    "fact": "The first successful powered airplane flight by the Wright Brothers in 1903 lasted only 12 seconds."
+  },
+  {
+    "id": 29,
+    "fact": "The ancient Mayans independently invented the concept of zero around 36 BC."
+  },
+  {
+    "id": 30,
+    "fact": "Julius Caesar was kidnapped by pirates, and after being ransomed, he returned with a fleet and had them executed."
+  },
+  {
+    "id": 31,
+    "fact": "The Great Fire of London in 1666 destroyed over 13,000 houses and 87 churches."
+  },
+  {
+    "id": 32,
+    "fact": "Harriet Tubman led approximately 70 enslaved people to freedom through the Underground Railroad."
+  },
+  {
+    "id": 33,
+    "fact": "The Declaration of Independence was signed by 56 delegates on August 2, 1776."
+  },
+  {
+    "id": 34,
+    "fact": "The ancient Egyptians invented the 365-day calendar."
+  },
+  {
+    "id": 35,
+    "fact": "The first photograph ever taken was by Joseph Nicéphore Niépce in 1826, and it required an 8-hour exposure."
+  },
+  {
+    "id": 36,
+    "fact": "Alexander the Great never lost a single battle during his military career of 15 years."
+  },
+  {
+    "id": 37,
+    "fact": "The Leaning Tower of Pisa took 199 years to build — from 1173 to 1372."
+  },
+  {
+    "id": 38,
+    "fact": "The Hundred Years' War between England and France actually lasted 116 years, from 1337 to 1453."
+  },
+  {
+    "id": 39,
+    "fact": "The Mona Lisa was stolen from the Louvre in 1911 and was missing for over two years."
+  },
+  {
+    "id": 40,
+    "fact": "Marie Curie is the only person to have won Nobel Prizes in two different sciences — physics and chemistry."
+  },
+  {
+    "id": 41,
+    "fact": "The ancient Romans had a festival called Saturnalia where masters served their slaves."
+  },
+  {
+    "id": 42,
+    "fact": "The Berlin Wall stood for 28 years, from 1961 to 1989."
+  },
+  {
+    "id": 43,
+    "fact": "The first email was sent by Ray Tomlinson to himself in 1971 — he doesn't remember what it said."
+  },
+  {
+    "id": 44,
+    "fact": "The Incas built Machu Picchu at an altitude of about 2,430 meters in the Andes Mountains."
+  },
+  {
+    "id": 45,
+    "fact": "Samurai warriors used to test their swords on the bodies of criminals and corpses."
+  },
+  {
+    "id": 46,
+    "fact": "The first telephone call was made by Alexander Graham Bell on March 10, 1876."
+  },
+  {
+    "id": 47,
+    "fact": "The ancient city of Constantinople changed its name to Istanbul in 1930."
+  },
+  {
+    "id": 48,
+    "fact": "The Terracotta Army in China consists of over 8,000 individually crafted soldier figures."
+  },
+  {
+    "id": 49,
+    "fact": "The first woman to fly solo across the Atlantic was Amelia Earhart in 1932."
+  },
+  {
+    "id": 50,
+    "fact": "Ancient Spartan boys began military training at the age of seven."
+  },
+  {
+    "id": 51,
+    "fact": "The construction of the Panama Canal took 10 years and cost about 25,000 lives."
+  },
+  {
+    "id": 52,
+    "fact": "The Aztec capital Tenochtitlan was built on an island in Lake Texcoco and had about 200,000 residents."
+  },
+  {
+    "id": 53,
+    "fact": "The first successful vaccine was developed by Edward Jenner in 1796 against smallpox."
+  },
+  {
+    "id": 54,
+    "fact": "Leonardo da Vinci could write with one hand and draw with the other simultaneously."
+  },
+  {
+    "id": 55,
+    "fact": "The first computer programmer was Ada Lovelace, who wrote the first algorithm for Charles Babbage's Analytical Engine in 1843."
+  },
+  {
+    "id": 56,
+    "fact": "Ancient Egyptians played a board game called Senet, which is over 5,000 years old."
+  },
+  {
+    "id": 57,
+    "fact": "The French Revolution lasted 10 years, from 1789 to 1799."
+  },
+  {
+    "id": 58,
+    "fact": "The Parthenon in Athens was originally painted in bright colors — not the white marble we see today."
+  },
+  {
+    "id": 59,
+    "fact": "The first world map was created by Anaximander of Miletus around 610 BC."
+  },
+  {
+    "id": 60,
+    "fact": "Ketchup was sold as medicine in the 1830s."
+  },
+  {
+    "id": 61,
+    "fact": "The Indus Valley Civilization had advanced drainage systems and planned cities as early as 2600 BC."
+  },
+  {
+    "id": 62,
+    "fact": "The Spanish Inquisition lasted for over 350 years, from 1478 to 1834."
+  },
+  {
+    "id": 63,
+    "fact": "Benjamin Franklin invented the lightning rod, bifocal glasses, and the Franklin stove."
+  },
+  {
+    "id": 64,
+    "fact": "The Dead Sea Scrolls, discovered between 1947 and 1956, include the oldest known copies of the Hebrew Bible."
+  },
+  {
+    "id": 65,
+    "fact": "Ancient Romans used a sponge on a stick called a tersorium instead of toilet paper."
+  },
+  {
+    "id": 66,
+    "fact": "The Hagia Sophia in Istanbul served as a church, mosque, and museum over its 1,500-year history."
+  },
+  {
+    "id": 67,
+    "fact": "The last letter added to the English alphabet was J — it was not distinguished from I until the 1600s."
+  },
+  {
+    "id": 68,
+    "fact": "The first public railway in the world opened in England in 1825."
+  },
+  {
+    "id": 69,
+    "fact": "Nikola Tesla held over 300 patents and pioneered alternating current electrical systems."
+  },
+  {
+    "id": 70,
+    "fact": "The ancient Phoenicians invented the first alphabet around 1050 BC."
+  },
+  {
+    "id": 71,
+    "fact": "The Mayflower voyage from England to America in 1620 took 66 days."
+  },
+  {
+    "id": 72,
+    "fact": "The first modern Olympic Games were held in Athens, Greece, in 1896 with 241 athletes from 14 nations."
+  },
+  {
+    "id": 73,
+    "fact": "The Egyptian pyramids were built by paid workers, not slaves — archaeological evidence confirms this."
+  },
+  {
+    "id": 74,
+    "fact": "The first known use of gunpowder was in China around the 9th century, originally for fireworks."
+  },
+  {
+    "id": 75,
+    "fact": "Mahatma Gandhi walked over 388 kilometers during the Salt March of 1930."
+  },
+  {
+    "id": 76,
+    "fact": "The Roman Empire at its peak controlled about 5 million square kilometers of territory."
+  },
+  {
+    "id": 77,
+    "fact": "The first heart transplant was performed by Dr. Christiaan Barnard in South Africa in 1967."
+  },
+  {
+    "id": 78,
+    "fact": "Ancient Aztecs used cocoa beans as currency."
+  },
+  {
+    "id": 79,
+    "fact": "The Gutenberg Bible, printed around 1455, was the first major book printed with movable type."
+  },
+  {
+    "id": 80,
+    "fact": "The Statue of Liberty was a gift from France to the United States, dedicated on October 28, 1886."
+  },
+  {
+    "id": 81,
+    "fact": "The first underground railway, the London Metropolitan Railway, opened in 1863."
+  },
+  {
+    "id": 82,
+    "fact": "Pythagoras founded a commune where members were not allowed to eat beans."
+  },
+  {
+    "id": 83,
+    "fact": "The Great Sphinx of Giza is estimated to be about 4,500 years old."
+  },
+  {
+    "id": 84,
+    "fact": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957."
+  },
+  {
+    "id": 85,
+    "fact": "The Code of Hammurabi, from around 1754 BC, is one of the oldest surviving written legal codes."
+  },
+  {
+    "id": 86,
+    "fact": "The Inca Empire had no written language but used a system of knotted strings called quipu for record-keeping."
+  },
+  {
+    "id": 87,
+    "fact": "The first moving assembly line was introduced by Henry Ford in 1913, reducing car assembly time from 12 hours to 2.5 hours."
+  },
+  {
+    "id": 88,
+    "fact": "Ancient Chinese emperors used fingerprints to authenticate documents as early as 700 BC."
+  },
+  {
+    "id": 89,
+    "fact": "The Battle of Waterloo in 1815 marked Napoleon's final defeat."
+  },
+  {
+    "id": 90,
+    "fact": "The first transatlantic telegraph cable was completed in 1858, reducing communication time between continents from weeks to minutes."
+  },
+  {
+    "id": 91,
+    "fact": "The ancient Greek city of Athens is considered the birthplace of democracy, established around 508 BC."
+  },
+  {
+    "id": 92,
+    "fact": "Viking women had more rights than most European women of the same era, including the right to own property and divorce."
+  },
+  {
+    "id": 93,
+    "fact": "The Suez Canal, connecting the Mediterranean Sea to the Red Sea, was completed in 1869 after 10 years of construction."
+  },
+  {
+    "id": 94,
+    "fact": "The first person to circumnavigate the globe was Juan Sebastián Elcano, who completed Magellan's voyage in 1522."
+  },
+  {
+    "id": 95,
+    "fact": "The last execution by guillotine in France took place in 1977."
+  },
+  {
+    "id": 96,
+    "fact": "The Great Zimbabwe ruins in southern Africa are evidence of a powerful medieval African kingdom."
+  },
+  {
+    "id": 97,
+    "fact": "The first color photograph was taken by James Clerk Maxwell in 1861."
+  },
+  {
+    "id": 98,
+    "fact": "The Apollo 11 mission in 1969 made Neil Armstrong and Buzz Aldrin the first humans to walk on the Moon."
+  },
+  {
+    "id": 99,
+    "fact": "The Renaissance, which began in Italy around the 14th century, was a cultural rebirth that transformed art, science, and philosophy."
+  },
+  {
+    "id": 100,
+    "fact": "The ancient city of Babylon, located in modern-day Iraq, was home to the famous Hanging Gardens, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 101,
+    "fact": "The ancient Indus Valley civilization utilized a sophisticated urban sanitation system with indoor plumbing and private bathrooms."
+  },
+  {
+    "id": 102,
+    "fact": "The Library of Ashurbanipal, established in the 7th century BCE, is considered the oldest systematically organized library in the world."
+  },
+  {
+    "id": 103,
+    "fact": "In the 14th century, the Mali Empire under Mansa Musa was one of the largest producers and distributors of gold in the world."
+  },
+  {
+    "id": 104,
+    "fact": "The Great Zimbabwe ruins represent the stone architecture of a major medieval African trading center that flourished from the 11th to the 15th century."
+  },
+  {
+    "id": 105,
+    "fact": "The Norse explorer Leif Erikson established a settlement in Newfoundland, Canada, approximately five centuries before Christopher Columbus reached the Americas."
+  },
+  {
+    "id": 106,
+    "fact": "The Phoenicians developed the first widely used phonetic alphabet, which serves as the ancestor for many modern scripts."
+  },
+  {
+    "id": 107,
+    "fact": "The Mayan civilization utilized a highly accurate astronomical calendar to track solar and lunar cycles for agricultural purposes."
+  },
+  {
+    "id": 108,
+    "fact": "During the Heian period in Japan, Lady Murasaki Shikibu wrote The Tale of Genji, often cited as the world's first novel."
+  },
+  {
+    "id": 109,
+    "fact": "The Han Dynasty in China invented the seismoscope in 132 CE to detect distant earthquakes."
+  },
+  {
+    "id": 110,
+    "fact": "Ancient Egyptian surgeons were the first recorded practitioners to use sutures to close wounds."
+  },
+  {
+    "id": 111,
+    "fact": "The kingdom of Aksum in modern-day Ethiopia and Eritrea was a major naval and trading power that minted its own currency as early as the 3rd century."
+  },
+  {
+    "id": 112,
+    "fact": "The Inca Empire managed a vast communications network using a system of knotted strings known as quipu to record information."
+  },
+  {
+    "id": 113,
+    "fact": "Ibn Battuta, a Moroccan scholar, traveled over 75,000 miles across the medieval world, documenting his journeys through Africa, Asia, and Europe."
+  },
+  {
+    "id": 114,
+    "fact": "The Code of Hammurabi, dating to approximately 1754 BCE, is one of the earliest and most complete written legal codes in history."
+  },
+  {
+    "id": 115,
+    "fact": "In the 8th century, the Abbasid Caliphate established the House of Wisdom in Baghdad, becoming a primary center for the translation and preservation of scientific texts."
+  },
+  {
+    "id": 116,
+    "fact": "The city-state of Venice maintained its independence for over a thousand years by leveraging its unique geographic position and naval power."
+  },
+  {
+    "id": 117,
+    "fact": "Polynesian navigators successfully populated remote islands in the Pacific Ocean using star charts and ocean currents centuries before the invention of the compass."
+  },
+  {
+    "id": 118,
+    "fact": "The Ming Dynasty constructed the Forbidden City, an expansive palace complex in Beijing, which served as the imperial residence for five centuries."
+  },
+  {
+    "id": 119,
+    "fact": "The Hittite Empire in ancient Anatolia was one of the first civilizations to master iron metallurgy, giving them a significant technological advantage."
+  },
+  {
+    "id": 120,
+    "fact": "The Rosetta Stone, discovered in 1799, proved instrumental in deciphering ancient Egyptian hieroglyphs."
+  },
+  {
+    "id": 121,
+    "fact": "During the Song Dynasty, China saw the first recorded use of movable type printing, significantly advancing the spread of literacy."
+  },
+  {
+    "id": 122,
+    "fact": "The ancient Minoans of Crete developed a drainage system that included terra-cotta pipes for fresh water and sewage disposal."
+  },
+  {
+    "id": 123,
+    "fact": "The Khmer Empire built Angkor Wat in the 12th century, which remains the largest religious monument ever constructed."
+  },
+  {
+    "id": 124,
+    "fact": "The Aztec capital of Tenochtitlan was built on an island in Lake Texcoco and featured complex chinampa agriculture systems."
+  },
+  {
+    "id": 125,
+    "fact": "The Kingdom of Kush in Nubia successfully ruled Egypt as the 25th Dynasty for nearly a century starting in the 8th century BCE."
+  },
+  {
+    "id": 126,
+    "fact": "The silk-producing techniques of ancient China were kept a closely guarded secret for thousands of years."
+  },
+  {
+    "id": 127,
+    "fact": "The Battle of Kadesh between the Egyptians and the Hittites is the earliest battle in history for which we have accounts from both sides."
+  },
+  {
+    "id": 128,
+    "fact": "Medieval European universities emerged from cathedral schools and monastic institutions in the 11th and 12th centuries."
+  },
+  {
+    "id": 129,
+    "fact": "The Kingdom of Silla unified the Korean Peninsula in the 7th century, ushering in a period of great cultural and architectural advancement."
+  },
+  {
+    "id": 130,
+    "fact": "The first public clock tower was installed in Milan, Italy, in the 14th century, revolutionizing how society perceived time."
+  },
+  {
+    "id": 131,
+    "fact": "The Olmec civilization of Mesoamerica is known for carving massive stone heads from basalt, some weighing over 20 tons."
+  },
+  {
+    "id": 132,
+    "fact": "In the 13th century, the Magna Carta introduced the principle that the monarch is subject to the law of the land."
+  },
+  {
+    "id": 133,
+    "fact": "The Chola Dynasty of southern India built an extensive maritime empire that dominated trade routes across the Indian Ocean."
+  },
+  {
+    "id": 134,
+    "fact": "Greek mathematician Archimedes invented the water screw to transport water from low-lying areas to higher irrigation channels."
+  },
+  {
+    "id": 135,
+    "fact": "The ancient city of Petra was carved directly into sandstone cliffs by the Nabataeans, who prospered through their control of spice trade routes."
+  },
+  {
+    "id": 136,
+    "fact": "Carthage, a Phoenician colony in North Africa, developed an advanced harbor system capable of housing hundreds of warships."
+  },
+  {
+    "id": 137,
+    "fact": "The Silk Road was not a single path, but a network of trade routes that facilitated the exchange of goods, religion, and ideas between East and West."
+  },
+  {
+    "id": 138,
+    "fact": "In 1066, the Battle of Hastings fundamentally altered the social and political structure of England through the Norman conquest."
+  },
+  {
+    "id": 139,
+    "fact": "The Byzantine Empire preserved many Greek and Roman literary and scientific works that were later rediscovered during the Renaissance."
+  },
+  {
+    "id": 140,
+    "fact": "The first mechanical calculator, the Pascaline, was invented in 1642 to assist in tax accounting."
+  },
+  {
+    "id": 141,
+    "fact": "Sumerian scribes in ancient Mesopotamia developed the cuneiform writing system, marking the transition from prehistory to recorded history."
+  },
+  {
+    "id": 142,
+    "fact": "The Kingdom of Dahomey in West Africa established an all-female regiment known as the Agojie, which served as elite royal guards."
+  },
+  {
+    "id": 143,
+    "fact": "The invention of the astrolabe allowed medieval astronomers and navigators to determine their latitude by measuring the position of stars."
+  },
+  {
+    "id": 144,
+    "fact": "In the 15th century, the Aztec Empire utilized a complex system of causeways to connect their capital to the mainland."
+  },
+  {
+    "id": 145,
+    "fact": "The ancient city of Mohenjo-daro featured a central brick-lined water tank known as the Great Bath, likely used for ritual cleansing."
+  },
+  {
+    "id": 146,
+    "fact": "The Sassanid Empire of Persia introduced a highly organized bureaucracy that influenced many subsequent administrations in the region."
+  },
+  {
+    "id": 147,
+    "fact": "The invention of the compass in Han Dynasty China was originally used for geomancy before being adapted for maritime navigation."
+  },
+  {
+    "id": 148,
+    "fact": "The Anglo-Saxon period in England saw the creation of elaborate gold and garnet jewelry, famously showcased in the Sutton Hoo ship burial."
+  },
+  {
+    "id": 149,
+    "fact": "The Mamluk Sultanate in Egypt successfully halted the Mongol advance into the Levant at the Battle of Ain Jalut in 1260."
+  },
+  {
+    "id": 150,
+    "fact": "The ancient city of Caral-Supe in Peru is recognized as the oldest civilization in the Americas, dating back over 5,000 years."
+  },
+  {
+    "id": 151,
+    "fact": "Paper money was first introduced in China during the Tang Dynasty as a convenience for merchants trading heavy coins."
+  },
+  {
+    "id": 152,
+    "fact": "The kingdom of Great Zimbabwe built massive dry-stone walls without the use of mortar, demonstrating advanced architectural techniques for the time."
+  },
+  {
+    "id": 153,
+    "fact": "The Mayan city of Tikal was a major political and economic hub that flourished deep within the rainforests of modern-day Guatemala."
+  },
+  {
+    "id": 154,
+    "fact": "The first record of a successful cataract surgery dates back to ancient India, performed by the physician Sushruta."
+  },
+  {
+    "id": 155,
+    "fact": "The maritime Republic of Ragusa, located in modern-day Croatia, was an early pioneer in establishing laws to abolish the slave trade."
+  },
+  {
+    "id": 156,
+    "fact": "The invention of the windmill in Persia around the 7th century enabled the grinding of grain and pumping of water for agriculture."
+  },
+  {
+    "id": 157,
+    "fact": "The kingdom of Funan in Southeast Asia acted as a key intermediary in trade between India and China for several centuries."
+  },
+  {
+    "id": 158,
+    "fact": "During the Kamakura period in Japan, the rise of the samurai class shifted the political center away from the imperial court."
+  },
+  {
+    "id": 159,
+    "fact": "The invention of the thermometer by Galileo Galilei revolutionized the study of physical sciences in the early 17th century."
+  },
+  {
+    "id": 160,
+    "fact": "The Paracas culture of ancient Peru was known for its mastery of textile production, creating intricate garments using camelid wool."
+  },
+  {
+    "id": 161,
+    "fact": "The Kingdom of Kongo converted to Christianity in the late 15th century and maintained diplomatic relations with Portugal."
+  },
+  {
+    "id": 162,
+    "fact": "The first postal system in the world was likely established in ancient Persia under Cyrus the Great, known as the Chapar Khaneh."
+  },
+  {
+    "id": 163,
+    "fact": "The Anasazi people of the American Southwest built multi-story apartment-like dwellings into the sides of cliffs at sites like Mesa Verde."
+  },
+  {
+    "id": 164,
+    "fact": "The ancient Greeks conducted the first recorded Olympic Games in 776 BCE, dedicated to the god Zeus."
+  },
+  {
+    "id": 165,
+    "fact": "The invention of the iron plow allowed farmers in medieval Europe to cultivate heavier, more fertile clay soils."
+  },
+  {
+    "id": 166,
+    "fact": "The Kingdom of Mutapa in southern Africa controlled extensive gold and ivory trade routes during the 15th century."
+  },
+  {
+    "id": 167,
+    "fact": "The Phoenician city of Tyre was once located on an island, forcing Alexander the Great to build a massive causeway to besiege it."
+  },
+  {
+    "id": 168,
+    "fact": "In the 8th century, Empress Koken of Japan ordered the printing of one million Buddhist prayer charms, marking a milestone in mass printing history."
+  },
+  {
+    "id": 169,
+    "fact": "The city of Timbuktu in the Mali Empire served as a prominent center of learning, housing thousands of manuscripts in its universities."
+  },
+  {
+    "id": 170,
+    "fact": "The ancient Hittites are credited with being among the first to develop a treaty system, documented in the Eternal Treaty after the Battle of Kadesh."
+  },
+  {
+    "id": 171,
+    "fact": "The invention of the stirrup in Central Asia transformed warfare by providing horse-mounted warriors with greater stability and leverage."
+  },
+  {
+    "id": 172,
+    "fact": "The Kingdom of Axum was one of the first states in the world to adopt Christianity as its official religion in the 4th century."
+  },
+  {
+    "id": 173,
+    "fact": "The ancient Romans built a road network spanning over 50,000 miles to connect the disparate regions of their expansive empire."
+  },
+  {
+    "id": 174,
+    "fact": "The Norse sagas provide significant literary and historical insights into the lives and voyages of the Vikings."
+  },
+  {
+    "id": 175,
+    "fact": "The city-state of Athens is often cited as the birthplace of democracy, where citizens participated in direct voting on policy."
+  },
+  {
+    "id": 176,
+    "fact": "The first mechanical clock with a weight-driven mechanism appeared in the late 13th century in European monasteries."
+  },
+  {
+    "id": 177,
+    "fact": "The ancient Scythians were nomadic warriors from the Eurasian Steppe known for their incredible skill as mounted archers."
+  },
+  {
+    "id": 178,
+    "fact": "The Kingdom of Pagan in Burma united the Irrawaddy River valley and oversaw the construction of thousands of Buddhist temples."
+  },
+  {
+    "id": 179,
+    "fact": "The invention of the vertical windmill in Europe improved the efficiency of milling operations compared to earlier horizontal designs."
+  },
+  {
+    "id": 180,
+    "fact": "The civilization of Teotihuacan in the Valley of Mexico featured monumental architecture including the Pyramid of the Sun."
+  },
+  {
+    "id": 181,
+    "fact": "The Code of Justinian, compiled in the 6th century, served as the foundation for much of the civil law system in Europe."
+  },
+  {
+    "id": 182,
+    "fact": "The domestication of the camel enabled trade across the vast expanse of the Sahara Desert, connecting North Africa to sub-Saharan regions."
+  },
+  {
+    "id": 183,
+    "fact": "The ancient Sumerians invented the sexagesimal system, which is why we have 60 seconds in a minute and 60 minutes in an hour."
+  },
+  {
+    "id": 184,
+    "fact": "The maritime history of the Maldives shows they were a major hub in the Indian Ocean cowrie shell trade for centuries."
+  },
+  {
+    "id": 185,
+    "fact": "The first recorded attempt to map the world was produced by Anaximander in the 6th century BCE in ancient Greece."
+  },
+  {
+    "id": 186,
+    "fact": "The Kingdom of Kanem-Bornu around Lake Chad controlled trans-Saharan trade routes for over a millennium."
+  },
+  {
+    "id": 187,
+    "fact": "The invention of the spinning wheel in India revolutionized textile production by drastically increasing the speed of thread creation."
+  },
+  {
+    "id": 188,
+    "fact": "The city of Alexandria in Egypt housed the Great Library, which was designed to collect the entirety of the world's knowledge."
+  },
+  {
+    "id": 189,
+    "fact": "The ancient Toltecs were influential in Mesoamerican culture, setting standards for art and architecture that the Aztecs later emulated."
+  },
+  {
+    "id": 190,
+    "fact": "The development of the keel in Viking ships allowed for greater speed and stability, enabling long-distance ocean travel."
+  },
+  {
+    "id": 191,
+    "fact": "The Kingdom of Champa in modern-day Vietnam was a major maritime power known for its sophisticated hydraulic engineering."
+  },
+  {
+    "id": 192,
+    "fact": "The invention of the spectacles in 13th-century Italy greatly extended the productive careers of scholars and artisans."
+  },
+  {
+    "id": 193,
+    "fact": "The ancient Celts produced intricate metalwork, including bronze mirrors and jewelry decorated with complex geometric patterns."
+  },
+  {
+    "id": 194,
+    "fact": "The first public hospital system was developed in ancient Sri Lanka, providing medical care and sanitation facilities."
+  },
+  {
+    "id": 195,
+    "fact": "The Kingdom of Goryeo in Korea is famous for producing Goryeo celadon, a distinct type of blue-green glazed pottery."
+  },
+  {
+    "id": 196,
+    "fact": "The invention of the water clock in various ancient civilizations provided a way to measure time during both day and night."
+  },
+  {
+    "id": 197,
+    "fact": "The civilization of the Indus Valley standardized weights and measures for trade, which were remarkably consistent across a vast territory."
+  },
+  {
+    "id": 198,
+    "fact": "The ancient kingdom of Urartu, located near Lake Van, was a skilled civilization known for its advanced bronze and iron works."
+  },
+  {
+    "id": 199,
+    "fact": "The invention of gunpowder in China during the Tang Dynasty was initially used for medicinal purposes before its application in pyrotechnics and weaponry."
+  },
+  {
+    "id": 200,
+    "fact": "The city of Venice was built on millions of wooden piles driven into the soft marshy ground of the Venetian Lagoon."
+  },
+  {
+    "id": 201,
+    "fact": "The ancient Etruscans, predecessors to the Romans, were renowned for their advanced skill in hydraulic engineering and drainage."
+  },
+  {
+    "id": 202,
+    "fact": "The library of Pergamum was the second most significant library in the ancient world, often competing with Alexandria for scholarly prestige."
+  },
+  {
+    "id": 203,
+    "fact": "In the 12th century, the Toltec capital of Tula featured massive warrior columns carved from basalt that stood atop its temples."
+  },
+  {
+    "id": 204,
+    "fact": "The invention of the diving bell in the 16th century allowed early explorers to conduct limited underwater investigations."
+  },
+  {
+    "id": 205,
+    "fact": "Ancient Mesopotamian societies used clay tokens as a precursor to the development of written accounting and contracts."
+  },
+  {
+    "id": 206,
+    "fact": "The kingdom of Nri in Nigeria was a center of peace and religious authority, known for its unique ritual influence over Igbo lands."
+  },
+  {
+    "id": 207,
+    "fact": "The first recorded use of anesthesia during surgery occurred in 3rd-century China using a herbal concoction called mafeisan."
+  },
+  {
+    "id": 208,
+    "fact": "The ancient Puebloans of the American Southwest developed sophisticated irrigation systems to support agriculture in arid environments."
+  },
+  {
+    "id": 209,
+    "fact": "The development of the astrolabe by Hellenistic astronomers allowed for complex calculations of celestial positions."
+  },
+  {
+    "id": 210,
+    "fact": "During the Kamakura Shogunate, Japan successfully defended against two massive Mongol naval invasions in the late 13th century."
+  },
+  {
+    "id": 211,
+    "fact": "The ancient city of Knossos on Crete is associated with the myth of the labyrinth, reflecting the complex palace architecture of the Minoans."
+  },
+  {
+    "id": 212,
+    "fact": "The Silla Kingdom’s Seokguram Grotto is a masterpiece of Buddhist art, featuring a perfectly calculated stone dome."
+  },
+  {
+    "id": 213,
+    "fact": "The ancient Nabataeans designed ingenious water-harvesting systems that allowed them to flourish in the harsh Jordanian desert."
+  },
+  {
+    "id": 214,
+    "fact": "Medieval Japanese artisans perfected the process of forging laminated steel, creating the legendary katana blade."
+  },
+  {
+    "id": 215,
+    "fact": "The Zapotec civilization of Oaxaca, Mexico, was among the first in the Americas to develop a formal writing system."
+  },
+  {
+    "id": 216,
+    "fact": "The city of Carthage pioneered the use of commercial maritime insurance to protect merchant ships during long voyages."
+  },
+  {
+    "id": 217,
+    "fact": "The ancient Thracians were highly skilled goldsmiths, known for creating intricate treasures like the Panagyurishte gold set."
+  },
+  {
+    "id": 218,
+    "fact": "In 15th-century Italy, the construction of the Santa Maria del Fiore dome by Filippo Brunelleschi used innovative masonry techniques."
+  },
+  {
+    "id": 219,
+    "fact": "The Kingdom of Zimbabwe flourished as a center of trade, exporting gold and ivory to coastal Swahili merchant cities."
+  },
+  {
+    "id": 220,
+    "fact": "Ancient Romans used concrete made with volcanic ash, which allowed their structures to set underwater and last for millennia."
+  },
+  {
+    "id": 221,
+    "fact": "The first mechanical lock, which used a system of tumblers, was invented by the ancient Egyptians."
+  },
+  {
+    "id": 222,
+    "fact": "The Kingdom of Pegu in Myanmar was a major commercial center and a hub for Buddhist scholarship in the 15th century."
+  },
+  {
+    "id": 223,
+    "fact": "The ancient Moche culture of Peru created realistic ceramic portraits that provide insight into their social hierarchy and daily life."
+  },
+  {
+    "id": 224,
+    "fact": "In the 14th century, the Black Death drastically changed labor markets in Europe, eventually leading to the decline of serfdom."
+  },
+  {
+    "id": 225,
+    "fact": "The ancient city of Persepolis served as the ceremonial capital of the Achaemenid Empire under Darius the Great."
+  },
+  {
+    "id": 226,
+    "fact": "The development of the horse collar in the Middle Ages significantly increased the efficiency of agricultural plowing."
+  },
+  {
+    "id": 227,
+    "fact": "The Kingdom of Funan is widely considered the first major Hinduized kingdom in Southeast Asia."
+  },
+  {
+    "id": 228,
+    "fact": "Ancient Greek physician Hippocrates is credited with moving medicine away from superstition toward observation and diagnosis."
+  },
+  {
+    "id": 229,
+    "fact": "The invention of the lead pencil occurred in the 16th century after the discovery of a large graphite deposit in England."
+  },
+  {
+    "id": 230,
+    "fact": "The ancient Kushites used a unique script called Meroitic, which remains only partially deciphered today."
+  },
+  {
+    "id": 231,
+    "fact": "The Kingdom of Lan Xang, founded in the 14th century, unified the Lao people and became a significant regional power."
+  },
+  {
+    "id": 232,
+    "fact": "Ancient Mesopotamians were the first to divide the circle into 360 degrees, a system still used in modern mathematics."
+  },
+  {
+    "id": 233,
+    "fact": "The first public museum, the Capitoline Museums, was opened in Rome in 1471 by Pope Sixtus IV."
+  },
+  {
+    "id": 234,
+    "fact": "The ancient Maya developed the concept of zero as a placeholder in their mathematical system independently of other civilizations."
+  },
+  {
+    "id": 235,
+    "fact": "The Kingdom of Majapahit in Indonesia was a vast maritime empire that controlled key spice trade routes in the 14th century."
+  },
+  {
+    "id": 236,
+    "fact": "The ancient city of Hattusa served as the fortified capital of the Hittite Empire, featuring massive stone gate architecture."
+  },
+  {
+    "id": 237,
+    "fact": "The development of the heavy plow allowed for the expansion of farming into northern Europe’s dense forests."
+  },
+  {
+    "id": 238,
+    "fact": "The Kingdom of Sukhothai is known for its classical Thai art and its role in establishing Theravada Buddhism as a national religion."
+  },
+  {
+    "id": 239,
+    "fact": "Ancient Chinese astronomers recorded the appearance of Halley's Comet as early as 240 BCE."
+  },
+  {
+    "id": 240,
+    "fact": "The first mechanical gear systems were documented in ancient Greece, most notably in the Antikythera mechanism."
+  },
+  {
+    "id": 241,
+    "fact": "The ancient Phoenician city of Byblos was the world’s main exporter of papyrus, which was essential for writing across the Mediterranean."
+  },
+  {
+    "id": 242,
+    "fact": "The Kingdom of Benin in modern-day Nigeria was famous for its intricate brass and bronze plaques that decorated the royal palace."
+  },
+  {
+    "id": 243,
+    "fact": "In the 12th century, the city of Bologna established the first university in the Western world, setting a template for higher education."
+  },
+  {
+    "id": 244,
+    "fact": "The ancient Nazca people of Peru created massive geoglyphs in the desert, visible only from the air."
+  },
+  {
+    "id": 245,
+    "fact": "The invention of the button as a functional fastener for clothing appeared in the 13th century in Germany."
+  },
+  {
+    "id": 246,
+    "fact": "The Kingdom of Arakan in Myanmar was a significant coastal power known for its unique blend of Indian and Southeast Asian influences."
+  },
+  {
+    "id": 247,
+    "fact": "The ancient Sumerians built the Ziggurat of Ur, a massive stepped platform dedicated to the moon god Nanna."
+  },
+  {
+    "id": 248,
+    "fact": "The invention of the parachute was sketched by Leonardo da Vinci in the 15th century, though it was not tested until much later."
+  },
+  {
+    "id": 249,
+    "fact": "The Kingdom of Lunda in Central Africa developed a complex centralized government and expanded its territory through trade and military skill."
+  },
+  {
+    "id": 250,
+    "fact": "Ancient Roman law established the foundation for the concept of 'innocent until proven guilty' in legal proceedings."
+  },
+  {
+    "id": 251,
+    "fact": "The invention of the stern-post rudder in China allowed for much greater steering control of large ships."
+  },
+  {
+    "id": 252,
+    "fact": "The Kingdom of Ryukyu acted as a crucial bridge for trade between China, Japan, and Southeast Asia for centuries."
+  },
+  {
+    "id": 253,
+    "fact": "Ancient Egyptian pharaohs commissioned the building of obelisks to honor the sun god Ra."
+  },
+  {
+    "id": 254,
+    "fact": "The first known map of the world that includes the Americas was created by Martin Waldseemüller in 1507."
+  },
+  {
+    "id": 255,
+    "fact": "The ancient Harappan civilization used a system of standardized baked bricks for all its city construction."
+  },
+  {
+    "id": 256,
+    "fact": "The Kingdom of Mataram in Java produced iconic stone temple architecture like the massive Borobudur stupa."
+  },
+  {
+    "id": 257,
+    "fact": "The development of the water mill significantly increased the output of flour production in the medieval world."
+  },
+  {
+    "id": 258,
+    "fact": "Ancient Persian kings of the Achaemenid Empire utilized a royal highway system that spanned over 1,500 miles."
+  },
+  {
+    "id": 259,
+    "fact": "The invention of the eyeglasses allowed scribes and scholars to continue their work as their vision aged."
+  },
+  {
+    "id": 260,
+    "fact": "The Kingdom of Buganda in East Africa developed a highly efficient political system centered around the Kabaka, or king."
+  },
+  {
+    "id": 261,
+    "fact": "The ancient city of Troy, famously depicted in Homer's epics, was identified and excavated in the 19th century."
+  },
+  {
+    "id": 262,
+    "fact": "The invention of the blast furnace in China enabled the large-scale production of cast iron for tools and weapons."
+  },
+  {
+    "id": 263,
+    "fact": "The Kingdom of Kaffa in Ethiopia is historically associated with the origin and spread of coffee production."
+  },
+  {
+    "id": 264,
+    "fact": "Ancient Greek sculptor Phidias was responsible for creating the massive gold and ivory statue of Zeus at Olympia."
+  },
+  {
+    "id": 265,
+    "fact": "The invention of the chessboard layout for cities was used by the Greeks to organize urban spaces efficiently."
+  },
+  {
+    "id": 266,
+    "fact": "The Kingdom of Shewa in Ethiopia became a prominent political force that later contributed to the unification of modern Ethiopia."
+  },
+  {
+    "id": 267,
+    "fact": "Ancient Romans were the first to develop high-pressure water systems for urban fountains and baths."
+  },
+  {
+    "id": 268,
+    "fact": "The invention of the windmill in Europe was adapted to perform tasks like sawmilling and paper production."
+  },
+  {
+    "id": 269,
+    "fact": "The Kingdom of Loango in Central Africa was a powerful maritime state that controlled trade routes along the Atlantic coast."
+  },
+  {
+    "id": 270,
+    "fact": "The ancient city of Mycenae was the center of a powerful civilization that predated the rise of classical Greece."
+  },
+  {
+    "id": 271,
+    "fact": "The invention of the porcelain kiln allowed the Chinese to mass-produce high-quality ceramic wares for global export."
+  },
+  {
+    "id": 272,
+    "fact": "The Kingdom of Semien in Ethiopia was a historically unique Jewish state that existed for several centuries."
+  },
+  {
+    "id": 273,
+    "fact": "Ancient Greek philosopher Pythagoras is credited with the theorem that defines the relationship between the sides of a right triangle."
+  },
+  {
+    "id": 274,
+    "fact": "The invention of the magnetic needle for navigation was a turning point for Chinese maritime exploration."
+  },
+  {
+    "id": 275,
+    "fact": "The Kingdom of Jolof in West Africa was a major power that unified various Wolof states in the 14th century."
+  },
+  {
+    "id": 276,
+    "fact": "The ancient city of Nineveh served as the capital of the Neo-Assyrian Empire, housing a massive library of cuneiform tablets."
+  },
+  {
+    "id": 277,
+    "fact": "The invention of the wheelbarrow in China provided farmers and laborers with a much more efficient way to transport heavy loads."
+  },
+  {
+    "id": 278,
+    "fact": "The Kingdom of Kasanje in present-day Angola was an influential trading state founded in the 17th century."
+  },
+  {
+    "id": 279,
+    "fact": "Ancient Roman engineers developed the arch and the vault to create vast, open interior spaces without columns."
+  },
+  {
+    "id": 280,
+    "fact": "The invention of the printing press by Johannes Gutenberg in the 15th century caused a mass-communication revolution."
+  },
+  {
+    "id": 281,
+    "fact": "The Kingdom of Damot in Ethiopia was a significant regional power before its integration into the Solomonic dynasty."
+  },
+  {
+    "id": 282,
+    "fact": "The ancient city of Babylon was famous for its hanging gardens, often listed among the wonders of the ancient world."
+  },
+  {
+    "id": 283,
+    "fact": "The invention of the kite was used in China for military signaling and measuring distances in warfare."
+  },
+  {
+    "id": 284,
+    "fact": "The Kingdom of Wuli in West Africa was a notable state that controlled interior trade routes in the Gambia region."
+  },
+  {
+    "id": 285,
+    "fact": "Ancient Egyptian paper, known as papyrus, was made from the reeds found along the Nile River delta."
+  },
+  {
+    "id": 286,
+    "fact": "The invention of the suspension bridge was pioneered in China using iron chains for mountainous regions."
+  },
+  {
+    "id": 287,
+    "fact": "The Kingdom of Sennar in Sudan, also known as the Funj Sultanate, was a powerful Islamic state in the 16th century."
+  },
+  {
+    "id": 288,
+    "fact": "The ancient city of Sparta was known for its rigorous military training and unique social structure."
+  },
+  {
+    "id": 289,
+    "fact": "The invention of the matchlock firearm transformed infantry tactics across the globe in the 16th century."
+  },
+  {
+    "id": 290,
+    "fact": "The Kingdom of Futa Toro in West Africa was a significant Islamic state that emerged in the 18th century."
+  },
+  {
+    "id": 291,
+    "fact": "Ancient Romans celebrated Saturnalia, a festival involving gift-giving and a reversal of social norms."
+  },
+  {
+    "id": 292,
+    "fact": "The invention of the telescope in the early 17th century changed humanity's understanding of the universe."
+  },
+  {
+    "id": 293,
+    "fact": "The Kingdom of Merina in Madagascar became a unified state that consolidated its power across the island by the 19th century."
+  },
+  {
+    "id": 294,
+    "fact": "The ancient city of Ephesus was home to the Temple of Artemis, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 295,
+    "fact": "The invention of the clockwork mechanism enabled the creation of intricate automated figures known as automata."
+  },
+  {
+    "id": 296,
+    "fact": "The Kingdom of Bunyoro in Uganda was a significant regional power that controlled lucrative salt mines."
+  },
+  {
+    "id": 297,
+    "fact": "Ancient Greeks utilized a specialized device called the dioptra for accurate land surveying and engineering."
+  },
+  {
+    "id": 298,
+    "fact": "The invention of the thermometer allowed scientists to quantify temperature, moving away from subjective sensations."
+  },
+  {
+    "id": 299,
+    "fact": "The Kingdom of Toro in Uganda emerged from the larger Bunyoro empire as a distinct and powerful sovereign state."
+  },
+  {
+    "id": 300,
+    "fact": "The ancient city of Ephesus was a major hub for trade and learning in the Roman province of Asia."
+  },
+  {
+    "id": 301,
+    "fact": "The ancient Persians built qanats, which are underground channels designed to transport water from mountain aquifers to arid plains."
+  },
+  {
+    "id": 302,
+    "fact": "The Library of Alexandria was the largest and most significant library of the ancient world, intended to house all the world's knowledge."
+  },
+  {
+    "id": 303,
+    "fact": "In the 14th century, the Aztecs transformed an island in Lake Texcoco into a thriving metropolis with canals and dikes."
+  },
+  {
+    "id": 304,
+    "fact": "The Great Zimbabwe site contains the Conical Tower, a structure made of dry-stone that served a mysterious ritual function."
+  },
+  {
+    "id": 305,
+    "fact": "The Norse expansion included settlements in Iceland, Greenland, and parts of the British Isles, showing impressive maritime endurance."
+  },
+  {
+    "id": 306,
+    "fact": "The Phoenicians established the city of Carthage, which grew into a massive naval power that dominated Mediterranean commerce."
+  },
+  {
+    "id": 307,
+    "fact": "The Maya created the Long Count calendar to track vast periods of time, extending thousands of years into the past and future."
+  },
+  {
+    "id": 308,
+    "fact": "During the Heian period, the imperial court in Japan prioritized poetry and calligraphy as essential skills for nobility."
+  },
+  {
+    "id": 309,
+    "fact": "The Han Dynasty seismoscope featured a dragon-shaped pendulum that would release a ball into a toad's mouth when an earthquake occurred."
+  },
+  {
+    "id": 310,
+    "fact": "Ancient Egyptian papyrus scrolls contain some of the oldest medical treatises detailing treatments for broken bones and infections."
+  },
+  {
+    "id": 311,
+    "fact": "The Aksumite Empire played a critical role in global trade, acting as an intermediary between the Roman Empire and India."
+  },
+  {
+    "id": 312,
+    "fact": "Inca architects used 'ashlar' masonry, where stones were cut so precisely that no mortar was required for stability."
+  },
+  {
+    "id": 313,
+    "fact": "Ibn Battuta’s accounts provide one of the best contemporary records of societies and cultures in the 14th-century world."
+  },
+  {
+    "id": 314,
+    "fact": "The Code of Hammurabi was inscribed on a tall basalt stele, allowing the laws to be viewed by the public."
+  },
+  {
+    "id": 315,
+    "fact": "The Abbasid Caliphate’s House of Wisdom fostered significant advancements in algebra, which was developed by the mathematician Al-Khwarizmi."
+  },
+  {
+    "id": 316,
+    "fact": "Venetian merchants developed early forms of double-entry bookkeeping to manage their vast and complex international trade networks."
+  },
+  {
+    "id": 317,
+    "fact": "Polynesian voyagers utilized knowledge of bird migration patterns to locate land during their long-distance oceanic crossings."
+  },
+  {
+    "id": 318,
+    "fact": "The Ming Dynasty's Forbidden City is composed of 980 buildings, designed to reflect traditional Chinese concepts of cosmic order."
+  },
+  {
+    "id": 319,
+    "fact": "The Hittites were one of the first groups to use chariots in battle, significantly changing the dynamics of ancient warfare."
+  },
+  {
+    "id": 320,
+    "fact": "The Rosetta Stone features the same decree written in three different scripts: hieroglyphic, Demotic, and Ancient Greek."
+  },
+  {
+    "id": 321,
+    "fact": "Song Dynasty scholars used movable type made of porcelain, though metal type was later adopted for greater durability."
+  },
+  {
+    "id": 322,
+    "fact": "Minoan frescoes, such as those at Knossos, provide a glimpse into the colorful and maritime-focused life of Bronze Age Crete."
+  },
+  {
+    "id": 323,
+    "fact": "The temple of Angkor Wat was originally constructed as a Hindu temple for Vishnu before becoming a Buddhist site."
+  },
+  {
+    "id": 324,
+    "fact": "Aztec chinampas, or 'floating gardens,' were highly productive agricultural plots made by layering mud and vegetation in lake shallows."
+  },
+  {
+    "id": 325,
+    "fact": "The 25th Dynasty of Egypt, known as the 'Black Pharaohs,' revitalized traditional Egyptian culture and architectural styles."
+  },
+  {
+    "id": 326,
+    "fact": "Silk was so valuable in ancient times that it was used as a form of currency in China's trade with northern tribes."
+  },
+  {
+    "id": 327,
+    "fact": "The Battle of Kadesh involved over 5,000 chariots, making it one of the largest chariot battles in human history."
+  },
+  {
+    "id": 328,
+    "fact": "The founding of the University of Paris in the 12th century played a major role in the revival of European philosophical thought."
+  },
+  {
+    "id": 329,
+    "fact": "Silla kingdom jewelry, including elaborate gold crowns, demonstrates the exceptional craftsmanship of early Korean metalworkers."
+  },
+  {
+    "id": 330,
+    "fact": "Early public clocks were often inaccurate and mainly served to remind citizens of their religious obligations via hourly bells."
+  },
+  {
+    "id": 331,
+    "fact": "Olmec stone heads often feature unique headgear, leading scholars to believe they represent specific rulers or religious figures."
+  },
+  {
+    "id": 332,
+    "fact": "The Magna Carta was signed under pressure from rebellious barons who sought to limit the power of King John of England."
+  },
+  {
+    "id": 333,
+    "fact": "Chola bronzes, particularly statues of Shiva as Nataraja, are considered pinnacles of artistic expression in southern Indian history."
+  },
+  {
+    "id": 334,
+    "fact": "Archimedes' water screw was later refined and used throughout the Roman Empire for draining mines and irrigating land."
+  },
+  {
+    "id": 335,
+    "fact": "The Nabataeans of Petra became wealthy by controlling the trade of frankincense and myrrh through the Arabian Peninsula."
+  },
+  {
+    "id": 336,
+    "fact": "Carthaginian naval architecture allowed them to produce warships quickly using standardized, interchangeable parts."
+  },
+  {
+    "id": 337,
+    "fact": "The Silk Road trade network declined with the rise of oceanic exploration that offered faster routes between Europe and Asia."
+  },
+  {
+    "id": 338,
+    "fact": "The Battle of Hastings was documented in the Bayeux Tapestry, a 230-foot-long embroidery that acts as a pictorial record."
+  },
+  {
+    "id": 339,
+    "fact": "The Byzantine Empire maintained the Roman legal tradition, ultimately synthesizing it into the Corpus Juris Civilis."
+  },
+  {
+    "id": 340,
+    "fact": "The Pascaline calculator featured internal wheels and gears, representing a foundational step toward modern mechanical computing."
+  },
+  {
+    "id": 341,
+    "fact": "Cuneiform was initially developed to track agricultural goods and livestock counts in Mesopotamia."
+  },
+  {
+    "id": 342,
+    "fact": "The Agojie warriors of Dahomey were highly disciplined and played a critical role in the defense and expansion of the kingdom."
+  },
+  {
+    "id": 343,
+    "fact": "The astrolabe could be used to determine the time of day, forecast astronomical positions, and perform complex calculations."
+  },
+  {
+    "id": 344,
+    "fact": "The Aztec empire's causeways were designed with wooden bridges that could be retracted to prevent enemy movement."
+  },
+  {
+    "id": 345,
+    "fact": "Mohenjo-daro's drainage system was so advanced that even modern-day archaeologists study its efficiency and construction."
+  },
+  {
+    "id": 346,
+    "fact": "The Sassanid Empire established a powerful state religion based on Zoroastrianism, which deeply influenced its laws and culture."
+  },
+  {
+    "id": 347,
+    "fact": "The magnetic compass revolutionized global trade by allowing ships to sail safely even when the stars were obscured by clouds."
+  },
+  {
+    "id": 348,
+    "fact": "The Sutton Hoo burial contained an entire ship filled with riches, indicating the high status and wealth of Anglo-Saxon kings."
+  },
+  {
+    "id": 349,
+    "fact": "The Mamluk victory at the Battle of Ain Jalut marked the first time a Mongol army was decisively defeated in a major engagement."
+  },
+  {
+    "id": 350,
+    "fact": "Caral-Supe was a center of social and economic organization, featuring monumental pyramids built without the use of metal tools."
+  },
+  {
+    "id": 351,
+    "fact": "Paper money was initially backed by the state in China, gaining public trust due to the reliability of the government treasury."
+  },
+  {
+    "id": 352,
+    "fact": "Great Zimbabwe's walls reached heights of 30 feet, showcasing the sheer organizational power of the medieval kingdom."
+  },
+  {
+    "id": 353,
+    "fact": "Tikal is home to the Temple of the Jaguar, one of the most iconic and recognizable structures in Mayan architecture."
+  },
+  {
+    "id": 354,
+    "fact": "Sushruta's techniques for cataract surgery involved moving the lens to allow the patient to regain sight, a method used for centuries."
+  },
+  {
+    "id": 355,
+    "fact": "Ragusa, now known as Dubrovnik, flourished as a merchant republic that played both sides in regional conflicts to preserve its wealth."
+  },
+  {
+    "id": 356,
+    "fact": "Persian windmills were unique in their vertical design, optimized for the wind conditions of the Iranian plateau."
+  },
+  {
+    "id": 357,
+    "fact": "Funan's rise as a maritime power was enabled by its control over key canal routes connecting the Mekong to the sea."
+  },
+  {
+    "id": 358,
+    "fact": "The rise of the samurai class in Japan led to a distinct culture of military ethics known later as bushido."
+  },
+  {
+    "id": 359,
+    "fact": "Galileo's early thermometers were sensitive to air pressure, leading to further developments in understanding atmospheric science."
+  },
+  {
+    "id": 360,
+    "fact": "Paracas textiles were so well preserved by the desert climate that many still retain their vibrant colors after two millennia."
+  },
+  {
+    "id": 361,
+    "fact": "The Kingdom of Kongo created a unique diplomatic relationship with Portugal, including the exchange of ambassadors in the 16th century."
+  },
+  {
+    "id": 362,
+    "fact": "The Persian postal system used 'post-houses' every few miles where riders could switch to fresh horses for maximum speed."
+  },
+  {
+    "id": 363,
+    "fact": "Anasazi cliff dwellings at Mesa Verde were protected from the elements and offered a defensive advantage against potential attackers."
+  },
+  {
+    "id": 364,
+    "fact": "Ancient Olympic victors were crowned with olive wreaths, as the glory of the win was considered the ultimate reward."
+  },
+  {
+    "id": 365,
+    "fact": "The heavy plow enabled the clearing of vast forests in Northern Europe, supporting an increase in population density."
+  },
+  {
+    "id": 366,
+    "fact": "The Mutapa Empire thrived on the gold trade until the 17th century when Portuguese influence began to undermine its power."
+  },
+  {
+    "id": 367,
+    "fact": "Alexander the Great's causeway to Tyre turned the island city into a peninsula, a transformation still visible today."
+  },
+  {
+    "id": 368,
+    "fact": "The Empress Koken's mass-produced charms were kept in small, wooden pagodas that were distributed to temples across Japan."
+  },
+  {
+    "id": 369,
+    "fact": "Timbuktu’s manuscripts cover a vast array of topics, including astronomy, medicine, philosophy, and Islamic law."
+  },
+  {
+    "id": 370,
+    "fact": "The Hittite treaty with Egypt was engraved on silver plates, symbolizing the high diplomatic value placed on the agreement."
+  },
+  {
+    "id": 371,
+    "fact": "The stirrup allowed cavalry to remain securely on their horses while swinging swords or firing arrows, changing warfare forever."
+  },
+  {
+    "id": 372,
+    "fact": "Axum was the first state in sub-Saharan Africa to adopt Christianity, marking a historic shift in regional religious identity."
+  },
+  {
+    "id": 373,
+    "fact": "Roman roads were constructed with multiple layers to ensure they could withstand heavy traffic and weather conditions."
+  },
+  {
+    "id": 374,
+    "fact": "Viking sagas are not just historical records but also serve as windows into the oral traditions of Norse society."
+  },
+  {
+    "id": 375,
+    "fact": "Athenian democracy involved a lottery system for selecting officials to ensure that no single group could dominate political power."
+  },
+  {
+    "id": 376,
+    "fact": "Weight-driven clocks required a tall structure to house the ropes and heavy weights, leading to the construction of dedicated clock towers."
+  },
+  {
+    "id": 377,
+    "fact": "Scythian art is famous for its 'animal style,' featuring dynamic and intertwined depictions of beasts and mythical creatures."
+  },
+  {
+    "id": 378,
+    "fact": "Pagan was a Buddhist center that housed over 10,000 temples and stupas at the height of its power."
+  },
+  {
+    "id": 379,
+    "fact": "European windmills were typically horizontal and mounted on towers, adapting to different wind patterns than the Persian models."
+  },
+  {
+    "id": 380,
+    "fact": "Teotihuacan was a planned city, laid out along a precise north-south axis known as the Avenue of the Dead."
+  },
+  {
+    "id": 381,
+    "fact": "The Code of Justinian organized centuries of Roman laws into a coherent system that influenced modern international legal concepts."
+  },
+  {
+    "id": 382,
+    "fact": "Camel caravans could travel for days without water, making them the only viable means for trans-Saharan commerce."
+  },
+  {
+    "id": 383,
+    "fact": "The sexagesimal system's base of 60 was likely chosen because it is highly divisible, simplifying fractional calculations."
+  },
+  {
+    "id": 384,
+    "fact": "Maldivian cowrie shells were used as a standardized currency across large parts of the Indian Ocean for centuries."
+  },
+  {
+    "id": 385,
+    "fact": "Anaximander's map was one of the first attempts to view the world as an interconnected geographic whole."
+  },
+  {
+    "id": 386,
+    "fact": "Kanem-Bornu’s wealth was built on the trade of salt, gold, and textiles, managed by an efficient administrative apparatus."
+  },
+  {
+    "id": 387,
+    "fact": "The spinning wheel replaced the drop spindle, allowing for much faster production of yarn in the textile industry."
+  },
+  {
+    "id": 388,
+    "fact": "The Library of Alexandria was organized using a classification system developed by the scholar Callimachus."
+  },
+  {
+    "id": 389,
+    "fact": "The Toltecs were legendary architects whose style of combining warriors and animal motifs influenced Aztec religious buildings."
+  },
+  {
+    "id": 390,
+    "fact": "The keel was essential for ship stability, enabling the Norse longship to navigate both shallow rivers and rough open seas."
+  },
+  {
+    "id": 391,
+    "fact": "Champa architecture is characterized by distinctive brick towers decorated with intricate stone carvings."
+  },
+  {
+    "id": 392,
+    "fact": "Spectacles were initially worn by clergy and nobility before becoming more accessible in the late Middle Ages."
+  },
+  {
+    "id": 393,
+    "fact": "Celtic metalworkers were pioneers in enamel and bronze inlay, creating jewelry prized throughout Europe."
+  },
+  {
+    "id": 394,
+    "fact": "Ancient Sri Lankan hospitals were funded by the state, providing free medicine and professional care to the public."
+  },
+  {
+    "id": 395,
+    "fact": "Goryeo celadon is known for its exquisite color, often described as the 'jade' of the Korean ceramic tradition."
+  },
+  {
+    "id": 396,
+    "fact": "Water clocks were used in ancient China to accurately measure the time for state rituals and astronomical observations."
+  },
+  {
+    "id": 397,
+    "fact": "The Indus Valley civilization’s uniform weights and measures suggest a highly organized centralized authority for trade."
+  },
+  {
+    "id": 398,
+    "fact": "Urartu was known for its massive fortresses and complex hydraulic works that enabled life in a rugged, high-altitude environment."
+  },
+  {
+    "id": 399,
+    "fact": "Gunpowder was originally referred to as 'fire medicine' by Chinese researchers when first experimenting with its volatile properties."
+  },
+  {
+    "id": 400,
+    "fact": "The wooden foundations of Venice have lasted for centuries because the mud of the lagoon creates an oxygen-free environment that prevents rot."
+  },
+  {
+    "id": 401,
+    "fact": "The ancient city of Knossos on Crete was a center for early Mediterranean trade, acting as a crossroads for culture and goods."
+  },
+  {
+    "id": 402,
+    "fact": "The Hittite Empire’s reliance on iron was such a well-kept secret that they dominated the region's metallurgy for centuries."
+  },
+  {
+    "id": 403,
+    "fact": "The Inca built over 25,000 miles of roads, connecting their empire through the rugged terrain of the Andes Mountains."
+  },
+  {
+    "id": 404,
+    "fact": "The Mali Empire's university in Timbuktu, Sankore, attracted scholars from across the Islamic world during the 14th century."
+  },
+  {
+    "id": 405,
+    "fact": "Ancient Roman concrete allowed for the creation of massive domed structures, such as the Pantheon, which still stands today."
+  },
+  {
+    "id": 406,
+    "fact": "The Phoenicians invented the 'bireme,' a ship with two levels of rowers, providing increased speed and maneuverability."
+  },
+  {
+    "id": 407,
+    "fact": "Mayan mathematicians had symbols for numbers that included a shell representing zero, showing a high level of abstraction."
+  },
+  {
+    "id": 408,
+    "fact": "During the Heian era, the Japanese developed the kana script, allowing for the expression of the Japanese language separate from Chinese."
+  },
+  {
+    "id": 409,
+    "fact": "Han Dynasty seismoscopes were so precise they could detect tremors from directions that were not even felt by people in the capital."
+  },
+  {
+    "id": 410,
+    "fact": "Ancient Egyptian medicine involved specialized doctors for different parts of the body, a practice noted by Greek historians."
+  },
+  {
+    "id": 411,
+    "fact": "The kingdom of Aksum produced its own coinage in gold, silver, and bronze, signaling its economic sovereignty to neighboring empires."
+  },
+  {
+    "id": 412,
+    "fact": "Inca administrators kept detailed census data using quipu, tracking populations for taxation and labor duty."
+  },
+  {
+    "id": 413,
+    "fact": "Ibn Battuta visited the Mali Empire and wrote extensively about its wealth, legal system, and Islamic scholarship."
+  },
+  {
+    "id": 414,
+    "fact": "The Code of Hammurabi established the principle of 'lex talionis,' often remembered as the 'eye for an eye' philosophy."
+  },
+  {
+    "id": 415,
+    "fact": "The House of Wisdom in Baghdad also functioned as a massive archive, preserving ancient works that would have otherwise been lost."
+  },
+  {
+    "id": 416,
+    "fact": "Venice used a secret ballot system in its legislative council to prevent corruption and intimidation during elections."
+  },
+  {
+    "id": 417,
+    "fact": "Polynesian explorers crossed vast stretches of the Pacific in outrigger canoes, discovering Hawaii and New Zealand."
+  },
+  {
+    "id": 418,
+    "fact": "The Forbidden City in Beijing served as the seat of power for 24 emperors over the Ming and Qing dynasties."
+  },
+  {
+    "id": 419,
+    "fact": "Hittite warriors wore specialized armor and carried powerful swords, setting the standard for military equipment of the era."
+  },
+  {
+    "id": 420,
+    "fact": "The Rosetta Stone was the key that allowed scholars to finally understand the phonetic sounds of ancient hieroglyphs."
+  },
+  {
+    "id": 421,
+    "fact": "Song Dynasty printing allowed for the mass production of agricultural manuals, helping to increase food security in China."
+  },
+  {
+    "id": 422,
+    "fact": "Minoan civilization was characterized by its palaces, which functioned as storage hubs and administration centers rather than just royal homes."
+  },
+  {
+    "id": 423,
+    "fact": "Angkor Wat represents the Hindu cosmos, with its towers mirroring the peaks of Mount Meru, the center of the universe."
+  },
+  {
+    "id": 424,
+    "fact": "Aztec chinampas were so effective they provided a massive portion of the food supply for the massive population of Tenochtitlan."
+  },
+  {
+    "id": 425,
+    "fact": "Kushite pyramids were built at a steeper angle than Egyptian pyramids and were used as royal tombs for many centuries."
+  },
+  {
+    "id": 426,
+    "fact": "Silk production was so protected by Chinese law that exporting silkworms was once considered a capital offense."
+  },
+  {
+    "id": 427,
+    "fact": "The Battle of Kadesh was fought between the pharaoh Ramesses II and the Hittite king Muwatalli II."
+  },
+  {
+    "id": 428,
+    "fact": "Medieval universities allowed students and teachers to move freely across borders, fostering a cosmopolitan scholarly community."
+  },
+  {
+    "id": 429,
+    "fact": "The Silla kingdom established a social ranking system known as the 'bone-rank' system that determined political eligibility."
+  },
+  {
+    "id": 430,
+    "fact": "Early mechanical clocks were a marvel of the Middle Ages, often costing as much as a luxury house to construct."
+  },
+  {
+    "id": 431,
+    "fact": "Olmec artifacts have been found throughout Central America, suggesting they held significant cultural influence over neighboring groups."
+  },
+  {
+    "id": 432,
+    "fact": "The Magna Carta was reissued several times by later monarchs to ensure its principles remained central to English governance."
+  },
+  {
+    "id": 433,
+    "fact": "Chola maritime influence reached as far as Southeast Asia, where Chola-style art heavily influenced local temple design."
+  },
+  {
+    "id": 434,
+    "fact": "Archimedes' water screw is still used in modified forms today to help with drainage and irrigation in modern agriculture."
+  },
+  {
+    "id": 435,
+    "fact": "Nabataean water management included the use of elaborate pipelines and ceramic tiles to transport water across the city of Petra."
+  },
+  {
+    "id": 436,
+    "fact": "Carthage's harbor included a hidden circular inner dock specifically used for the protection and repair of warships."
+  },
+  {
+    "id": 437,
+    "fact": "The Silk Road acted as a conduit for the spread of diseases, most notably the plague, which moved through trade networks."
+  },
+  {
+    "id": 438,
+    "fact": "The Battle of Hastings was one of the last successful invasions of England by a foreign power."
+  },
+  {
+    "id": 439,
+    "fact": "Byzantine art, particularly its mosaic work, set the stylistic benchmark for church architecture and interior decoration in the Middle Ages."
+  },
+  {
+    "id": 440,
+    "fact": "Blaise Pascal, who invented the Pascaline, was only 19 years old when he built the first functional machine."
+  },
+  {
+    "id": 441,
+    "fact": "Cuneiform tablets were typically baked in the sun, but fires that destroyed cities sometimes inadvertently fired them into permanent records."
+  },
+  {
+    "id": 442,
+    "fact": "The Agojie of Dahomey were trained to be fearless, often tasked with special operations and high-stakes royal security missions."
+  },
+  {
+    "id": 443,
+    "fact": "The astrolabe was adapted for various uses, including determining the direction of Mecca for daily prayers in the Islamic world."
+  },
+  {
+    "id": 444,
+    "fact": "The Aztec empire’s construction projects were so massive they required a vast labor force mobilized through the state's tribute system."
+  },
+  {
+    "id": 445,
+    "fact": "Mohenjo-daro’s planning included a distinct grid system, reflecting a highly advanced approach to urban design and management."
+  },
+  {
+    "id": 446,
+    "fact": "The Sassanid Empire’s influence extended to its coinage, which was widely accepted as a standard in international trade."
+  },
+  {
+    "id": 447,
+    "fact": "The magnetic compass enabled the 'Age of Discovery,' fundamentally altering the map of the world as known to Europeans."
+  },
+  {
+    "id": 448,
+    "fact": "Sutton Hoo remains the most important archaeological find in England because of the insight it provides into the Dark Ages."
+  },
+  {
+    "id": 449,
+    "fact": "The Mamluks were originally a class of soldier-slaves who eventually seized power and established their own dynasty in Egypt."
+  },
+  {
+    "id": 450,
+    "fact": "Caral-Supe’s pyramids were built around a sunken circular plaza, a feature that became common in later Andean civilizations."
+  },
+  {
+    "id": 451,
+    "fact": "Paper money enabled the growth of complex commercial businesses in China, separating money from the weight of copper coins."
+  },
+  {
+    "id": 452,
+    "fact": "Great Zimbabwe’s influence diminished in the 15th century, likely due to a combination of environmental factors and shifting trade routes."
+  },
+  {
+    "id": 453,
+    "fact": "Tikal's architecture included hidden underground passages and drainage systems that protected the city from monsoon rain."
+  },
+  {
+    "id": 454,
+    "fact": "Sushruta is often called the 'father of surgery' for his foundational work on plastic surgery and nasal reconstruction."
+  },
+  {
+    "id": 455,
+    "fact": "Dubrovnik, formerly Ragusa, developed a reputation as a 'free state' that could negotiate with both the Ottomans and the West."
+  },
+  {
+    "id": 456,
+    "fact": "Persian windmills were constructed with a vertical axis, allowing them to spin even in relatively low-wind areas."
+  },
+  {
+    "id": 457,
+    "fact": "Funan’s decline in the 6th century opened the door for the rise of its successor state, Chenla, in the Mekong valley."
+  },
+  {
+    "id": 458,
+    "fact": "The samurai were not only soldiers but also highly cultured patrons of the arts, practicing calligraphy and tea ceremonies."
+  },
+  {
+    "id": 459,
+    "fact": "Galileo's experiments in physics laid the groundwork for the scientific revolution and challenged traditional Aristotelian views."
+  },
+  {
+    "id": 460,
+    "fact": "Paracas culture is also known for its advanced trepanation surgeries, where healers removed parts of the skull to treat injuries."
+  },
+  {
+    "id": 461,
+    "fact": "The Kongo kingdom eventually entered into a period of struggle over the slave trade's impact on their society."
+  },
+  {
+    "id": 462,
+    "fact": "Cyrus the Great's postal system served as a model for the future postal networks used by the Roman and Mongol empires."
+  },
+  {
+    "id": 463,
+    "fact": "Mesa Verde’s cliff dwellings were largely abandoned by the 14th century due to prolonged drought and environmental depletion."
+  },
+  {
+    "id": 464,
+    "fact": "The Olympic games were so significant that a 'sacred truce' was declared to ensure all athletes could travel to the games safely."
+  },
+  {
+    "id": 465,
+    "fact": "The heavy plow was often a communal investment, as few individual farmers could afford the many oxen needed to pull it."
+  },
+  {
+    "id": 466,
+    "fact": "Mutapa’s gold trade was so extensive that European cartographers often sought the 'City of Gold' in the African interior."
+  },
+  {
+    "id": 467,
+    "fact": "The siege of Tyre changed maritime history, proving that even island cities could be conquered with persistence and engineering."
+  },
+  {
+    "id": 468,
+    "fact": "The Empress Koken’s project demonstrated the immense power and wealth the Japanese imperial court could exert in the 8th century."
+  },
+  {
+    "id": 469,
+    "fact": "Timbuktu was so legendary for its wealth and learning that it appeared on early European maps as a city of gold."
+  },
+  {
+    "id": 470,
+    "fact": "The Hittite treaty established a precedent for international law, outlining the mutual defense obligations between the two powers."
+  },
+  {
+    "id": 471,
+    "fact": "Stirrups were quickly adopted by cultures across the world because of the massive advantage they gave to mounted combatants."
+  },
+  {
+    "id": 472,
+    "fact": "The Aksumite adoption of Christianity ensured a strong, long-lasting cultural tie between Ethiopia and the Mediterranean world."
+  },
+  {
+    "id": 473,
+    "fact": "Roman roads were designed to follow the shortest possible route, often crossing mountainous terrain with massive tunnels and bridges."
+  },
+  {
+    "id": 474,
+    "fact": "Viking sagas detail the settlement of Iceland, an event that provided much of the basis for later Icelandic culture and law."
+  },
+  {
+    "id": 475,
+    "fact": "Athenian democracy excluded women, slaves, and foreigners from the political process, a limitation characteristic of the era."
+  },
+  {
+    "id": 476,
+    "fact": "Mechanical clocks helped society transition to a more structured, time-based economy, favoring productivity and planning."
+  },
+  {
+    "id": 477,
+    "fact": "Scythian gold treasures are often discovered in massive burial mounds called kurgans located across the steppes."
+  },
+  {
+    "id": 478,
+    "fact": "The Kingdom of Pagan unified Burma through military strength and the consolidation of agricultural productivity in the Irrawaddy basin."
+  },
+  {
+    "id": 479,
+    "fact": "European windmills were so efficient that they allowed for a significant increase in the production of processed goods for trade."
+  },
+  {
+    "id": 480,
+    "fact": "Teotihuacan’s pyramids are aligned with the movement of stars, highlighting the importance of astronomy in their society."
+  },
+  {
+    "id": 481,
+    "fact": "Justinian's Code included laws concerning family, property, and crime, forming the backbone of the European legal tradition."
+  },
+  {
+    "id": 482,
+    "fact": "The camel was essential to the spread of Islamic culture and influence across the vast regions of North Africa."
+  },
+  {
+    "id": 483,
+    "fact": "The sexagesimal system of the Sumerians also helped them track agricultural seasons, which was critical for a civilization on the Euphrates."
+  },
+  {
+    "id": 484,
+    "fact": "The Maldives served as a critical stopover for Indian Ocean dhows, which relied on seasonal monsoon winds for travel."
+  },
+  {
+    "id": 485,
+    "fact": "Anaximander’s worldview was revolutionary because he viewed the earth as a cylinder suspended in the middle of the cosmos."
+  },
+  {
+    "id": 486,
+    "fact": "Kanem-Bornu was known for its cavalry-heavy military, which was highly effective in the open plains of the Lake Chad basin."
+  },
+  {
+    "id": 487,
+    "fact": "The spinning wheel reduced the time needed to create yarn by more than half, fundamentally altering domestic production."
+  },
+  {
+    "id": 488,
+    "fact": "The Library of Alexandria was lost over several centuries due to fires, neglect, and political turmoil in the region."
+  },
+  {
+    "id": 489,
+    "fact": "The Toltecs believed their kings were representatives of divine power, which they reflected in their monumental architecture."
+  },
+  {
+    "id": 490,
+    "fact": "The longship was so maneuverable that it could sail up narrow rivers, allowing Vikings to strike deep into enemy territory."
+  },
+  {
+    "id": 491,
+    "fact": "Champa kings used hydraulic engineering to build reservoirs that sustained their society during dry seasons."
+  },
+  {
+    "id": 492,
+    "fact": "Spectacles were a transformative technology that allowed the elderly to remain active in crafts and intellectual work."
+  },
+  {
+    "id": 493,
+    "fact": "Celtic art often utilized complex knot-work patterns that were later adopted into early Christian decorative styles."
+  },
+  {
+    "id": 494,
+    "fact": "The Sri Lankan hospital system included separate facilities for treatment, rest, and the preparation of medicines."
+  },
+  {
+    "id": 495,
+    "fact": "Goryeo celadon was so prized in the region that even the Chinese emperors admired its quality and beauty."
+  },
+  {
+    "id": 496,
+    "fact": "Water clocks were essential for keeping time in monastic settings, ensuring the rhythmic schedule of prayers."
+  },
+  {
+    "id": 497,
+    "fact": "The Indus Valley’s standardization is evidence of a shared economic policy that existed even without signs of a single supreme ruler."
+  },
+  {
+    "id": 498,
+    "fact": "Urartu was highly skilled at masonry, using huge stone blocks that required no mortar, similar to Andean techniques."
+  },
+  {
+    "id": 499,
+    "fact": "Gunpowder’s transition from medicine to weapon was slow, taking centuries of experimentation by military engineers in China."
+  },
+  {
+    "id": 500,
+    "fact": "Venice's location in a lagoon was originally chosen as a place of refuge from invaders, eventually becoming the secret to its naval power."
+  },
+  {
+    "id": 501,
+    "fact": "The library at Nalanda in ancient India was one of the largest centers of learning in the medieval world, housing millions of manuscripts."
+  },
+  {
+    "id": 502,
+    "fact": "The Kingdom of Aksum was the first sub-Saharan African state to mint its own gold coinage for international trade."
+  },
+  {
+    "id": 503,
+    "fact": "The Vikings were the first Europeans to reach North America, establishing a small settlement at L'Anse aux Meadows."
+  },
+  {
+    "id": 504,
+    "fact": "The ancient city of Mohenjo-daro featured a sophisticated system of covered sewers that kept the streets hygienic."
+  },
+  {
+    "id": 505,
+    "fact": "The Maya developed a base-20 numbering system that was highly efficient for astronomical calculations."
+  },
+  {
+    "id": 506,
+    "fact": "The Khmer Empire utilized a vast network of canals and 'barays' (reservoirs) to manage water for year-round rice cultivation."
+  },
+  {
+    "id": 507,
+    "fact": "In the 14th century, the Black Death drastically reduced the population of Europe, leading to the end of the manorial system."
+  },
+  {
+    "id": 508,
+    "fact": "The Aztec capital, Tenochtitlan, was one of the largest cities in the world at its height, featuring a population of over 200,000."
+  },
+  {
+    "id": 509,
+    "fact": "Ancient Egyptian pharaohs were buried with 'shabti' figurines, which were believed to serve them in the afterlife."
+  },
+  {
+    "id": 510,
+    "fact": "The Ming Dynasty's treasure fleet under Zheng He traveled as far as the coast of East Africa in the early 15th century."
+  },
+  {
+    "id": 511,
+    "fact": "The Kingdom of Kush, situated in modern-day Sudan, ruled as the 25th Dynasty of Egypt for nearly a century."
+  },
+  {
+    "id": 512,
+    "fact": "The invention of the stirrup in Central Asia gave cavalry units a massive tactical advantage by allowing riders to stay mounted during combat."
+  },
+  {
+    "id": 513,
+    "fact": "The Phoenicians established colonies across the Mediterranean, including Gadir in modern Spain and Carthage in Tunisia."
+  },
+  {
+    "id": 514,
+    "fact": "The Great Zimbabwe civilization constructed massive stone walls without the use of any mortar, using carefully shaped granite blocks."
+  },
+  {
+    "id": 515,
+    "fact": "Ancient Greek physician Galen conducted detailed dissections that formed the basis of medical knowledge for over 1,000 years."
+  },
+  {
+    "id": 516,
+    "fact": "The Sassanid Empire of Persia was a major cultural and political rival to the Roman and Byzantine Empires for centuries."
+  },
+  {
+    "id": 517,
+    "fact": "The first public clock tower was installed in Milan, Italy, in 1336, marking a significant shift in urban timekeeping."
+  },
+  {
+    "id": 518,
+    "fact": "The Paracas culture of Peru was famous for its intricate textiles, which were used to wrap mummies and preserve their history."
+  },
+  {
+    "id": 519,
+    "fact": "The Kingdom of Kongo was a highly centralized state that had formal diplomatic relations with the Kingdom of Portugal in the 15th century."
+  },
+  {
+    "id": 520,
+    "fact": "Ancient Romans used concrete made with volcanic ash, known as pozzolana, which allowed their buildings to survive in seawater."
+  },
+  {
+    "id": 521,
+    "fact": "The invention of the heavy moldboard plow allowed medieval European farmers to cultivate the heavy, fertile clay soils of the north."
+  },
+  {
+    "id": 522,
+    "fact": "The Kingdom of Funan was a powerful maritime state in Southeast Asia that served as a middleman for trade between India and China."
+  },
+  {
+    "id": 523,
+    "fact": "The ancient city of Persepolis was the ceremonial capital of the Achaemenid Empire, famous for its grand staircase and relief carvings."
+  },
+  {
+    "id": 524,
+    "fact": "In 1066, the Norman Conquest under William the Conqueror permanently altered the English language and administrative structure."
+  },
+  {
+    "id": 525,
+    "fact": "The Byzantine Empire preserved many ancient Greek texts that were later 'rediscovered' during the Italian Renaissance."
+  },
+  {
+    "id": 526,
+    "fact": "The first mechanical calculator, the Pascaline, was designed in 1642 to help calculate taxes and financial data."
+  },
+  {
+    "id": 527,
+    "fact": "Cuneiform writing was originally developed in Mesopotamia to track the exchange of grain and livestock."
+  },
+  {
+    "id": 528,
+    "fact": "The Agojie of Dahomey were an elite regiment of female soldiers who played a critical role in the defense of the kingdom."
+  },
+  {
+    "id": 529,
+    "fact": "The astrolabe was used by medieval navigators to determine their latitude by measuring the angle of the sun or stars above the horizon."
+  },
+  {
+    "id": 530,
+    "fact": "The Aztec Empire required conquered city-states to pay tribute in goods like jade, quetzal feathers, and cocoa beans."
+  },
+  {
+    "id": 531,
+    "fact": "Mohenjo-daro was part of the Indus Valley civilization, one of the earliest urban societies in human history."
+  },
+  {
+    "id": 532,
+    "fact": "The magnetic compass was first used in China for geomancy (Feng Shui) before being applied to maritime navigation."
+  },
+  {
+    "id": 533,
+    "fact": "The Sutton Hoo burial site in England provided the first major insight into the wealth and craftsmanship of the early Anglo-Saxon kings."
+  },
+  {
+    "id": 534,
+    "fact": "The Mamluk Sultanate defeated the Mongols at the Battle of Ain Jalut, effectively ending the westward expansion of the Mongol Empire."
+  },
+  {
+    "id": 535,
+    "fact": "The Caral-Supe civilization in Peru built monumental pyramid structures over 4,000 years ago without the use of ceramics."
+  },
+  {
+    "id": 536,
+    "fact": "Paper money was first introduced in China under the Song Dynasty to simplify the transport of large amounts of wealth."
+  },
+  {
+    "id": 537,
+    "fact": "Tikal, a major Mayan center, reached its peak between 200 and 900 CE, featuring enormous pyramid temples."
+  },
+  {
+    "id": 538,
+    "fact": "Sushruta, an ancient Indian surgeon, is credited with performing some of the earliest documented nose reconstruction surgeries."
+  },
+  {
+    "id": 539,
+    "fact": "Dubrovnik, formerly known as Ragusa, was an independent republic that managed to stay neutral between major European powers for centuries."
+  },
+  {
+    "id": 540,
+    "fact": "Persian vertical-axis windmills were designed to grind grain efficiently using the strong, consistent winds of the region."
+  },
+  {
+    "id": 541,
+    "fact": "The samurai class emerged in Japan as regional warriors who eventually became the dominant political and military force."
+  },
+  {
+    "id": 542,
+    "fact": "Galileo Galilei's early work with telescopes proved that the moon had craters and mountains, challenging current cosmological views."
+  },
+  {
+    "id": 543,
+    "fact": "The Kingdom of Mutapa in present-day Zimbabwe controlled major gold trade routes from the 15th through the 17th century."
+  },
+  {
+    "id": 544,
+    "fact": "Alexander the Great built a massive causeway to besiege the island city of Tyre, permanently connecting it to the mainland."
+  },
+  {
+    "id": 545,
+    "fact": "Timbuktu became a renowned intellectual center in the 14th century, home to vast collections of manuscripts on diverse scientific topics."
+  },
+  {
+    "id": 546,
+    "fact": "The Hittite-Egyptian treaty is the earliest known international peace treaty to have its text preserved from both parties."
+  },
+  {
+    "id": 547,
+    "fact": "The stirrup allowed for the development of heavy shock cavalry, which dominated European battlefields for centuries."
+  },
+  {
+    "id": 548,
+    "fact": "The Aksumite Empire’s conversion to Christianity helped facilitate strong trade ties with the Roman Empire and the Mediterranean."
+  },
+  {
+    "id": 549,
+    "fact": "Roman roads were built so well that some of them are still used as the base for modern highways in parts of Europe."
+  },
+  {
+    "id": 550,
+    "fact": "Viking sagas, such as the Saga of the Greenlanders, provide a record of their early voyages to the North American coast."
+  },
+  {
+    "id": 551,
+    "fact": "Athenian democracy featured ostracism, a process where citizens could vote to banish a politician for ten years."
+  },
+  {
+    "id": 552,
+    "fact": "Weight-driven mechanical clocks required the invention of the 'escapement' mechanism to pace the movement of the gears."
+  },
+  {
+    "id": 553,
+    "fact": "Scythian warriors were famous for their mastery of the recurve bow, which allowed them to fire arrows with great force from horseback."
+  },
+  {
+    "id": 554,
+    "fact": "Pagan, in modern-day Myanmar, contains thousands of Buddhist temples and stupas that date back to its peak as a regional power."
+  },
+  {
+    "id": 555,
+    "fact": "Teotihuacan was a massive metropolis in ancient Mexico that inspired later cultures like the Toltecs and the Aztecs."
+  },
+  {
+    "id": 556,
+    "fact": "The Code of Justinian was a monumental effort to organize and codify centuries of Roman law into a single, accessible source."
+  },
+  {
+    "id": 557,
+    "fact": "The domestication of the dromedary camel revolutionized trade across the Sahara, allowing goods to move between Africa and the Mediterranean."
+  },
+  {
+    "id": 558,
+    "fact": "The Sumerian sexagesimal system of 60 is the reason we divide hours into 60 minutes and minutes into 60 seconds."
+  },
+  {
+    "id": 559,
+    "fact": "Cowrie shells from the Maldives were used as an international currency in parts of Africa and Asia for many centuries."
+  },
+  {
+    "id": 560,
+    "fact": "Anaximander of Miletus was the first person to create a scale map of the known world, depicting Greece at the center."
+  },
+  {
+    "id": 561,
+    "fact": "The Kanem-Bornu Empire, centered near Lake Chad, maintained its power for over 1,000 years through trade and military strength."
+  },
+  {
+    "id": 562,
+    "fact": "The invention of the spinning wheel in India allowed for a much higher volume of thread production, boosting the textile economy."
+  },
+  {
+    "id": 563,
+    "fact": "The Great Library of Alexandria attracted the greatest scholars of the ancient world to study everything from astronomy to literature."
+  },
+  {
+    "id": 564,
+    "fact": "Toltec influence was so widespread in Mexico that later Aztec kings claimed descent from the legendary Toltec rulers."
+  },
+  {
+    "id": 565,
+    "fact": "The Viking longship was shallow enough to navigate rivers and stable enough to cross the Atlantic Ocean."
+  },
+  {
+    "id": 566,
+    "fact": "Champa civilization in central Vietnam built unique brick temple towers that remain well-preserved to this day."
+  },
+  {
+    "id": 567,
+    "fact": "The invention of eyeglasses in 13th-century Italy was a major breakthrough that helped preserve the working life of artisans."
+  },
+  {
+    "id": 568,
+    "fact": "Celtic art is well known for its use of complex curvilinear designs and interlace patterns, often seen in bronze work."
+  },
+  {
+    "id": 569,
+    "fact": "The world's first hospital systems, with dedicated medical wards and clean water, were established in ancient Sri Lanka."
+  },
+  {
+    "id": 570,
+    "fact": "Goryeo celadon pottery, known for its beautiful jade-like glaze, was a major prestige item for the Korean elite."
+  },
+  {
+    "id": 571,
+    "fact": "Water clocks were used in ancient China to accurately track the time of night, when solar clocks were useless."
+  },
+  {
+    "id": 572,
+    "fact": "Indus Valley weights were so consistent across the region that it suggests a powerful, centralized authority over commerce."
+  },
+  {
+    "id": 573,
+    "fact": "Urartu was an ancient kingdom in the Armenian Highlands that developed highly advanced irrigation systems to farm the rocky landscape."
+  },
+  {
+    "id": 574,
+    "fact": "Gunpowder was originally used in China for fireworks and medicinal applications before it was adapted for military cannons."
+  },
+  {
+    "id": 575,
+    "fact": "Venice was built on wooden piles driven deep into the mud of the lagoon, which became petrified over time and extremely strong."
+  },
+  {
+    "id": 576,
+    "fact": "The ancient city of Knossos on Crete was home to the legendary Palace of Minos, a massive complex of rooms and corridors."
+  },
+  {
+    "id": 577,
+    "fact": "The Hittite Empire was the first to use large-scale iron manufacturing to equip their army with superior weaponry."
+  },
+  {
+    "id": 578,
+    "fact": "The Inca road system, known as the Qhapaq Ñan, covered over 25,000 miles and included hanging bridges made of grass."
+  },
+  {
+    "id": 579,
+    "fact": "The Mali Empire's wealth came from its control of the salt and gold trade, making it one of the richest states in the world."
+  },
+  {
+    "id": 580,
+    "fact": "The Roman Pantheon features the largest unreinforced concrete dome in the world, still standing after nearly 2,000 years."
+  },
+  {
+    "id": 581,
+    "fact": "The Phoenicians invented the 'alphabet,' a system that represented sounds rather than words, making writing much easier to learn."
+  },
+  {
+    "id": 582,
+    "fact": "The Mayan calendar system was so complex it tracked multiple solar, ritual, and long-term historical cycles simultaneously."
+  },
+  {
+    "id": 583,
+    "fact": "Heian-period Japan saw the birth of the world's first novel, 'The Tale of Genji,' written by a lady-in-waiting at the imperial court."
+  },
+  {
+    "id": 584,
+    "fact": "The Han Dynasty seismoscope, known as the 'earthquake weathercock,' could detect the direction of an earthquake hundreds of miles away."
+  },
+  {
+    "id": 585,
+    "fact": "Ancient Egyptian medicine was so respected that rulers of other Mediterranean nations often requested Egyptian doctors."
+  },
+  {
+    "id": 586,
+    "fact": "Aksumite gold coins were so reliable that they were accepted as trade currency throughout the Roman and Byzantine markets."
+  },
+  {
+    "id": 587,
+    "fact": "Inca quipu, or knotted strings, were used to store complex financial, demographic, and historical data across the empire."
+  },
+  {
+    "id": 588,
+    "fact": "Ibn Battuta’s travel log, the 'Rihla,' provides a rare, firsthand account of global societies and trade in the 14th century."
+  },
+  {
+    "id": 589,
+    "fact": "The Code of Hammurabi is one of the oldest deciphered writings of significant length in the world, carved on a massive stone pillar."
+  },
+  {
+    "id": 590,
+    "fact": "The House of Wisdom in Baghdad served as a repository for translations of Greek, Persian, and Indian scientific texts."
+  },
+  {
+    "id": 591,
+    "fact": "Venice's government was led by the Doge, who was elected by a complex system of lotteries and voting to ensure balance."
+  },
+  {
+    "id": 592,
+    "fact": "Polynesian navigators used 'stick charts' made of coconut fronds and shells to map out ocean swells and island locations."
+  },
+  {
+    "id": 593,
+    "fact": "The Forbidden City in Beijing contains over 9,000 rooms and was the heart of imperial Chinese government for five centuries."
+  },
+  {
+    "id": 594,
+    "fact": "Hittite chariot warfare involved a crew of three—a driver, a shield-bearer, and a warrior—making them highly effective."
+  },
+  {
+    "id": 595,
+    "fact": "The Rosetta Stone allowed scholars to compare Greek, Demotic, and hieroglyphic scripts, finally cracking the code of ancient Egypt."
+  },
+  {
+    "id": 596,
+    "fact": "Song Dynasty printing technology led to a boom in textbooks, medical manuals, and religious texts, increasing the literacy rate."
+  },
+  {
+    "id": 597,
+    "fact": "Minoan civilization is often considered the first major European civilization, pre-dating the rise of classical Greece."
+  },
+  {
+    "id": 598,
+    "fact": "Angkor Wat, located in Cambodia, is the largest religious monument in the world, originally dedicated to the god Vishnu."
+  },
+  {
+    "id": 599,
+    "fact": "Aztec chinampas, or 'floating gardens,' were essentially raised beds in lake beds, kept fertile by nutrient-rich mud."
+  },
+  {
+    "id": 600,
+    "fact": "The Kingdom of Kush produced many more pyramids than Egypt, though they were typically smaller and steeper in design."
+  },
+  {
+    "id": 601,
+    "fact": "The Silk Road was not just for silk; it was also a vital path for spices, precious stones, paper, and gunpowder."
+  },
+  {
+    "id": 602,
+    "fact": "The Battle of Kadesh remains the largest chariot battle ever recorded, involving thousands of vehicles and soldiers."
+  },
+  {
+    "id": 603,
+    "fact": "Medieval universities, such as Bologna and Paris, emerged from earlier cathedral schools as centers for advanced theological debate."
+  },
+  {
+    "id": 604,
+    "fact": "The Silla Kingdom’s bone-rank system was a rigid caste system that determined one's government position and lifestyle."
+  },
+  {
+    "id": 605,
+    "fact": "Mechanical clocks were so significant in the Middle Ages that church bells were adjusted to match the new, precise timekeeping."
+  },
+  {
+    "id": 606,
+    "fact": "Olmec stone heads often weigh several tons, and the stone was transported from quarries over 50 miles away."
+  },
+  {
+    "id": 607,
+    "fact": "The Magna Carta established the principle that nobody, not even the king, is above the law of the land."
+  },
+  {
+    "id": 608,
+    "fact": "Chola bronzes, particularly those depicting the dancing Shiva, are some of the most famous examples of Indian metal sculpture."
+  },
+  {
+    "id": 609,
+    "fact": "Archimedes' water screw was used in the Roman Empire to lift water into irrigation channels, improving farming efficiency."
+  },
+  {
+    "id": 610,
+    "fact": "Nabataean engineers at Petra carved elaborate water cisterns into cliffs to collect rainwater for use during dry seasons."
+  },
+  {
+    "id": 611,
+    "fact": "Carthage’s inner harbor was a naval masterpiece, providing secure dockage and repair facilities for the Carthaginian fleet."
+  },
+  {
+    "id": 612,
+    "fact": "The Silk Road trade network was significantly influenced by the spread of Buddhism from India into China."
+  },
+  {
+    "id": 613,
+    "fact": "The Bayeux Tapestry tells the story of the Battle of Hastings in incredible detail, using embroidery on linen."
+  },
+  {
+    "id": 614,
+    "fact": "Byzantine scholars kept Greek learning alive during the Middle Ages, long before it reached Western Europe during the Renaissance."
+  },
+  {
+    "id": 615,
+    "fact": "Blaise Pascal’s mechanical calculator could perform addition and subtraction automatically using interconnected wheels."
+  },
+  {
+    "id": 616,
+    "fact": "Cuneiform tablets were made from soft clay, which was then sun-dried, allowing for permanent record-keeping."
+  },
+  {
+    "id": 617,
+    "fact": "The Agojie of Dahomey were known for their rigorous military training and played a crucial role in palace security."
+  },
+  {
+    "id": 618,
+    "fact": "The astrolabe was so precise that it could be used for basic navigation, land surveying, and astronomical forecasting."
+  },
+  {
+    "id": 619,
+    "fact": "The Aztec empire's expansion was often driven by the need for captives to serve as labor or for religious rituals."
+  },
+  {
+    "id": 620,
+    "fact": "Mohenjo-daro had a system of street planning that was remarkably advanced, using a grid that separated residential areas."
+  },
+  {
+    "id": 621,
+    "fact": "The Sassanid Empire of Persia successfully maintained trade networks between the Mediterranean world and East Asia."
+  },
+  {
+    "id": 622,
+    "fact": "The magnetic compass was so accurate that it allowed for consistent sailing even when the sky was overcast."
+  },
+  {
+    "id": 623,
+    "fact": "Sutton Hoo reveals the high degree of craftsmanship in Anglo-Saxon England, featuring cloisonné enamel and gold filigree."
+  },
+  {
+    "id": 624,
+    "fact": "The Mamluks established a highly sophisticated military state that ruled Egypt for several centuries after the fall of the Ayyubids."
+  },
+  {
+    "id": 625,
+    "fact": "Caral-Supe is the oldest urban center in the Americas, pre-dating most of the well-known Mesoamerican civilizations."
+  },
+  {
+    "id": 626,
+    "fact": "Paper money helped China overcome the logistical challenge of transporting heavy copper coins over long distances."
+  },
+  {
+    "id": 627,
+    "fact": "Tikal was an enormous city that, at its peak, supported a population through highly advanced irrigation and farming techniques."
+  },
+  {
+    "id": 628,
+    "fact": "Sushruta’s medical texts are considered some of the earliest to detail surgical tools and their proper maintenance."
+  },
+  {
+    "id": 629,
+    "fact": "The Republic of Ragusa was so wealthy that it used its diplomacy to balance the competing interests of the Ottoman and Habsburg empires."
+  },
+  {
+    "id": 630,
+    "fact": "Persian vertical-axis windmills were so effective that they were later copied by builders in other parts of the Islamic world."
+  },
+  {
+    "id": 631,
+    "fact": "The samurai were not only soldiers but also philosophers, with many practitioners studying Zen Buddhism for mental focus."
+  },
+  {
+    "id": 632,
+    "fact": "Galileo Galilei’s telescope allowed humanity to observe moons orbiting Jupiter, providing evidence for the heliocentric model."
+  },
+  {
+    "id": 633,
+    "fact": "The Kingdom of Mutapa controlled the gold-producing regions between the Zambezi and Limpopo rivers in southern Africa."
+  },
+  {
+    "id": 634,
+    "fact": "The siege of Tyre demonstrated Alexander the Great’s ingenuity in engineering and his refusal to leave an enemy city behind."
+  },
+  {
+    "id": 635,
+    "fact": "Timbuktu’s reputation for learning was so high that it attracted scholars from distant regions like Egypt and North Africa."
+  },
+  {
+    "id": 636,
+    "fact": "The Hittite-Egyptian peace treaty was so successful that it lasted for decades, promoting stability in the Levant."
+  },
+  {
+    "id": 637,
+    "fact": "The stirrup was so transformative that some historians argue it was the single most important military invention of the Middle Ages."
+  },
+  {
+    "id": 638,
+    "fact": "Axum’s conversion to Christianity created a powerful religious and cultural link with the Byzantine Empire."
+  },
+  {
+    "id": 639,
+    "fact": "Roman road networks were so efficient that they allowed for the rapid movement of armies to defend the empire's borders."
+  },
+  {
+    "id": 640,
+    "fact": "Viking sagas like the 'Saga of the Volsungs' offer a mix of historical fact and legendary myth from Norse society."
+  },
+  {
+    "id": 641,
+    "fact": "Athenian direct democracy meant that every citizen had a vote in the assembly, a unique feature of their government."
+  },
+  {
+    "id": 642,
+    "fact": "Mechanical clocks helped bring about a standardized approach to daily life, as citizens began to coordinate their work and travel."
+  },
+  {
+    "id": 643,
+    "fact": "Scythian animal-style art often depicted predators in combat with prey, reflecting the harsh reality of their nomadic lifestyle."
+  },
+  {
+    "id": 644,
+    "fact": "Pagan was a city of such architectural density that visitors often described it as a forest of stone temples."
+  },
+  {
+    "id": 645,
+    "fact": "Teotihuacan is home to the 'Pyramid of the Sun,' one of the largest ancient structures built in the Americas."
+  },
+  {
+    "id": 646,
+    "fact": "The Code of Justinian was the source for much of the later legal development in countries like France and Germany."
+  },
+  {
+    "id": 647,
+    "fact": "Camels were the key to the success of trans-Saharan trade, allowing goods to reach the markets of North Africa and beyond."
+  },
+  {
+    "id": 648,
+    "fact": "The sexagesimal system of the ancient Sumerians is a testament to their advanced understanding of mathematics and observation."
+  },
+  {
+    "id": 649,
+    "fact": "Cowrie shells were small, durable, and easily portable, making them a perfect choice for an early standardized currency."
+  },
+  {
+    "id": 650,
+    "fact": "Anaximander of Miletus was among the first philosophers to suggest that the earth does not need to be supported by anything."
+  },
+  {
+    "id": 651,
+    "fact": "Kanem-Bornu’s prosperity was built on the control of the trans-Saharan routes that brought salt and goods to their markets."
+  },
+  {
+    "id": 652,
+    "fact": "The spinning wheel was so effective that it replaced the labor-intensive hand-spindle, revolutionizing textile production in Europe."
+  },
+  {
+    "id": 653,
+    "fact": "The Great Library of Alexandria was a beacon of ancient knowledge, holding hundreds of thousands of papyrus scrolls."
+  },
+  {
+    "id": 654,
+    "fact": "The Toltecs were master architects, whose style influenced the design of Mayan temples in the Yucatan region."
+  },
+  {
+    "id": 655,
+    "fact": "The Viking longship was versatile, capable of sailing across the sea and rowing up shallow rivers to reach inland targets."
+  },
+  {
+    "id": 656,
+    "fact": "Champa civilization is known for its maritime focus, which allowed them to become a key player in the Indian Ocean trade."
+  },
+  {
+    "id": 657,
+    "fact": "Eyeglasses provided elderly scholars and craftsmen with a new lease on their professional life during the Middle Ages."
+  },
+  {
+    "id": 658,
+    "fact": "Celtic art included the use of elaborate mirror designs, which were often decorated with complex and beautiful metalwork."
+  },
+  {
+    "id": 659,
+    "fact": "The ancient Sri Lankan hospital system was evidence of a government that cared for the welfare and health of its citizens."
+  },
+  {
+    "id": 660,
+    "fact": "Goryeo celadon was admired throughout East Asia, with Chinese potters attempting to imitate its unique style and quality."
+  },
+  {
+    "id": 661,
+    "fact": "Water clocks were not only for time but also for demonstrating the astronomical precision required in royal Chinese courts."
+  },
+  {
+    "id": 662,
+    "fact": "The standardization of weights in the Indus Valley was a sign of a highly ordered and integrated trading economy."
+  },
+  {
+    "id": 663,
+    "fact": "Urartu was an ancient kingdom that excelled at building large stone fortresses to protect their high-altitude settlements."
+  },
+  {
+    "id": 664,
+    "fact": "Gunpowder was a Chinese invention that initially surprised many across the world when its power was finally unleashed in war."
+  },
+  {
+    "id": 665,
+    "fact": "Venice’s lagoon location provided a natural defense, allowing the city to focus its wealth on maritime trade rather than land armies."
+  },
+  {
+    "id": 666,
+    "fact": "The city of Knossos on Crete is often associated with the legend of the Minotaur, reflecting the palace's complex layout."
+  },
+  {
+    "id": 667,
+    "fact": "Hittite iron production was a carefully guarded secret that gave them a massive military advantage in the Bronze Age."
+  },
+  {
+    "id": 668,
+    "fact": "The Inca Empire managed its resources through the use of 'mit'a,' a system of forced labor that maintained roads and buildings."
+  },
+  {
+    "id": 669,
+    "fact": "The Mali Empire's ruler, Mansa Musa, is famous for his pilgrimage to Mecca, during which he distributed gold to the poor."
+  },
+  {
+    "id": 670,
+    "fact": "The Pantheon's dome in Rome was constructed using lighter materials at the top to ensure the structure wouldn't collapse."
+  },
+  {
+    "id": 671,
+    "fact": "The Phoenician alphabet was so simple compared to cuneiform that it encouraged the spread of literacy among merchants."
+  },
+  {
+    "id": 672,
+    "fact": "Mayan astronomy was so accurate that they could predict solar eclipses and the cycles of the planet Venus."
+  },
+  {
+    "id": 673,
+    "fact": "The Heian period in Japan is often called the golden age of Japanese culture, characterized by elegant literature and art."
+  },
+  {
+    "id": 674,
+    "fact": "Han Dynasty seismoscopes were remarkably simple yet effective, showing how advanced Chinese technology was at the time."
+  },
+  {
+    "id": 675,
+    "fact": "Ancient Egyptian doctors had a system for treating infections using moldy bread, which contains natural antibiotic properties."
+  },
+  {
+    "id": 676,
+    "fact": "Aksumite coins are a major historical source for understanding the rulers and economic strength of the ancient kingdom."
+  },
+  {
+    "id": 677,
+    "fact": "Inca quipu masters, or 'quipucamayocs,' were essential for managing the empire’s complex logistical and economic data."
+  },
+  {
+    "id": 678,
+    "fact": "Ibn Battuta’s accounts include detailed descriptions of the customs, food, and social structures of many diverse societies."
+  },
+  {
+    "id": 679,
+    "fact": "The Code of Hammurabi reflected the values of ancient Mesopotamian society, focusing on justice and social order."
+  },
+  {
+    "id": 680,
+    "fact": "The House of Wisdom in Baghdad is a symbol of the intellectual openness of the Islamic Golden Age."
+  },
+  {
+    "id": 681,
+    "fact": "The Venetian Senate used its wealth to fund art, architecture, and exploration, making the city a center for the Renaissance."
+  },
+  {
+    "id": 682,
+    "fact": "Polynesian stick charts were a masterclass in reading the environment, showing how indigenous peoples understood ocean dynamics."
+  },
+  {
+    "id": 683,
+    "fact": "The Forbidden City was the center of Chinese government for 500 years, symbolizing the absolute power of the Emperor."
+  },
+  {
+    "id": 684,
+    "fact": "Hittite chariot warfare allowed them to project power over long distances, dominating their neighbors in the Levant."
+  },
+  {
+    "id": 685,
+    "fact": "The Rosetta Stone was discovered by soldiers during Napoleon’s Egyptian campaign, leading to its eventual study by scholars."
+  },
+  {
+    "id": 686,
+    "fact": "Song Dynasty printing allowed knowledge to circulate among the broader population, not just the elite ruling class."
+  },
+  {
+    "id": 687,
+    "fact": "Minoan society was surprisingly egalitarian for the Bronze Age, with women playing a major role in religious and social life."
+  },
+  {
+    "id": 688,
+    "fact": "Angkor Wat's scale and detail highlight the intense labor and organizational power of the Khmer Empire."
+  },
+  {
+    "id": 689,
+    "fact": "Aztec chinampas were an environmental marvel that allowed a city of hundreds of thousands to thrive in a lake."
+  },
+  {
+    "id": 690,
+    "fact": "The Kingdom of Kush’s pyramids remain a testament to their strength, built when their power was rivaling that of Egypt."
+  },
+  {
+    "id": 691,
+    "fact": "The Silk Road was the first real example of global trade, linking distant markets and cultures across the Eurasian continent."
+  },
+  {
+    "id": 692,
+    "fact": "The Battle of Kadesh shows how ancient civilizations kept records to highlight their perceived victories."
+  },
+  {
+    "id": 693,
+    "fact": "Medieval universities were the primary source for the preservation and study of classical knowledge in Europe."
+  },
+  {
+    "id": 694,
+    "fact": "The Silla Kingdom’s bone-rank system was deeply ingrained in Korean society, making social mobility almost impossible."
+  },
+  {
+    "id": 695,
+    "fact": "Mechanical clocks made it possible for workers to have a synchronized day, fundamentally changing labor habits."
+  },
+  {
+    "id": 696,
+    "fact": "Olmec artifacts often include small jade figures, showing their advanced skill in carving hard gemstones."
+  },
+  {
+    "id": 697,
+    "fact": "The Magna Carta was one of the first documents to limit the monarch's power, setting a global precedent for rights."
+  },
+  {
+    "id": 698,
+    "fact": "Chola bronzes were made using the lost-wax casting technique, which allowed for incredible detail in sculpture."
+  },
+  {
+    "id": 699,
+    "fact": "Archimedes' water screw is an example of ancient mechanical genius that served practical needs for thousands of years."
+  },
+  {
+    "id": 700,
+    "fact": "Petra's water management system is a desert engineering miracle, showing how societies can adapt to extreme environments."
+  },
+  {
+    "id": 701,
+    "fact": "Carthage’s navy was so strong it once dominated the entire western Mediterranean, setting the stage for war with Rome."
+  },
+  {
+    "id": 702,
+    "fact": "The Silk Road acted as a highway for the transmission of world religions like Buddhism, Islam, and Christianity."
+  },
+  {
+    "id": 703,
+    "fact": "The Bayeux Tapestry is a historical treasure that gives us a look at 11th-century weapons, clothes, and ship styles."
+  },
+  {
+    "id": 704,
+    "fact": "Byzantine art, especially mosaics, influenced religious art throughout the Christian world for many centuries."
+  },
+  {
+    "id": 705,
+    "fact": "Blaise Pascal’s work on calculating machines was one of the first steps toward the eventual development of the computer."
+  },
+  {
+    "id": 706,
+    "fact": "Cuneiform is the oldest known writing system, evolving from pictures of items to abstract symbols on clay."
+  },
+  {
+    "id": 707,
+    "fact": "The Agojie were so well-trained that they were feared by their neighbors and played a key role in Dahomey's success."
+  },
+  {
+    "id": 708,
+    "fact": "The astrolabe was the most important tool for early astronomers, helping them map the sky with remarkable accuracy."
+  },
+  {
+    "id": 709,
+    "fact": "Aztec society was highly stratified, with a clear distinction between the nobility, the middle class, and the peasantry."
+  },
+  {
+    "id": 710,
+    "fact": "Mohenjo-daro’s brick technology was so robust that they survived in the humid, tropical climate for thousands of years."
+  },
+  {
+    "id": 711,
+    "fact": "The Sassanid Empire’s administrative system was so effective that it was adopted by the later Islamic caliphates."
+  },
+  {
+    "id": 712,
+    "fact": "The magnetic compass changed global travel by removing the reliance on clear skies for orientation at sea."
+  },
+  {
+    "id": 713,
+    "fact": "Sutton Hoo is a masterpiece of archaeology, revealing that early England was part of a broader, interconnected European network."
+  },
+  {
+    "id": 714,
+    "fact": "The Mamluks maintained a rigid training regime, producing some of the most effective cavalry warriors of the medieval era."
+  },
+  {
+    "id": 715,
+    "fact": "Caral-Supe’s influence extended to the coast of Peru, where they traded inland products for fish and sea resources."
+  },
+  {
+    "id": 716,
+    "fact": "Paper money made trade much easier in China, especially in markets where high-volume transactions were common."
+  },
+  {
+    "id": 717,
+    "fact": "Tikal’s urban center is surrounded by miles of agricultural terracing, showing how they sustained a large city in the rainforest."
+  },
+  {
+    "id": 718,
+    "fact": "Sushruta’s work on plastic surgery was so ahead of its time that it was only rediscovered and practiced in Europe much later."
+  },
+  {
+    "id": 719,
+    "fact": "Ragusa’s independence was maintained by its strategic use of tribute, effectively paying off stronger neighbors to stay free."
+  },
+  {
+    "id": 720,
+    "fact": "Persian windmills are a perfect example of how ancient people adapted technology to their specific local environments."
+  },
+  {
+    "id": 721,
+    "fact": "Samurai warriors valued discipline and skill above all, making them the most feared soldiers in Japan for centuries."
+  },
+  {
+    "id": 722,
+    "fact": "Galileo’s research into physics, particularly on falling bodies, helped lay the groundwork for modern scientific observation."
+  },
+  {
+    "id": 723,
+    "fact": "The Kingdom of Mutapa’s gold was essential for trade with coastal Swahili merchants, linking Africa to the Indian Ocean economy."
+  },
+  {
+    "id": 724,
+    "fact": "Alexander the Great’s siege of Tyre proved that there were few barriers to a determined army and a brilliant engineer."
+  },
+  {
+    "id": 725,
+    "fact": "Timbuktu’s scholars worked in many languages, including Arabic, making the city a hub for regional communication."
+  },
+  {
+    "id": 726,
+    "fact": "The Hittite-Egyptian peace treaty was the first to recognize mutual sovereignty and cooperation between two superpowers."
+  },
+  {
+    "id": 727,
+    "fact": "The stirrup was the catalyst for the rise of the feudal system, as knights needed land to support the cost of their gear."
+  },
+  {
+    "id": 728,
+    "fact": "Axum’s strategic location allowed it to dominate the Red Sea trade, bringing wealth and cultural exchange to Ethiopia."
+  },
+  {
+    "id": 729,
+    "fact": "Roman roads were designed to connect the center of the empire to the most remote frontiers, facilitating trade and defense."
+  },
+  {
+    "id": 730,
+    "fact": "Viking sagas are the reason we know so much about the social, religious, and personal lives of the Norse people."
+  },
+  {
+    "id": 731,
+    "fact": "Athenian democracy was an experiment that showed how a society could govern itself, even if imperfectly."
+  },
+  {
+    "id": 732,
+    "fact": "Mechanical clocks taught societies to value precise time, a change that eventually enabled the industrial revolution."
+  },
+  {
+    "id": 733,
+    "fact": "Scythian animal-style art shows the close connection between nomads and the creatures of their environment."
+  },
+  {
+    "id": 734,
+    "fact": "Pagan was a Buddhist paradise that grew from a small settlement into a kingdom of immense spiritual and architectural wealth."
+  },
+  {
+    "id": 735,
+    "fact": "Teotihuacan’s influence is visible in many later cities in Mexico, which adopted the same grid patterns and architectural styles."
+  },
+  {
+    "id": 736,
+    "fact": "The Code of Justinian ensured that Roman legal principles would survive long after the fall of the empire itself."
+  },
+  {
+    "id": 737,
+    "fact": "Camel caravans were essential for survival in the Sahara, providing both transport and a reliable way to carry water."
+  },
+  {
+    "id": 738,
+    "fact": "The sexagesimal system proves that math wasn't just abstract, but a tool developed to solve real-world problems like timekeeping."
+  },
+  {
+    "id": 739,
+    "fact": "Cowrie shells were a perfect form of currency because they were rare enough to be valuable but common enough to trade."
+  },
+  {
+    "id": 740,
+    "fact": "Anaximander of Miletus was the first person to hypothesize that the earth was a sphere, challenging flat-earth beliefs."
+  },
+  {
+    "id": 741,
+    "fact": "Kanem-Bornu’s military was so elite that they could project power deep into the Sahara, protecting their trade routes."
+  },
+  {
+    "id": 742,
+    "fact": "The spinning wheel accelerated production so much that the textile industry became the engine of European economic growth."
+  },
+  {
+    "id": 743,
+    "fact": "The Great Library of Alexandria was the ultimate destination for scholars looking to access the wisdom of the ancient world."
+  },
+  {
+    "id": 744,
+    "fact": "The Toltecs were known for their military prowess, and their warriors were often depicted in monumental statuary."
+  },
+  {
+    "id": 745,
+    "fact": "Viking longships allowed for the rapid exploration of the North Atlantic, leading to settlements in Iceland and Greenland."
+  },
+  {
+    "id": 746,
+    "fact": "Champa kings were great patrons of art, with many temples decorated with elaborate stone carvings of Hindu deities."
+  },
+  {
+    "id": 747,
+    "fact": "Eyeglasses were so important that they are often mentioned in medieval wills as valuable items to be passed down."
+  },
+  {
+    "id": 748,
+    "fact": "Celtic art shows an incredible mastery of bronze-working, especially in the creation of ornamental brooches and shields."
+  },
+  {
+    "id": 749,
+    "fact": "Ancient Sri Lanka's hospital system proved that early civilizations could prioritize the health of their entire population."
+  },
+  {
+    "id": 750,
+    "fact": "Goryeo celadon was a technical triumph, as potters had to master high-temperature firing to achieve the desired glaze."
+  },
+  {
+    "id": 751,
+    "fact": "Water clocks were used in royal courts to signal important times for ritual activities and official announcements."
+  },
+  {
+    "id": 752,
+    "fact": "The Indus Valley civilization’s trade reached as far as Mesopotamia, proving the extent of their economic reach."
+  },
+  {
+    "id": 753,
+    "fact": "Urartu was a master of mountain building, constructing massive fortresses and roads in one of the most rugged regions of Asia."
+  },
+  {
+    "id": 754,
+    "fact": "Gunpowder changed the nature of warfare forever, leading to the development of early cannons and stronger fortifications."
+  },
+  {
+    "id": 755,
+    "fact": "Venice’s naval strength made it the preeminent power in the eastern Mediterranean for centuries."
+  },
+  {
+    "id": 756,
+    "fact": "Knossos Palace’s complex architecture likely inspired the legend of the Minotaur’s labyrinth."
+  },
+  {
+    "id": 757,
+    "fact": "Hittite iron was once so rare and valuable that it was often used for royal gifts between great kings."
+  },
+  {
+    "id": 758,
+    "fact": "The Inca Empire’s success was based on their ability to manage a vast, diverse population through centralized planning."
+  },
+  {
+    "id": 759,
+    "fact": "Mansa Musa’s pilgrimage to Mecca put the Mali Empire on European maps and showed its immense wealth to the world."
+  },
+  {
+    "id": 760,
+    "fact": "The Pantheon’s architecture proves that Roman engineering reached levels of sophistication that weren't seen again for centuries."
+  },
+  {
+    "id": 761,
+    "fact": "The Phoenician alphabet was so effective that it remains the basis for most Western writing systems today."
+  },
+  {
+    "id": 762,
+    "fact": "Mayan astronomy allowed them to time their agricultural activities perfectly, ensuring their survival in a challenging climate."
+  },
+  {
+    "id": 763,
+    "fact": "Heian literature, such as the 'Pillow Book,' offers a rare, personal view of life in the Japanese imperial court."
+  },
+  {
+    "id": 764,
+    "fact": "The Han seismoscope demonstrates how ancient observers turned nature into an early system for alert and disaster detection."
+  },
+  {
+    "id": 765,
+    "fact": "Egyptian medical knowledge was a blend of science and ritual, showing their holistic approach to human health."
+  },
+  {
+    "id": 766,
+    "fact": "Aksumite gold coins were the standard currency of the Horn of Africa, facilitating trade with the Roman world."
+  },
+  {
+    "id": 767,
+    "fact": "Quipu were not just records of numbers, but potentially a form of tactile communication that we still don't fully understand."
+  },
+  {
+    "id": 768,
+    "fact": "Ibn Battuta’s travels show how interconnected the world of the 14th century was through trade and religion."
+  },
+  {
+    "id": 769,
+    "fact": "Hammurabi’s code set the standard for laws in Mesopotamia, focusing on fairness in property and criminal disputes."
+  },
+  {
+    "id": 770,
+    "fact": "The House of Wisdom was a center for all scientific inquiry, from algebra to medicine and optics."
+  },
+  {
+    "id": 771,
+    "fact": "Venice was a pioneer in commercial law, creating rules for contracts and insurance that modern business still follows."
+  },
+  {
+    "id": 772,
+    "fact": "Stick charts are a brilliant example of how indigenous knowledge can map environmental phenomena like currents and swells."
+  },
+  {
+    "id": 773,
+    "fact": "The Forbidden City represents the peak of Chinese imperial architectural design, focused on harmony and cosmic order."
+  },
+  {
+    "id": 774,
+    "fact": "Hittite chariot technology was so advanced that it was highly sought after by neighboring kings for their own armies."
+  },
+  {
+    "id": 775,
+    "fact": "The Rosetta Stone was the key that unlocked the secrets of ancient Egypt, allowing its history to finally be read."
+  },
+  {
+    "id": 776,
+    "fact": "Song Dynasty printing was so efficient that it could produce thousands of copies of a book in a relatively short time."
+  },
+  {
+    "id": 777,
+    "fact": "Minoan civilization’s focus on the sea allowed them to create a unique, vibrant, and prosperous society on Crete."
+  },
+  {
+    "id": 778,
+    "fact": "Angkor Wat’s design represents the Khmer belief in a universe centered around a divine peak, expressed through stone."
+  },
+  {
+    "id": 779,
+    "fact": "Chinampas were so productive that they allowed the Aztecs to sustain a massive urban population with very little land."
+  },
+  {
+    "id": 780,
+    "fact": "Kushite pyramids were the final resting places for kings and queens who ruled a powerful African empire."
+  },
+  {
+    "id": 781,
+    "fact": "The Silk Road trade helped bring the world closer together by sharing culture, religion, and technologies like paper."
+  },
+  {
+    "id": 782,
+    "fact": "The Battle of Kadesh highlighted how empires used grand storytelling to project power and military success to their people."
+  },
+  {
+    "id": 783,
+    "fact": "Medieval universities were the foundation for the development of modern science and philosophy in the West."
+  },
+  {
+    "id": 784,
+    "fact": "The Silla Kingdom’s bone-rank system shows how social class was once strictly enforced through laws and customs."
+  },
+  {
+    "id": 785,
+    "fact": "Mechanical clocks made it easier for societies to organize large-scale activities, like farming, trade, and even education."
+  },
+  {
+    "id": 786,
+    "fact": "Olmec stone carving reached such high quality that their influence can be seen in many later Mesoamerican cultures."
+  },
+  {
+    "id": 787,
+    "fact": "The Magna Carta serves as a reminder that the struggle for individual rights has been ongoing for centuries."
+  },
+  {
+    "id": 788,
+    "fact": "Chola bronzes remain some of the finest examples of metalwork from the ancient world, known for their grace and detail."
+  },
+  {
+    "id": 789,
+    "fact": "Archimedes' water screw is an example of an invention that was so simple yet so impactful for human survival."
+  },
+  {
+    "id": 790,
+    "fact": "Petra is a testament to how human ingenuity can transform even the most barren desert into a thriving center of trade."
+  },
+  {
+    "id": 791,
+    "fact": "Carthage’s navy was its strength, allowing it to control the resources of the sea for trade and military power."
+  },
+  {
+    "id": 792,
+    "fact": "The Silk Road was the primary route for the exchange of spices, which were worth as much as gold in many markets."
+  },
+  {
+    "id": 793,
+    "fact": "The Bayeux Tapestry is a masterclass in visual storytelling, detailing the events of the Norman invasion of England."
+  },
+  {
+    "id": 794,
+    "fact": "Byzantine art was the gold standard for religious beauty, influencing icons and frescoes throughout the Christian East."
+  },
+  {
+    "id": 795,
+    "fact": "Pascal’s calculator showed how math could be mechanical, a revolutionary idea for the scientists of his day."
+  },
+  {
+    "id": 796,
+    "fact": "Cuneiform writing allowed for the growth of large, complex societies that needed to track resources and laws."
+  },
+  {
+    "id": 797,
+    "fact": "The Agojie were one of the few all-female armies in history, and their military prowess was recognized worldwide."
+  },
+  {
+    "id": 798,
+    "fact": "The astrolabe enabled the age of exploration by giving sailors the tools they needed to cross open, uncharted waters."
+  },
+  {
+    "id": 799,
+    "fact": "Aztec social order was carefully structured, ensuring that every citizen had a place and a purpose in society."
+  },
+  {
+    "id": 800,
+    "fact": "Mohenjo-daro’s grid layout remains one of the best examples of how early humans understood urban planning."
+  },
+  {
+    "id": 801,
+    "fact": "The Sassanid Empire’s culture and administration left a lasting mark on the development of Islamic society."
+  },
+  {
+    "id": 802,
+    "fact": "The magnetic compass was so essential that it eventually became the standard for all seafaring ships in the world."
+  },
+  {
+    "id": 803,
+    "fact": "Sutton Hoo shows that the Anglo-Saxon culture was not merely 'dark,' but rich, artistic, and socially complex."
+  },
+  {
+    "id": 804,
+    "fact": "The Mamluks used their military might to defend the Islamic world against the Mongol threat in the 13th century."
+  },
+  {
+    "id": 805,
+    "fact": "Caral-Supe’s influence on later Andean cultures shows how fundamental their social structure was to the region."
+  },
+  {
+    "id": 806,
+    "fact": "Paper money transformed the way trade was conducted, allowing for faster and more complex economic transactions."
+  },
+  {
+    "id": 807,
+    "fact": "Tikal is home to the Temple of the Masks, one of the most important religious structures in Mayan history."
+  },
+  {
+    "id": 808,
+    "fact": "Sushruta’s work in medicine is so foundational that many modern surgical techniques have roots in his ancient practices."
+  },
+  {
+    "id": 809,
+    "fact": "Ragusa’s survival as an independent state was a diplomatic masterpiece, balancing interests for over 400 years."
+  },
+  {
+    "id": 810,
+    "fact": "Persian windmills proved that even in dry, windy landscapes, human innovation could solve energy problems."
+  },
+  {
+    "id": 811,
+    "fact": "Samurai culture is an example of how a military class can also become a beacon of refined art and philosophy."
+  },
+  {
+    "id": 812,
+    "fact": "Galileo’s discoveries were so radical that they shifted the entire focus of science toward observation and experiment."
+  },
+  {
+    "id": 813,
+    "fact": "Mutapa gold trade was so vital that it attracted interest from various European powers during the Age of Discovery."
+  },
+  {
+    "id": 814,
+    "fact": "Alexander the Great’s engineering skills were just as important as his tactical genius on the battlefield."
+  },
+  {
+    "id": 815,
+    "fact": "Timbuktu’s manuscripts were such valuable treasures that they were often hidden by families to save them from conflict."
+  },
+  {
+    "id": 816,
+    "fact": "The Hittite-Egyptian treaty is a reminder that diplomacy has always been a key tool in maintaining order between empires."
+  },
+  {
+    "id": 817,
+    "fact": "The stirrup shifted power from foot soldiers to elite horse-mounted warriors, creating the foundations of chivalry."
+  },
+  {
+    "id": 818,
+    "fact": "Axum’s control of trade routes helped it become a meeting place for cultures from Africa, Arabia, and the Mediterranean."
+  },
+  {
+    "id": 819,
+    "fact": "Roman roads were the internet of the ancient world, connecting the empire and enabling the rapid spread of news."
+  },
+  {
+    "id": 820,
+    "fact": "Viking sagas remind us that history is often recorded through stories, blending fact and memory into a rich tapestry."
+  },
+  {
+    "id": 821,
+    "fact": "Athenian democracy proved that a population could rule itself, though it remained limited by the customs of the time."
+  },
+  {
+    "id": 822,
+    "fact": "Mechanical clocks turned time from something natural into something measurable, changing the nature of work forever."
+  },
+  {
+    "id": 823,
+    "fact": "Scythian animal art shows that their culture was deeply rooted in the natural world they moved through daily."
+  },
+  {
+    "id": 824,
+    "fact": "Pagan remains an iconic symbol of Buddhist piety and the incredible artistic expression of medieval Burma."
+  },
+  {
+    "id": 825,
+    "fact": "Teotihuacan remains a mystery, as we still don't know the exact language or ethnic origins of its builders."
+  },
+  {
+    "id": 826,
+    "fact": "The Code of Justinian influenced the legal frameworks of many modern nations, focusing on structure and clarity."
+  },
+  {
+    "id": 827,
+    "fact": "Camel caravans carried not just goods, but people, ideas, and religions across the harshest landscapes on earth."
+  },
+  {
+    "id": 828,
+    "fact": "The sexagesimal system of 60 is a lasting legacy of Sumerian math, still regulating our lives every second of the day."
+  },
+  {
+    "id": 829,
+    "fact": "Cowrie shells show how something as simple as a seashell could serve as a reliable, portable, and universal currency."
+  },
+  {
+    "id": 830,
+    "fact": "Anaximander’s early science was a massive leap, moving away from mythology toward understanding the physical world."
+  },
+  {
+    "id": 831,
+    "fact": "Kanem-Bornu’s long-lasting power was due to its ability to control the intersection of several key trade networks."
+  },
+  {
+    "id": 832,
+    "fact": "The spinning wheel made cloth affordable for common people, significantly improving the standard of living in the Middle Ages."
+  },
+  {
+    "id": 833,
+    "fact": "The Great Library of Alexandria was the ultimate realization of the dream to collect and preserve human knowledge."
+  },
+  {
+    "id": 834,
+    "fact": "Toltec influence in Mexico was so profound that their warrior tradition became the model for many later dynasties."
+  },
+  {
+    "id": 835,
+    "fact": "Viking longships are remembered as the pinnacle of maritime technology, combining speed, stability, and versatility."
+  },
+  {
+    "id": 836,
+    "fact": "Champa temple towers are still admired today for their brick-laying technique, which used no mortar and stands firm."
+  },
+  {
+    "id": 837,
+    "fact": "Eyeglasses changed the lives of millions, allowing people to continue contributing their skills into their later years."
+  },
+  {
+    "id": 838,
+    "fact": "Celtic art is recognized for its intricate patterns and use of bronze, reflecting a high level of technical mastery."
+  },
+  {
+    "id": 839,
+    "fact": "Ancient Sri Lanka's healthcare system remains one of the best examples of a state-funded welfare program in history."
+  },
+  {
+    "id": 840,
+    "fact": "Goryeo celadon was so unique that the recipe for its glaze was a secret closely guarded by royal potters."
+  },
+  {
+    "id": 841,
+    "fact": "Water clocks showed how the ancients understood precision, using gravity and flow to keep time reliably."
+  },
+  {
+    "id": 842,
+    "fact": "The Indus Valley civilization’s trade network reached across the Arabian Sea, connecting them to distant markets."
+  },
+  {
+    "id": 843,
+    "fact": "Urartu’s mountain fortresses were masterworks of defensive engineering, designed to stand firm against any siege."
+  },
+  {
+    "id": 844,
+    "fact": "Gunpowder changed the way cities were defended, as older stone walls became vulnerable to modern artillery fire."
+  },
+  {
+    "id": 845,
+    "fact": "Venice’s lagoon location was the secret to its success, protecting it from invasion while enabling maritime power."
+  },
+  {
+    "id": 846,
+    "fact": "Knossos Palace’s layout was so confusing it became the source of the labyrinth myth in Greek literature."
+  },
+  {
+    "id": 847,
+    "fact": "Hittite iron was once so rare that kings would trade gold, horses, and luxury goods just to get a small amount."
+  },
+  {
+    "id": 848,
+    "fact": "Inca management of the Andes shows that even the most extreme geography can be conquered through intelligent planning."
+  },
+  {
+    "id": 849,
+    "fact": "Mansa Musa’s influence was so great that his pilgrimage caused the price of gold to drop in Egypt for years."
+  },
+  {
+    "id": 850,
+    "fact": "The Pantheon’s concrete dome is a masterpiece that highlights the Romans' deep understanding of materials and load-bearing."
+  },
+  {
+    "id": 851,
+    "fact": "The Phoenician alphabet was so logical that it could be learned in a fraction of the time needed for cuneiform."
+  },
+  {
+    "id": 852,
+    "fact": "Mayan agriculture was highly advanced, with terraced fields and complex irrigation protecting them from drought."
+  },
+  {
+    "id": 853,
+    "fact": "Heian culture was defined by its focus on beauty, refinement, and poetry in every aspect of daily life."
+  },
+  {
+    "id": 854,
+    "fact": "The Han seismoscope proved that simple machines could serve complex purposes like disaster monitoring."
+  },
+  {
+    "id": 855,
+    "fact": "Ancient Egyptian doctors used honey to treat wounds because it has natural antibacterial and healing properties."
+  },
+  {
+    "id": 856,
+    "fact": "Aksumite coins helped consolidate power by creating a standard monetary system that all merchants could trust."
+  },
+  {
+    "id": 857,
+    "fact": "Quipu were not just for numbers, but represented a sophisticated way of handling data across a massive empire."
+  },
+  {
+    "id": 858,
+    "fact": "Ibn Battuta’s narrative is a testament to the curiosity and open-mindedness of the medieval traveler."
+  },
+  {
+    "id": 859,
+    "fact": "Hammurabi’s code remains one of the most important documents in history for understanding the rule of law."
+  },
+  {
+    "id": 860,
+    "fact": "The House of Wisdom was a symbol of how diverse cultures can work together to advance scientific discovery."
+  },
+  {
+    "id": 861,
+    "fact": "Venice’s political system was a complex balance of power that minimized the risk of a single tyrant taking control."
+  },
+  {
+    "id": 862,
+    "fact": "Stick charts demonstrate that ancient people were keen observers of nature, using every clue to navigate the open ocean."
+  },
+  {
+    "id": 863,
+    "fact": "The Forbidden City served as the ultimate expression of the Chinese emperor's divine authority and power."
+  },
+  {
+    "id": 864,
+    "fact": "Hittite chariot tactics were a military breakthrough that changed the face of war in the ancient world."
+  },
+  {
+    "id": 865,
+    "fact": "The Rosetta Stone was the key that unlocked the history of ancient Egypt for generations of scholars."
+  },
+  {
+    "id": 866,
+    "fact": "Song Dynasty printing sparked an intellectual revolution that helped spread ideas faster than ever before."
+  },
+  {
+    "id": 867,
+    "fact": "Minoan society was surprisingly modern in its focus on trade, art, and the freedom of its citizens."
+  },
+  {
+    "id": 868,
+    "fact": "Angkor Wat’s architecture shows how religion can inspire humanity to create monuments of incredible scale and beauty."
+  },
+  {
+    "id": 869,
+    "fact": "Chinampas were the engine of Aztec civilization, turning swampy land into the most productive farms in the world."
+  },
+  {
+    "id": 870,
+    "fact": "Kushite pyramids remind us that African empires were just as powerful and culturally advanced as their neighbors."
+  },
+  {
+    "id": 871,
+    "fact": "The Silk Road was the first global trade route, bridging the gap between East and West for the first time."
+  },
+  {
+    "id": 872,
+    "fact": "The Battle of Kadesh was a clash of empires that left an indelible mark on both Egyptian and Hittite records."
+  },
+  {
+    "id": 873,
+    "fact": "Medieval universities helped preserve and transmit the knowledge that would later spark the Renaissance."
+  },
+  {
+    "id": 874,
+    "fact": "The Silla Kingdom’s bone-rank system was a harsh, rigid reality that shaped every aspect of social life in Korea."
+  },
+  {
+    "id": 875,
+    "fact": "Mechanical clocks changed the human experience, turning time from a flow into a precise, countable commodity."
+  },
+  {
+    "id": 876,
+    "fact": "Olmec stone carving demonstrated a mastery of hard materials that set the standard for Mesoamerican sculpture."
+  },
+  {
+    "id": 877,
+    "fact": "The Magna Carta established the essential idea that a government must act according to the law."
+  },
+  {
+    "id": 878,
+    "fact": "Chola bronzes remain the gold standard for artistic metal casting, valued for their detail, grace, and symbolic power."
+  },
+  {
+    "id": 879,
+    "fact": "Archimedes' water screw is an example of ancient mechanical engineering that solved a real-world survival problem."
+  },
+  {
+    "id": 880,
+    "fact": "Petra’s engineering remains one of the world's great desert marvels, proving that water management is key to survival."
+  },
+  {
+    "id": 881,
+    "fact": "Carthage’s navy was so powerful it dominated the Mediterranean and forced the Roman Empire to innovate in naval warfare."
+  },
+  {
+    "id": 882,
+    "fact": "The Silk Road trade helped spread the world's great religions, changing the spiritual landscape of Asia."
+  },
+  {
+    "id": 883,
+    "fact": "The Bayeux Tapestry is a unique historical record that captures the drama of the Norman invasion in stunning detail."
+  },
+  {
+    "id": 884,
+    "fact": "Byzantine mosaics remain some of the most beautiful and influential examples of religious art in human history."
+  },
+  {
+    "id": 885,
+    "fact": "Blaise Pascal’s work on calculating machines was one of the early steps toward the computer age."
+  },
+  {
+    "id": 886,
+    "fact": "Cuneiform allowed for the management of large city-states, providing a system for tracking resources and legal codes."
+  },
+  {
+    "id": 887,
+    "fact": "The Agojie were feared by their neighbors and played a key role in the security and expansion of the Dahomey kingdom."
+  },
+  {
+    "id": 888,
+    "fact": "The astrolabe was a tool that changed how we see the stars, helping us map the night sky with precision."
+  },
+  {
+    "id": 889,
+    "fact": "Aztec social stratification meant everyone knew their place and role, maintaining stability in a large, urban society."
+  },
+  {
+    "id": 890,
+    "fact": "Mohenjo-daro’s grid system proves that urban planning is not just a modern invention, but an ancient one."
+  },
+  {
+    "id": 891,
+    "fact": "The Sassanid Empire’s administration created a model for effective government that lasted for hundreds of years."
+  },
+  {
+    "id": 892,
+    "fact": "The magnetic compass enabled a new age of discovery, opening up the world to faster and more reliable sea trade."
+  },
+  {
+    "id": 893,
+    "fact": "Sutton Hoo remains the best example of how rich and complex the early Anglo-Saxon period really was."
+  },
+  {
+    "id": 894,
+    "fact": "The Mamluks defended the Islamic world with a military state designed to produce elite, professional soldiers."
+  },
+  {
+    "id": 895,
+    "fact": "Caral-Supe’s society was based on trade and agriculture, with monumental buildings showing a sophisticated social order."
+  },
+  {
+    "id": 896,
+    "fact": "Paper money was the ultimate tool for expanding trade in China, allowing for quick, large-scale financial transactions."
+  },
+  {
+    "id": 897,
+    "fact": "Tikal is a monumental Mayan city that highlights the high level of organizational power needed to build in the rainforest."
+  },
+  {
+    "id": 898,
+    "fact": "Sushruta’s ancient surgical practices are still studied today for their ingenuity and practical, life-saving focus."
+  },
+  {
+    "id": 899,
+    "fact": "Ragusa’s survival as an independent republic was a model of diplomatic skill in a world dominated by huge empires."
+  },
+  {
+    "id": 900,
+    "fact": "Persian vertical-axis windmills show that innovation is often driven by the need to solve specific environmental problems."
+  },
+  {
+    "id": 901,
+    "fact": "The samurai culture was an example of how military training could be balanced with art, poetry, and meditation."
+  },
+  {
+    "id": 902,
+    "fact": "Galileo’s observations of the heavens fundamentally changed how humans understood their place in the universe."
+  },
+  {
+    "id": 903,
+    "fact": "Mutapa’s gold was the main driver for trade between southern Africa and the merchant cities of the Indian Ocean."
+  },
+  {
+    "id": 904,
+    "fact": "Alexander the Great’s engineering skills were a testament to his belief that nothing could stand in his way."
+  },
+  {
+    "id": 905,
+    "fact": "Timbuktu’s manuscripts are a priceless legacy of an era when the city was the heart of African scholarly culture."
+  },
+  {
+    "id": 906,
+    "fact": "The Hittite-Egyptian peace treaty was a landmark event that showed how two powers could choose cooperation over war."
+  },
+  {
+    "id": 907,
+    "fact": "The stirrup was the key invention that shifted the balance of military power in the Middle Ages."
+  },
+  {
+    "id": 908,
+    "fact": "Axum was a vibrant, multi-cultural state that thrived because it was a bridge between the African and Mediterranean worlds."
+  },
+  {
+    "id": 909,
+    "fact": "Roman road networks were the key to empire building, enabling trade, communication, and military movement."
+  },
+  {
+    "id": 910,
+    "fact": "Viking sagas are the heartbeat of Norse culture, blending memory and storytelling into a record of their lives."
+  },
+  {
+    "id": 911,
+    "fact": "Athenian democracy showed the potential for citizen participation, a concept that influenced the world's later governments."
+  },
+  {
+    "id": 912,
+    "fact": "Mechanical clocks transformed time from something fluid into something rigid and measurable, changing how humans work."
+  },
+  {
+    "id": 913,
+    "fact": "Scythian animal-style art captures the energy and tension of the natural world, reflecting the nomad’s lifestyle."
+  },
+  {
+    "id": 914,
+    "fact": "Pagan remains an iconic symbol of how spiritual devotion can inspire the creation of thousands of stone temples."
+  },
+  {
+    "id": 915,
+    "fact": "Teotihuacan was the largest city in the Americas for a time, serving as a hub of culture and religion for many groups."
+  },
+  {
+    "id": 916,
+    "fact": "The Code of Justinian ensured that Roman legal ideals survived, providing a foundation for modern legal systems."
+  },
+  {
+    "id": 917,
+    "fact": "Camels made the Sahara a traversable space, turning an empty desert into a busy highway of trade and culture."
+  },
+  {
+    "id": 918,
+    "fact": "The sexagesimal system of the Sumerians is a quiet, lasting contribution to how we organize every hour of our day."
+  },
+  {
+    "id": 919,
+    "fact": "Cowrie shells were the ideal currency, light enough to travel long distances yet rare enough to keep their value."
+  },
+  {
+    "id": 920,
+    "fact": "Anaximander’s early science was a move toward understanding the world through observation rather than myth."
+  },
+  {
+    "id": 921,
+    "fact": "Kanem-Bornu’s success lay in its control of the trade routes that linked the African interior to the world."
+  },
+  {
+    "id": 922,
+    "fact": "The spinning wheel made cloth affordable for millions, raising the standard of living across the late Middle Ages."
+  },
+  {
+    "id": 923,
+    "fact": "The Great Library of Alexandria was the ultimate goal of ancient scholarship: to hold all knowledge in one place."
+  },
+  {
+    "id": 924,
+    "fact": "Toltec influence in Mexico was a catalyst for later civilizations, with their warrior tradition setting a new standard."
+  },
+  {
+    "id": 925,
+    "fact": "Viking longships allowed them to travel vast distances, proving they were the best maritime explorers of their age."
+  },
+  {
+    "id": 926,
+    "fact": "Champa temple towers remain some of the best examples of mortarless brick construction in the tropical world."
+  },
+  {
+    "id": 927,
+    "fact": "Eyeglasses provided millions of people with a better quality of life, allowing them to remain productive in their older age."
+  },
+  {
+    "id": 928,
+    "fact": "Celtic art shows that ancient metalworkers were capable of extreme precision, crafting jewelry that is still beautiful."
+  },
+  {
+    "id": 929,
+    "fact": "Sri Lanka's ancient hospital system proves that concern for human health has always been a sign of a strong society."
+  },
+  {
+    "id": 930,
+    "fact": "Goryeo celadon was a technical achievement that required intense patience and mastery to perfect the signature glaze."
+  },
+  {
+    "id": 931,
+    "fact": "Water clocks showed that even early civilizations understood that time could be tracked with mechanical accuracy."
+  },
+  {
+    "id": 932,
+    "fact": "Indus Valley trade extended to Mesopotamia, demonstrating that global exchange was happening long before the modern era."
+  },
+  {
+    "id": 933,
+    "fact": "Urartu’s fortresses were designed to last, reflecting the skill of a people who mastered mountain building."
+  },
+  {
+    "id": 934,
+    "fact": "Gunpowder was a revolutionary force that ended the era of the stone castle and changed military strategy forever."
+  },
+  {
+    "id": 935,
+    "fact": "Venice’s lagoon served as both a refuge and a strategic base, making the city a maritime power without peer."
+  },
+  {
+    "id": 936,
+    "fact": "The palace of Knossos was the center of a wealthy maritime culture that traded throughout the Aegean sea."
+  },
+  {
+    "id": 937,
+    "fact": "Hittite iron was a closely guarded secret that allowed them to project military power far beyond their borders."
+  },
+  {
+    "id": 938,
+    "fact": "Inca administration was a masterpiece of planning, enabling a massive population to live across the Andes mountains."
+  },
+  {
+    "id": 939,
+    "fact": "Mansa Musa’s wealth was so legendary that it drew explorers and traders from across Europe and the Islamic world."
+  },
+  {
+    "id": 940,
+    "fact": "The Pantheon’s concrete design shows how Roman ingenuity could overcome the limits of traditional building materials."
+  },
+  {
+    "id": 941,
+    "fact": "The Phoenician alphabet was a gift to the world, making writing accessible and simple for everyone to learn."
+  },
+  {
+    "id": 942,
+    "fact": "Mayan agriculture, through terracing and water management, was a key to their enduring civilization in the rainforest."
+  },
+  {
+    "id": 943,
+    "fact": "Heian culture prioritized the pursuit of beauty, which created a unique, refined style of art and literature."
+  },
+  {
+    "id": 944,
+    "fact": "The Han seismoscope was an early warning system that highlighted the advanced observation skills of the Chinese court."
+  },
+  {
+    "id": 945,
+    "fact": "Ancient Egyptian medicine used natural resources like honey to treat infections, showing an understanding of healing."
+  },
+  {
+    "id": 946,
+    "fact": "Aksumite coins were a way of projecting power, showing rulers’ faces and symbols to merchants across the world."
+  },
+  {
+    "id": 947,
+    "fact": "Quipu were the information system of the Inca, holding records of everything from population to tax data."
+  },
+  {
+    "id": 948,
+    "fact": "Ibn Battuta’s narrative gives us a window into a world where trade and faith connected people across continents."
+  },
+  {
+    "id": 949,
+    "fact": "Hammurabi’s code was a landmark in the history of justice, aiming to create a fair and ordered society."
+  },
+  {
+    "id": 950,
+    "fact": "The House of Wisdom was a place where Greek, Indian, and Persian ideas were brought together and expanded upon."
+  },
+  {
+    "id": 951,
+    "fact": "Venice’s complex government was designed to prevent any one person from becoming powerful enough to rule alone."
+  },
+  {
+    "id": 952,
+    "fact": "Stick charts are a powerful example of how humans can interpret complex environmental patterns for navigation."
+  },
+  {
+    "id": 953,
+    "fact": "The Forbidden City is the perfect example of Chinese imperial architecture, focused on harmony and central authority."
+  },
+  {
+    "id": 954,
+    "fact": "Hittite chariot tactics changed warfare in the ancient world by creating a highly mobile and lethal force."
+  },
+  {
+    "id": 955,
+    "fact": "The Rosetta Stone was the key that unlocked the secrets of ancient Egyptian history for the modern world."
+  },
+  {
+    "id": 956,
+    "fact": "Song Dynasty printing made information accessible to a wider audience, which helped spread science and literacy."
+  },
+  {
+    "id": 957,
+    "fact": "Minoan society was surprisingly focused on beauty, trade, and the relative freedom of their citizens."
+  },
+  {
+    "id": 958,
+    "fact": "Angkor Wat’s design illustrates the Khmer belief that monuments should mirror the cosmic order of the universe."
+  },
+  {
+    "id": 959,
+    "fact": "Chinampas were the key to the Aztec rise to power, providing food for the city and enabling rapid growth."
+  },
+  {
+    "id": 960,
+    "fact": "Kushite pyramids were more than tombs—they were powerful statements of their kingdom's strength and endurance."
+  },
+  {
+    "id": 961,
+    "fact": "The Silk Road trade helped build bridges between cultures, allowing the exchange of technology, language, and art."
+  },
+  {
+    "id": 962,
+    "fact": "The Battle of Kadesh was an event that both Egypt and the Hittites claimed to win, showing the power of historical narrative."
+  },
+  {
+    "id": 963,
+    "fact": "Medieval universities were the primary source of knowledge that eventually laid the groundwork for the modern age."
+  },
+  {
+    "id": 964,
+    "fact": "The Silla Kingdom’s rigid caste system left a lasting mark on Korean social structure for hundreds of years."
+  },
+  {
+    "id": 965,
+    "fact": "Mechanical clocks made it easier for societies to plan and coordinate their lives, leading to greater productivity."
+  },
+  {
+    "id": 966,
+    "fact": "Olmec stone carving was a masterpiece of precision, reflecting the high status of their rulers and their deities."
+  },
+  {
+    "id": 967,
+    "fact": "The Magna Carta established the idea that government power has limits, an essential principle for modern rights."
+  },
+  {
+    "id": 968,
+    "fact": "Chola bronzes were some of the most beautiful metal sculptures, known for their movement, detail, and spiritual depth."
+  },
+  {
+    "id": 969,
+    "fact": "Archimedes' water screw is an example of an ancient solution that was so simple it lasted for millennia."
+  },
+  {
+    "id": 970,
+    "fact": "Petra’s water management shows how societies can use ingenuity to thrive in even the most barren desert environment."
+  },
+  {
+    "id": 971,
+    "fact": "Carthage’s naval power forced Rome to change its own military strategies, leading to the development of naval warfare."
+  },
+  {
+    "id": 972,
+    "fact": "The Silk Road trade allowed the world’s great religions to travel across continents, leaving a spiritual impact everywhere."
+  },
+  {
+    "id": 973,
+    "fact": "The Bayeux Tapestry is a unique and irreplaceable look at 11th-century life, warfare, and political change."
+  },
+  {
+    "id": 974,
+    "fact": "Byzantine art, especially its golden mosaics, was the most influential religious art of the medieval world."
+  },
+  {
+    "id": 975,
+    "fact": "Blaise Pascal’s work on calculating machines was one of the early steps on the path toward the modern computer."
+  },
+  {
+    "id": 976,
+    "fact": "Cuneiform writing provided a structure for society to manage its resources, laws, and history for centuries."
+  },
+  {
+    "id": 977,
+    "fact": "The Agojie were an example of how female soldiers could be elite, feared, and critical to a kingdom's survival."
+  },
+  {
+    "id": 978,
+    "fact": "The astrolabe was the most important tool for early astronomers, helping them track the stars with incredible precision."
+  },
+  {
+    "id": 979,
+    "fact": "Aztec social order was a system that ensured stability by giving everyone a clear role to play in the city."
+  },
+  {
+    "id": 980,
+    "fact": "Mohenjo-daro’s grid system remains one of the best examples of how early humans understood the needs of urban life."
+  },
+  {
+    "id": 981,
+    "fact": "The Sassanid Empire left a lasting mark on Persian administration and culture that influenced the later caliphates."
+  },
+  {
+    "id": 982,
+    "fact": "The magnetic compass enabled sailors to travel far beyond their familiar waters with confidence and reliability."
+  },
+  {
+    "id": 983,
+    "fact": "Sutton Hoo shows that the Anglo-Saxon period was rich with complex trade, high art, and deep social organization."
+  },
+  {
+    "id": 984,
+    "fact": "The Mamluks created a military state where professional soldiers ruled, defending the region against outside threats."
+  },
+  {
+    "id": 985,
+    "fact": "Caral-Supe was a center of social and economic life that influenced later Andean civilizations for thousands of years."
+  },
+  {
+    "id": 986,
+    "fact": "Paper money transformed the speed of trade, allowing for complex financial deals to be made across large distances."
+  },
+  {
+    "id": 987,
+    "fact": "Tikal is a testament to the organizational power of the Maya, who built a city in the middle of the jungle."
+  },
+  {
+    "id": 988,
+    "fact": "Sushruta’s ancient surgical work was so practical that many of his methods have been rediscovered in modern surgery."
+  },
+  {
+    "id": 989,
+    "fact": "Ragusa’s success as a small, independent state was a diplomatic masterpiece of balance and negotiation."
+  },
+  {
+    "id": 990,
+    "fact": "Persian windmills proved that even in challenging landscapes, human innovation could solve key energy issues."
+  },
+  {
+    "id": 991,
+    "fact": "Samurai culture is an example of the perfect balance between martial skill and a commitment to refined artistry."
+  },
+  {
+    "id": 992,
+    "fact": "Galileo’s research challenged the old ways of thinking, pushing humanity toward a more science-based worldview."
+  },
+  {
+    "id": 993,
+    "fact": "Mutapa’s gold was the heartbeat of southern African trade, connecting inland wealth with coastal merchant networks."
+  },
+  {
+    "id": 994,
+    "fact": "Alexander the Great’s engineering skills were just as central to his conquests as his tactical genius on the battlefield."
+  },
+  {
+    "id": 995,
+    "fact": "Timbuktu’s manuscripts are a unique legacy of an era when African cities were the world's scholarly leaders."
+  },
+  {
+    "id": 996,
+    "fact": "The Hittite-Egyptian treaty is a reminder that even the strongest empires find that peace is better than war."
+  },
+  {
+    "id": 997,
+    "fact": "The stirrup was the catalyst for the development of knightly culture, as it enabled the use of heavy shock weaponry."
+  },
+  {
+    "id": 998,
+    "fact": "Axum was a vibrant, multi-cultural center that grew because it sat at the crossroads of three different continents."
+  },
+  {
+    "id": 999,
+    "fact": "Roman roads were the essential infrastructure that held a massive, diverse empire together for hundreds of years."
+  },
+  {
+    "id": 1000,
+    "fact": "Viking sagas are a blend of history and myth, capturing the adventurous spirit of a culture that explored the world."
+  }
+]

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'theme_controller.dart';
 
-import '../features/fact_feed/presentation/fact_feed_screen.dart';
+import 'app_router.dart';
 
 class FactReelApp extends StatefulWidget {
   const FactReelApp({super.key});
@@ -56,7 +56,7 @@ class _FactReelAppState extends State<FactReelApp> {
           debugShowCheckedModeBanner: false,
           title: 'FactReel – Did You Know?',
           theme: theme,
-          home: const FactFeedScreen(),
+          home: const AppRouter(),
         );
       },
     );
