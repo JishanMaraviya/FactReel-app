@@ -10,8 +10,11 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-FFCA28?style=for-the-badge&logo=google&logoColor=black)
 
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-MVC-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 </div>
@@ -40,6 +43,7 @@
 | Layer                         | Technology                                             |
 |--------------------------------|---------------------------------------------------------|
 | Framework                     | Flutter & Dart                                         |
+| Architecture & State Mgmt     | MVC Pattern (Routing, State, DI)                       |
 | UI / Styling                  | `google_fonts`, `cupertino_icons`, `flutter_svg`       |
 | State & Storage               | `shared_preferences`                                   |
 | Sharing Functionality         | `share_plus`                                           |
@@ -89,7 +93,7 @@ lib/
   </tr>
 </table>
 
-> 💡 **Note:** Screenshots are loaded from the `assets/screenshots/` folder in this repository. Ensure the folder is committed for images to render correctly on GitHub.
+> 💡 **Note:** Screenshots are loaded from the `assets/screenshots/` folder in this repository. Ensure the folder is committed at the repo root for images to render correctly on GitHub.
 
 ---
 
@@ -97,7 +101,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/your-username/factscroll.git
    cd factscroll
    ```
 
@@ -124,7 +128,7 @@ lib/
 
 <div align="center">
 
-### 🧠 Keep Learning with FactReel
+### 💜 Built with passion using Flutter
 
 **FactReel** — *Scroll through knowledge.*
 
