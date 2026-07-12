@@ -10,7 +10,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-FFCA28?style=for-the-badge&logo=google&logoColor=black)
 
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue?style=flat-square)
@@ -43,9 +43,9 @@
 | Layer                         | Technology                                             |
 |--------------------------------|---------------------------------------------------------|
 | Framework                     | Flutter & Dart                                         |
-| Architecture & State Mgmt     | MVC Pattern (Routing, State, DI)                       |
+| Architecture & State Mgmt     | Riverpod (State Management & DI)                       |
 | UI / Styling                  | `google_fonts`, `cupertino_icons`, `flutter_svg`       |
-| State & Storage               | `shared_preferences`                                   |
+| Local Storage                 | `shared_preferences`                                   |
 | Sharing Functionality         | `share_plus`                                           |
 
 ---
@@ -62,8 +62,10 @@ lib/
 │
 ├── features/
 │   ├── fact_feed/                # Fact scrolling feed & cards
-│   │   └── presentation/
-│   │       └── widgets/
+│   │   ├── presentation/
+│   │   │   ├── providers/        # Riverpod providers (e.g., feed_provider.dart)
+│   │   │   └── widgets/
+│   │   └── data/                 # Data services (fact_service.dart)
 │   │
 │   └── onboarding/               # Onboarding and category selection screens
 │       └── presentation/

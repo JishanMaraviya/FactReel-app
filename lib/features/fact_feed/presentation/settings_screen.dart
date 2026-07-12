@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:share_plus/share_plus.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../app/theme_controller.dart';
 
-class SettingsScreen extends StatelessWidget {
+class SettingsScreen extends ConsumerWidget {
   const SettingsScreen({
     super.key,
     required this.darkModeEnabled,
@@ -161,7 +162,8 @@ class SettingsScreen extends StatelessWidget {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
+    final isDark = ref.watch(themeProvider);
     final safeTop = MediaQuery.of(context).padding.top;
     return ListView(
       padding: EdgeInsets.fromLTRB(20, safeTop + 80, 20, 20),
@@ -178,8 +180,8 @@ class SettingsScreen extends StatelessWidget {
             'Toggle dark theme',
             style: GoogleFonts.dmSans(color: const Color(0xFF888888)),
           ),
-          value: ThemeController.instance.value,
-          onChanged: (v) => ThemeController.instance.setDark(v),
+          value: isDark,
+          onChanged: (v) => ref.read(themeProvider.notifier).setDark(v),
         ),
         const SizedBox(height: 8),
         ListTile(

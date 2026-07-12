@@ -1,22 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'theme_controller.dart';
 
 import 'app_router.dart';
 
-class FactReelApp extends StatefulWidget {
+class FactReelApp extends ConsumerWidget {
   const FactReelApp({super.key});
-
-  @override
-  State<FactReelApp> createState() => _FactReelAppState();
-}
-
-class _FactReelAppState extends State<FactReelApp> {
-  @override
-  void initState() {
-    super.initState();
-    ThemeController.instance.load();
-  }
 
   static const Color offWhite = Color(0xFFF7F5F2);
   static const Color ink = Color(0xFF111111);
@@ -24,12 +14,10 @@ class _FactReelAppState extends State<FactReelApp> {
   static const Color accent2 = Color(0xFFF5A623);
 
   @override
-  Widget build(BuildContext context) {
-    return ValueListenableBuilder<bool>(
-      valueListenable: ThemeController.instance,
-      builder: (context, dark, child) {
-        final brightness = dark ? Brightness.dark : Brightness.light;
-        final baseTheme = ThemeData(
+  Widget build(BuildContext context, WidgetRef ref) {
+    final dark = ref.watch(themeProvider);
+    final brightness = dark ? Brightness.dark : Brightness.light;
+    final baseTheme = ThemeData(
           useMaterial3: true,
           brightness: brightness,
           scaffoldBackgroundColor: dark ? ink : offWhite,
@@ -58,7 +46,5 @@ class _FactReelAppState extends State<FactReelApp> {
           theme: theme,
           home: const AppRouter(),
         );
-      },
-    );
   }
 }

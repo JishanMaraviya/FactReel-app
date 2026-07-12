@@ -1,18 +1,24 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-class ThemeController extends ValueNotifier<bool> {
-  ThemeController._(bool value) : super(value);
+final themeProvider = NotifierProvider<ThemeController, bool>(() {
+  return ThemeController();
+});
 
-  static final ThemeController instance = ThemeController._(false);
+class ThemeController extends Notifier<bool> {
+  @override
+  bool build() {
+    _load();
+    return false;
+  }
 
-  Future<void> load() async {
+  Future<void> _load() async {
     final prefs = await SharedPreferences.getInstance();
-    value = prefs.getBool('factreel_dark') ?? false;
+    state = prefs.getBool('factreel_dark') ?? false;
   }
 
   Future<void> setDark(bool dark) async {
-    value = dark;
+    state = dark;
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('factreel_dark', dark);
   }

@@ -6,11 +6,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../../../app/theme_controller.dart';
-import '../../fact_feed/data/fact_service.dart';
 import '../models/fact_card_state.dart';
+import 'providers/feed_provider.dart';
 import 'widgets/fact_card.dart';
 import 'widgets/fact_error_card.dart';
 import 'widgets/fact_install_banner.dart';
@@ -18,47 +19,35 @@ import 'widgets/fact_skeleton_card.dart';
 import 'liked_screen.dart';
 import 'settings_screen.dart';
 
-class FactFeedScreen extends StatefulWidget {
+class FactFeedScreen extends ConsumerStatefulWidget {
   const FactFeedScreen({super.key});
 
   @override
-  State<FactFeedScreen> createState() => _FactFeedScreenState();
+  ConsumerState<FactFeedScreen> createState() => _FactFeedScreenState();
 }
 
-class _FactFeedScreenState extends State<FactFeedScreen> {
-  static const int _initialBatchSize = 10;
-  static const int _nextBatchSize = 5;
-
-  final FactService _factService = FactService();
+class _FactFeedScreenState extends ConsumerState<FactFeedScreen> {
   final PageController _pageController = PageController();
-  final List<FactCardState> _items = <FactCardState>[];
-  final Set<String> _seenIds = <String>{};
 
   int _currentTab = 0;
-  final Set<String> _likedIds = <String>{};
-  final Set<String> _sessionViewedIds = <String>{};
-
-  String _language = 'en';
-  bool _loadingMore = false;
   bool _showScrollHint = true;
   double _progress = 0;
-  int _factCounter = 0;
-  int _dailyStreak = 0;
-  int _factsReadTotal = 0;
-  int _goalCompletedToday = 0;
-  static const int _dailyGoal = 50;
-  int _translationToken = 0;
-  final Map<String, String> _translationCache = <String, String>{};
   String? _toastMessage;
   Timer? _toastTimer;
   Timer? _installTimer;
   bool _showInstallBanner = false;
-  String _currentCategory = 'science';
 
   @override
   void initState() {
     super.initState();
-    _bootstrap();
+    Future.microtask(() => ref.read(feedProvider.notifier).bootstrap());
+    if (kIsWeb) {
+      _installTimer = Timer(const Duration(seconds: 4), () {
+        if (mounted) {
+          setState(() => _showInstallBanner = true);
+        }
+      });
+    }
   }
 
   @override
@@ -67,320 +56,6 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
     _toastTimer?.cancel();
     _installTimer?.cancel();
     super.dispose();
-  }
-
-  Future<void> _bootstrap() async {
-    final prefs = await SharedPreferences.getInstance();
-    _language = prefs.getString('factreel_lang') ?? 'en';
-    _currentCategory = prefs.getString('factreel_category') ?? 'science';
-    final likedList = prefs.getStringList('factreel_liked') ?? <String>[];
-    _likedIds.addAll(likedList);
-    _factsReadTotal = prefs.getInt('factreel_facts_read_total') ??
-        (prefs.getStringList('factreel_viewed_ids')?.length ?? 0);
-
-    final today = _todayKey();
-    final savedStreak = prefs.getInt('factreel_streak_days') ?? 0;
-
-    final lastStreakDateStr = prefs.getString('factreel_last_streak_date');
-    final lastStreakDate = _parseDate(lastStreakDateStr);
-
-    if (lastStreakDate != null && today.difference(lastStreakDate).inDays > 1) {
-      _dailyStreak = 0;
-      await prefs.setInt('factreel_streak_days', 0);
-    } else {
-      _dailyStreak = savedStreak;
-    }
-
-    final goalDate = prefs.getString('factreel_goal_date');
-    if (goalDate == today.toIso8601String()) {
-      _goalCompletedToday = prefs.getInt('factreel_goal_completed_today') ?? 0;
-      if (_goalCompletedToday > _dailyGoal) {
-        _goalCompletedToday = _dailyGoal;
-      }
-    } else {
-      _goalCompletedToday = 0;
-      await prefs.setString('factreel_goal_date', today.toIso8601String());
-      await prefs.setInt('factreel_goal_completed_today', 0);
-    }
-
-    if (!mounted) {
-      return;
-    }
-
-    setState(() {
-      if (kIsWeb) {
-        _installTimer = Timer(const Duration(seconds: 4), () {
-          if (mounted) {
-            setState(() => _showInstallBanner = true);
-          }
-        });
-      }
-    });
-
-    await _factService.loadFacts(_currentCategory);
-    _loadBatch(count: _initialBatchSize);
-    if (_items.isNotEmpty && _items.first.status == FactCardStatus.loaded) {
-      await _markFactViewed(_items.first);
-    }
-  }
-
-  Future<void> _reloadForCategory(String newCategory) async {
-    if (newCategory == _currentCategory) return;
-    _currentCategory = newCategory;
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('factreel_category', newCategory);
-    await _factService.loadFacts(newCategory);
-    if (!mounted) return;
-    setState(() {
-      _items.clear();
-      _factCounter = 0;
-      _seenIds.clear();
-      _loadingMore = false;
-      _progress = 0;
-      _showScrollHint = true;
-    });
-    if (_pageController.hasClients) {
-      _pageController.jumpToPage(0);
-    }
-    _loadBatch(count: _initialBatchSize);
-    if (_items.isNotEmpty && _items.first.status == FactCardStatus.loaded) {
-      await _markFactViewed(_items.first);
-    }
-  }
-
-  DateTime _todayKey() {
-    final now = DateTime.now();
-    return DateTime(now.year, now.month, now.day);
-  }
-
-  DateTime? _parseDate(String? value) {
-    if (value == null || value.isEmpty) {
-      return null;
-    }
-    try {
-      final parsed = DateTime.parse(value);
-      return DateTime(parsed.year, parsed.month, parsed.day);
-    } catch (_) {
-      return null;
-    }
-  }
-
-  Future<void> _persistLikesAndSaves() async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setStringList('factreel_liked', _likedIds.toList());
-  }
-
-  Future<void> _persistUsageStats() async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setInt('factreel_facts_read_total', _factsReadTotal);
-    await prefs.setInt('factreel_streak_days', _dailyStreak);
-    await prefs.setInt('factreel_goal_completed_today', _goalCompletedToday);
-    await prefs.setString('factreel_goal_date', _todayKey().toIso8601String());
-  }
-
-  Future<void> _markFactViewed(FactCardState item) async {
-    if (item.status != FactCardStatus.loaded || _sessionViewedIds.contains(item.id)) {
-      return;
-    }
-
-    bool goalReachedThisTime = false;
-    setState(() {
-      _sessionViewedIds.add(item.id);
-      _factsReadTotal = _factsReadTotal + 1;
-      if (_goalCompletedToday < _dailyGoal) {
-        _goalCompletedToday = _goalCompletedToday + 1;
-        if (_goalCompletedToday == _dailyGoal) {
-          goalReachedThisTime = true;
-        }
-      }
-    });
-
-    if (goalReachedThisTime) {
-      final prefs = await SharedPreferences.getInstance();
-      final now = _todayKey();
-      final lastStreakDateStr = prefs.getString('factreel_last_streak_date');
-      final lastStreakDate = _parseDate(lastStreakDateStr);
-      
-      if (lastStreakDate == null || now.difference(lastStreakDate).inDays > 0) {
-        setState(() {
-          _dailyStreak += 1;
-        });
-        await prefs.setInt('factreel_streak_days', _dailyStreak);
-        await prefs.setString('factreel_last_streak_date', now.toIso8601String());
-      }
-    }
-
-    await _persistUsageStats();
-  }
-
-  void _toggleLikeAt(int index) {
-    if (index < 0 || index >= _items.length) return;
-    final current = _items[index];
-    final newState = current.copyWith(liked: !current.liked);
-    setState(() {
-      _items[index] = newState;
-      if (newState.liked) {
-        _likedIds.add(newState.id);
-      } else {
-        _likedIds.remove(newState.id);
-      }
-    });
-    _persistLikesAndSaves();
-  }
-
-  Future<void> _setLanguage(String language) async {
-    if (_language == language) {
-      return;
-    }
-
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString('factreel_lang', language);
-
-    setState(() {
-      _language = language;
-      _translationToken += 1;
-    });
-
-    if (language == 'en') {
-      // Clear translations so raw English is shown immediately
-      setState(() {
-        for (var index = 0; index < _items.length; index += 1) {
-          final item = _items[index];
-          if (item.status == FactCardStatus.loaded) {
-            _items[index] = item.copyWith(
-              translatedText: null,
-              translating: false,
-            );
-          }
-        }
-      });
-      return;
-    }
-
-    // Hindi selected — translate all currently loaded facts
-    final token = _translationToken;
-    final loadedIndexes = <int>[];
-    for (var index = 0; index < _items.length; index += 1) {
-      if (_items[index].status == FactCardStatus.loaded) {
-        loadedIndexes.add(index);
-      }
-    }
-
-    setState(() {
-      for (final index in loadedIndexes) {
-        _items[index] = _items[index].copyWith(translating: true);
-      }
-    });
-
-    for (final index in loadedIndexes) {
-      if (!mounted || token != _translationToken || _language != 'hi') {
-        return;
-      }
-
-      final item = _items[index];
-      final rawText = item.rawText;
-      if (rawText == null) continue;
-
-      final cached = _translationCache[item.id];
-      final translated =
-          cached ?? await _factService.translateToHindi(rawText);
-      if (cached == null) _translationCache[item.id] = translated;
-
-      if (!mounted || token != _translationToken || _language != 'hi') {
-        return;
-      }
-
-      setState(() {
-        _items[index] = _items[index].copyWith(
-          translatedText: translated,
-          translating: false,
-        );
-      });
-    }
-  }
-
-  void _loadBatch({required int count}) {
-    if (_loadingMore || !_factService.isLoaded) {
-      return;
-    }
-
-    _loadingMore = true;
-
-    final newItems = <FactCardState>[];
-    for (var index = 0; index < count; index += 1) {
-      final fact = _factService.getNextFact(seenIds: _seenIds);
-      _factCounter += 1;
-      _seenIds.add(fact.id);
-      final liked = _likedIds.contains(fact.id);
-      newItems.add(
-        FactCardState(
-          id: fact.id,
-          status: FactCardStatus.loaded,
-          number: _factCounter,
-          rawText: fact.text,
-          liked: liked,
-        ),
-      );
-    }
-
-    setState(() => _items.addAll(newItems));
-    _loadingMore = false;
-
-    // Translate batch if Hindi is active
-    if (_language == 'hi') {
-      _translateItems(newItems.map((e) => _items.indexOf(e)).toList());
-    }
-  }
-
-  /// Translates items at the given indexes to Hindi, using cache where possible.
-  Future<void> _translateItems(List<int> indexes) async {
-    final token = _translationToken;
-    for (final index in indexes) {
-      if (!mounted || token != _translationToken || _language != 'hi') return;
-      if (index < 0 || index >= _items.length) continue;
-      final item = _items[index];
-      if (item.status != FactCardStatus.loaded || item.rawText == null) continue;
-
-      // Mark as translating
-      setState(() {
-        _items[index] = item.copyWith(translating: true);
-      });
-
-      final cached = _translationCache[item.id];
-      final translated =
-          cached ?? await _factService.translateToHindi(item.rawText!);
-      if (cached == null) _translationCache[item.id] = translated;
-
-      if (!mounted || token != _translationToken || _language != 'hi') return;
-
-      setState(() {
-        if (index < _items.length) {
-          _items[index] = _items[index].copyWith(
-            translatedText: translated,
-            translating: false,
-          );
-        }
-      });
-    }
-  }
-
-  void _retryCard(int index) {
-    if (!_factService.isLoaded) return;
-    final fact = _factService.getNextFact(seenIds: _seenIds);
-    _factCounter += 1;
-    _seenIds.add(fact.id);
-    setState(() {
-      _items[index] = FactCardState(
-        id: fact.id,
-        status: FactCardStatus.loaded,
-        number: _factCounter,
-        rawText: fact.text,
-      );
-    });
-    // Translate if Hindi is active
-    if (_language == 'hi') {
-      _translateItems([index]);
-    }
   }
 
   void _showToast(String message) {
@@ -412,14 +87,16 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
     }
 
     final currentPage = (_pageController.page ?? 0).round();
-    if (currentPage >= _items.length - 2) {
-      _loadBatch(count: _nextBatchSize);
+    final feedState = ref.read(feedProvider);
+    if (currentPage >= feedState.items.length - 2) {
+      ref.read(feedProvider.notifier).loadBatch(count: FeedNotifier.nextBatchSize);
     }
   }
 
   @override
   Widget build(BuildContext context) {
-    final isDark = Theme.of(context).brightness == Brightness.dark;
+    final isDark = ref.watch(themeProvider);
+    final feedState = ref.watch(feedProvider);
     Widget tabContent;
     if (_currentTab == 0) {
       tabContent = LayoutBuilder(
@@ -434,34 +111,28 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
               controller: _pageController,
               scrollDirection: Axis.vertical,
               physics: const PageScrollPhysics(),
-              itemCount: _items.length,
+              itemCount: feedState.items.length,
               onPageChanged: (page) {
                 _updateProgress();
-                if (page >= 0 && page < _items.length) {
-                  unawaited(_markFactViewed(_items[page]));
+                if (page >= 0 && page < feedState.items.length) {
+                  unawaited(ref.read(feedProvider.notifier).markFactViewed(feedState.items[page].id));
                 }
               },
               itemBuilder: (context, index) {
-                final item = _items[index];
+                final item = feedState.items[index];
                 return _FeedPage(
                   index: index,
                   compact: compact,
-                  language: _language,
+                  language: feedState.language,
                   item: item,
-                  onRetry: () => _retryCard(index),
+                  onRetry: () => ref.read(feedProvider.notifier).retryCard(index),
                   onCopy: (text) async {
                     await Clipboard.setData(ClipboardData(text: text));
-                    setState(() {
-                      _items[index] = _items[index].copyWith(copied: true);
-                    });
+                    ref.read(feedProvider.notifier).setItemCopied(index, true);
                     _showToast('Copied to clipboard!');
                     Future<void>.delayed(const Duration(seconds: 2), () {
-                      if (mounted && index < _items.length) {
-                        setState(() {
-                          _items[index] = _items[index].copyWith(
-                            copied: false,
-                          );
-                        });
+                      if (mounted && index < ref.read(feedProvider).items.length) {
+                        ref.read(feedProvider.notifier).setItemCopied(index, false);
                       }
                     });
                   },
@@ -473,7 +144,7 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
                       ),
                     );
                   },
-                  onLike: () => _toggleLikeAt(index),
+                  onLike: () => ref.read(feedProvider.notifier).toggleLikeAt(index),
                 );
               },
             ),
@@ -482,20 +153,17 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
       );
     } else if (_currentTab == 1) {
       tabContent = LikedScreen(
-        items: _items
+        items: feedState.items
             .where((i) => i.liked && i.status == FactCardStatus.loaded)
             .toList(),
-        onRemove: (id) {
-          final index = _items.indexWhere((e) => e.id == id);
-          if (index != -1) _toggleLikeAt(index);
-        },
+        onRemove: (id) => ref.read(feedProvider.notifier).removeLikeById(id),
       );
     } else {
       tabContent = SettingsScreen(
         darkModeEnabled: isDark,
-        onToggleDarkMode: (enabled) => ThemeController.instance.setDark(enabled),
-        currentCategory: _currentCategory,
-        onCategoryChanged: _reloadForCategory,
+        onToggleDarkMode: (enabled) => ref.read(themeProvider.notifier).setDark(enabled),
+        currentCategory: feedState.currentCategory,
+        onCategoryChanged: (cat) => ref.read(feedProvider.notifier).reloadForCategory(cat),
       );
     }
 
@@ -511,16 +179,16 @@ class _FactFeedScreenState extends State<FactFeedScreen> {
             tabContent,
             _TopBar(
               safeTop: MediaQuery.of(context).padding.top,
-              language: _language,
-              onLanguageSelected: _setLanguage,
+              language: feedState.language,
+              onLanguageSelected: (lang) => ref.read(feedProvider.notifier).setLanguage(lang),
             ),
             if (_currentTab == 0) ...[
               _StatsStrip(
                 safeTop: MediaQuery.of(context).padding.top,
-                dailyStreak: _dailyStreak,
-                factsRead: _factsReadTotal,
-                goalCompletedToday: _goalCompletedToday,
-                dailyGoal: _dailyGoal,
+                dailyStreak: feedState.dailyStreak,
+                factsRead: feedState.factsReadTotal,
+                goalCompletedToday: feedState.goalCompletedToday,
+                dailyGoal: FeedNotifier.dailyGoal,
               ),
               _ProgressBar(progress: _progress),
               _ScrollHint(visible: _showScrollHint),

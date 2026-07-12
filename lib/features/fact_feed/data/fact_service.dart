@@ -3,6 +3,11 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+
+final factServiceProvider = Provider<FactService>((ref) {
+  return FactService();
+});
 
 class FactData {
   const FactData({required this.id, required this.text});
